@@ -151,3 +151,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 03:20:53,btc_nupl,parquet,guardado
 2025-07-15 03:20:57,btc_sopr,csv,guardado
 2025-07-15 03:21:00,btc_sopr,xlsx,guardado
+2025-07-15 03:21:02,btc_sopr,parquet,guardado
