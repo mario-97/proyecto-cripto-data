@@ -25,3 +25,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 01:45:26,transfers,parquet,guardado
 2025-07-15 02:05:24,transfers,csv,guardado
 2025-07-15 02:05:29,transfers,xlsx,guardado
+2025-07-15 02:05:32,transfers,parquet,guardado
