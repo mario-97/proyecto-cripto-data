@@ -1,0 +1,14 @@
+fecha_hora,archivo,formato,status
+2025-07-14 04:54:50,transfers,csv,guardado
+2025-07-14 04:54:52,transfers,xlsx,guardado
+2025-07-14 04:54:52,transfers,parquet,guardado
+2025-07-14 05:10:31,transfers,csv,guardado
+2025-07-14 05:10:32,transfers,xlsx,guardado
+2025-07-14 05:10:32,transfers,parquet,guardado
+2025-07-14 05:39:16,transfers,csv,error
+2025-07-14 05:39:20,transfers,xlsx,error
+2025-07-14 05:39:22,transfers,parquet,error
+2025-07-14 05:48:36,transfers,csv,error
+2025-07-14 05:48:40,transfers,xlsx,error
+2025-07-14 05:48:42,transfers,parquet,error
+2025-07-15 01:20:10,ejemplo.csv,csv,error
