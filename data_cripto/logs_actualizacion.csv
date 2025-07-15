@@ -14,3 +14,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 01:20:10,ejemplo.csv,csv,error
 2025-07-15 01:20:11,ejemplo.csv,xlsx,error
 2025-07-15 01:20:12,ejemplo.csv,parquet,error
+2025-07-15 01:21:52,transfers.xlsx,csv,error
