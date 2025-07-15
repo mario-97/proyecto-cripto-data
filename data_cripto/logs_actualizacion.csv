@@ -171,3 +171,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 03:22:12,btc_hashrate,xlsx,guardado
 2025-07-15 03:22:15,btc_hashrate,parquet,guardado
 2025-07-15 03:22:27,btc_price,csv,guardado
+2025-07-15 03:22:30,btc_price,xlsx,guardado
