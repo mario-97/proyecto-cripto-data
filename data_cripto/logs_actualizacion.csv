@@ -188,3 +188,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 03:23:10,btc_hashrate,csv,guardado
 2025-07-15 03:23:13,btc_hashrate,xlsx,guardado
 2025-07-15 03:23:16,btc_hashrate,parquet,guardado
+2025-07-15 03:24:17,top_flow,csv,guardado
