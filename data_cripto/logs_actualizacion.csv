@@ -169,3 +169,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 03:22:05,btc_sopr,parquet,guardado
 2025-07-15 03:22:09,btc_hashrate,csv,guardado
 2025-07-15 03:22:12,btc_hashrate,xlsx,guardado
+2025-07-15 03:22:15,btc_hashrate,parquet,guardado
