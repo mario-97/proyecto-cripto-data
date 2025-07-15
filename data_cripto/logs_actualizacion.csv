@@ -179,3 +179,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 03:22:41,top_holders,parquet,guardado
 2025-07-15 03:22:41,btc_mvrvz,xlsx,error
 2025-07-15 03:22:44,btc_mvrvz,parquet,guardado
+2025-07-15 03:22:49,btc_nupl,csv,guardado
