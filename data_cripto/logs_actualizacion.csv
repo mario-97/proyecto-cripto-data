@@ -19,3 +19,4 @@ fecha_hora,archivo,formato,status
 2025-07-15 01:21:54,transfers.xlsx,parquet,error
 2025-07-15 01:35:34,transfers,csv,guardado
 2025-07-15 01:35:38,transfers,xlsx,guardado
+2025-07-15 01:35:41,transfers,parquet,guardado
