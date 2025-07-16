@@ -529,3 +529,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 22:40:26,btc_hashrate,csv,guardado
 2025-07-16 22:40:31,btc_hashrate,xlsx,guardado
 2025-07-16 22:40:33,btc_hashrate,parquet,guardado
+2025-07-16 22:41:00,top_flow,csv,guardado
