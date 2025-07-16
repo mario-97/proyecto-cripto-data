@@ -442,3 +442,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 01:12:38,top_volume,parquet,guardado
 2025-07-16 01:14:01,top_holders,csv,guardado
 2025-07-16 01:14:06,top_holders,xlsx,guardado
+2025-07-16 01:14:10,top_holders,parquet,guardado
