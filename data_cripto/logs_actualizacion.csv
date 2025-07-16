@@ -535,3 +535,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 01:32:42,btc_sopr,parquet,guardado
 2025-07-16 01:32:49,btc_hashrate,csv,guardado
 2025-07-16 01:32:53,btc_hashrate,xlsx,guardado
+2025-07-16 01:32:57,btc_hashrate,parquet,guardado
