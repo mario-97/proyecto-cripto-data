@@ -240,3 +240,5 @@ fecha_hora,archivo,formato,status
 2025-07-16 06:55:28,btc_nupl,xlsx,guardado
 2025-07-16 06:55:28,top_holders,csv,error
 2025-07-16 06:55:30,btc_nupl,parquet,guardado
+2025-07-16 06:55:35,btc_sopr,csv,guardado
+2025-07-16 06:55:35,top_holders,xlsx,error
