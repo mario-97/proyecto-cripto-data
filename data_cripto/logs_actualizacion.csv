@@ -523,3 +523,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 22:40:08,btc_nupl,csv,guardado
 2025-07-16 22:40:12,btc_nupl,xlsx,guardado
 2025-07-16 22:40:13,btc_nupl,parquet,guardado
+2025-07-16 22:40:16,btc_sopr,csv,guardado
