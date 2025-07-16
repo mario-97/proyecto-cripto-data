@@ -379,3 +379,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 00:59:08,top_holders,xlsx,guardado
 2025-07-16 00:59:09,transfers,xlsx,error
 2025-07-16 00:59:11,top_holders,parquet,guardado
+2025-07-16 00:59:13,transfers,parquet,guardado
