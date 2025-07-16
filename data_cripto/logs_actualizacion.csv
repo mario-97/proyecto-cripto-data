@@ -648,3 +648,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 02:02:25,top_holders,xlsx,guardado
 2025-07-16 02:02:28,top_holders,parquet,guardado
 2025-07-16 02:03:30,top_flow,csv,guardado
+2025-07-16 02:03:33,top_flow,xlsx,guardado
