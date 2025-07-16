@@ -720,3 +720,4 @@ fecha_hora,archivo,formato,status
 2025-07-16 23:23:14,top_volume,parquet,guardado
 2025-07-16 23:24:13,transfers,csv,guardado
 2025-07-16 23:24:30,transfers,xlsx,guardado
+2025-07-16 23:24:32,transfers,parquet,guardado
