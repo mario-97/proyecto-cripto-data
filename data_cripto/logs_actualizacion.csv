@@ -1013,3 +1013,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 20:30:30,top_holders,parquet,guardado
 2025-07-17 20:30:31,btc_nupl,xlsx,guardado
 2025-07-17 20:30:32,btc_nupl,parquet,guardado
+2025-07-17 20:30:35,btc_sopr,csv,guardado
