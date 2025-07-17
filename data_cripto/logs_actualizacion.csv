@@ -452,3 +452,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 03:56:39,transfers,csv,error
 2025-07-17 03:56:56,transfers,xlsx,guardado
 2025-07-17 03:56:58,transfers,parquet,guardado
+2025-07-17 03:57:45,top_holders,csv,guardado
