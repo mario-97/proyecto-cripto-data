@@ -223,3 +223,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 03:07:55,top_flow,xlsx,guardado
 2025-07-17 03:07:56,transfers,xlsx,error
 2025-07-17 03:07:56,top_flow,parquet,guardado
+2025-07-17 03:07:58,transfers,parquet,guardado
