@@ -800,3 +800,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 05:12:59,btc_nupl,csv,guardado
 2025-07-17 05:13:04,btc_nupl,xlsx,guardado
 2025-07-17 05:13:06,btc_nupl,parquet,guardado
+2025-07-17 05:13:09,btc_sopr,csv,guardado
