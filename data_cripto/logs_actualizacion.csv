@@ -133,3 +133,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 00:54:08,trending,parquet,guardado
 2025-07-17 00:54:11,top_volume,csv,guardado
 2025-07-17 00:54:12,top_volume,xlsx,guardado
+2025-07-17 00:54:13,top_volume,parquet,guardado
