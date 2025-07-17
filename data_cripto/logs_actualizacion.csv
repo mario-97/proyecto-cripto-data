@@ -215,3 +215,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 21:35:40,top_holders,csv,guardado
 2025-07-17 21:35:50,top_holders,xlsx,guardado
 2025-07-17 21:35:52,top_holders,parquet,guardado
+2025-07-17 21:36:53,transfers,csv,guardado
