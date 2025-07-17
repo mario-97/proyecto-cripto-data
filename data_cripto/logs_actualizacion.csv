@@ -740,3 +740,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 19:30:16,btc_mvrvz,csv,guardado
 2025-07-17 19:30:20,btc_mvrvz,xlsx,guardado
 2025-07-17 19:30:22,btc_mvrvz,parquet,guardado
+2025-07-17 19:30:24,top_holders,csv,guardado
