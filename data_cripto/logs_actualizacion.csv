@@ -179,3 +179,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 21:27:22,transfers,csv,guardado
 2025-07-17 21:27:38,transfers,xlsx,guardado
 2025-07-17 21:27:41,transfers,parquet,guardado
+2025-07-17 21:28:08,top_flow,csv,guardado
