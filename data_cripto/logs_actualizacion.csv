@@ -222,3 +222,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 22:55:29,transfers,xlsx,guardado
 2025-07-17 22:55:31,transfers,parquet,guardado
 2025-07-17 22:55:33,top_flow,csv,guardado
+2025-07-17 22:55:35,top_flow,xlsx,guardado
