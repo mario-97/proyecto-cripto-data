@@ -360,3 +360,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 01:44:08,top_holders,xlsx,guardado
 2025-07-17 01:44:11,top_holders,parquet,guardado
 2025-07-17 01:45:06,top_flow,csv,guardado
+2025-07-17 01:45:08,top_flow,xlsx,guardado
