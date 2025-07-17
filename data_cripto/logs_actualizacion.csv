@@ -518,3 +518,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 04:12:36,btc_price,csv,guardado
 2025-07-17 04:12:41,btc_price,xlsx,guardado
 2025-07-17 04:12:42,btc_price,parquet,guardado
+2025-07-17 04:12:44,top_holders,csv,guardado
