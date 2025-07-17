@@ -900,3 +900,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 20:06:28,top_holders,xlsx,guardado
 2025-07-17 20:06:31,top_holders,parquet,guardado
 2025-07-17 20:06:59,transfers,csv,guardado
+2025-07-17 20:07:14,transfers,xlsx,guardado
