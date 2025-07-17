@@ -310,3 +310,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 03:23:12,top_volume,parquet,guardado
 2025-07-17 03:24:46,top_holders,csv,guardado
 2025-07-17 03:24:53,top_holders,xlsx,guardado
+2025-07-17 03:24:55,top_holders,parquet,guardado
