@@ -806,3 +806,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 05:13:20,btc_hashrate,csv,guardado
 2025-07-17 05:13:25,btc_hashrate,xlsx,guardado
 2025-07-17 05:13:27,btc_hashrate,parquet,guardado
+2025-07-17 05:14:20,top_flow,csv,guardado
