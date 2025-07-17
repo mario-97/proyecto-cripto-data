@@ -233,3 +233,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 17:30:45,top_holders,parquet,guardado
 2025-07-17 17:30:49,btc_hashrate,xlsx,guardado
 2025-07-17 17:30:50,btc_hashrate,parquet,guardado
+2025-07-17 17:31:55,top_flow,csv,guardado
