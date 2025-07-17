@@ -320,3 +320,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 01:35:02,top_holders,csv,guardado
 2025-07-17 01:35:10,top_holders,xlsx,guardado
 2025-07-17 01:35:12,top_holders,parquet,guardado
+2025-07-17 01:35:37,transfers,csv,guardado
