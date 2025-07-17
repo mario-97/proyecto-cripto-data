@@ -985,3 +985,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 20:26:01,top_flow,parquet,guardado
 2025-07-17 20:26:03,trending,csv,guardado
 2025-07-17 20:26:04,trending,xlsx,guardado
+2025-07-17 20:26:06,trending,parquet,guardado
