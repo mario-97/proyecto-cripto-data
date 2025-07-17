@@ -244,3 +244,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 03:11:01,top_volume,parquet,guardado
 2025-07-17 03:12:37,btc_price,csv,guardado
 2025-07-17 03:12:41,btc_price,xlsx,guardado
+2025-07-17 03:12:42,btc_price,parquet,guardado
