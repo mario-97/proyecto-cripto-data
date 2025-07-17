@@ -805,3 +805,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 05:13:17,btc_sopr,parquet,guardado
 2025-07-17 05:13:20,btc_hashrate,csv,guardado
 2025-07-17 05:13:25,btc_hashrate,xlsx,guardado
+2025-07-17 05:13:27,btc_hashrate,parquet,guardado
