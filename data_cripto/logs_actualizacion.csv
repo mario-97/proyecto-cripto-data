@@ -49,3 +49,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 22:13:40,top_volume,parquet,guardado
 2025-07-17 22:14:42,transfers,csv,guardado
 2025-07-17 22:14:57,transfers,xlsx,guardado
+2025-07-17 22:14:59,transfers,parquet,guardado
