@@ -232,3 +232,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 17:30:44,btc_hashrate,csv,guardado
 2025-07-17 17:30:45,top_holders,parquet,guardado
 2025-07-17 17:30:49,btc_hashrate,xlsx,guardado
+2025-07-17 17:30:50,btc_hashrate,parquet,guardado
