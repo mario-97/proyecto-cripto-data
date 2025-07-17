@@ -1038,3 +1038,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 20:34:58,trending,xlsx,guardado
 2025-07-17 20:35:00,trending,parquet,guardado
 2025-07-17 20:35:02,top_volume,csv,guardado
+2025-07-17 20:35:04,top_volume,xlsx,guardado
