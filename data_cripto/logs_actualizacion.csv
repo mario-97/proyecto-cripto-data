@@ -185,3 +185,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 02:59:00,top_flow,xlsx,guardado
 2025-07-17 02:59:01,top_flow,parquet,guardado
 2025-07-17 02:59:01,transfers,parquet,error
+2025-07-17 02:59:03,trending,csv,guardado
