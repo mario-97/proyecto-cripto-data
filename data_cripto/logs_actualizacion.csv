@@ -358,3 +358,4 @@ fecha_hora,archivo,formato,status
 2025-07-17 01:42:13,top_volume,parquet,guardado
 2025-07-17 01:44:01,top_holders,csv,guardado
 2025-07-17 01:44:08,top_holders,xlsx,guardado
+2025-07-17 01:44:11,top_holders,parquet,guardado
