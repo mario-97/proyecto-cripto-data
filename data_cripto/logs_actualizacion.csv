@@ -1919,3 +1919,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:08:01,tvl_aave,csv,guardado
 2025-07-18 20:08:03,tvl_aave,xlsx,guardado
 2025-07-18 20:08:04,tvl_aave,parquet,error
+2025-07-18 20:08:37,transfers,csv,guardado
