@@ -1967,3 +1967,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:17:27,tvl_aave,csv,guardado
 2025-07-18 20:17:29,tvl_aave,xlsx,guardado
 2025-07-18 20:17:30,tvl_aave,parquet,error
+2025-07-18 20:18:23,top_holders,csv,guardado
