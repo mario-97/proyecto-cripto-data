@@ -808,3 +808,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 04:02:35,tvl_aave,parquet,error
 2025-07-18 04:04:02,top_holders,csv,guardado
 2025-07-18 04:04:10,top_holders,xlsx,guardado
+2025-07-18 04:04:12,top_holders,parquet,guardado
