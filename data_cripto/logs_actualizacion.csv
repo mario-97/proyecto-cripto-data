@@ -645,3 +645,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 00:26:09,top_volume,parquet,guardado
 2025-07-18 00:26:25,transfers,csv,guardado
 2025-07-18 00:26:43,transfers,xlsx,guardado
+2025-07-18 00:26:45,transfers,parquet,guardado
