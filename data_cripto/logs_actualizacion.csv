@@ -1973,3 +1973,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:19:25,transfers,csv,guardado
 2025-07-18 20:19:42,transfers,xlsx,guardado
 2025-07-18 20:19:44,transfers,parquet,guardado
+2025-07-18 20:19:52,top_flow,csv,guardado
