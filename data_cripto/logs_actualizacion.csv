@@ -2019,3 +2019,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:27:41,top_holders,xlsx,guardado
 2025-07-18 20:27:43,top_holders,parquet,guardado
 2025-07-18 20:29:00,transfers,csv,guardado
+2025-07-18 20:29:09,top_flow,csv,guardado
