@@ -1162,3 +1162,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 05:08:34,trending,csv,guardado
 2025-07-18 05:08:34,transfers,parquet,error
 2025-07-18 05:08:36,trending,xlsx,guardado
+2025-07-18 05:08:37,trending,parquet,guardado
