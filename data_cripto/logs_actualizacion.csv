@@ -2026,3 +2026,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:29:19,trending,csv,guardado
 2025-07-18 20:29:20,trending,xlsx,guardado
 2025-07-18 20:29:21,transfers,parquet,guardado
+2025-07-18 20:29:22,trending,parquet,error
