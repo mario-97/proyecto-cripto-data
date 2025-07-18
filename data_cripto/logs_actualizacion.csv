@@ -929,3 +929,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 04:26:44,tvl_aave,csv,guardado
 2025-07-18 04:26:45,tvl_aave,xlsx,guardado
 2025-07-18 04:26:46,tvl_aave,parquet,error
+2025-07-18 04:26:47,transfers,csv,error
