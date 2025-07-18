@@ -549,3 +549,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 15:50:35,tvl_aave,xlsx,guardado
 2025-07-18 15:50:36,tvl_aave,parquet,error
 2025-07-18 15:51:34,top_holders,csv,guardado
+2025-07-18 15:51:40,btc_price,csv,guardado
