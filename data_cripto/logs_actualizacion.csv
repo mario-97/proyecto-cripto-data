@@ -502,3 +502,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:07:19,transfers,csv,guardado
 2025-07-18 03:07:20,top_holders,parquet,guardado
 2025-07-18 03:07:36,transfers,xlsx,guardado
+2025-07-18 03:07:38,transfers,parquet,guardado
