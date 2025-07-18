@@ -1268,3 +1268,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 18:05:28,tvl_aave,csv,guardado
 2025-07-18 18:05:29,tvl_aave,xlsx,guardado
 2025-07-18 18:05:30,tvl_aave,parquet,error
+2025-07-18 18:06:35,top_holders,csv,guardado
