@@ -1035,3 +1035,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 17:23:00,tvl_aave,xlsx,guardado
 2025-07-18 17:23:01,tvl_aave,parquet,error
 2025-07-18 17:24:36,top_holders,csv,guardado
+2025-07-18 17:24:43,top_holders,xlsx,guardado
