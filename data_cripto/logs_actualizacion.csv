@@ -1831,3 +1831,5 @@ fecha_hora,archivo,formato,status
 2025-07-18 19:51:23,btc_price,parquet,guardado
 2025-07-18 19:51:26,btc_mvrvz,csv,guardado
 2025-07-18 19:51:32,btc_mvrvz,xlsx,guardado
+2025-07-18 19:51:32,transfers,csv,error
+2025-07-18 19:51:34,top_holders,csv,guardado
