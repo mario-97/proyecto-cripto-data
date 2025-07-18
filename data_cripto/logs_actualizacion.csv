@@ -611,3 +611,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:28:44,transfers,csv,guardado
 2025-07-18 03:29:00,transfers,xlsx,guardado
 2025-07-18 03:29:03,transfers,parquet,guardado
+2025-07-18 03:29:38,top_flow,csv,guardado
