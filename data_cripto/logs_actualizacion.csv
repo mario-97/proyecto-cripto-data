@@ -193,3 +193,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 14:41:40,top_volume,parquet,guardado
 2025-07-18 14:41:43,tvl_aave,csv,guardado
 2025-07-18 14:41:44,tvl_aave,xlsx,guardado
+2025-07-18 14:41:45,tvl_aave,parquet,error
