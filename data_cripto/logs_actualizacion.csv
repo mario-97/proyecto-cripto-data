@@ -167,3 +167,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 02:05:37,tvl_aave,csv,guardado
 2025-07-18 02:05:39,tvl_aave,xlsx,guardado
 2025-07-18 02:05:39,tvl_aave,parquet,error
+2025-07-18 02:06:36,transfers,csv,guardado
