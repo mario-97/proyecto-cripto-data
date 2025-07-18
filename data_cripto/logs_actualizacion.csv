@@ -1405,3 +1405,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 18:32:03,top_volume,parquet,guardado
 2025-07-18 18:32:05,tvl_aave,csv,guardado
 2025-07-18 18:32:07,tvl_aave,xlsx,guardado
+2025-07-18 18:32:07,tvl_aave,parquet,error
