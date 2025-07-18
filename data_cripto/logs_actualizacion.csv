@@ -2000,3 +2000,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:23:04,tvl_aave,csv,guardado
 2025-07-18 20:23:05,tvl_aave,xlsx,guardado
 2025-07-18 20:23:06,tvl_aave,parquet,error
+2025-07-18 20:24:28,top_holders,csv,guardado
