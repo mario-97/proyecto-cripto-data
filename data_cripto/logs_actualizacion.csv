@@ -1517,3 +1517,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 18:52:04,btc_hashrate,csv,guardado
 2025-07-18 18:52:09,btc_hashrate,xlsx,guardado
 2025-07-18 18:52:10,btc_hashrate,parquet,guardado
+2025-07-18 18:53:06,top_flow,csv,guardado
