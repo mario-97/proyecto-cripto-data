@@ -1548,3 +1548,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 18:57:40,top_holders,xlsx,guardado
 2025-07-18 18:57:42,top_holders,parquet,guardado
 2025-07-18 18:59:11,top_flow,csv,guardado
+2025-07-18 18:59:12,transfers,csv,error
