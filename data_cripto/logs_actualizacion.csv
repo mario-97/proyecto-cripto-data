@@ -1728,3 +1728,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 19:32:12,trending,csv,error
 2025-07-18 19:32:12,transfers,xlsx,guardado
 2025-07-18 19:32:13,trending,xlsx,guardado
+2025-07-18 19:32:14,transfers,parquet,error
