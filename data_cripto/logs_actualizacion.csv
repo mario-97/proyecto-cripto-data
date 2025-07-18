@@ -1838,3 +1838,6 @@ fecha_hora,archivo,formato,status
 2025-07-18 19:51:58,top_holders,xlsx,guardado
 2025-07-18 19:51:58,btc_nupl,xlsx,guardado
 2025-07-18 19:52:00,transfers,xlsx,error
+2025-07-18 19:52:00,btc_nupl,parquet,guardado
+2025-07-18 19:52:00,top_holders,parquet,guardado
+2025-07-18 19:52:03,transfers,parquet,guardado
