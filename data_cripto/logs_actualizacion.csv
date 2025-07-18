@@ -995,3 +995,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 04:37:04,top_holders,csv,guardado
 2025-07-18 04:37:10,top_holders,xlsx,guardado
 2025-07-18 04:37:12,top_holders,parquet,guardado
+2025-07-18 04:37:55,transfers,csv,guardado
