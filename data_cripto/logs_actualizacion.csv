@@ -1731,3 +1731,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 19:32:14,transfers,parquet,error
 2025-07-18 19:32:15,trending,parquet,guardado
 2025-07-18 19:32:20,top_volume,csv,guardado
+2025-07-18 19:32:21,top_volume,xlsx,guardado
