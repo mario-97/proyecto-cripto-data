@@ -640,3 +640,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:31:24,btc_sopr,parquet,guardado
 2025-07-18 03:31:26,btc_hashrate,csv,guardado
 2025-07-18 03:31:30,btc_hashrate,xlsx,guardado
+2025-07-18 03:31:32,btc_hashrate,parquet,guardado
