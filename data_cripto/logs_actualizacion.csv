@@ -1299,3 +1299,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 05:31:35,btc_hashrate,xlsx,guardado
 2025-07-18 05:31:37,btc_hashrate,parquet,guardado
 2025-07-18 05:32:42,top_flow,csv,guardado
+2025-07-18 05:32:44,top_flow,xlsx,guardado
