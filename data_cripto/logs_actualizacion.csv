@@ -1168,3 +1168,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 05:08:45,top_volume,parquet,guardado
 2025-07-18 05:08:47,tvl_aave,csv,guardado
 2025-07-18 05:08:49,tvl_aave,xlsx,guardado
+2025-07-18 05:08:50,tvl_aave,parquet,error
