@@ -217,3 +217,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 02:14:30,tvl_aave,parquet,error
 2025-07-18 02:15:30,transfers,csv,guardado
 2025-07-18 02:15:44,transfers,xlsx,guardado
+2025-07-18 02:15:47,transfers,parquet,guardado
