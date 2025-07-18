@@ -770,3 +770,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:56:26,transfers,parquet,error
 2025-07-18 03:56:27,trending,xlsx,guardado
 2025-07-18 03:56:28,trending,parquet,guardado
+2025-07-18 03:56:30,top_volume,csv,guardado
