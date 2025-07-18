@@ -881,3 +881,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 16:52:03,top_holders,xlsx,guardado
 2025-07-18 16:52:06,btc_sopr,xlsx,guardado
 2025-07-18 16:52:08,top_holders,parquet,guardado
+2025-07-18 16:52:10,btc_sopr,parquet,error
