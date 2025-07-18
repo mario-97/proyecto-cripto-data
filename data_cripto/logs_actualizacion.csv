@@ -255,3 +255,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 14:51:56,btc_sopr,xlsx,guardado
 2025-07-18 14:51:58,btc_sopr,parquet,guardado
 2025-07-18 14:52:02,btc_hashrate,csv,guardado
+2025-07-18 14:52:07,btc_hashrate,xlsx,guardado
