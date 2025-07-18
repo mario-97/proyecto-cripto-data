@@ -964,3 +964,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 04:31:25,btc_sopr,parquet,guardado
 2025-07-18 04:31:28,btc_hashrate,csv,guardado
 2025-07-18 04:31:33,btc_hashrate,xlsx,guardado
+2025-07-18 04:31:34,btc_hashrate,parquet,guardado
