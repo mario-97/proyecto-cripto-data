@@ -1325,3 +1325,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 05:36:24,top_volume,csv,guardado
 2025-07-18 05:36:26,top_volume,xlsx,guardado
 2025-07-18 05:36:27,top_volume,parquet,guardado
+2025-07-18 05:36:29,tvl_aave,csv,guardado
