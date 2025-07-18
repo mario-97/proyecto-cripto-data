@@ -1928,3 +1928,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:10:54,top_flow,csv,guardado
 2025-07-18 20:10:56,top_flow,xlsx,guardado
 2025-07-18 20:10:58,top_flow,parquet,guardado
+2025-07-18 20:11:00,trending,csv,guardado
