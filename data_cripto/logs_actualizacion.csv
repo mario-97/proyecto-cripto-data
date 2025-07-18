@@ -1975,3 +1975,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 20:19:44,transfers,parquet,guardado
 2025-07-18 20:19:52,top_flow,csv,guardado
 2025-07-18 20:19:54,top_flow,xlsx,guardado
+2025-07-18 20:19:55,top_flow,parquet,guardado
