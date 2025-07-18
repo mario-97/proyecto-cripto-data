@@ -668,3 +668,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:35:36,tvl_aave,csv,guardado
 2025-07-18 03:35:37,tvl_aave,xlsx,guardado
 2025-07-18 03:35:38,tvl_aave,parquet,error
+2025-07-18 03:37:32,top_holders,csv,guardado
