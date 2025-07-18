@@ -888,3 +888,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 16:52:20,btc_hashrate,xlsx,guardado
 2025-07-18 16:52:21,btc_hashrate,parquet,guardado
 2025-07-18 16:53:05,top_flow,csv,guardado
+2025-07-18 16:53:07,top_flow,xlsx,guardado
