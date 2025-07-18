@@ -884,3 +884,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 16:52:10,btc_sopr,parquet,error
 2025-07-18 16:52:14,transfers,xlsx,error
 2025-07-18 16:52:14,btc_hashrate,csv,guardado
+2025-07-18 16:52:19,transfers,parquet,guardado
