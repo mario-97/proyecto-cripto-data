@@ -960,3 +960,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 04:31:14,btc_nupl,xlsx,error
 2025-07-18 04:31:15,btc_nupl,parquet,guardado
 2025-07-18 04:31:19,btc_sopr,csv,guardado
+2025-07-18 04:31:23,btc_sopr,xlsx,guardado
