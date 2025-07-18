@@ -902,3 +902,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 16:54:36,top_holders,csv,guardado
 2025-07-18 16:54:42,top_holders,xlsx,guardado
 2025-07-18 16:54:44,top_holders,parquet,guardado
+2025-07-18 16:55:41,top_flow,csv,guardado
