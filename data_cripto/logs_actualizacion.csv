@@ -1842,3 +1842,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 19:52:00,top_holders,parquet,guardado
 2025-07-18 19:52:03,transfers,parquet,guardado
 2025-07-18 19:52:04,btc_sopr,csv,error
+2025-07-18 19:52:09,btc_sopr,xlsx,guardado
