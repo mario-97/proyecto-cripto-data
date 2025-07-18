@@ -913,3 +913,6 @@ fecha_hora,archivo,formato,status
 2025-07-18 01:25:48,trending,parquet,guardado
 2025-07-18 01:25:53,top_volume,csv,guardado
 2025-07-18 01:25:55,top_volume,xlsx,guardado
+2025-07-18 01:25:55,transfers,xlsx,error
+2025-07-18 01:25:56,top_volume,parquet,guardado
+2025-07-18 01:25:57,transfers,parquet,guardado
