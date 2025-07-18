@@ -473,3 +473,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:02:27,top_flow,csv,guardado
 2025-07-18 03:02:29,top_flow,xlsx,guardado
 2025-07-18 03:02:31,top_flow,parquet,guardado
+2025-07-18 03:02:32,trending,csv,guardado
