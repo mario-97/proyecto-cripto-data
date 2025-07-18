@@ -225,3 +225,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 14:47:19,tvl_aave,xlsx,guardado
 2025-07-18 14:47:20,tvl_aave,parquet,error
 2025-07-18 14:48:35,top_holders,csv,guardado
+2025-07-18 14:48:44,top_holders,xlsx,guardado
