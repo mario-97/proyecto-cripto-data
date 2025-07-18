@@ -568,3 +568,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 15:52:52,btc_hashrate,parquet,guardado
 2025-07-18 15:53:16,top_flow,csv,guardado
 2025-07-18 15:53:17,top_flow,xlsx,guardado
+2025-07-18 15:53:19,top_flow,parquet,guardado
