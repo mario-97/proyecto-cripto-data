@@ -643,3 +643,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 03:31:32,btc_hashrate,parquet,guardado
 2025-07-18 03:32:16,top_flow,csv,guardado
 2025-07-18 03:32:18,top_flow,xlsx,guardado
+2025-07-18 03:32:20,top_flow,parquet,guardado
