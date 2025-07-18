@@ -910,3 +910,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 01:25:38,transfers,csv,guardado
 2025-07-18 01:25:40,trending,csv,guardado
 2025-07-18 01:25:45,trending,xlsx,guardado
+2025-07-18 01:25:48,trending,parquet,guardado
