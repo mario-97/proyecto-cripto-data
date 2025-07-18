@@ -526,3 +526,6 @@ fecha_hora,archivo,formato,status
 2025-07-18 00:00:36,top_holders,csv,guardado
 2025-07-18 00:00:38,btc_sopr,csv,guardado
 2025-07-18 00:00:46,btc_sopr,xlsx,guardado
+2025-07-18 00:00:46,top_holders,xlsx,error
+2025-07-18 00:00:47,top_holders,parquet,error
+2025-07-18 00:00:48,btc_sopr,parquet,guardado
