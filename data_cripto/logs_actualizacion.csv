@@ -1039,3 +1039,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 04:44:50,top_volume,parquet,guardado
 2025-07-18 04:44:52,tvl_aave,csv,guardado
 2025-07-18 04:44:54,tvl_aave,xlsx,guardado
+2025-07-18 04:44:54,tvl_aave,parquet,error
