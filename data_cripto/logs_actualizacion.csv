@@ -1283,3 +1283,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 05:30:46,btc_price,csv,guardado
 2025-07-18 05:30:51,btc_price,xlsx,guardado
 2025-07-18 05:30:53,btc_price,parquet,guardado
+2025-07-18 05:30:54,top_holders,csv,error
