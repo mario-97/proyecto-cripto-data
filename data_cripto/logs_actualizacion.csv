@@ -533,3 +533,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 00:00:54,btc_hashrate,xlsx,guardado
 2025-07-18 00:00:56,btc_hashrate,parquet,guardado
 2025-07-18 00:02:21,top_flow,csv,guardado
+2025-07-18 00:02:23,top_flow,xlsx,guardado
