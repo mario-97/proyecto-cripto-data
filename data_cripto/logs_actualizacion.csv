@@ -1418,3 +1418,4 @@ fecha_hora,archivo,formato,status
 2025-07-18 05:53:51,tvl_aave,csv,guardado
 2025-07-18 05:53:53,tvl_aave,xlsx,guardado
 2025-07-18 05:53:54,tvl_aave,parquet,error
+2025-07-18 05:55:04,top_holders,csv,guardado
