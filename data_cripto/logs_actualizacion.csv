@@ -61,3 +61,4 @@ fecha_hora,archivo,formato,status
 2025-07-19 00:56:33,tvl_aave,parquet,error
 2025-07-19 00:57:13,transfers,csv,guardado
 2025-07-19 00:57:30,transfers,xlsx,guardado
+2025-07-19 00:57:32,transfers,parquet,guardado
