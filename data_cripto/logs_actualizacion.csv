@@ -19,3 +19,4 @@ fecha_hora,archivo,formato,status
 2025-07-19 18:20:45,top_holders,parquet,guardado
 2025-07-19 18:22:15,top_flow,csv,guardado
 2025-07-19 18:22:17,top_flow,xlsx,guardado
+2025-07-19 18:22:18,top_flow,parquet,guardado
