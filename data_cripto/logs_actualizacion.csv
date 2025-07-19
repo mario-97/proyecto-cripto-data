@@ -38,3 +38,4 @@ fecha_hora,archivo,formato,status
 2025-07-19 21:37:35,trending,csv,guardado
 2025-07-19 21:37:36,trending,xlsx,guardado
 2025-07-19 21:37:38,trending,parquet,guardado
+2025-07-19 21:37:40,top_volume,csv,guardado
