@@ -41,3 +41,4 @@ fecha_hora,archivo,formato,status
 2025-07-19 04:26:22,top_volume,csv,guardado
 2025-07-19 04:26:23,top_volume,xlsx,guardado
 2025-07-19 04:26:25,top_volume,parquet,guardado
+2025-07-19 04:26:27,tvl_aave,csv,guardado
