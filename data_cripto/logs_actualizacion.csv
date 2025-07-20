@@ -70,3 +70,5 @@ fecha_hora,archivo,formato,status
 2025-07-20 20:21:26,btc_mvrvz,xlsx,guardado
 2025-07-20 20:21:26,top_holders,xlsx,error
 2025-07-20 20:21:27,btc_mvrvz,parquet,guardado
+2025-07-20 20:21:27,top_holders,parquet,error
+2025-07-20 20:21:30,btc_nupl,csv,guardado
