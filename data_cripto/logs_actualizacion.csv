@@ -150,3 +150,4 @@ fecha_hora,archivo,formato,status
 2025-07-20 20:29:09,btc_price,xlsx,guardado
 2025-07-20 20:29:11,btc_price,parquet,guardado
 2025-07-20 20:29:15,btc_mvrvz,csv,guardado
+2025-07-20 20:29:20,btc_mvrvz,xlsx,guardado
