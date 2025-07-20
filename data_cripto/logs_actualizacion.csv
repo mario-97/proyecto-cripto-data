@@ -133,3 +133,4 @@ fecha_hora,archivo,formato,status
 2025-07-20 21:27:59,btc_hashrate,parquet,error
 2025-07-20 21:27:59,tvl_aave,csv,guardado
 2025-07-20 21:28:01,tvl_aave,xlsx,guardado
+2025-07-20 21:28:02,tvl_aave,parquet,error
