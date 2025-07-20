@@ -120,3 +120,4 @@ fecha_hora,archivo,formato,status
 2025-07-20 19:25:23,btc_price,parquet,guardado
 2025-07-20 19:25:26,btc_mvrvz,csv,guardado
 2025-07-20 19:25:31,btc_mvrvz,xlsx,guardado
+2025-07-20 19:25:33,btc_mvrvz,parquet,guardado
