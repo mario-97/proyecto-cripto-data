@@ -71,3 +71,5 @@ fecha_hora,archivo,formato,status
 2025-07-20 21:23:27,btc_mvrvz,csv,guardado
 2025-07-20 21:23:27,top_holders,csv,error
 2025-07-20 21:23:38,btc_mvrvz,xlsx,guardado
+2025-07-20 21:23:38,top_holders,xlsx,error
+2025-07-20 21:23:40,btc_mvrvz,parquet,guardado
