@@ -128,3 +128,4 @@ fecha_hora,archivo,formato,status
 2025-07-20 21:27:52,btc_hashrate,csv,guardado
 2025-07-20 21:27:53,top_volume,csv,guardado
 2025-07-20 21:27:56,top_volume,xlsx,guardado
+2025-07-20 21:27:57,btc_hashrate,xlsx,guardado
