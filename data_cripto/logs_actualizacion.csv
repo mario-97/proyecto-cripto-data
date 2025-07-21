@@ -2170,3 +2170,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:27:53,transfers,csv,guardado
 2025-07-21 19:27:53,top_holders,parquet,error
 2025-07-21 19:28:11,transfers,xlsx,guardado
+2025-07-21 19:28:14,transfers,parquet,guardado
