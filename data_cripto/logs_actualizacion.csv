@@ -3008,3 +3008,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:37:35,btc_price,csv,guardado
 2025-07-21 21:37:41,btc_price,xlsx,guardado
 2025-07-21 21:37:42,btc_price,parquet,guardado
+2025-07-21 21:37:46,btc_mvrvz,csv,guardado
