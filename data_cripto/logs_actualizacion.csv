@@ -3213,3 +3213,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:15:50,top_holders,xlsx,guardado
 2025-07-21 22:15:52,top_holders,parquet,guardado
 2025-07-21 22:16:35,transfers,csv,guardado
+2025-07-21 22:16:51,top_flow,csv,guardado
