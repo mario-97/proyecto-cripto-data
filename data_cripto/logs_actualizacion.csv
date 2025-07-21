@@ -1170,3 +1170,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 16:38:26,tvl_aave,xlsx,guardado
 2025-07-21 16:38:27,tvl_aave,parquet,error
 2025-07-21 16:39:01,transfers,csv,guardado
+2025-07-21 16:39:17,transfers,xlsx,guardado
