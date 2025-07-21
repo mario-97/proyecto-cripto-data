@@ -3115,3 +3115,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:56:21,tvl_aave,parquet,error
 2025-07-21 21:56:48,transfers,csv,guardado
 2025-07-21 21:57:05,transfers,xlsx,guardado
+2025-07-21 21:57:07,transfers,parquet,guardado
