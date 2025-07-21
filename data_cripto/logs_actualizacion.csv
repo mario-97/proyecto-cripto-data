@@ -1111,3 +1111,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 16:32:18,top_flow,parquet,guardado
 2025-07-21 16:32:20,trending,csv,guardado
 2025-07-21 16:32:21,trending,xlsx,guardado
+2025-07-21 16:32:23,trending,parquet,guardado
