@@ -2178,3 +2178,7 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:29:35,btc_price,csv,error
 2025-07-21 19:29:35,trending,xlsx,guardado
 2025-07-21 19:29:37,trending,parquet,guardado
+2025-07-21 19:29:41,btc_price,xlsx,guardado
+2025-07-21 19:29:42,top_volume,csv,guardado
+2025-07-21 19:29:43,btc_price,parquet,guardado
+2025-07-21 19:29:44,top_volume,xlsx,guardado
