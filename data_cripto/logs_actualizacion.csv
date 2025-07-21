@@ -650,3 +650,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 06:09:45,tvl_aave,csv,guardado
 2025-07-21 06:09:47,tvl_aave,xlsx,guardado
 2025-07-21 06:09:47,tvl_aave,parquet,error
+2025-07-21 06:11:15,top_holders,csv,guardado
