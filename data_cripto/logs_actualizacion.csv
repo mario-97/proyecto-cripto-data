@@ -2977,3 +2977,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:33:58,top_holders,parquet,error
 2025-07-21 21:34:01,btc_nupl,csv,guardado
 2025-07-21 21:34:06,btc_nupl,xlsx,guardado
+2025-07-21 21:34:08,btc_nupl,parquet,guardado
