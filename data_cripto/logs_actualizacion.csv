@@ -355,3 +355,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 05:24:52,top_volume,parquet,guardado
 2025-07-21 05:24:55,tvl_aave,csv,guardado
 2025-07-21 05:24:56,tvl_aave,xlsx,guardado
+2025-07-21 05:24:57,tvl_aave,parquet,error
