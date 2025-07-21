@@ -25,3 +25,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 03:39:11,top_volume,xlsx,error
 2025-07-21 03:39:14,top_volume,parquet,guardado
 2025-07-21 03:39:15,btc_hashrate,xlsx,guardado
+2025-07-21 03:39:16,tvl_aave,csv,error
