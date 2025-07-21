@@ -3296,3 +3296,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:29:12,tvl_aave,csv,guardado
 2025-07-21 22:29:13,tvl_aave,xlsx,guardado
 2025-07-21 22:29:14,tvl_aave,parquet,error
+2025-07-21 22:29:19,btc_hashrate,csv,guardado
