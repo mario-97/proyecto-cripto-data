@@ -1769,3 +1769,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:25:56,btc_hashrate,csv,guardado
 2025-07-21 18:26:02,btc_hashrate,xlsx,guardado
 2025-07-21 18:26:04,btc_hashrate,parquet,guardado
+2025-07-21 18:26:08,btc_miner_outflows,csv,guardado
