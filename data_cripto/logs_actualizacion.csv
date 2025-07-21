@@ -848,3 +848,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 15:48:08,tvl_aave,csv,guardado
 2025-07-21 15:48:10,tvl_aave,xlsx,guardado
 2025-07-21 15:48:11,tvl_aave,parquet,error
+2025-07-21 15:48:48,top_holders,csv,guardado
