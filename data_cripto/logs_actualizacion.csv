@@ -3335,3 +3335,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:34:10,btc_sopr,csv,guardado
 2025-07-21 22:34:15,btc_sopr,xlsx,guardado
 2025-07-21 22:34:16,btc_sopr,parquet,guardado
+2025-07-21 22:34:20,btc_hashrate,csv,guardado
