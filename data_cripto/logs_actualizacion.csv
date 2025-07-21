@@ -2618,3 +2618,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 20:34:48,btc_miner_reserves,csv,guardado
 2025-07-21 20:34:52,btc_miner_reserves,xlsx,guardado
 2025-07-21 20:34:54,btc_miner_reserves,parquet,guardado
+2025-07-21 20:35:14,top_flow,csv,guardado
