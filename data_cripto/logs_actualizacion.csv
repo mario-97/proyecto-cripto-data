@@ -3345,3 +3345,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:34:45,btc_miner_reserves,xlsx,guardado
 2025-07-21 22:34:47,btc_miner_reserves,parquet,guardado
 2025-07-21 22:35:02,top_flow,csv,guardado
+2025-07-21 22:35:04,top_flow,xlsx,guardado
