@@ -81,3 +81,5 @@ fecha_hora,archivo,formato,status
 2025-07-21 04:42:47,btc_hashrate,parquet,guardado
 2025-07-21 04:42:48,top_flow,parquet,error
 2025-07-21 04:42:50,trending,csv,guardado
+2025-07-21 04:42:50,btc_miner_outflows,csv,guardado
+2025-07-21 04:42:51,trending,xlsx,guardado
