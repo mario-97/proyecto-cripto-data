@@ -1973,3 +1973,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:53:45,top_volume,csv,guardado
 2025-07-21 18:53:47,top_volume,xlsx,guardado
 2025-07-21 18:53:49,top_volume,parquet,guardado
+2025-07-21 18:53:52,tvl_aave,csv,guardado
