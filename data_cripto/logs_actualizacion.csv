@@ -729,3 +729,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 15:30:10,btc_sopr,xlsx,error
 2025-07-21 15:30:12,btc_sopr,parquet,guardado
 2025-07-21 15:30:15,btc_hashrate,csv,guardado
+2025-07-21 15:30:20,btc_hashrate,xlsx,guardado
