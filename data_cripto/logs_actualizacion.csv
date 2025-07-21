@@ -454,3 +454,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 05:42:38,btc_hashrate,xlsx,guardado
 2025-07-21 05:42:38,trending,xlsx,guardado
 2025-07-21 05:42:39,btc_hashrate,parquet,guardado
+2025-07-21 05:42:40,trending,parquet,error
