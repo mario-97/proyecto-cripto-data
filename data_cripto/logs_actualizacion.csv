@@ -3209,3 +3209,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:14:11,tvl_aave,csv,guardado
 2025-07-21 22:14:12,tvl_aave,xlsx,guardado
 2025-07-21 22:14:13,tvl_aave,parquet,error
+2025-07-21 22:15:42,top_holders,csv,guardado
