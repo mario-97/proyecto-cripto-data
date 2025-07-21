@@ -2935,3 +2935,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:29:44,btc_price,parquet,guardado
 2025-07-21 21:29:47,btc_mvrvz,csv,guardado
 2025-07-21 21:29:52,btc_mvrvz,xlsx,guardado
+2025-07-21 21:29:54,btc_mvrvz,parquet,guardado
