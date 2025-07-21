@@ -868,3 +868,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 15:52:08,top_holders,xlsx,guardado
 2025-07-21 15:52:10,top_holders,parquet,guardado
 2025-07-21 15:52:11,transfers,xlsx,guardado
+2025-07-21 15:52:13,transfers,parquet,guardado
