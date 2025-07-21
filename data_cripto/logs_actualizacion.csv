@@ -3010,3 +3010,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:37:42,btc_price,parquet,guardado
 2025-07-21 21:37:46,btc_mvrvz,csv,guardado
 2025-07-21 21:37:51,btc_mvrvz,xlsx,guardado
+2025-07-21 21:37:53,btc_mvrvz,parquet,guardado
