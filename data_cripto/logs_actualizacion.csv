@@ -1818,3 +1818,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:30:12,btc_sopr,xlsx,guardado
 2025-07-21 18:30:14,btc_sopr,parquet,guardado
 2025-07-21 18:30:17,btc_hashrate,csv,guardado
+2025-07-21 18:30:22,btc_hashrate,xlsx,guardado
