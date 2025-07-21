@@ -2610,3 +2610,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 20:34:21,btc_sopr,xlsx,guardado
 2025-07-21 20:34:23,btc_sopr,parquet,guardado
 2025-07-21 20:34:27,btc_hashrate,csv,guardado
+2025-07-21 20:34:32,btc_hashrate,xlsx,guardado
