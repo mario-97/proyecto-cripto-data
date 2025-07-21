@@ -2718,3 +2718,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 20:50:23,tvl_aave,xlsx,guardado
 2025-07-21 20:50:24,tvl_aave,parquet,error
 2025-07-21 20:51:41,top_holders,csv,guardado
+2025-07-21 20:51:48,top_holders,xlsx,guardado
