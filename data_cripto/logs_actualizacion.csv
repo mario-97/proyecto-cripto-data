@@ -181,3 +181,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 02:47:12,top_volume,xlsx,guardado
 2025-07-21 02:47:15,top_volume,parquet,guardado
 2025-07-21 02:47:20,tvl_aave,csv,guardado
+2025-07-21 02:47:21,transfers,xlsx,error
