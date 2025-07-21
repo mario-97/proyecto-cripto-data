@@ -2182,3 +2182,5 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:29:42,top_volume,csv,guardado
 2025-07-21 19:29:43,btc_price,parquet,guardado
 2025-07-21 19:29:44,top_volume,xlsx,guardado
+2025-07-21 19:29:46,top_volume,parquet,guardado
+2025-07-21 19:29:46,btc_mvrvz,csv,guardado
