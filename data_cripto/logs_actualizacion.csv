@@ -2230,3 +2230,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:33:58,btc_mvrvz,parquet,error
 2025-07-21 19:34:01,btc_nupl,csv,guardado
 2025-07-21 19:34:05,btc_nupl,xlsx,guardado
+2025-07-21 19:34:07,btc_nupl,parquet,guardado
