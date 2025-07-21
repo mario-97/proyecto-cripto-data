@@ -1944,3 +1944,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:47:50,tvl_aave,xlsx,guardado
 2025-07-21 18:47:51,tvl_aave,parquet,error
 2025-07-21 18:48:37,transfers,csv,guardado
+2025-07-21 18:48:51,top_holders,csv,guardado
