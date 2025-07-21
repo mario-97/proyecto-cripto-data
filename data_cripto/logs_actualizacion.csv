@@ -3275,3 +3275,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:26:37,transfers,csv,guardado
 2025-07-21 22:26:54,transfers,xlsx,guardado
 2025-07-21 22:26:56,transfers,parquet,guardado
+2025-07-21 22:27:21,btc_nupl,csv,guardado
