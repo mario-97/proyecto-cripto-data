@@ -1078,3 +1078,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 16:29:22,top_volume,csv,guardado
 2025-07-21 16:29:23,transfers,parquet,error
 2025-07-21 16:29:24,top_volume,xlsx,guardado
+2025-07-21 16:29:25,top_volume,parquet,guardado
