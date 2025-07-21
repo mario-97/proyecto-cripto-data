@@ -20,3 +20,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 13:26:20,top_flow,xlsx,guardado
 2025-07-21 13:26:21,btc_hashrate,parquet,guardado
 2025-07-21 13:26:22,top_flow,parquet,guardado
+2025-07-21 13:26:23,btc_miner_outflows,csv,guardado
