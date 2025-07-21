@@ -2670,3 +2670,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 20:41:35,tvl_aave,xlsx,guardado
 2025-07-21 20:41:35,tvl_aave,parquet,error
 2025-07-21 20:42:46,top_holders,csv,guardado
+2025-07-21 20:42:54,top_holders,xlsx,guardado
