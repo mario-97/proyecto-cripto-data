@@ -1758,3 +1758,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:23:55,tvl_aave,xlsx,guardado
 2025-07-21 18:23:56,tvl_aave,parquet,error
 2025-07-21 18:25:08,top_holders,csv,guardado
+2025-07-21 18:25:16,top_holders,xlsx,guardado
