@@ -3331,3 +3331,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:33:58,top_holders,parquet,guardado
 2025-07-21 22:34:00,btc_nupl,csv,guardado
 2025-07-21 22:34:04,btc_nupl,xlsx,guardado
+2025-07-21 22:34:06,btc_nupl,parquet,guardado
