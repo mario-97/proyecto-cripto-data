@@ -2322,3 +2322,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:48:04,transfers,parquet,guardado
 2025-07-21 19:48:05,top_volume,parquet,guardado
 2025-07-21 19:48:09,tvl_aave,csv,guardado
+2025-07-21 19:48:11,tvl_aave,xlsx,guardado
