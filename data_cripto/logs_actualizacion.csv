@@ -25,3 +25,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 02:26:35,top_flow,csv,error
 2025-07-21 02:26:35,btc_miner_reserves,parquet,error
 2025-07-21 02:26:37,top_flow,xlsx,guardado
+2025-07-21 02:26:38,top_flow,parquet,guardado
