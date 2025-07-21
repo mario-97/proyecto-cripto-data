@@ -1060,3 +1060,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 16:26:18,tvl_aave,xlsx,error
 2025-07-21 16:26:19,tvl_aave,parquet,error
 2025-07-21 16:26:23,btc_miner_outflows,xlsx,guardado
+2025-07-21 16:26:25,btc_miner_outflows,parquet,guardado
