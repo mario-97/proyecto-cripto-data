@@ -110,3 +110,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 04:46:06,top_volume,parquet,error
 2025-07-21 04:46:12,tvl_aave,csv,guardado
 2025-07-21 04:46:12,btc_price,xlsx,error
+2025-07-21 04:46:13,tvl_aave,xlsx,guardado
