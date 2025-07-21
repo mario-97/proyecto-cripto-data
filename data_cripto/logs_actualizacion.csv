@@ -760,3 +760,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 06:30:39,top_volume,parquet,guardado
 2025-07-21 06:30:41,tvl_aave,csv,guardado
 2025-07-21 06:30:43,tvl_aave,xlsx,guardado
+2025-07-21 06:30:43,tvl_aave,parquet,error
