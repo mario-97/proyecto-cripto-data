@@ -19,3 +19,6 @@ fecha_hora,archivo,formato,status
 2025-07-21 03:39:06,btc_sopr,xlsx,error
 2025-07-21 03:39:06,trending,xlsx,guardado
 2025-07-21 03:39:07,btc_sopr,parquet,error
+2025-07-21 03:39:08,trending,parquet,guardado
+2025-07-21 03:39:10,top_volume,csv,guardado
+2025-07-21 03:39:10,btc_hashrate,csv,guardado
