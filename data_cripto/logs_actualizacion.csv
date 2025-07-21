@@ -3040,3 +3040,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:41:14,tvl_aave,parquet,error
 2025-07-21 21:42:45,top_holders,csv,guardado
 2025-07-21 21:42:53,top_holders,xlsx,guardado
+2025-07-21 21:42:55,top_holders,parquet,guardado
