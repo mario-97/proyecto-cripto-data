@@ -777,3 +777,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 15:34:43,btc_miner_reserves,xlsx,guardado
 2025-07-21 15:34:45,btc_miner_reserves,parquet,guardado
 2025-07-21 15:35:19,top_flow,csv,guardado
+2025-07-21 15:35:21,top_flow,xlsx,guardado
