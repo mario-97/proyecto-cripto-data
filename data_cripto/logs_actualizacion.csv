@@ -1900,3 +1900,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:39:01,tvl_aave,parquet,error
 2025-07-21 18:39:45,top_holders,csv,guardado
 2025-07-21 18:39:53,top_holders,xlsx,guardado
+2025-07-21 18:39:55,top_holders,parquet,guardado
