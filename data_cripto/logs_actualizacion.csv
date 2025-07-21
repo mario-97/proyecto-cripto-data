@@ -2264,3 +2264,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:37:51,transfers,xlsx,guardado
 2025-07-21 19:37:52,btc_price,parquet,error
 2025-07-21 19:37:53,transfers,parquet,error
+2025-07-21 19:38:29,top_flow,csv,guardado
