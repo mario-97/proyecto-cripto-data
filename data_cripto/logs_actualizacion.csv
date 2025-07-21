@@ -3070,3 +3070,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:47:15,tvl_aave,parquet,error
 2025-07-21 21:48:47,top_holders,csv,guardado
 2025-07-21 21:48:55,top_holders,xlsx,guardado
+2025-07-21 21:48:57,top_holders,parquet,guardado
