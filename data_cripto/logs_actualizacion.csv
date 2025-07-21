@@ -58,3 +58,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 13:29:53,btc_mvrvz,parquet,guardado
 2025-07-21 13:29:56,btc_nupl,csv,guardado
 2025-07-21 13:30:01,btc_nupl,xlsx,guardado
+2025-07-21 13:30:03,btc_nupl,parquet,guardado
