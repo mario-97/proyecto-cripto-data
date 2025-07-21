@@ -459,3 +459,5 @@ fecha_hora,archivo,formato,status
 2025-07-21 05:42:42,btc_miner_outflows,csv,error
 2025-07-21 05:42:45,top_volume,xlsx,guardado
 2025-07-21 05:42:47,top_volume,parquet,guardado
+2025-07-21 05:42:47,btc_miner_outflows,xlsx,error
+2025-07-21 05:42:49,btc_miner_outflows,parquet,guardado
