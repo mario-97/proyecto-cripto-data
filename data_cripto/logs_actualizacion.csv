@@ -726,3 +726,5 @@ fecha_hora,archivo,formato,status
 2025-07-21 15:30:05,tvl_aave,csv,error
 2025-07-21 15:30:09,tvl_aave,xlsx,guardado
 2025-07-21 15:30:10,tvl_aave,parquet,error
+2025-07-21 15:30:10,btc_sopr,xlsx,error
+2025-07-21 15:30:12,btc_sopr,parquet,guardado
