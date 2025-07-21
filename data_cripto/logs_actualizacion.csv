@@ -2933,3 +2933,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:29:35,btc_price,csv,guardado
 2025-07-21 21:29:42,btc_price,xlsx,guardado
 2025-07-21 21:29:44,btc_price,parquet,guardado
+2025-07-21 21:29:47,btc_mvrvz,csv,guardado
