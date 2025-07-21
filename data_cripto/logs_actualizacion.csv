@@ -3265,3 +3265,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:25:52,top_flow,parquet,guardado
 2025-07-21 22:25:54,trending,csv,guardado
 2025-07-21 22:25:56,trending,xlsx,guardado
+2025-07-21 22:25:57,trending,parquet,guardado
