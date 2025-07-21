@@ -3215,3 +3215,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:16:35,transfers,csv,guardado
 2025-07-21 22:16:51,top_flow,csv,guardado
 2025-07-21 22:16:52,transfers,xlsx,guardado
+2025-07-21 22:16:53,top_flow,xlsx,error
