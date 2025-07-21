@@ -179,3 +179,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 04:52:16,tvl_aave,csv,guardado
 2025-07-21 04:52:17,tvl_aave,xlsx,guardado
 2025-07-21 04:52:18,tvl_aave,parquet,error
+2025-07-21 04:53:12,transfers,csv,guardado
