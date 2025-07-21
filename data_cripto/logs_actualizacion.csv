@@ -555,3 +555,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 05:51:52,tvl_aave,xlsx,guardado
 2025-07-21 05:51:53,tvl_aave,parquet,error
 2025-07-21 05:53:13,transfers,csv,guardado
+2025-07-21 05:53:24,top_holders,csv,guardado
