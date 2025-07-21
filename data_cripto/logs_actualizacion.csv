@@ -2009,3 +2009,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:59:34,tvl_aave,csv,guardado
 2025-07-21 18:59:35,tvl_aave,xlsx,guardado
 2025-07-21 18:59:36,tvl_aave,parquet,error
+2025-07-21 19:00:44,top_holders,csv,guardado
