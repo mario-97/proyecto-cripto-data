@@ -2149,3 +2149,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 19:26:05,btc_hashrate,parquet,guardado
 2025-07-21 19:26:08,btc_miner_outflows,csv,guardado
 2025-07-21 19:26:13,btc_miner_outflows,xlsx,guardado
+2025-07-21 19:26:15,btc_miner_outflows,parquet,guardado
