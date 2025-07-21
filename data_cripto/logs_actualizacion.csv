@@ -1949,3 +1949,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:49:00,top_holders,xlsx,guardado
 2025-07-21 18:49:01,transfers,parquet,error
 2025-07-21 18:49:02,top_holders,parquet,error
+2025-07-21 18:50:25,top_flow,csv,guardado
