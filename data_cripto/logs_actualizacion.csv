@@ -340,3 +340,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 05:21:50,tvl_aave,parquet,error
 2025-07-21 05:22:31,transfers,csv,guardado
 2025-07-21 05:22:47,transfers,xlsx,guardado
+2025-07-21 05:22:50,transfers,parquet,guardado
