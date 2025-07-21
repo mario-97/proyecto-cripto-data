@@ -2908,3 +2908,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:26:15,btc_miner_reserves,parquet,guardado
 2025-07-21 21:26:17,top_volume,csv,guardado
 2025-07-21 21:26:19,top_volume,xlsx,guardado
+2025-07-21 21:26:20,top_volume,parquet,guardado
