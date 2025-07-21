@@ -2495,3 +2495,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 20:20:24,top_volume,csv,guardado
 2025-07-21 20:20:26,top_volume,xlsx,guardado
 2025-07-21 20:20:28,top_volume,parquet,guardado
+2025-07-21 20:20:31,tvl_aave,csv,guardado
