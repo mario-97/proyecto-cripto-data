@@ -1460,3 +1460,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 17:29:53,tvl_aave,parquet,error
 2025-07-21 17:29:54,btc_mvrvz,xlsx,guardado
 2025-07-21 17:29:55,btc_mvrvz,parquet,guardado
+2025-07-21 17:29:59,btc_nupl,csv,guardado
