@@ -3272,3 +3272,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 22:26:06,tvl_aave,csv,guardado
 2025-07-21 22:26:07,tvl_aave,xlsx,guardado
 2025-07-21 22:26:08,tvl_aave,parquet,error
+2025-07-21 22:26:37,transfers,csv,guardado
