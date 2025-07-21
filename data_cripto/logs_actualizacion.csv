@@ -1889,3 +1889,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:38:37,trending,csv,guardado
 2025-07-21 18:38:38,transfers,csv,guardado
 2025-07-21 18:38:39,trending,xlsx,guardado
+2025-07-21 18:38:44,trending,parquet,guardado
