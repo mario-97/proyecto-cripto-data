@@ -2912,3 +2912,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 21:26:25,tvl_aave,csv,guardado
 2025-07-21 21:26:26,tvl_aave,xlsx,guardado
 2025-07-21 21:26:27,tvl_aave,parquet,error
+2025-07-21 21:26:45,transfers,csv,guardado
