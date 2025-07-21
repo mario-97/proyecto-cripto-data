@@ -1994,3 +1994,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 18:57:21,transfers,csv,guardado
 2025-07-21 18:57:39,transfers,xlsx,guardado
 2025-07-21 18:57:41,transfers,parquet,guardado
+2025-07-21 18:57:45,top_holders,csv,guardado
