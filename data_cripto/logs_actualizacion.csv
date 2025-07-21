@@ -2570,3 +2570,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 20:30:05,btc_sopr,csv,guardado
 2025-07-21 20:30:09,btc_sopr,xlsx,guardado
 2025-07-21 20:30:11,btc_sopr,parquet,guardado
+2025-07-21 20:30:15,btc_hashrate,csv,guardado
