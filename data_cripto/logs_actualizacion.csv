@@ -714,3 +714,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 15:29:49,trending,csv,guardado
 2025-07-21 15:29:50,btc_mvrvz,xlsx,guardado
 2025-07-21 15:29:51,trending,xlsx,guardado
+2025-07-21 15:29:52,btc_mvrvz,parquet,guardado
