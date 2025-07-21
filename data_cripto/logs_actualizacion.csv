@@ -370,3 +370,4 @@ fecha_hora,archivo,formato,status
 2025-07-21 05:27:44,top_volume,parquet,guardado
 2025-07-21 05:27:47,tvl_aave,csv,guardado
 2025-07-21 05:27:48,tvl_aave,xlsx,guardado
+2025-07-21 05:27:49,tvl_aave,parquet,error
