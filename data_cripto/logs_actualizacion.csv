@@ -30,3 +30,5 @@ fecha_hora,archivo,formato,status
 2025-07-22 14:23:05,btc_miner_outflows,parquet,guardado
 2025-07-22 14:23:06,top_volume,parquet,guardado
 2025-07-22 14:23:08,tvl_aave,csv,guardado
+2025-07-22 14:23:08,btc_miner_reserves,csv,guardado
+2025-07-22 14:23:11,tvl_aave,xlsx,guardado
