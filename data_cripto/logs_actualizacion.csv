@@ -17,3 +17,5 @@ fecha_hora,archivo,formato,status
 2025-07-22 01:35:41,trending,csv,guardado
 2025-07-22 01:35:42,btc_sopr,csv,guardado
 2025-07-22 01:35:43,trending,xlsx,guardado
+2025-07-22 01:35:46,trending,parquet,guardado
+2025-07-22 01:35:46,btc_sopr,xlsx,guardado
