@@ -86,3 +86,4 @@ fecha_hora,archivo,formato,status
 2025-07-22 14:29:00,tvl_aave,csv,guardado
 2025-07-22 14:29:01,tvl_aave,xlsx,guardado
 2025-07-22 14:29:02,tvl_aave,parquet,error
+2025-07-22 14:30:12,btc_price,csv,guardado
