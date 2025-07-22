@@ -108,3 +108,4 @@ fecha_hora,archivo,formato,status
 2025-07-22 23:53:24,btc_miner_outflows,xlsx,guardado
 2025-07-22 23:53:26,btc_miner_outflows,parquet,guardado
 2025-07-22 23:53:50,top_flow,csv,guardado
+2025-07-22 23:53:52,top_flow,xlsx,guardado
