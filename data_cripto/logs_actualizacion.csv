@@ -22,3 +22,4 @@ fecha_hora,archivo,formato,status
 2025-07-22 14:22:55,trending,csv,error
 2025-07-22 14:22:56,btc_hashrate,parquet,error
 2025-07-22 14:22:56,trending,xlsx,error
+2025-07-22 14:22:58,trending,parquet,guardado
