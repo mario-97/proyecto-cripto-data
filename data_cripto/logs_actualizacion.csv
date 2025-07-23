@@ -63,3 +63,4 @@ fecha_hora,archivo,formato,status
 2025-07-23 02:02:08,btc_sopr,xlsx,guardado
 2025-07-23 02:02:10,btc_sopr,parquet,guardado
 2025-07-23 02:02:13,btc_hashrate,csv,guardado
+2025-07-23 02:02:17,btc_hashrate,xlsx,guardado
