@@ -23,3 +23,4 @@ fecha_hora,archivo,formato,status
 2025-07-23 21:43:48,btc_hashrate,xlsx,guardado
 2025-07-23 21:43:49,trending,parquet,guardado
 2025-07-23 21:43:49,btc_hashrate,parquet,error
+2025-07-23 21:43:51,top_volume,csv,guardado
