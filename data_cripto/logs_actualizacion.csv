@@ -122,3 +122,5 @@ fecha_hora,archivo,formato,status
 2025-07-23 02:08:29,transfers,csv,guardado
 2025-07-23 02:08:47,top_holders,csv,guardado
 2025-07-23 02:08:48,transfers,xlsx,error
+2025-07-23 02:08:54,transfers,parquet,guardado
+2025-07-23 02:08:55,top_holders,xlsx,guardado
