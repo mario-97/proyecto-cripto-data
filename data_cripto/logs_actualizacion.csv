@@ -30,3 +30,4 @@ fecha_hora,archivo,formato,status
 2025-07-23 04:11:27,top_volume,csv,guardado
 2025-07-23 04:11:29,btc_miner_reserves,xlsx,guardado
 2025-07-23 04:11:29,top_volume,xlsx,guardado
+2025-07-23 04:11:30,btc_miner_reserves,parquet,guardado
