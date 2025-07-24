@@ -54,3 +54,4 @@ fecha_hora,archivo,formato,status
 2025-07-24 00:39:19,btc_mvrvz,csv,guardado
 2025-07-24 00:39:21,tvl_aave,xlsx,error
 2025-07-24 00:39:22,tvl_aave,parquet,error
+2025-07-24 00:39:24,btc_mvrvz,xlsx,guardado
