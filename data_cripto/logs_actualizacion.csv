@@ -51,3 +51,4 @@ fecha_hora,archivo,formato,status
 2025-07-24 00:39:16,btc_price,parquet,error
 2025-07-24 00:39:16,top_volume,parquet,error
 2025-07-24 00:39:19,tvl_aave,csv,guardado
+2025-07-24 00:39:19,btc_mvrvz,csv,guardado
