@@ -72,3 +72,4 @@ fecha_hora,archivo,formato,status
 2025-07-25 02:10:50,btc_miner_reserves,csv,guardado
 2025-07-25 02:10:50,top_holders,xlsx,error
 2025-07-25 02:10:54,top_holders,parquet,guardado
+2025-07-25 02:10:55,btc_miner_reserves,xlsx,error
