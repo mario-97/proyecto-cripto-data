@@ -170,3 +170,4 @@ fecha_hora,archivo,formato,status
 2025-07-25 02:25:42,top_holders,csv,guardado
 2025-07-25 02:25:50,top_holders,xlsx,guardado
 2025-07-25 02:25:52,top_holders,parquet,guardado
+2025-07-25 02:27:12,transfers,csv,guardado
