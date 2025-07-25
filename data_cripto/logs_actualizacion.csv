@@ -222,3 +222,5 @@ fecha_hora,archivo,formato,status
 2025-07-25 04:27:54,transfers,xlsx,error
 2025-07-25 04:27:55,trending,xlsx,guardado
 2025-07-25 04:27:56,transfers,parquet,error
+2025-07-25 04:27:57,trending,parquet,guardado
+2025-07-25 04:27:59,top_volume,csv,guardado
