@@ -125,3 +125,4 @@ fecha_hora,archivo,formato,status
 2025-07-25 00:56:16,transfers,csv,guardado
 2025-07-25 00:56:33,top_flow,csv,guardado
 2025-07-25 00:56:34,transfers,xlsx,error
+2025-07-25 00:56:35,top_flow,xlsx,error
