@@ -11,3 +11,6 @@ fecha_hora,archivo,formato,status
 2025-07-27 23:02:10,btc_mvrvz,parquet,guardado
 2025-07-27 23:02:12,top_flow,xlsx,guardado
 2025-07-27 23:02:13,top_flow,parquet,guardado
+2025-07-27 23:02:13,btc_nupl,csv,error
+2025-07-27 23:02:17,trending,csv,guardado
+2025-07-27 23:02:17,btc_nupl,xlsx,guardado
