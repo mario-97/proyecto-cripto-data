@@ -30,3 +30,4 @@ fecha_hora,archivo,formato,status
 2025-07-27 21:46:02,tvl_aave,parquet,error
 2025-07-27 21:46:03,btc_hashrate,parquet,error
 2025-07-27 21:46:06,btc_miner_outflows,csv,guardado
+2025-07-27 21:46:10,btc_miner_outflows,xlsx,guardado
