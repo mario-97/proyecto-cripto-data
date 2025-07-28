@@ -755,3 +755,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 02:56:00,btc_miner_reserves,csv,guardado
 2025-07-28 02:56:04,btc_miner_reserves,xlsx,guardado
 2025-07-28 02:56:06,btc_miner_reserves,parquet,guardado
+2025-07-28 02:57:15,transfers,csv,guardado
