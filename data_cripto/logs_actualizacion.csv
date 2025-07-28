@@ -49,3 +49,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 13:01:15,top_volume,parquet,guardado
 2025-07-28 13:01:15,btc_price,csv,guardado
 2025-07-28 13:01:19,tvl_aave,csv,guardado
+2025-07-28 13:01:21,tvl_aave,xlsx,guardado
