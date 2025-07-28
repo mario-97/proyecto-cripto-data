@@ -20,3 +20,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 12:57:58,top_flow,parquet,guardado
 2025-07-28 12:57:58,btc_hashrate,xlsx,error
 2025-07-28 12:57:59,btc_hashrate,parquet,guardado
+2025-07-28 12:58:00,trending,csv,error
