@@ -968,3 +968,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 03:29:14,tvl_aave,csv,guardado
 2025-07-28 03:29:15,tvl_aave,xlsx,guardado
 2025-07-28 03:29:16,tvl_aave,parquet,error
+2025-07-28 03:30:33,top_holders,csv,guardado
