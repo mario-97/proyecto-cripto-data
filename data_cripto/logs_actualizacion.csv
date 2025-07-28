@@ -589,3 +589,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 02:27:21,top_holders,csv,guardado
 2025-07-28 02:27:21,transfers,parquet,error
 2025-07-28 02:27:28,top_holders,xlsx,guardado
+2025-07-28 02:27:30,top_holders,parquet,guardado
