@@ -833,3 +833,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 03:04:10,btc_miner_reserves,csv,guardado
 2025-07-28 03:04:14,btc_miner_reserves,xlsx,guardado
 2025-07-28 03:04:15,btc_miner_reserves,parquet,guardado
+2025-07-28 03:04:28,top_flow,csv,guardado
