@@ -925,3 +925,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 03:20:07,tvl_aave,parquet,error
 2025-07-28 03:21:22,top_holders,csv,guardado
 2025-07-28 03:21:30,top_holders,xlsx,guardado
+2025-07-28 03:21:32,top_holders,parquet,guardado
