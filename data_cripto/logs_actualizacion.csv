@@ -730,3 +730,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 02:55:17,btc_mvrvz,parquet,guardado
 2025-07-28 02:55:20,btc_nupl,csv,guardado
 2025-07-28 02:55:21,top_flow,csv,guardado
+2025-07-28 02:55:25,top_flow,xlsx,guardado
