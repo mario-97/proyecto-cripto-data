@@ -47,3 +47,5 @@ fecha_hora,archivo,formato,status
 2025-07-28 13:01:12,top_volume,csv,guardado
 2025-07-28 13:01:13,top_volume,xlsx,guardado
 2025-07-28 13:01:15,top_volume,parquet,guardado
+2025-07-28 13:01:15,btc_price,csv,guardado
+2025-07-28 13:01:19,tvl_aave,csv,guardado
