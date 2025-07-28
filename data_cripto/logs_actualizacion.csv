@@ -418,3 +418,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 01:59:34,btc_nupl,parquet,guardado
 2025-07-28 01:59:37,btc_sopr,csv,guardado
 2025-07-28 01:59:41,btc_sopr,xlsx,guardado
+2025-07-28 01:59:43,btc_sopr,parquet,guardado
