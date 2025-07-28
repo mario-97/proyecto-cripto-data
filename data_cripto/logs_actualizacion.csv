@@ -748,3 +748,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 02:55:46,tvl_aave,xlsx,guardado
 2025-07-28 02:55:46,btc_hashrate,xlsx,guardado
 2025-07-28 02:55:46,tvl_aave,parquet,error
+2025-07-28 02:55:48,btc_hashrate,parquet,guardado
