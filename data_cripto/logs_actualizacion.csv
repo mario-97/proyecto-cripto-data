@@ -377,3 +377,5 @@ fecha_hora,archivo,formato,status
 2025-07-28 01:55:31,trending,parquet,guardado
 2025-07-28 01:55:32,btc_sopr,xlsx,guardado
 2025-07-28 01:55:34,btc_sopr,parquet,guardado
+2025-07-28 01:55:34,top_volume,csv,guardado
+2025-07-28 01:55:35,top_volume,xlsx,guardado
