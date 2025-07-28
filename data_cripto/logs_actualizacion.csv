@@ -822,3 +822,4 @@ fecha_hora,archivo,formato,status
 2025-07-28 03:03:37,top_holders,parquet,error
 2025-07-28 03:03:38,btc_nupl,parquet,guardado
 2025-07-28 03:03:42,btc_sopr,csv,guardado
+2025-07-28 03:03:46,btc_sopr,xlsx,guardado
