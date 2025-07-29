@@ -307,3 +307,5 @@ fecha_hora,archivo,formato,status
 2025-07-29 01:28:45,btc_sopr,xlsx,guardado
 2025-07-29 01:28:45,trending,xlsx,guardado
 2025-07-29 01:28:47,btc_sopr,parquet,error
+2025-07-29 01:28:47,trending,parquet,guardado
+2025-07-29 01:28:51,btc_hashrate,csv,guardado
