@@ -720,3 +720,4 @@ fecha_hora,archivo,formato,status
 2025-07-29 02:38:02,tvl_aave,xlsx,guardado
 2025-07-29 02:38:03,tvl_aave,parquet,error
 2025-07-29 02:39:30,top_holders,csv,guardado
+2025-07-29 02:39:36,top_holders,xlsx,guardado
