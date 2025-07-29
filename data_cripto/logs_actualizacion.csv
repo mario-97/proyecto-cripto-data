@@ -704,3 +704,4 @@ fecha_hora,archivo,formato,status
 2025-07-29 02:34:55,tvl_aave,csv,guardado
 2025-07-29 02:34:57,tvl_aave,xlsx,guardado
 2025-07-29 02:34:58,tvl_aave,parquet,error
+2025-07-29 02:36:40,top_holders,csv,guardado
