@@ -538,3 +538,4 @@ fecha_hora,archivo,formato,status
 2025-07-29 02:08:08,tvl_aave,parquet,error
 2025-07-29 02:09:01,transfers,csv,guardado
 2025-07-29 02:09:17,transfers,xlsx,guardado
+2025-07-29 02:09:20,transfers,parquet,guardado
