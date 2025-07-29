@@ -28,3 +28,4 @@ fecha_hora,archivo,formato,status
 2025-07-29 00:29:01,top_volume,parquet,guardado
 2025-07-29 00:29:02,btc_miner_outflows,csv,error
 2025-07-29 00:29:04,tvl_aave,csv,error
+2025-07-29 00:29:07,tvl_aave,xlsx,guardado
