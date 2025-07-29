@@ -690,3 +690,4 @@ fecha_hora,archivo,formato,status
 2025-07-29 02:32:59,btc_hashrate,xlsx,guardado
 2025-07-29 02:33:01,btc_hashrate,parquet,guardado
 2025-07-29 02:33:34,top_holders,csv,guardado
+2025-07-29 02:33:41,top_holders,xlsx,guardado
