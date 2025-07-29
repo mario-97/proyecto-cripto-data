@@ -675,3 +675,4 @@ fecha_hora,archivo,formato,status
 2025-07-29 02:31:50,tvl_aave,xlsx,guardado
 2025-07-29 02:31:51,tvl_aave,parquet,error
 2025-07-29 02:32:18,btc_price,csv,guardado
+2025-07-29 02:32:22,btc_price,xlsx,guardado
