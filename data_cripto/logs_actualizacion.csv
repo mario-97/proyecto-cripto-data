@@ -61,3 +61,4 @@ fecha_hora,archivo,formato,status
 2025-07-30 17:59:50,btc_nupl,parquet,guardado
 2025-07-30 18:00:53,top_holders,csv,guardado
 2025-07-30 18:01:00,top_holders,xlsx,guardado
+2025-07-30 18:01:02,top_holders,parquet,guardado
