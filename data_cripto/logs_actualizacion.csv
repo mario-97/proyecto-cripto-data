@@ -100,3 +100,4 @@ fecha_hora,archivo,formato,status
 2025-07-30 18:07:56,trending,parquet,guardado
 2025-07-30 18:07:59,top_volume,csv,guardado
 2025-07-30 18:08:00,top_volume,xlsx,guardado
+2025-07-30 18:08:02,top_volume,parquet,guardado
