@@ -49,3 +49,4 @@ fecha_hora,archivo,formato,status
 2025-07-30 06:43:27,top_volume,parquet,guardado
 2025-07-30 06:43:29,tvl_aave,csv,guardado
 2025-07-30 06:43:31,tvl_aave,xlsx,guardado
+2025-07-30 06:43:32,tvl_aave,parquet,error
