@@ -32,3 +32,4 @@ fecha_hora,archivo,formato,status
 2025-07-30 23:37:58,btc_miner_outflows,csv,guardado
 2025-07-30 23:38:03,btc_miner_outflows,xlsx,guardado
 2025-07-30 23:38:05,btc_miner_outflows,parquet,guardado
+2025-07-30 23:38:08,btc_miner_reserves,csv,guardado
