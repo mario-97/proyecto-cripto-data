@@ -45,3 +45,5 @@ fecha_hora,archivo,formato,status
 2025-07-30 04:37:41,trending,csv,guardado
 2025-07-30 04:37:41,btc_price,xlsx,guardado
 2025-07-30 04:37:42,trending,xlsx,guardado
+2025-07-30 04:37:43,btc_price,parquet,guardado
+2025-07-30 04:37:44,trending,parquet,guardado
