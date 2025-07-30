@@ -36,3 +36,4 @@ fecha_hora,archivo,formato,status
 2025-07-30 00:23:30,btc_miner_reserves,parquet,error
 2025-07-30 00:23:31,tvl_aave,parquet,error
 2025-07-30 00:25:38,top_holders,csv,guardado
+2025-07-30 00:25:44,top_holders,xlsx,guardado
