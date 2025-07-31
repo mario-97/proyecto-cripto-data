@@ -541,3 +541,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 01:38:25,btc_nupl,xlsx,guardado
 2025-07-31 01:38:27,btc_nupl,parquet,guardado
 2025-07-31 01:38:27,top_flow,xlsx,error
+2025-07-31 01:38:28,top_flow,parquet,guardado
