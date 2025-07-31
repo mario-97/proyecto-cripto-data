@@ -390,3 +390,4 @@ ado,,,
 2025-07-31 22:34:48,btc_miner_reserves,parquet,guardado
 2025-07-31 22:35:19,top_holders,csv,guardado
 2025-07-31 22:35:25,top_holders,xlsx,guardado
+2025-07-31 22:35:27,top_holders,parquet,guardado
