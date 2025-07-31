@@ -12,3 +12,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 20:30:39,btc_nupl,xlsx,guardado
 2025-07-31 20:30:40,btc_nupl,parquet,guardado
 2025-07-31 20:30:43,btc_sopr,csv,guardado
+2025-07-31 20:30:47,top_flow,csv,guardado
