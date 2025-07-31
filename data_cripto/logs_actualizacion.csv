@@ -202,3 +202,4 @@ ado,,,
 2025-07-31 22:02:09,top_holders,csv,guardado
 2025-07-31 22:02:09,transfers,csv,error
 2025-07-31 22:02:29,top_holders,xlsx,guardado
+2025-07-31 22:02:32,top_holders,parquet,guardado
