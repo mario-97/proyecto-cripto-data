@@ -122,3 +122,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 00:23:49,top_volume,xlsx,guardado
 2025-07-31 00:23:49,transfers,parquet,error
 2025-07-31 00:23:50,top_volume,parquet,guardado
+2025-07-31 00:23:53,tvl_aave,csv,guardado
