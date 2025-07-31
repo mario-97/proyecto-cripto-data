@@ -28,3 +28,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 00:05:39,top_volume,parquet,guardado
 2025-07-31 00:05:41,tvl_aave,csv,guardado
 2025-07-31 00:05:42,tvl_aave,xlsx,guardado
+2025-07-31 00:05:43,tvl_aave,parquet,error
