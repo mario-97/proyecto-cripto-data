@@ -234,3 +234,4 @@ ado,,,
 2025-07-31 22:06:40,tvl_aave,parquet,error
 2025-07-31 22:08:08,top_holders,csv,guardado
 2025-07-31 22:08:15,top_holders,xlsx,guardado
+2025-07-31 22:08:17,top_holders,parquet,guardado
