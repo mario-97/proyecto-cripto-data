@@ -390,3 +390,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 15:23:06,btc_sopr,xlsx,guardado
 2025-07-31 15:23:08,btc_sopr,parquet,guardado
 2025-07-31 15:23:56,top_holders,csv,guardado
+2025-07-31 15:24:03,top_holders,xlsx,guardado
