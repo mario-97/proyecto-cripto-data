@@ -401,3 +401,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 01:11:49,tvl_aave,csv,guardado
 2025-07-31 01:11:50,tvl_aave,xlsx,guardado
 2025-07-31 01:11:51,tvl_aave,parquet,error
+2025-07-31 01:13:22,top_holders,csv,guardado
