@@ -120,3 +120,4 @@ ado,,,
 2025-07-31 21:45:47,top_volume,parquet,guardado
 2025-07-31 21:45:48,transfers,parquet,error
 2025-07-31 21:45:50,tvl_aave,csv,error
+2025-07-31 21:45:51,tvl_aave,xlsx,guardado
