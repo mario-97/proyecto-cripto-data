@@ -355,3 +355,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 01:02:43,tvl_aave,parquet,error
 2025-07-31 01:03:28,transfers,csv,guardado
 2025-07-31 01:03:45,transfers,xlsx,guardado
+2025-07-31 01:03:48,transfers,parquet,guardado
