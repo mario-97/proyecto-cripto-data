@@ -198,3 +198,4 @@ ado,,,
 2025-07-31 22:00:30,top_volume,parquet,guardado
 2025-07-31 22:00:33,tvl_aave,csv,guardado
 2025-07-31 22:00:34,tvl_aave,xlsx,guardado
+2025-07-31 22:00:35,tvl_aave,parquet,error
