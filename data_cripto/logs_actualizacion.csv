@@ -420,3 +420,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 01:14:38,tvl_aave,xlsx,guardado
 2025-07-31 01:14:39,tvl_aave,parquet,error
 2025-07-31 01:16:27,top_holders,csv,guardado
+2025-07-31 01:16:33,top_holders,xlsx,guardado
