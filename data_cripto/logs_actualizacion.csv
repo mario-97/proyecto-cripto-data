@@ -183,3 +183,4 @@ ado,,,
 2025-07-31 21:57:30,top_volume,parquet,guardado
 2025-07-31 21:57:32,tvl_aave,csv,guardado
 2025-07-31 21:57:34,tvl_aave,xlsx,guardado
+2025-07-31 21:57:35,tvl_aave,parquet,error
