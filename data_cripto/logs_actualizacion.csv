@@ -350,3 +350,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 15:19:04,trending,xlsx,guardado
 2025-07-31 15:19:05,btc_hashrate,parquet,guardado
 2025-07-31 15:19:06,trending,parquet,error
+2025-07-31 15:19:08,btc_miner_outflows,csv,guardado
