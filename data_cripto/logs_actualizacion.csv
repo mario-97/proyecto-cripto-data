@@ -3,3 +3,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 14:18:07,top_holders,xlsx,guardado
 2025-07-31 14:18:09,top_holders,parquet,guardado
 2025-07-31 14:18:30,btc_price,csv,guardado
+2025-07-31 14:18:35,btc_price,xlsx,guardado
