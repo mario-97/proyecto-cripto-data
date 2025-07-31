@@ -381,3 +381,4 @@ ado,,,
 2025-07-31 22:34:21,btc_sopr,parquet,guardado
 2025-07-31 22:34:24,btc_hashrate,csv,guardado
 2025-07-31 22:34:29,btc_hashrate,xlsx,guardado
+2025-07-31 22:34:31,btc_hashrate,parquet,guardado
