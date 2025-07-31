@@ -345,3 +345,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 15:18:57,top_flow,xlsx,guardado
 2025-07-31 15:18:58,btc_hashrate,csv,guardado
 2025-07-31 15:18:59,top_flow,parquet,guardado
+2025-07-31 15:19:03,trending,csv,guardado
