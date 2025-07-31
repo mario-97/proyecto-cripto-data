@@ -405,3 +405,4 @@ ado,,,
 2025-07-31 22:36:37,tvl_aave,parquet,error
 2025-07-31 22:37:56,btc_price,csv,guardado
 2025-07-31 22:38:00,btc_price,xlsx,guardado
+2025-07-31 22:38:02,btc_price,parquet,guardado
