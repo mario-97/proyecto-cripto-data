@@ -384,3 +384,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 15:22:56,top_volume,parquet,guardado
 2025-07-31 15:22:58,btc_nupl,parquet,guardado
 2025-07-31 15:22:59,tvl_aave,csv,guardado
+2025-07-31 15:23:00,tvl_aave,xlsx,guardado
