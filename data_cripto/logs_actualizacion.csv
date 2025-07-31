@@ -376,3 +376,5 @@ fecha_hora,archivo,formato,status
 2025-07-31 15:22:46,trending,xlsx,error
 2025-07-31 15:22:46,btc_mvrvz,xlsx,guardado
 2025-07-31 15:22:48,trending,parquet,guardado
+2025-07-31 15:22:48,btc_mvrvz,parquet,guardado
+2025-07-31 15:22:51,btc_nupl,csv,guardado
