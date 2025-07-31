@@ -375,3 +375,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 01:07:34,top_holders,xlsx,guardado
 2025-07-31 01:07:36,top_holders,parquet,guardado
 2025-07-31 01:08:24,top_flow,csv,guardado
+2025-07-31 01:08:26,top_flow,xlsx,guardado
