@@ -408,3 +408,5 @@ ado,,,
 2025-07-31 22:38:02,btc_price,parquet,guardado
 2025-07-31 22:38:06,btc_mvrvz,csv,guardado
 2025-07-31 22:38:11,top_holders,csv,error
+2025-07-31 22:38:11,btc_mvrvz,xlsx,guardado
+2025-07-31 22:38:15,btc_mvrvz,parquet,guardado
