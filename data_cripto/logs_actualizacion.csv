@@ -146,3 +146,6 @@ fecha_hora,archivo,formato,status
 2025-07-31 02:44:51,btc_price,csv,guardado
 2025-07-31 02:44:57,btc_price,xlsx,guardado
 2025-07-31 02:45:00,btc_price,parquet,guardado
+2025-07-31 02:45:03,top_flow,csv,guardado
+2025-07-31 02:45:03,btc_mvrvz,csv,guardado
+2025-07-31 02:45:05,top_flow,xlsx,guardado
