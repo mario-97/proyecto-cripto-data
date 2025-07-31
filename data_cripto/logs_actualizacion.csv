@@ -15,3 +15,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 20:30:47,top_flow,csv,guardado
 2025-07-31 20:30:48,btc_sopr,xlsx,guardado
 2025-07-31 20:30:49,top_flow,xlsx,error
+2025-07-31 20:30:50,btc_sopr,parquet,guardado
