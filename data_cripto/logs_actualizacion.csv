@@ -21,3 +21,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 20:30:53,btc_hashrate,csv,guardado
 2025-07-31 20:30:54,trending,xlsx,error
 2025-07-31 20:30:56,trending,parquet,guardado
+2025-07-31 20:30:58,btc_hashrate,xlsx,guardado
