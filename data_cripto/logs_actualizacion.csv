@@ -237,3 +237,4 @@ fecha_hora,archivo,formato,status
 2025-07-31 00:42:33,trending,xlsx,guardado
 2025-07-31 00:42:33,btc_nupl,csv,error
 2025-07-31 00:42:34,trending,parquet,error
+2025-07-31 00:42:38,btc_nupl,xlsx,guardado
