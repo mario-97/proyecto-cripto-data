@@ -25,3 +25,4 @@ fecha_hora,archivo,formato,status
 2025-08-01 05:33:40,tvl_aave,csv,guardado
 2025-08-01 05:33:41,btc_sopr,parquet,error
 2025-08-01 05:33:42,tvl_aave,xlsx,guardado
+2025-08-01 05:33:42,tvl_aave,parquet,error
