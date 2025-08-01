@@ -6,3 +6,5 @@ fecha_hora,archivo,formato,status
 2025-08-01 05:33:00,btc_price,xlsx,guardado
 2025-08-01 05:33:12,btc_price,parquet,error
 2025-08-01 05:33:16,btc_mvrvz,csv,guardado
+2025-08-01 05:33:21,top_flow,csv,error
+2025-08-01 05:33:21,btc_mvrvz,xlsx,guardado
