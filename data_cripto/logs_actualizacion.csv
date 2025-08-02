@@ -18,3 +18,4 @@ fecha_hora,archivo,formato,status
 2025-08-02 02:23:57,btc_nupl,csv,guardado
 2025-08-02 02:23:57,top_volume,xlsx,error
 2025-08-02 02:23:59,top_volume,parquet,guardado
+2025-08-02 02:24:01,btc_nupl,xlsx,guardado
