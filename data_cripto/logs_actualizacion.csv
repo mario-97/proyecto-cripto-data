@@ -28,3 +28,4 @@ fecha_hora,archivo,formato,status
 2025-08-02 02:24:11,btc_sopr,parquet,guardado
 2025-08-02 02:24:14,btc_hashrate,csv,guardado
 2025-08-02 02:24:19,btc_hashrate,xlsx,guardado
+2025-08-02 02:24:20,btc_hashrate,parquet,guardado
