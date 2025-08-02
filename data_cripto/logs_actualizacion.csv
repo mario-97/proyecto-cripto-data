@@ -12,3 +12,4 @@ fecha_hora,archivo,formato,status
 2025-08-02 02:23:49,trending,csv,guardado
 2025-08-02 02:23:51,trending,xlsx,guardado
 2025-08-02 02:23:52,btc_mvrvz,xlsx,guardado
+2025-08-02 02:23:53,trending,parquet,error
