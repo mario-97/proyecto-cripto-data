@@ -15,3 +15,4 @@ fecha_hora,archivo,formato,status
 2025-08-02 04:21:25,trending,xlsx,guardado
 2025-08-02 04:21:27,trending,parquet,guardado
 2025-08-02 04:21:28,btc_nupl,csv,guardado
+2025-08-02 04:21:29,top_volume,csv,guardado
