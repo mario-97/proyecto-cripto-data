@@ -21,3 +21,4 @@ fecha_hora,archivo,formato,status
 2025-08-02 02:24:01,btc_nupl,xlsx,guardado
 2025-08-02 02:24:02,tvl_aave,csv,error
 2025-08-02 02:24:02,btc_nupl,parquet,error
+2025-08-02 02:24:03,tvl_aave,xlsx,error
