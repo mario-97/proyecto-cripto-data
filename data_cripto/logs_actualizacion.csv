@@ -37,3 +37,4 @@ fecha_hora,archivo,formato,status
 2025-08-03 00:52:12,btc_miner_reserves,parquet,guardado
 2025-08-03 00:53:25,top_holders,csv,guardado
 2025-08-03 00:53:31,top_holders,xlsx,guardado
+2025-08-03 00:53:32,top_holders,parquet,guardado
