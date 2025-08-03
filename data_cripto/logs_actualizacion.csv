@@ -18,3 +18,4 @@ fecha_hora,archivo,formato,status
 2025-08-03 00:51:37,btc_nupl,parquet,guardado
 2025-08-03 00:51:39,trending,parquet,guardado
 2025-08-03 00:51:40,btc_sopr,csv,guardado
+2025-08-03 00:51:43,top_volume,csv,guardado
