@@ -41,3 +41,5 @@ fecha_hora,archivo,formato,status
 2025-08-04 00:44:36,top_flow,csv,guardado
 2025-08-04 00:44:37,btc_price,csv,guardado
 2025-08-04 00:44:38,top_flow,xlsx,guardado
+2025-08-04 00:44:42,top_flow,parquet,guardado
+2025-08-04 00:44:42,btc_price,xlsx,guardado
