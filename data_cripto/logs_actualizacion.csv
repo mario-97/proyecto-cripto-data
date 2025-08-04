@@ -48,3 +48,4 @@ fecha_hora,archivo,formato,status
 2025-08-04 00:44:45,trending,xlsx,error
 2025-08-04 00:44:46,trending,parquet,guardado
 2025-08-04 00:44:47,btc_mvrvz,csv,guardado
+2025-08-04 00:44:50,top_volume,csv,guardado
