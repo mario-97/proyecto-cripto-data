@@ -56,3 +56,5 @@ fecha_hora,archivo,formato,status
 2025-08-04 00:44:56,tvl_aave,csv,guardado
 2025-08-04 00:44:57,tvl_aave,xlsx,guardado
 2025-08-04 00:44:58,btc_nupl,csv,guardado
+2025-08-04 00:44:58,tvl_aave,parquet,error
+2025-08-04 00:45:03,btc_nupl,xlsx,guardado
