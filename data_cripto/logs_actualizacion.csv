@@ -9,3 +9,5 @@ fecha_hora,archivo,formato,status
 2025-08-04 05:19:53,btc_mvrvz,xlsx,guardado
 2025-08-04 05:19:54,btc_mvrvz,parquet,guardado
 2025-08-04 05:19:57,btc_nupl,csv,guardado
+2025-08-04 05:19:57,top_flow,csv,error
+2025-08-04 05:20:01,top_flow,xlsx,guardado
