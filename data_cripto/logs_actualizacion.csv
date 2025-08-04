@@ -54,3 +54,5 @@ fecha_hora,archivo,formato,status
 2025-08-04 00:44:54,top_volume,parquet,guardado
 2025-08-04 00:44:54,btc_mvrvz,parquet,guardado
 2025-08-04 00:44:56,tvl_aave,csv,guardado
+2025-08-04 00:44:57,tvl_aave,xlsx,guardado
+2025-08-04 00:44:58,btc_nupl,csv,guardado
