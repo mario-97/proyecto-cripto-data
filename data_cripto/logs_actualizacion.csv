@@ -24,3 +24,4 @@ fecha_hora,archivo,formato,status
 2025-08-05 02:20:15,top_volume,parquet,error
 2025-08-05 02:20:17,btc_sopr,parquet,guardado
 2025-08-05 02:20:18,tvl_aave,csv,error
+2025-08-05 02:20:19,tvl_aave,xlsx,guardado
