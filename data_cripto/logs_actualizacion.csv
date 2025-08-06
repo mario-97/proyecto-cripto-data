@@ -731,3 +731,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:11:44,transfers,csv,guardado
 2025-08-06 21:12:03,btc_price,csv,guardado
 2025-08-06 21:12:04,transfers,xlsx,guardado
+2025-08-06 21:12:10,transfers,parquet,guardado
