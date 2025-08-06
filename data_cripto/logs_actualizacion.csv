@@ -884,3 +884,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:40:14,top_holders,csv,guardado
 2025-08-06 21:40:21,top_holders,xlsx,guardado
 2025-08-06 21:40:23,top_holders,parquet,guardado
+2025-08-06 21:41:00,transfers,csv,guardado
