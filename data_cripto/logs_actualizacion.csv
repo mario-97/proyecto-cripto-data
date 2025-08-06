@@ -8,3 +8,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 19:08:12,btc_mvrvz,csv,guardado
 2025-08-06 19:08:16,btc_mvrvz,xlsx,guardado
 2025-08-06 19:08:18,btc_mvrvz,parquet,guardado
+2025-08-06 19:08:19,top_flow,csv,error
