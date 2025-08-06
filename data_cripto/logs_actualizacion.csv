@@ -502,3 +502,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 20:32:35,trending,parquet,guardado
 2025-08-06 20:32:37,top_volume,csv,guardado
 2025-08-06 20:32:39,top_volume,xlsx,guardado
+2025-08-06 20:32:40,top_volume,parquet,guardado
