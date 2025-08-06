@@ -777,3 +777,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:19:24,top_holders,xlsx,guardado
 2025-08-06 21:19:26,top_holders,parquet,guardado
 2025-08-06 21:20:16,top_flow,csv,guardado
+2025-08-06 21:20:18,top_flow,xlsx,guardado
