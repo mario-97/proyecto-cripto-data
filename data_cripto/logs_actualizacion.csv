@@ -23,3 +23,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 04:03:05,btc_hashrate,csv,guardado
 2025-08-06 04:03:05,top_volume,csv,error
 2025-08-06 04:03:09,top_volume,xlsx,guardado
+2025-08-06 04:03:10,btc_hashrate,xlsx,guardado
