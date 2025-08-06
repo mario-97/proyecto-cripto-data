@@ -402,3 +402,5 @@ fecha_hora,archivo,formato,status
 2025-08-06 20:14:21,transfers,xlsx,guardado
 2025-08-06 20:14:21,top_flow,csv,error
 2025-08-06 20:14:24,top_flow,xlsx,guardado
+2025-08-06 20:14:24,transfers,parquet,error
+2025-08-06 20:14:25,top_flow,parquet,guardado
