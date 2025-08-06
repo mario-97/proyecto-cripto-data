@@ -1,3 +1,4 @@
 fecha_hora,archivo,formato,status
 2025-08-06 05:22:02,top_holders,csv,guardado
 2025-08-06 05:22:10,top_holders,xlsx,guardado
+2025-08-06 05:22:12,top_holders,parquet,guardado
