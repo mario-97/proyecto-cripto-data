@@ -17,3 +17,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 05:23:11,btc_nupl,parquet,error
 2025-08-06 05:23:11,trending,xlsx,guardado
 2025-08-06 05:23:12,trending,parquet,guardado
+2025-08-06 05:23:14,btc_sopr,csv,guardado
