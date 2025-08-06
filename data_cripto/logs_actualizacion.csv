@@ -890,3 +890,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:41:19,top_flow,parquet,guardado
 2025-08-06 21:41:20,transfers,xlsx,error
 2025-08-06 21:41:21,trending,csv,error
+2025-08-06 21:41:22,trending,xlsx,error
