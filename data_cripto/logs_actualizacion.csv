@@ -790,3 +790,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:20:36,tvl_aave,parquet,error
 2025-08-06 21:20:37,transfers,csv,error
 2025-08-06 21:20:55,transfers,xlsx,guardado
+2025-08-06 21:20:57,transfers,parquet,guardado
