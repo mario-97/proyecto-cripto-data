@@ -804,3 +804,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:23:42,top_volume,xlsx,guardado
 2025-08-06 21:23:44,top_volume,parquet,guardado
 2025-08-06 21:23:47,tvl_aave,csv,guardado
+2025-08-06 21:23:48,tvl_aave,xlsx,guardado
