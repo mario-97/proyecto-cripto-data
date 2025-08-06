@@ -655,3 +655,4 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:02:33,top_flow,xlsx,guardado
 2025-08-06 21:02:33,transfers,xlsx,guardado
 2025-08-06 21:02:34,top_flow,parquet,error
+2025-08-06 21:02:36,transfers,parquet,guardado
