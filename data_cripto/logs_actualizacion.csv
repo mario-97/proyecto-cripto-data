@@ -705,3 +705,5 @@ fecha_hora,archivo,formato,status
 2025-08-06 21:08:45,top_volume,xlsx,error
 2025-08-06 21:08:45,btc_miner_outflows,csv,guardado
 2025-08-06 21:08:47,top_volume,parquet,guardado
+2025-08-06 21:08:50,btc_miner_outflows,xlsx,guardado
+2025-08-06 21:08:51,tvl_aave,csv,guardado
