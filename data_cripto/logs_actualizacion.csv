@@ -50,3 +50,5 @@ fecha_hora,archivo,formato,status
 2025-08-07 15:31:52,btc_mvrvz,parquet,guardado
 2025-08-07 15:31:53,trending,xlsx,guardado
 2025-08-07 15:31:54,trending,parquet,guardado
+2025-08-07 15:31:55,btc_nupl,csv,error
+2025-08-07 15:31:59,btc_nupl,xlsx,guardado
