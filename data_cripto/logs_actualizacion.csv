@@ -47,3 +47,5 @@ fecha_hora,archivo,formato,status
 2025-08-07 15:31:50,top_flow,parquet,guardado
 2025-08-07 15:31:50,btc_mvrvz,xlsx,guardado
 2025-08-07 15:31:52,trending,csv,guardado
+2025-08-07 15:31:52,btc_mvrvz,parquet,guardado
+2025-08-07 15:31:53,trending,xlsx,guardado
