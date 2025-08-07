@@ -68,3 +68,4 @@ fecha_hora,archivo,formato,status
 2025-08-07 04:50:17,trending,csv,guardado
 2025-08-07 04:50:17,transfers,csv,guardado
 2025-08-07 04:50:18,trending,xlsx,error
+2025-08-07 04:50:23,trending,parquet,guardado
