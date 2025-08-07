@@ -20,3 +20,4 @@ fecha_hora,archivo,formato,status
 2025-08-07 05:17:20,top_volume,csv,guardado
 2025-08-07 05:17:20,btc_sopr,csv,error
 2025-08-07 05:17:21,top_volume,xlsx,error
+2025-08-07 05:17:24,top_volume,parquet,guardado
