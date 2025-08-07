@@ -78,3 +78,4 @@ fecha_hora,archivo,formato,status
 2025-08-07 04:50:39,tvl_aave,parquet,error
 2025-08-07 04:50:40,transfers,parquet,error
 2025-08-07 04:52:08,top_holders,csv,guardado
+2025-08-07 04:52:15,top_holders,xlsx,guardado
