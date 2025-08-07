@@ -76,3 +76,4 @@ fecha_hora,archivo,formato,status
 2025-08-07 04:50:38,transfers,xlsx,guardado
 2025-08-07 04:50:39,tvl_aave,xlsx,error
 2025-08-07 04:50:39,tvl_aave,parquet,error
+2025-08-07 04:50:40,transfers,parquet,error
