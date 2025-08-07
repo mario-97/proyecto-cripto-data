@@ -52,3 +52,4 @@ fecha_hora,archivo,formato,status
 2025-08-07 15:31:54,trending,parquet,guardado
 2025-08-07 15:31:55,btc_nupl,csv,error
 2025-08-07 15:31:59,btc_nupl,xlsx,guardado
+2025-08-07 15:32:00,top_volume,csv,guardado
