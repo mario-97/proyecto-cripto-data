@@ -55,3 +55,4 @@ fecha_hora,archivo,formato,status
 2025-08-07 14:00:46,tvl_aave,parquet,error
 2025-08-07 14:00:47,btc_mvrvz,csv,guardado
 2025-08-07 14:00:52,btc_mvrvz,xlsx,guardado
+2025-08-07 14:00:53,btc_mvrvz,parquet,guardado
