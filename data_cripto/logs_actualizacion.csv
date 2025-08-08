@@ -370,3 +370,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 15:01:27,btc_price,xlsx,guardado
 2025-08-08 15:01:28,transfers,xlsx,guardado
 2025-08-08 15:01:29,btc_price,parquet,guardado
+2025-08-08 15:01:30,transfers,parquet,guardado
