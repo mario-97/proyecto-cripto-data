@@ -28,3 +28,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 18:48:15,tvl_aave,xlsx,guardado
 2025-08-08 18:48:16,tvl_aave,parquet,error
 2025-08-08 18:48:17,btc_hashrate,xlsx,guardado
+2025-08-08 18:48:18,btc_hashrate,parquet,guardado
