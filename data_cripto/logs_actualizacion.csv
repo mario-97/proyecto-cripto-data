@@ -379,3 +379,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 15:01:42,top_flow,parquet,guardado
 2025-08-08 15:01:43,btc_nupl,csv,error
 2025-08-08 15:01:45,trending,csv,guardado
+2025-08-08 15:01:47,trending,xlsx,guardado
