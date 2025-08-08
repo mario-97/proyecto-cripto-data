@@ -1060,3 +1060,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 17:01:50,btc_sopr,parquet,guardado
 2025-08-08 17:01:53,btc_hashrate,csv,guardado
 2025-08-08 17:01:58,btc_hashrate,xlsx,guardado
+2025-08-08 17:01:59,btc_hashrate,parquet,guardado
