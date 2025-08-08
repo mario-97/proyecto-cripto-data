@@ -1068,3 +1068,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 17:02:17,btc_miner_reserves,xlsx,guardado
 2025-08-08 17:02:19,btc_miner_reserves,parquet,guardado
 2025-08-08 17:02:42,top_holders,csv,guardado
+2025-08-08 17:02:48,top_holders,xlsx,guardado
