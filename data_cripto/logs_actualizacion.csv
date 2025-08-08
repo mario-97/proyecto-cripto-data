@@ -519,3 +519,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 20:50:03,btc_sopr,xlsx,error
 2025-08-08 20:50:05,btc_sopr,parquet,guardado
 2025-08-08 20:50:08,btc_hashrate,csv,guardado
+2025-08-08 20:50:12,btc_hashrate,xlsx,guardado
