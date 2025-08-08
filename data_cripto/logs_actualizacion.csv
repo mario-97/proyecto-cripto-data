@@ -358,3 +358,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 14:58:01,top_volume,parquet,guardado
 2025-08-08 14:58:03,btc_miner_reserves,csv,guardado
 2025-08-08 14:58:04,tvl_aave,csv,guardado
+2025-08-08 14:58:07,tvl_aave,xlsx,guardado
