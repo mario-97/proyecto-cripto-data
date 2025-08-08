@@ -211,3 +211,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 19:53:44,btc_price,parquet,guardado
 2025-08-08 19:53:47,btc_mvrvz,csv,guardado
 2025-08-08 19:53:52,btc_mvrvz,xlsx,guardado
+2025-08-08 19:53:54,btc_mvrvz,parquet,guardado
