@@ -682,3 +682,6 @@ fecha_hora,archivo,formato,status
 2025-08-08 15:57:51,btc_hashrate,xlsx,error
 2025-08-08 15:57:52,top_flow,xlsx,guardado
 2025-08-08 15:57:54,btc_hashrate,parquet,guardado
+2025-08-08 15:57:54,top_flow,parquet,guardado
+2025-08-08 15:57:56,trending,csv,guardado
+2025-08-08 15:57:57,btc_miner_outflows,csv,guardado
