@@ -558,3 +558,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 20:54:10,trending,csv,guardado
 2025-08-08 20:54:11,btc_sopr,xlsx,guardado
 2025-08-08 20:54:11,trending,xlsx,guardado
+2025-08-08 20:54:12,btc_sopr,parquet,error
