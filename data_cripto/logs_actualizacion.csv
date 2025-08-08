@@ -1059,3 +1059,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 17:01:48,btc_sopr,xlsx,guardado
 2025-08-08 17:01:50,btc_sopr,parquet,guardado
 2025-08-08 17:01:53,btc_hashrate,csv,guardado
+2025-08-08 17:01:58,btc_hashrate,xlsx,guardado
