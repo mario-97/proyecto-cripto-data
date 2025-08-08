@@ -17,3 +17,5 @@ fecha_hora,archivo,formato,status
 2025-08-08 13:57:52,btc_hashrate,csv,guardado
 2025-08-08 13:57:52,top_flow,csv,guardado
 2025-08-08 13:57:56,top_flow,xlsx,guardado
+2025-08-08 13:57:56,btc_hashrate,xlsx,guardado
+2025-08-08 13:57:57,top_flow,parquet,guardado
