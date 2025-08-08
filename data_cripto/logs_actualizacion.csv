@@ -365,3 +365,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 15:00:25,top_holders,csv,guardado
 2025-08-08 15:00:30,top_holders,xlsx,guardado
 2025-08-08 15:00:32,top_holders,parquet,guardado
+2025-08-08 15:01:07,transfers,csv,guardado
