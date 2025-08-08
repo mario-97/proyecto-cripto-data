@@ -183,3 +183,5 @@ fecha_hora,archivo,formato,status
 2025-08-08 19:50:17,btc_hashrate,csv,guardado
 2025-08-08 19:50:18,top_holders,xlsx,guardado
 2025-08-08 19:50:21,top_holders,parquet,guardado
+2025-08-08 19:50:22,btc_hashrate,xlsx,guardado
+2025-08-08 19:50:23,btc_hashrate,parquet,guardado
