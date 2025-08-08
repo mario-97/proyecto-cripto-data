@@ -373,3 +373,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 15:01:30,transfers,parquet,guardado
 2025-08-08 15:01:32,btc_mvrvz,csv,guardado
 2025-08-08 15:01:38,btc_mvrvz,xlsx,guardado
+2025-08-08 15:01:39,top_flow,csv,error
