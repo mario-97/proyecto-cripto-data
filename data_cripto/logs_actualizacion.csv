@@ -21,3 +21,5 @@ fecha_hora,archivo,formato,status
 2025-08-08 18:48:07,btc_sopr,xlsx,guardado
 2025-08-08 18:48:07,top_volume,csv,guardado
 2025-08-08 18:48:08,btc_sopr,parquet,guardado
+2025-08-08 18:48:09,top_volume,xlsx,error
+2025-08-08 18:48:10,top_volume,parquet,guardado
