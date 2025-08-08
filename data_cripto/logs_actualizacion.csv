@@ -359,3 +359,5 @@ fecha_hora,archivo,formato,status
 2025-08-08 14:58:03,btc_miner_reserves,csv,guardado
 2025-08-08 14:58:04,tvl_aave,csv,guardado
 2025-08-08 14:58:07,tvl_aave,xlsx,guardado
+2025-08-08 14:58:07,btc_miner_reserves,xlsx,error
+2025-08-08 14:58:08,tvl_aave,parquet,error
