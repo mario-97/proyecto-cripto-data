@@ -945,3 +945,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 16:43:12,tvl_aave,xlsx,guardado
 2025-08-08 16:43:13,tvl_aave,parquet,error
 2025-08-08 16:44:28,top_holders,csv,guardado
+2025-08-08 16:44:35,top_holders,xlsx,guardado
