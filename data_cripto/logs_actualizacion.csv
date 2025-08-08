@@ -671,3 +671,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 15:57:12,transfers,csv,guardado
 2025-08-08 15:57:20,btc_nupl,csv,guardado
 2025-08-08 15:57:29,btc_nupl,xlsx,guardado
+2025-08-08 15:57:32,btc_nupl,parquet,guardado
