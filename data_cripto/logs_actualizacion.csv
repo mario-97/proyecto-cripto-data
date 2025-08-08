@@ -508,3 +508,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 20:48:24,tvl_aave,parquet,error
 2025-08-08 20:49:38,btc_mvrvz,csv,guardado
 2025-08-08 20:49:43,btc_mvrvz,xlsx,guardado
+2025-08-08 20:49:45,btc_mvrvz,parquet,guardado
