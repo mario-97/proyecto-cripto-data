@@ -718,3 +718,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 16:01:27,btc_mvrvz,csv,guardado
 2025-08-08 16:01:27,tvl_aave,parquet,error
 2025-08-08 16:01:32,btc_mvrvz,xlsx,guardado
+2025-08-08 16:01:34,btc_mvrvz,parquet,guardado
