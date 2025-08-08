@@ -388,3 +388,4 @@ fecha_hora,archivo,formato,status
 2025-08-08 20:26:52,transfers,parquet,guardado
 2025-08-08 20:27:00,top_flow,csv,guardado
 2025-08-08 20:27:02,top_flow,xlsx,guardado
+2025-08-08 20:27:03,top_flow,parquet,guardado
