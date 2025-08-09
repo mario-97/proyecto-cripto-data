@@ -799,3 +799,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 03:25:16,btc_hashrate,parquet,guardado
 2025-08-09 03:26:42,top_holders,csv,guardado
 2025-08-09 03:26:49,top_holders,xlsx,guardado
+2025-08-09 03:26:51,top_holders,parquet,guardado
