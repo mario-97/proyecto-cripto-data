@@ -399,3 +399,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 02:20:41,btc_nupl,csv,error
 2025-08-09 02:20:52,btc_nupl,xlsx,guardado
 2025-08-09 02:20:52,top_holders,xlsx,guardado
+2025-08-09 02:20:53,btc_nupl,parquet,error
