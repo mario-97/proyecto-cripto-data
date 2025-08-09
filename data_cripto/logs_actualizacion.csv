@@ -404,3 +404,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 02:20:56,btc_sopr,csv,guardado
 2025-08-09 02:21:01,btc_sopr,xlsx,guardado
 2025-08-09 02:21:03,btc_sopr,parquet,guardado
+2025-08-09 02:21:05,btc_hashrate,csv,guardado
