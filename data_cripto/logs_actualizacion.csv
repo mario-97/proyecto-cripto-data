@@ -485,3 +485,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 02:31:11,tvl_aave,csv,guardado
 2025-08-09 02:31:12,tvl_aave,xlsx,guardado
 2025-08-09 02:31:13,tvl_aave,parquet,error
+2025-08-09 02:32:42,top_holders,csv,guardado
