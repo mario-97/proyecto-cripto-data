@@ -770,3 +770,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 03:23:48,top_holders,csv,guardado
 2025-08-09 03:23:56,top_holders,xlsx,guardado
 2025-08-09 03:23:58,top_holders,parquet,guardado
+2025-08-09 03:24:31,btc_price,csv,guardado
