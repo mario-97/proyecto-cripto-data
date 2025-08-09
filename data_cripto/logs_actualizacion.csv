@@ -140,3 +140,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 01:23:40,tvl_aave,csv,guardado
 2025-08-09 01:23:41,tvl_aave,xlsx,guardado
 2025-08-09 01:23:42,tvl_aave,parquet,error
+2025-08-09 01:24:31,btc_price,csv,guardado
