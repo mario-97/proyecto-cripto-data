@@ -780,3 +780,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 22:06:33,tvl_aave,parquet,error
 2025-08-09 22:06:42,eth_ctd,csv,guardado
 2025-08-09 22:06:46,eth_ctd,xlsx,guardado
+2025-08-09 22:06:50,eth_ctd,parquet,guardado
