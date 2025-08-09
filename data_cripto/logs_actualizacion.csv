@@ -545,3 +545,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 02:43:01,top_volume,csv,guardado
 2025-08-09 02:43:03,top_volume,xlsx,guardado
 2025-08-09 02:43:04,top_volume,parquet,guardado
+2025-08-09 02:43:07,tvl_aave,csv,guardado
