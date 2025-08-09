@@ -791,3 +791,5 @@ fecha_hora,archivo,formato,status
 2025-08-09 03:25:03,btc_sopr,xlsx,guardado
 2025-08-09 03:25:04,top_volume,parquet,error
 2025-08-09 03:25:06,tvl_aave,csv,guardado
+2025-08-09 03:25:06,btc_sopr,parquet,error
+2025-08-09 03:25:07,tvl_aave,xlsx,guardado
