@@ -270,3 +270,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 20:53:04,trending,xlsx,guardado
 2025-08-09 20:53:06,trending,parquet,guardado
 2025-08-09 20:53:08,top_volume,csv,guardado
+2025-08-09 20:53:10,top_volume,xlsx,guardado
