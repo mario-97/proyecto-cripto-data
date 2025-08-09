@@ -1221,3 +1221,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 04:42:55,trending,xlsx,guardado
 2025-08-09 04:42:56,trending,parquet,guardado
 2025-08-09 04:43:00,top_volume,csv,guardado
+2025-08-09 04:43:01,top_volume,xlsx,guardado
