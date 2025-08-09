@@ -1093,3 +1093,4 @@ fecha_hora,archivo,formato,status
 2025-08-09 04:21:11,top_holders,parquet,error
 2025-08-09 04:21:13,btc_miner_reserves,csv,guardado
 2025-08-09 04:21:18,btc_miner_reserves,xlsx,guardado
+2025-08-09 04:21:19,btc_miner_reserves,parquet,guardado
