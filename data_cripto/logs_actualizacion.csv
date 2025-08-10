@@ -602,3 +602,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 04:26:57,top_flow,csv,guardado
 2025-08-10 04:26:59,top_flow,xlsx,guardado
 2025-08-10 04:27:01,top_flow,parquet,guardado
+2025-08-10 04:27:02,trending,csv,guardado
