@@ -809,3 +809,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 05:06:13,tvl_aave,csv,guardado
 2025-08-10 05:06:15,tvl_aave,xlsx,guardado
 2025-08-10 05:06:16,tvl_aave,parquet,error
+2025-08-10 05:07:56,transfers,csv,guardado
