@@ -799,3 +799,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 02:15:37,eth_ctd,csv,guardado
 2025-08-10 02:15:42,eth_ctd,xlsx,guardado
 2025-08-10 02:15:45,eth_ctd,parquet,guardado
+2025-08-10 02:18:51,top_holders,csv,guardado
