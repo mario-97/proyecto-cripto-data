@@ -353,3 +353,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 03:39:12,top_volume,csv,guardado
 2025-08-10 03:39:14,top_volume,xlsx,guardado
 2025-08-10 03:39:15,top_volume,parquet,guardado
+2025-08-10 03:39:17,tvl_aave,csv,guardado
