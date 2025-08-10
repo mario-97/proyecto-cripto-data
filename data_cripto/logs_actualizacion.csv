@@ -80,3 +80,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 02:47:48,transfers,csv,guardado
 2025-08-10 02:48:01,top_flow,csv,guardado
 2025-08-10 02:48:02,transfers,xlsx,error
+2025-08-10 02:48:03,top_flow,xlsx,error
