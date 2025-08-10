@@ -873,3 +873,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 05:18:11,tvl_aave,xlsx,guardado
 2025-08-10 05:18:12,tvl_aave,parquet,error
 2025-08-10 05:18:25,transfers,csv,guardado
+2025-08-10 05:18:38,transfers,xlsx,guardado
