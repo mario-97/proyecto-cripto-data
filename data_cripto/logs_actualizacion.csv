@@ -220,3 +220,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 03:14:03,top_holders,parquet,guardado
 2025-08-10 03:14:37,transfers,csv,guardado
 2025-08-10 03:14:50,transfers,xlsx,guardado
+2025-08-10 03:14:52,transfers,parquet,guardado
