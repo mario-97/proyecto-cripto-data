@@ -440,3 +440,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 03:56:00,top_holders,csv,guardado
 2025-08-10 03:56:05,top_holders,xlsx,guardado
 2025-08-10 03:56:07,top_holders,parquet,guardado
+2025-08-10 03:56:56,top_flow,csv,guardado
