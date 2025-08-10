@@ -52,3 +52,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 02:28:45,tvl_aave,parquet,error
 2025-08-10 02:29:25,btc_price,csv,guardado
 2025-08-10 02:29:29,btc_price,xlsx,guardado
+2025-08-10 02:29:30,btc_price,parquet,guardado
