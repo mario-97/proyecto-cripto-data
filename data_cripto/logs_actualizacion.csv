@@ -180,3 +180,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 03:06:00,trending,xlsx,guardado
 2025-08-10 03:06:02,trending,parquet,guardado
 2025-08-10 03:06:05,top_volume,csv,guardado
+2025-08-10 03:06:06,top_volume,xlsx,guardado
