@@ -8,3 +8,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 06:01:00,trending,csv,guardado
 2025-08-10 06:01:02,trending,xlsx,guardado
 2025-08-10 06:01:03,trending,parquet,guardado
+2025-08-10 06:01:09,top_volume,csv,guardado
