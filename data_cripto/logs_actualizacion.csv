@@ -379,3 +379,4 @@ fecha_hora,archivo,formato,status
 2025-08-10 03:44:58,top_flow,csv,guardado
 2025-08-10 03:44:59,transfers,parquet,error
 2025-08-10 03:45:01,top_flow,xlsx,error
+2025-08-10 03:45:02,top_flow,parquet,guardado
