@@ -375,3 +375,4 @@ fecha_hora,archivo,formato,status
 2025-08-11 05:27:08,tvl_aave,xlsx,guardado
 2025-08-11 05:27:09,tvl_aave,parquet,error
 2025-08-11 05:28:54,top_holders,csv,guardado
+2025-08-11 05:29:00,top_holders,xlsx,guardado
