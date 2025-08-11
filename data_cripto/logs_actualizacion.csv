@@ -610,3 +610,4 @@ fecha_hora,archivo,formato,status
 2025-08-11 15:48:04,top_volume,parquet,guardado
 2025-08-11 15:48:07,tvl_aave,csv,guardado
 2025-08-11 15:48:08,tvl_aave,xlsx,guardado
+2025-08-11 15:48:09,tvl_aave,parquet,error
