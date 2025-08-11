@@ -596,3 +596,4 @@ fecha_hora,archivo,formato,status
 2025-08-11 15:45:19,tvl_aave,csv,guardado
 2025-08-11 15:45:21,tvl_aave,xlsx,guardado
 2025-08-11 15:45:22,tvl_aave,parquet,error
+2025-08-11 15:45:51,top_holders,csv,guardado
