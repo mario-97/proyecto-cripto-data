@@ -558,3 +558,4 @@ fecha_hora,archivo,formato,status
 2025-08-11 21:03:31,tvl_aave,xlsx,guardado
 2025-08-11 21:03:31,tvl_aave,parquet,error
 2025-08-11 21:04:40,top_holders,csv,guardado
+2025-08-11 21:04:47,top_holders,xlsx,guardado
