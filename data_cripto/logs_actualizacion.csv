@@ -894,3 +894,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 01:45:04,btc_hashrate,csv,guardado
 2025-08-12 01:45:08,btc_hashrate,xlsx,guardado
 2025-08-12 01:45:11,btc_hashrate,parquet,guardado
+2025-08-12 01:45:16,btc_miner_outflows,csv,guardado
