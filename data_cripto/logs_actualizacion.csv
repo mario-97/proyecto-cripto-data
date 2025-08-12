@@ -805,3 +805,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:02:24,tvl_aave,parquet,error
 2025-08-12 16:03:44,top_holders,csv,guardado
 2025-08-12 16:03:51,top_holders,xlsx,guardado
+2025-08-12 16:03:53,top_holders,parquet,guardado
