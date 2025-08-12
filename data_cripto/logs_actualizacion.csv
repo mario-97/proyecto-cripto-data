@@ -404,3 +404,5 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:44:03,trending,csv,guardado
 2025-08-12 14:44:05,trending,xlsx,guardado
 2025-08-12 14:44:07,trending,parquet,guardado
+2025-08-12 14:44:11,transfers,csv,guardado
+2025-08-12 14:44:12,top_volume,csv,guardado
