@@ -240,3 +240,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:11:38,top_volume,xlsx,guardado
 2025-08-12 14:11:40,top_volume,parquet,guardado
 2025-08-12 14:11:42,tvl_aave,csv,guardado
+2025-08-12 14:11:44,tvl_aave,xlsx,guardado
