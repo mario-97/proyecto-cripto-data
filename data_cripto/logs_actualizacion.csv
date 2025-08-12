@@ -910,3 +910,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:23:16,tvl_aave,parquet,error
 2025-08-12 16:25:04,top_holders,csv,guardado
 2025-08-12 16:25:10,top_holders,xlsx,guardado
+2025-08-12 16:25:12,top_holders,parquet,guardado
