@@ -1015,3 +1015,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:47:21,top_volume,parquet,guardado
 2025-08-12 16:47:24,tvl_aave,csv,guardado
 2025-08-12 16:47:25,tvl_aave,xlsx,guardado
+2025-08-12 16:47:26,tvl_aave,parquet,error
