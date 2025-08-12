@@ -889,3 +889,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 21:39:43,trending,parquet,guardado
 2025-08-12 21:39:47,top_volume,csv,guardado
 2025-08-12 21:39:49,top_volume,xlsx,guardado
+2025-08-12 21:39:50,top_volume,parquet,guardado
