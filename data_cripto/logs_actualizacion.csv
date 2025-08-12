@@ -892,3 +892,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 01:44:56,btc_sopr,xlsx,guardado
 2025-08-12 01:45:00,btc_sopr,parquet,guardado
 2025-08-12 01:45:04,btc_hashrate,csv,guardado
+2025-08-12 01:45:08,btc_hashrate,xlsx,guardado
