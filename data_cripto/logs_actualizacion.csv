@@ -440,3 +440,4 @@ fecha_hora,archivo,formato,status
 2025-08-11 23:58:37,tvl_aave,csv,guardado
 2025-08-11 23:58:38,tvl_aave,xlsx,guardado
 2025-08-11 23:58:39,tvl_aave,parquet,error
+2025-08-12 00:00:03,top_holders,csv,guardado
