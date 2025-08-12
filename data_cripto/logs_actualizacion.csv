@@ -609,3 +609,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 15:23:37,tvl_aave,xlsx,guardado
 2025-08-12 15:23:38,tvl_aave,parquet,error
 2025-08-12 15:24:35,top_holders,csv,guardado
+2025-08-12 15:24:41,top_holders,xlsx,guardado
