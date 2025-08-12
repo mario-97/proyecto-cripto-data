@@ -451,3 +451,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 04:05:28,top_volume,parquet,guardado
 2025-08-12 04:05:30,tvl_aave,csv,guardado
 2025-08-12 04:05:32,tvl_aave,xlsx,guardado
+2025-08-12 04:05:32,tvl_aave,parquet,error
