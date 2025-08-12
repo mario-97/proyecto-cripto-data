@@ -449,3 +449,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 20:14:24,top_holders,csv,guardado
 2025-08-12 20:14:30,top_holders,xlsx,guardado
 2025-08-12 20:14:32,top_holders,parquet,guardado
+2025-08-12 20:15:42,top_flow,csv,guardado
