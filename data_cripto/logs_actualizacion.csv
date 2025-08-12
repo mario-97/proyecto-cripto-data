@@ -1042,3 +1042,5 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:53:24,transfers,xlsx,error
 2025-08-12 16:53:25,trending,xlsx,guardado
 2025-08-12 16:53:26,trending,parquet,guardado
+2025-08-12 16:53:27,transfers,parquet,error
+2025-08-12 16:53:30,top_volume,csv,guardado
