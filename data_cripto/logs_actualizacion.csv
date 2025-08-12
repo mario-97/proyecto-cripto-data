@@ -409,3 +409,5 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:44:17,top_volume,xlsx,guardado
 2025-08-12 14:44:23,top_volume,parquet,guardado
 2025-08-12 14:44:28,tvl_aave,csv,guardado
+2025-08-12 14:44:29,transfers,xlsx,error
+2025-08-12 14:44:30,tvl_aave,xlsx,guardado
