@@ -451,3 +451,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 00:01:29,trending,parquet,guardado
 2025-08-12 00:01:32,top_volume,csv,guardado
 2025-08-12 00:01:33,top_volume,xlsx,guardado
+2025-08-12 00:01:35,top_volume,parquet,guardado
