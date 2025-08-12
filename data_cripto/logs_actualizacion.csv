@@ -199,3 +199,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:02:26,tvl_aave,parquet,error
 2025-08-12 14:03:41,top_holders,csv,guardado
 2025-08-12 14:03:47,top_holders,xlsx,guardado
+2025-08-12 14:03:49,top_holders,parquet,guardado
