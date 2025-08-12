@@ -803,3 +803,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 21:23:36,transfers,csv,guardado
 2025-08-12 21:23:52,transfers,xlsx,guardado
 2025-08-12 21:23:55,transfers,parquet,guardado
+2025-08-12 21:24:45,top_flow,csv,guardado
