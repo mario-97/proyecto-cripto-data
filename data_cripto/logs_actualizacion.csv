@@ -605,3 +605,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 20:45:42,top_flow,csv,guardado
 2025-08-12 20:45:44,top_flow,xlsx,guardado
 2025-08-12 20:45:46,top_flow,parquet,guardado
+2025-08-12 20:45:48,trending,csv,guardado
