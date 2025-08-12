@@ -708,3 +708,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 21:04:23,tvl_aave,xlsx,guardado
 2025-08-12 21:04:24,tvl_aave,parquet,error
 2025-08-12 21:05:06,top_holders,csv,guardado
+2025-08-12 21:05:12,top_holders,xlsx,guardado
