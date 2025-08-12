@@ -959,3 +959,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:36:56,top_holders,csv,guardado
 2025-08-12 16:37:02,top_holders,xlsx,guardado
 2025-08-12 16:37:04,top_holders,parquet,guardado
+2025-08-12 16:38:18,top_flow,csv,guardado
