@@ -40,3 +40,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 18:52:36,tvl_aave,parquet,error
 2025-08-12 18:53:33,top_holders,csv,guardado
 2025-08-12 18:53:39,top_holders,xlsx,guardado
+2025-08-12 18:53:41,top_holders,parquet,guardado
