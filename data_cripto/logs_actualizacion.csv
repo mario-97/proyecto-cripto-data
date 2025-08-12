@@ -643,3 +643,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 15:30:52,top_holders,parquet,guardado
 2025-08-12 15:32:18,top_flow,csv,guardado
 2025-08-12 15:32:20,top_flow,xlsx,guardado
+2025-08-12 15:32:21,top_flow,parquet,guardado
