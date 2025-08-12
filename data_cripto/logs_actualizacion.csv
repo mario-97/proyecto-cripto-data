@@ -73,3 +73,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 22:10:00,top_flow,parquet,guardado
 2025-08-12 22:10:02,trending,csv,guardado
 2025-08-12 22:10:03,trending,xlsx,guardado
+2025-08-12 22:10:05,trending,parquet,guardado
