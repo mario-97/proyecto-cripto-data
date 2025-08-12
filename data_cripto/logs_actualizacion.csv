@@ -618,3 +618,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 06:46:53,top_holders,xlsx,guardado
 2025-08-12 06:46:55,top_holders,parquet,guardado
 2025-08-12 06:47:53,top_flow,csv,guardado
+2025-08-12 06:47:55,top_flow,xlsx,guardado
