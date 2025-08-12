@@ -883,3 +883,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 21:38:44,transfers,parquet,guardado
 2025-08-12 21:39:35,top_flow,csv,guardado
 2025-08-12 21:39:37,top_flow,xlsx,guardado
+2025-08-12 21:39:38,top_flow,parquet,guardado
