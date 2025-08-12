@@ -5,3 +5,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 18:47:07,btc_price,csv,guardado
 2025-08-12 18:47:11,btc_price,xlsx,guardado
 2025-08-12 18:47:13,btc_price,parquet,guardado
+2025-08-12 18:47:17,btc_mvrvz,csv,guardado
