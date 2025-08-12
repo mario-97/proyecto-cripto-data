@@ -443,3 +443,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:50:08,tvl_aave,csv,guardado
 2025-08-12 14:50:10,tvl_aave,xlsx,guardado
 2025-08-12 14:50:11,tvl_aave,parquet,error
+2025-08-12 14:52:28,top_holders,csv,guardado
