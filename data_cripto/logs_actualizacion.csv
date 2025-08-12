@@ -1049,3 +1049,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:53:37,tvl_aave,csv,guardado
 2025-08-12 16:53:38,tvl_aave,xlsx,guardado
 2025-08-12 16:53:39,tvl_aave,parquet,error
+2025-08-12 16:54:47,top_holders,csv,guardado
