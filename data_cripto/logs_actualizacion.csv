@@ -833,3 +833,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 01:28:41,tvl_aave,csv,guardado
 2025-08-12 01:28:43,tvl_aave,xlsx,guardado
 2025-08-12 01:28:44,tvl_aave,parquet,error
+2025-08-12 01:29:59,top_holders,csv,guardado
