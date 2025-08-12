@@ -280,3 +280,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:19:00,transfers,parquet,guardado
 2025-08-12 14:19:55,top_flow,csv,guardado
 2025-08-12 14:19:57,top_flow,xlsx,guardado
+2025-08-12 14:19:59,top_flow,parquet,guardado
