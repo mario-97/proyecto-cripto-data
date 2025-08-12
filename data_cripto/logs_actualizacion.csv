@@ -970,3 +970,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:38:34,top_volume,parquet,guardado
 2025-08-12 16:38:37,tvl_aave,csv,guardado
 2025-08-12 16:38:38,tvl_aave,xlsx,guardado
+2025-08-12 16:38:39,tvl_aave,parquet,error
