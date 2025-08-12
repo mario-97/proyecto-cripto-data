@@ -939,3 +939,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 16:32:24,top_volume,xlsx,guardado
 2025-08-12 16:32:26,top_volume,parquet,guardado
 2025-08-12 16:32:28,tvl_aave,csv,guardado
+2025-08-12 16:32:30,tvl_aave,xlsx,guardado
