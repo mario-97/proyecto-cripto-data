@@ -168,3 +168,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 19:18:59,trending,xlsx,guardado
 2025-08-12 19:19:01,trending,parquet,guardado
 2025-08-12 19:19:05,top_volume,csv,guardado
+2025-08-12 19:19:07,top_volume,xlsx,guardado
