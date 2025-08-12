@@ -412,3 +412,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:44:29,transfers,xlsx,error
 2025-08-12 14:44:30,tvl_aave,xlsx,guardado
 2025-08-12 14:44:31,tvl_aave,parquet,error
+2025-08-12 14:44:32,transfers,parquet,error
