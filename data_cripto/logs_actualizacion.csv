@@ -270,3 +270,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 14:17:25,top_volume,xlsx,guardado
 2025-08-12 14:17:27,top_volume,parquet,guardado
 2025-08-12 14:17:29,tvl_aave,csv,guardado
+2025-08-12 14:17:31,tvl_aave,xlsx,guardado
