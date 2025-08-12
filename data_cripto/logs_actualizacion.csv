@@ -789,3 +789,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 15:59:35,tvl_aave,xlsx,guardado
 2025-08-12 15:59:36,tvl_aave,parquet,error
 2025-08-12 16:00:46,top_holders,csv,guardado
+2025-08-12 16:00:53,top_holders,xlsx,guardado
