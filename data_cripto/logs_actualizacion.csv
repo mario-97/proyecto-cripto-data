@@ -630,3 +630,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 16:50:58,trending,xlsx,guardado
 2025-08-13 16:51:00,trending,parquet,guardado
 2025-08-13 16:51:03,top_volume,csv,guardado
+2025-08-13 16:51:05,top_volume,xlsx,guardado
