@@ -100,3 +100,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 13:59:21,tvl_aave,parquet,error
 2025-08-13 14:00:03,btc_cdd,csv,guardado
 2025-08-13 14:00:07,btc_cdd,xlsx,guardado
+2025-08-13 14:00:10,btc_cdd,parquet,guardado
