@@ -122,3 +122,5 @@ fecha_hora,archivo,formato,status
 2025-08-13 14:04:29,transfers,csv,guardado
 2025-08-13 14:04:41,top_flow,csv,guardado
 2025-08-13 14:04:46,top_flow,xlsx,guardado
+2025-08-13 14:04:48,transfers,xlsx,error
+2025-08-13 14:04:49,top_flow,parquet,guardado
