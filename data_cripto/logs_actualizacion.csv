@@ -413,3 +413,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 16:09:37,trending,xlsx,guardado
 2025-08-13 16:09:37,transfers,parquet,error
 2025-08-13 16:09:38,trending,parquet,guardado
+2025-08-13 16:09:41,top_volume,csv,guardado
