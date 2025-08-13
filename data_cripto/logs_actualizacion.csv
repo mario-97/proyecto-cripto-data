@@ -434,3 +434,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 01:41:47,tvl_aave,csv,guardado
 2025-08-13 01:41:49,tvl_aave,xlsx,guardado
 2025-08-13 01:41:49,tvl_aave,parquet,error
+2025-08-13 01:42:04,transfers,csv,guardado
