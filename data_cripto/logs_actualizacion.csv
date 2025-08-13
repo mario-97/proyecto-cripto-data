@@ -131,3 +131,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 00:44:59,transfers,parquet,error
 2025-08-13 00:45:00,trending,xlsx,guardado
 2025-08-13 00:45:01,trending,parquet,guardado
+2025-08-13 00:45:04,top_volume,csv,guardado
