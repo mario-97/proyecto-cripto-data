@@ -918,3 +918,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 00:33:25,btc_hashrate,csv,guardado
 2025-08-13 00:33:28,btc_hashrate,xlsx,guardado
 2025-08-13 00:33:31,btc_hashrate,parquet,guardado
+2025-08-13 00:33:36,btc_miner_outflows,csv,guardado
