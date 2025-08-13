@@ -911,3 +911,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 00:32:56,btc_mvrvz,parquet,guardado
 2025-08-13 00:33:01,btc_nupl,csv,guardado
 2025-08-13 00:33:04,btc_nupl,xlsx,guardado
+2025-08-13 00:33:08,btc_nupl,parquet,guardado
