@@ -983,3 +983,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 02:26:25,btc_mvrvz_sth,parquet,guardado
 2025-08-13 02:26:47,eth_ctd,csv,guardado
 2025-08-13 02:26:50,eth_ctd,xlsx,guardado
+2025-08-13 02:26:53,eth_ctd,parquet,guardado
