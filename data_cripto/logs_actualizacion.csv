@@ -905,3 +905,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 00:32:31,eth_ctd,parquet,guardado
 2025-08-13 00:32:36,btc_price,csv,guardado
 2025-08-13 00:32:40,btc_price,xlsx,guardado
+2025-08-13 00:32:44,btc_price,parquet,guardado
