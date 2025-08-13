@@ -533,3 +533,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 16:33:13,transfers,csv,guardado
 2025-08-13 16:33:14,trending,csv,error
 2025-08-13 16:33:18,trending,xlsx,guardado
+2025-08-13 16:33:23,trending,parquet,guardado
