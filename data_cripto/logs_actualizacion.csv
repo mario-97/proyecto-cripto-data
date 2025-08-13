@@ -901,3 +901,4 @@ fecha_hora,archivo,formato,status
 2025-08-12 01:45:31,btc_miner_reserves,xlsx,guardado
 2025-08-12 01:45:34,btc_miner_reserves,parquet,guardado
 2025-08-13 00:32:25,eth_ctd,csv,guardado
+2025-08-13 00:32:28,eth_ctd,xlsx,guardado
