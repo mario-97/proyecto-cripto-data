@@ -795,3 +795,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 17:21:19,transfers,parquet,error
 2025-08-13 17:21:20,tvl_aave,parquet,error
 2025-08-13 17:22:33,top_holders,csv,guardado
+2025-08-13 17:22:39,top_holders,xlsx,guardado
