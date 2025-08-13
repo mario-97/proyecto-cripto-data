@@ -735,3 +735,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 17:11:08,transfers,xlsx,guardado
 2025-08-13 17:11:11,transfers,parquet,guardado
 2025-08-13 17:11:51,top_flow,csv,guardado
+2025-08-13 17:11:53,top_flow,xlsx,guardado
