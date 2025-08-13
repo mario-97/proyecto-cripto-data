@@ -178,3 +178,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 15:24:25,trending,xlsx,guardado
 2025-08-13 15:24:27,transfers,xlsx,error
 2025-08-13 15:24:28,trending,parquet,error
+2025-08-13 15:24:30,transfers,parquet,guardado
