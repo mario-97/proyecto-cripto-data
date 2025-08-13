@@ -385,3 +385,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 05:07:56,transfers,parquet,guardado
 2025-08-13 05:08:31,top_flow,csv,guardado
 2025-08-13 05:08:33,top_flow,xlsx,guardado
+2025-08-13 05:08:35,top_flow,parquet,guardado
