@@ -103,3 +103,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 14:00:10,btc_cdd,parquet,guardado
 2025-08-13 14:00:15,top_holders,csv,guardado
 2025-08-13 14:00:23,top_holders,xlsx,guardado
+2025-08-13 14:00:26,top_holders,parquet,guardado
