@@ -110,3 +110,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 06:49:42,top_holders,csv,guardado
 2025-08-13 06:49:48,top_holders,xlsx,guardado
 2025-08-13 06:49:50,top_holders,parquet,guardado
+2025-08-13 06:50:51,top_flow,csv,guardado
