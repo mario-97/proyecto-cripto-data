@@ -955,3 +955,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 00:40:35,tvl_aave,xlsx,guardado
 2025-08-13 00:40:36,tvl_aave,parquet,error
 2025-08-13 00:41:53,top_holders,csv,error
+2025-08-13 00:41:57,top_holders,xlsx,guardado
