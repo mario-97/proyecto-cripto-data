@@ -19,3 +19,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 18:15:46,btc_sopr_sth,parquet,guardado
 2025-08-13 18:15:49,btc_price,csv,guardado
 2025-08-13 18:15:52,btc_price,xlsx,guardado
+2025-08-13 18:15:54,btc_price,parquet,guardado
