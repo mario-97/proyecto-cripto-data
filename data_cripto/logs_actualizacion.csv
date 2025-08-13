@@ -975,3 +975,4 @@ fecha_hora,archivo,formato,status
 2025-08-13 02:25:57,eth_ctd,csv,guardado
 2025-08-13 02:26:00,eth_ctd,xlsx,guardado
 2025-08-13 02:26:03,eth_ctd,parquet,guardado
+2025-08-13 02:26:08,btc_cdd,csv,guardado
