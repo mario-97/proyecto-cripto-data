@@ -243,3 +243,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 01:09:04,trending,xlsx,guardado
 2025-08-14 01:09:07,trending,parquet,guardado
 2025-08-14 01:09:09,top_volume,csv,guardado
+2025-08-14 01:09:11,top_volume,xlsx,guardado
