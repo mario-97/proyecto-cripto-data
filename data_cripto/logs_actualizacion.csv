@@ -913,3 +913,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 16:35:23,top_volume,parquet,guardado
 2025-08-14 16:35:26,tvl_aave,csv,guardado
 2025-08-14 16:35:28,tvl_aave,xlsx,guardado
+2025-08-14 16:35:29,tvl_aave,parquet,error
