@@ -639,3 +639,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 02:24:17,tvl_aave,xlsx,guardado
 2025-08-14 02:24:18,tvl_aave,parquet,error
 2025-08-14 02:25:53,top_holders,csv,guardado
+2025-08-14 02:26:00,top_holders,xlsx,guardado
