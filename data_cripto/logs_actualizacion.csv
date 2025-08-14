@@ -448,3 +448,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 14:56:22,top_volume,parquet,guardado
 2025-08-14 14:56:25,tvl_aave,csv,guardado
 2025-08-14 14:56:26,tvl_aave,xlsx,guardado
+2025-08-14 14:56:27,tvl_aave,parquet,error
