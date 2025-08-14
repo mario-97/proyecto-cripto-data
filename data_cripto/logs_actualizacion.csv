@@ -273,3 +273,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 18:25:49,transfers,xlsx,guardado
 2025-08-14 18:25:52,transfers,parquet,guardado
 2025-08-14 18:25:57,top_flow,csv,guardado
+2025-08-14 18:25:59,top_flow,xlsx,guardado
