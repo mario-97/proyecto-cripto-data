@@ -527,3 +527,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 02:03:39,transfers,csv,guardado
 2025-08-14 02:03:54,transfers,xlsx,guardado
 2025-08-14 02:03:56,transfers,parquet,guardado
+2025-08-14 02:04:52,top_holders,csv,guardado
