@@ -166,3 +166,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 14:00:09,btc_cdd,parquet,guardado
 2025-08-14 14:01:10,top_holders,csv,guardado
 2025-08-14 14:01:15,top_holders,xlsx,guardado
+2025-08-14 14:01:17,top_holders,parquet,guardado
