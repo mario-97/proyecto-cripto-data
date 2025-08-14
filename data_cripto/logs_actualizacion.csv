@@ -480,3 +480,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 01:54:15,tvl_aave,xlsx,guardado
 2025-08-14 01:54:16,tvl_aave,parquet,error
 2025-08-14 01:55:53,top_holders,csv,guardado
+2025-08-14 01:55:59,top_holders,xlsx,guardado
