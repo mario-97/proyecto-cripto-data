@@ -865,3 +865,4 @@ fecha_hora,archivo,formato,status
 2025-08-14 03:09:01,top_flow,parquet,guardado
 2025-08-14 03:09:02,trending,csv,guardado
 2025-08-14 03:09:04,trending,xlsx,guardado
+2025-08-14 03:09:06,trending,parquet,guardado
