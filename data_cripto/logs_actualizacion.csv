@@ -168,3 +168,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 03:47:58,tvl_aave,xlsx,guardado
 2025-08-15 03:48:00,tvl_aave,parquet,guardado
 2025-08-15 03:48:47,transfers,csv,guardado
+2025-08-15 03:49:02,transfers,xlsx,guardado
