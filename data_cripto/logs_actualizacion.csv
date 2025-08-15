@@ -500,3 +500,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 04:50:54,top_volume,csv,guardado
 2025-08-15 04:50:56,top_volume,xlsx,guardado
 2025-08-15 04:50:57,top_volume,parquet,guardado
+2025-08-15 04:51:01,tvl_aave,csv,guardado
