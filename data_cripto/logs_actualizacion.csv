@@ -908,3 +908,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 06:11:58,top_flow,csv,guardado
 2025-08-15 06:12:00,top_flow,xlsx,guardado
 2025-08-15 06:12:01,top_flow,parquet,guardado
+2025-08-15 06:12:03,trending,csv,guardado
