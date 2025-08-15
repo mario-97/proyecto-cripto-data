@@ -708,3 +708,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 05:30:48,transfers,xlsx,guardado
 2025-08-15 05:30:51,transfers,parquet,guardado
 2025-08-15 05:31:40,top_holders,csv,guardado
+2025-08-15 05:31:47,top_holders,xlsx,guardado
