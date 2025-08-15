@@ -899,3 +899,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 06:09:36,top_volume,csv,guardado
 2025-08-15 06:09:38,top_volume,xlsx,guardado
 2025-08-15 06:09:40,top_volume,parquet,guardado
+2025-08-15 06:09:42,tvl_aave,csv,guardado
