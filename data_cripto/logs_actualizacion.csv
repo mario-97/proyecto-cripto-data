@@ -360,3 +360,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 04:23:57,tvl_aave,xlsx,guardado
 2025-08-15 04:23:59,tvl_aave,parquet,guardado
 2025-08-15 04:25:39,top_holders,csv,guardado
+2025-08-15 04:25:45,top_holders,xlsx,guardado
