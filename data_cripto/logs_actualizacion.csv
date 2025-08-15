@@ -1038,3 +1038,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 06:36:09,tvl_aave,xlsx,guardado
 2025-08-15 06:36:10,tvl_aave,parquet,guardado
 2025-08-15 06:37:47,top_holders,csv,guardado
+2025-08-15 06:37:54,top_holders,xlsx,guardado
