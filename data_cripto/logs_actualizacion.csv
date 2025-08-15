@@ -980,3 +980,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 06:26:13,top_holders,csv,guardado
 2025-08-15 06:26:19,top_holders,xlsx,guardado
 2025-08-15 06:26:21,top_holders,parquet,guardado
+2025-08-15 06:27:15,top_flow,csv,guardado
