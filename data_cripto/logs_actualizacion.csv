@@ -602,3 +602,4 @@ fecha_hora,archivo,formato,status
 2025-08-15 05:11:30,transfers,csv,guardado
 2025-08-15 05:11:44,top_flow,csv,guardado
 2025-08-15 05:11:45,transfers,xlsx,error
+2025-08-15 05:11:45,top_flow,xlsx,error
