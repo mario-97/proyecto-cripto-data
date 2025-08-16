@@ -175,3 +175,4 @@ fecha_hora,archivo,formato,status
 2025-08-16 03:30:37,transfers,parquet,error
 2025-08-16 03:30:39,trending,csv,guardado
 2025-08-16 03:30:40,trending,xlsx,guardado
+2025-08-16 03:30:42,trending,parquet,guardado
