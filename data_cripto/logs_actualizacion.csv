@@ -4,3 +4,4 @@ fecha_hora,archivo,formato,status
 2025-08-16 15:44:26,eth_ctd,parquet,guardado
 2025-08-16 15:44:29,btc_cdd,csv,guardado
 2025-08-16 15:44:33,btc_cdd,xlsx,guardado
+2025-08-16 15:44:35,btc_cdd,parquet,guardado
