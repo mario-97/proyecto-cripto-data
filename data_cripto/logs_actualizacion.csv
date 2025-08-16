@@ -318,3 +318,4 @@ fecha_hora,archivo,formato,status
 2025-08-16 03:59:59,top_volume,xlsx,guardado
 2025-08-16 04:00:00,top_volume,parquet,guardado
 2025-08-16 04:00:02,tvl_aave,csv,guardado
+2025-08-16 04:00:04,tvl_aave,xlsx,guardado
