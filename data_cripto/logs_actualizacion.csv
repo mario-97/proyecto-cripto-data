@@ -465,3 +465,4 @@ fecha_hora,archivo,formato,status
 2025-08-16 04:28:58,transfers,parquet,guardado
 2025-08-16 04:29:00,top_holders,parquet,guardado
 2025-08-16 04:29:52,top_flow,csv,guardado
+2025-08-16 04:29:54,top_flow,xlsx,guardado
