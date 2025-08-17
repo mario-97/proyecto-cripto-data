@@ -638,3 +638,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 04:38:01,top_volume,csv,guardado
 2025-08-17 04:38:02,top_volume,xlsx,guardado
 2025-08-17 04:38:03,top_volume,parquet,guardado
+2025-08-17 04:38:06,tvl_aave,csv,guardado
