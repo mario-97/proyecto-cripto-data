@@ -280,3 +280,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 03:29:00,transfers,csv,error
 2025-08-17 03:29:00,top_volume,parquet,guardado
 2025-08-17 03:29:15,tvl_aave,csv,guardado
+2025-08-17 03:29:17,tvl_aave,xlsx,error
