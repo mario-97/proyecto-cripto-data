@@ -283,3 +283,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 03:29:17,tvl_aave,xlsx,error
 2025-08-17 03:29:17,transfers,xlsx,guardado
 2025-08-17 03:29:18,tvl_aave,parquet,guardado
+2025-08-17 03:29:19,transfers,parquet,guardado
