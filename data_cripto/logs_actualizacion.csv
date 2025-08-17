@@ -400,3 +400,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 03:52:02,top_holders,parquet,guardado
 2025-08-17 03:52:46,top_flow,csv,guardado
 2025-08-17 03:52:47,top_flow,xlsx,guardado
+2025-08-17 03:52:49,top_flow,parquet,guardado
