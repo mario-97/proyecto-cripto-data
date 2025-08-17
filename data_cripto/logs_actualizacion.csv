@@ -1389,3 +1389,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 07:05:03,top_volume,xlsx,guardado
 2025-08-17 07:05:04,top_volume,parquet,guardado
 2025-08-17 07:05:08,tvl_aave,csv,guardado
+2025-08-17 07:05:10,tvl_aave,xlsx,guardado
