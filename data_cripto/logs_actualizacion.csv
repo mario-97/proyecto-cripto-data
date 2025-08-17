@@ -442,3 +442,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 03:59:10,tvl_aave,parquet,guardado
 2025-08-17 04:00:00,transfers,csv,guardado
 2025-08-17 04:00:14,transfers,xlsx,guardado
+2025-08-17 04:00:17,transfers,parquet,guardado
