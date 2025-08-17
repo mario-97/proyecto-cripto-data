@@ -703,3 +703,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 04:50:03,top_volume,parquet,guardado
 2025-08-17 04:50:07,tvl_aave,csv,guardado
 2025-08-17 04:50:09,tvl_aave,xlsx,guardado
+2025-08-17 04:50:10,tvl_aave,parquet,guardado
