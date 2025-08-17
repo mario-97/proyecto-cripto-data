@@ -1030,3 +1030,4 @@ fecha_hora,archivo,formato,status
 2025-08-17 05:53:31,tvl_aave,parquet,guardado
 2025-08-17 05:55:13,top_holders,csv,guardado
 2025-08-17 05:55:18,top_holders,xlsx,guardado
+2025-08-17 05:55:20,top_holders,parquet,guardado
