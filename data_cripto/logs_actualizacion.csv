@@ -634,3 +634,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 03:47:42,top_volume,parquet,guardado
 2025-08-18 03:47:45,tvl_aave,csv,guardado
 2025-08-18 03:47:46,tvl_aave,xlsx,guardado
+2025-08-18 03:47:48,tvl_aave,parquet,guardado
