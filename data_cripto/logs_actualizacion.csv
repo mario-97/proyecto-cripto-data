@@ -600,3 +600,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 20:54:12,tvl_aave,xlsx,guardado
 2025-08-18 20:54:13,tvl_aave,parquet,guardado
 2025-08-18 20:56:06,top_holders,csv,guardado
+2025-08-18 20:56:13,top_holders,xlsx,guardado
