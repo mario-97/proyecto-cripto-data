@@ -255,3 +255,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 19:48:05,top_volume,xlsx,guardado
 2025-08-18 19:48:06,top_volume,parquet,guardado
 2025-08-18 19:48:10,tvl_aave,csv,guardado
+2025-08-18 19:48:12,tvl_aave,xlsx,guardado
