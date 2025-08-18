@@ -709,3 +709,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 21:15:15,tvl_aave,parquet,guardado
 2025-08-18 21:15:52,transfers,csv,guardado
 2025-08-18 21:16:08,transfers,xlsx,guardado
+2025-08-18 21:16:10,transfers,parquet,guardado
