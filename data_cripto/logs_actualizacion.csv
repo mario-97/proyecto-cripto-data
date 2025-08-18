@@ -389,3 +389,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 20:14:23,transfers,xlsx,error
 2025-08-18 20:14:24,top_holders,parquet,guardado
 2025-08-18 20:14:26,transfers,parquet,error
+2025-08-18 20:15:16,top_flow,csv,guardado
