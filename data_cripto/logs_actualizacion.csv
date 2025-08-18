@@ -345,3 +345,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 02:50:49,tvl_aave,xlsx,guardado
 2025-08-18 02:50:51,tvl_aave,parquet,guardado
 2025-08-18 02:52:40,top_holders,csv,guardado
+2025-08-18 02:52:45,top_holders,xlsx,guardado
