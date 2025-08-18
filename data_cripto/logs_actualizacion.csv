@@ -230,3 +230,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 02:29:44,trending,xlsx,error
 2025-08-18 02:29:45,trending,parquet,guardado
 2025-08-18 02:29:46,transfers,parquet,guardado
+2025-08-18 02:29:47,top_volume,csv,guardado
