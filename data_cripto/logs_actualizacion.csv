@@ -801,3 +801,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 21:33:16,tvl_aave,xlsx,guardado
 2025-08-18 21:33:18,tvl_aave,parquet,guardado
 2025-08-18 21:33:22,transfers,csv,guardado
+2025-08-18 21:33:37,transfers,xlsx,guardado
