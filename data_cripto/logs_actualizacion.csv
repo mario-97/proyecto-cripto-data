@@ -358,3 +358,4 @@ fecha_hora,archivo,formato,status
 2025-08-18 02:53:42,top_volume,parquet,guardado
 2025-08-18 02:53:45,tvl_aave,csv,guardado
 2025-08-18 02:53:47,tvl_aave,xlsx,guardado
+2025-08-18 02:53:48,tvl_aave,parquet,guardado
