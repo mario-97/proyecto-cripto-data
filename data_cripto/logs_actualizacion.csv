@@ -1198,3 +1198,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 18:56:41,tvl_aave,parquet,guardado
 2025-08-19 18:58:20,top_holders,csv,guardado
 2025-08-19 18:58:28,top_holders,xlsx,guardado
+2025-08-19 18:58:30,top_holders,parquet,guardado
