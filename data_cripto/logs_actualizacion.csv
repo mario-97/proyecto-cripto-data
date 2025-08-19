@@ -198,4 +198,5 @@ fecha_hora,archivo,formato,status
 2025-08-19 14:00:36,top_volume,csv,guardado
 2025-08-19 14:00:36,btc_sopr_lth,xlsx,error
 2025-08-19 14:00:38,top_volume,xlsx,guardado
-r
+r,,,
+2025-08-19 14:00:39,top_volume,parquet,guardado
