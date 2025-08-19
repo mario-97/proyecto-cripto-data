@@ -91,3 +91,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 01:52:12,tvl_aave,parquet,guardado
 2025-08-19 01:53:09,transfers,csv,guardado
 2025-08-19 01:53:25,transfers,xlsx,guardado
+2025-08-19 01:53:27,transfers,parquet,guardado
