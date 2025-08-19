@@ -910,3 +910,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 18:01:42,top_holders,parquet,guardado
 2025-08-19 18:02:32,top_flow,csv,guardado
 2025-08-19 18:02:34,top_flow,xlsx,guardado
+2025-08-19 18:02:35,top_flow,parquet,guardado
