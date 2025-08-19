@@ -1219,3 +1219,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 19:02:31,top_flow,parquet,guardado
 2025-08-19 19:02:33,trending,csv,guardado
 2025-08-19 19:02:34,trending,xlsx,guardado
+2025-08-19 19:02:36,trending,parquet,guardado
