@@ -1045,3 +1045,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 18:27:01,transfers,parquet,guardado
 2025-08-19 18:28:34,top_holders,csv,guardado
 2025-08-19 18:28:40,top_holders,xlsx,guardado
+2025-08-19 18:28:42,top_holders,parquet,guardado
