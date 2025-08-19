@@ -1547,3 +1547,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 20:05:38,tvl_aave,csv,guardado
 2025-08-19 20:05:40,tvl_aave,xlsx,guardado
 2025-08-19 20:05:42,tvl_aave,parquet,guardado
+2025-08-19 20:05:49,transfers,csv,guardado
