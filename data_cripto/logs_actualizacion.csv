@@ -1701,3 +1701,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 20:35:29,top_volume,xlsx,guardado
 2025-08-19 20:35:31,top_volume,parquet,guardado
 2025-08-19 20:35:35,tvl_aave,csv,guardado
+2025-08-19 20:35:36,tvl_aave,xlsx,guardado
