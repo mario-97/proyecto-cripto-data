@@ -1719,3 +1719,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 20:38:42,tvl_aave,xlsx,guardado
 2025-08-19 20:38:44,tvl_aave,parquet,guardado
 2025-08-19 20:40:29,top_holders,csv,guardado
+2025-08-19 20:40:36,top_holders,xlsx,guardado
