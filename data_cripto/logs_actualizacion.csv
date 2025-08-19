@@ -702,3 +702,5 @@ fecha_hora,archivo,formato,status
 2025-08-19 17:20:35,top_volume,xlsx,guardado
 2025-08-19 17:20:37,top_volume,parquet,guardado
 2025-08-19 17:20:40,tvl_aave,csv,guardado
+2025-08-19 17:20:41,transfers,csv,error
+2025-08-19 17:20:43,tvl_aave,xlsx,guardado
