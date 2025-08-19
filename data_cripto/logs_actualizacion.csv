@@ -1510,3 +1510,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 19:59:29,top_flow,parquet,guardado
 2025-08-19 19:59:32,trending,csv,guardado
 2025-08-19 19:59:33,trending,xlsx,guardado
+2025-08-19 19:59:35,trending,parquet,guardado
