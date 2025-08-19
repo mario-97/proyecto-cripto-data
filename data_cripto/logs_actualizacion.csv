@@ -1223,3 +1223,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 19:02:39,top_volume,csv,guardado
 2025-08-19 19:02:41,top_volume,xlsx,guardado
 2025-08-19 19:02:43,top_volume,parquet,guardado
+2025-08-19 19:02:47,tvl_aave,csv,guardado
