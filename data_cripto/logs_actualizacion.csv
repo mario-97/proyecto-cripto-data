@@ -705,3 +705,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 17:20:41,transfers,csv,error
 2025-08-19 17:20:43,tvl_aave,xlsx,guardado
 2025-08-19 17:20:47,tvl_aave,parquet,guardado
+2025-08-19 17:20:58,transfers,xlsx,guardado
