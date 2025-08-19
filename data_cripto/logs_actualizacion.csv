@@ -1028,3 +1028,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 18:25:18,top_holders,csv,guardado
 2025-08-19 18:25:24,top_holders,xlsx,guardado
 2025-08-19 18:25:26,top_holders,parquet,guardado
+2025-08-19 18:26:10,top_flow,csv,guardado
