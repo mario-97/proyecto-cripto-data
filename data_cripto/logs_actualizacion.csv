@@ -629,3 +629,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 17:06:00,tvl_aave,csv,guardado
 2025-08-19 17:06:01,tvl_aave,xlsx,guardado
 2025-08-19 17:06:04,tvl_aave,parquet,guardado
+2025-08-19 17:07:40,top_holders,csv,guardado
