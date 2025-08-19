@@ -50,3 +50,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 04:21:07,top_flow,csv,guardado
 2025-08-19 04:21:09,top_flow,xlsx,guardado
 2025-08-19 04:21:10,top_flow,parquet,guardado
+2025-08-19 04:21:12,trending,csv,guardado
