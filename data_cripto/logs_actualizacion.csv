@@ -1663,3 +1663,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 20:29:12,transfers,parquet,guardado
 2025-08-19 20:29:19,top_flow,csv,guardado
 2025-08-19 20:29:21,top_flow,xlsx,guardado
+2025-08-19 20:29:22,top_flow,parquet,guardado
