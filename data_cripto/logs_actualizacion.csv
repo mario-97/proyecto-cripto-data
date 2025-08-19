@@ -905,3 +905,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 18:01:17,transfers,csv,guardado
 2025-08-19 18:01:32,transfers,xlsx,guardado
 2025-08-19 18:01:34,top_holders,csv,guardado
+2025-08-19 18:01:35,transfers,parquet,error
