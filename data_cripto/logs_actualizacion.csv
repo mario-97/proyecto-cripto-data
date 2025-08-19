@@ -188,3 +188,4 @@ fecha_hora,archivo,formato,status
 2025-08-19 14:00:21,top_flow,csv,guardado
 2025-08-19 14:00:22,btc_mvrvz_lth,csv,guardado
 2025-08-19 14:00:23,top_flow,xlsx,error
+2025-08-19 14:00:26,top_flow,parquet,guardado
