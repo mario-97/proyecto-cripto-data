@@ -185,3 +185,5 @@ fecha_hora,archivo,formato,status
 2025-08-19 14:00:12,btc_mvrvz_sth,csv,guardado
 2025-08-19 14:00:15,btc_mvrvz_sth,xlsx,guardado
 2025-08-19 14:00:18,btc_mvrvz_sth,parquet,guardado
+2025-08-19 14:00:21,top_flow,csv,guardado
+2025-08-19 14:00:22,btc_mvrvz_lth,csv,guardado
