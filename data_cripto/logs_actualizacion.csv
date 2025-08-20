@@ -700,3 +700,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 15:48:00,tvl_aave,parquet,guardado
 2025-08-20 15:48:43,transfers,csv,guardado
 2025-08-20 15:49:00,transfers,xlsx,guardado
+2025-08-20 15:49:03,transfers,parquet,guardado
