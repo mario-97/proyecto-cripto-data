@@ -138,3 +138,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 23:33:52,top_holders,csv,error
 2025-08-20 23:34:42,top_flow,csv,error
 2025-08-20 23:34:51,trending,csv,error
+2025-08-20 23:34:59,top_volume,csv,error
