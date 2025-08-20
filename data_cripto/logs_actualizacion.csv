@@ -1986,3 +1986,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 19:59:52,tvl_aave,xlsx,guardado
 2025-08-20 19:59:54,tvl_aave,parquet,guardado
 2025-08-20 20:00:05,transfers,csv,guardado
+2025-08-20 20:00:21,transfers,xlsx,guardado
