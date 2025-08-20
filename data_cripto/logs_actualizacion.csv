@@ -1309,3 +1309,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 17:47:57,tvl_aave,parquet,guardado
 2025-08-20 17:49:26,top_holders,csv,guardado
 2025-08-20 17:49:33,top_holders,xlsx,guardado
+2025-08-20 17:49:35,top_holders,parquet,guardado
