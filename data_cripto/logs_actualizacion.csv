@@ -829,3 +829,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 16:14:39,top_flow,parquet,guardado
 2025-08-20 16:14:43,trending,csv,guardado
 2025-08-20 16:14:45,trending,xlsx,guardado
+2025-08-20 16:14:47,trending,parquet,guardado
