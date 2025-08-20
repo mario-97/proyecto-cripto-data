@@ -590,3 +590,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 15:26:36,tvl_aave,csv,guardado
 2025-08-20 15:26:38,tvl_aave,xlsx,guardado
 2025-08-20 15:26:40,tvl_aave,parquet,guardado
+2025-08-20 15:27:52,transfers,csv,guardado
