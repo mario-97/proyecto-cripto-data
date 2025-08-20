@@ -141,3 +141,4 @@ fecha_hora,archivo,formato,status
 2025-08-20 14:00:06,btc_cdd,xlsx,guardado
 2025-08-20 14:00:08,top_volume,csv,guardado
 2025-08-20 14:00:09,btc_cdd,parquet,guardado
+2025-08-20 14:00:10,top_volume,xlsx,guardado
