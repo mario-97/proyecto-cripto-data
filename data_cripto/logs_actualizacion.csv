@@ -8,3 +8,4 @@ fecha_hora,archivo,formato,status
 2025-08-21 13:02:34,btc_miner_outflows,csv,error
 2025-08-21 13:02:46,btc_miner_reserves,csv,error
 2025-08-21 13:04:39,top_holders,csv,error
+2025-08-21 13:05:36,top_flow,csv,error
