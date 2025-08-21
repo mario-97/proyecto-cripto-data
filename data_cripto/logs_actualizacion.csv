@@ -25,3 +25,4 @@ fecha_hora,archivo,formato,status
 2025-08-21 20:37:10,top_volume,csv,error
 2025-08-21 20:38:59,top_holders,csv,error
 2025-08-21 20:39:46,transfers,csv,error
+2025-08-21 20:39:47,top_flow,csv,error
