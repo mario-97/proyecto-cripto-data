@@ -181,3 +181,4 @@ fecha_hora,archivo,formato,status
 2025-08-21 15:09:00,top_volume,csv,error
 2025-08-21 15:10:46,top_holders,csv,error
 2025-08-21 15:10:51,transfers,csv,error
+2025-08-21 15:11:45,top_flow,csv,error
