@@ -427,3 +427,5 @@ fecha_hora,archivo,formato,status
 2025-08-21 03:07:52,trending,csv,error
 2025-08-21 03:08:02,top_volume,csv,error
 2025-08-21 03:09:53,top_holders,csv,error
+2025-08-21 03:09:53,transfers,csv,error
+2025-08-21 03:10:46,top_flow,csv,error
