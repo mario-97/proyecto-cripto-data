@@ -18,3 +18,4 @@ fecha_hora,archivo,formato,status
 2025-08-23 00:02:15,top_holders,csv,error
 2025-08-23 00:02:15,transfers,csv,guardado
 2025-08-23 00:03:14,top_flow,csv,guardado
+2025-08-23 00:03:24,trending,csv,guardado
