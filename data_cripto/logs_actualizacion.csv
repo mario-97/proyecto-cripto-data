@@ -6,3 +6,4 @@ fecha_hora,archivo,formato,status
 2025-08-26 12:48:09,btc_sopr,csv,guardado
 2025-08-26 12:48:20,btc_hashrate,csv,guardado
 2025-08-26 12:48:31,btc_miner_outflows,csv,guardado
+2025-08-26 12:49:22,btc_miner_reserves,csv,guardado
