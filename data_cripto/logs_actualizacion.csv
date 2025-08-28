@@ -365,3 +365,4 @@ fecha_hora,archivo,formato,status
 2025-08-28 02:48:01,top_holders,csv,guardado
 2025-08-28 02:48:44,top_flow,csv,guardado
 2025-08-28 02:48:45,transfers,csv,error
+2025-08-28 02:48:55,trending,csv,guardado
