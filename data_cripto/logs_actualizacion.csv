@@ -1362,3 +1362,4 @@ fecha_hora,archivo,formato,status
 2025-09-02 02:01:30,btc_cls_thresholds,csv,guardado
 2025-09-02 02:03:56,top_holders,csv,guardado
 2025-09-02 02:05:37,top_flow,csv,guardado
+2025-09-02 02:05:49,trending,csv,guardado
