@@ -1354,3 +1354,4 @@ fecha_hora,archivo,formato,status
 2025-08-31 21:16:03,top_volume,csv,guardado
 2025-09-02 01:53:37,btc_cls_predicciones,csv,guardado
 2025-09-02 01:53:41,btc_cls_leaderboard,csv,guardado
+2025-09-02 01:53:45,btc_cls_thresholds,csv,guardado
