@@ -146,3 +146,4 @@ fecha_hora,archivo,formato,status
 2025-09-05 03:35:03,top_holders,csv,guardado
 2025-09-05 03:35:23,transfers,csv,guardado
 2025-09-05 03:36:23,top_flow,csv,error
+2025-09-05 03:36:33,trending,csv,guardado
