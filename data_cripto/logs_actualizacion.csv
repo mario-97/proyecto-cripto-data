@@ -1,18 +1,2 @@
 fecha_hora,archivo,formato,status
-2025-09-06 16:59:04,eth_ctd,csv,guardado
-2025-09-06 16:59:16,btc_price,csv,guardado
-2025-09-06 16:59:26,btc_mvrvz,csv,guardado
-2025-09-06 16:59:35,btc_nupl,csv,guardado
-2025-09-06 16:59:45,btc_sopr,csv,guardado
-2025-09-06 17:03:06,top_holders,csv,guardado
-2025-09-06 17:04:42,top_flow,csv,guardado
-2025-09-06 17:04:55,trending,csv,guardado
-2025-09-06 17:05:06,top_volume,csv,guardado
-2025-09-06 17:08:53,top_holders,csv,guardado
-2025-09-06 17:10:25,top_flow,csv,guardado
-2025-09-06 17:11:06,trending,csv,guardado
-2025-09-06 17:11:16,top_volume,csv,guardado
-2025-09-06 17:14:34,top_holders,csv,guardado
-2025-09-06 17:16:12,top_flow,csv,guardado
-2025-09-06 17:16:21,trending,csv,guardado
-2025-09-06 17:16:31,top_volume,csv,guardado
+2025-09-06 18:00:37,top_holders,csv,guardado
