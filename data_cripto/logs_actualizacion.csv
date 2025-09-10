@@ -825,3 +825,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 20:53:18,trending,xlsx,guardado
 2025-09-10 20:53:20,trending,parquet,guardado
 2025-09-10 20:53:23,top_volume,csv,guardado
+2025-09-10 20:53:24,top_volume,xlsx,guardado
