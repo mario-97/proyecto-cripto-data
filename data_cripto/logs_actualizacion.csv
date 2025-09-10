@@ -233,3 +233,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 14:00:02,btc_nrpl_usd,csv,guardado
 2025-09-10 14:00:05,btc_nrpl_usd,xlsx,guardado
 2025-09-10 14:00:07,btc_nrpl_usd,parquet,guardado
+2025-09-10 14:00:12,btc_change_price,csv,guardado
