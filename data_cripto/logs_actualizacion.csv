@@ -98,3 +98,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 04:04:04,top_volume,csv,guardado
 2025-09-10 04:04:06,top_volume,xlsx,guardado
 2025-09-10 04:04:07,top_volume,parquet,guardado
+2025-09-10 04:05:36,top_holders,csv,guardado
