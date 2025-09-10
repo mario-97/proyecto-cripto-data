@@ -16,3 +16,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 17:15:01,eth_ctd,parquet,guardado
 2025-09-10 17:15:52,eth_ctd,csv,guardado
 2025-09-10 17:15:57,eth_ctd,xlsx,guardado
+2025-09-10 17:15:58,eth_ctd,parquet,guardado
