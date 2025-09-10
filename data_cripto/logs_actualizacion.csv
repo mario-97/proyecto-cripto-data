@@ -420,3 +420,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 19:02:21,top_volume,xlsx,guardado
 2025-09-10 19:02:23,top_volume,parquet,guardado
 2025-09-10 19:03:37,top_holders,csv,guardado
+2025-09-10 19:03:44,top_holders,xlsx,guardado
