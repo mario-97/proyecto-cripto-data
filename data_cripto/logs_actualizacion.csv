@@ -101,3 +101,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 21:46:18,top_volume,parquet,guardado
 2025-09-10 21:46:19,transfers,xlsx,error
 2025-09-10 21:46:21,transfers,parquet,guardado
+2025-09-10 21:47:15,top_holders,csv,guardado
