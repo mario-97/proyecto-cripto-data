@@ -1,10 +1,2 @@
 fecha_hora,archivo,formato,status
-2025-09-10 21:18:32,btc_nrpl_usd,csv,guardado
-2025-09-10 21:18:37,btc_nrpl_usd,xlsx,guardado
-2025-09-10 21:18:38,btc_nrpl_usd,parquet,guardado
-2025-09-10 21:18:42,btc_change_price,csv,guardado
-2025-09-10 21:18:54,btc_change_price,xlsx,guardado
-2025-09-10 21:18:55,btc_change_price,parquet,guardado
-2025-09-10 21:18:59,btc_hashrate,csv,guardado
-2025-09-10 21:19:02,btc_hashrate,xlsx,guardado
-2025-09-10 21:19:04,btc_hashrate,parquet,guardado
+2025-09-10 21:23:19,top_holders,csv,guardado
