@@ -23,3 +23,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 17:18:35,eth_ctd,csv,guardado
 2025-09-10 17:18:39,eth_ctd,xlsx,guardado
 2025-09-10 17:18:40,eth_ctd,parquet,guardado
+2025-09-10 17:24:36,top_holders,csv,guardado
