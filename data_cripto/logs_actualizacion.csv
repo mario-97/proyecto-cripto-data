@@ -12,3 +12,4 @@ fecha_hora,archivo,formato,status
 2025-09-10 03:43:44,btc_sopr,xlsx,guardado
 2025-09-10 03:43:45,btc_sopr,parquet,guardado
 2025-09-10 03:44:11,top_holders,csv,guardado
+2025-09-10 03:44:19,top_holders,xlsx,guardado
