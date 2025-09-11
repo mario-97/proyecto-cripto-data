@@ -5000,3 +5000,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 22:43:41,top_holders,parquet,guardado
 2025-09-11 22:44:41,top_flow,csv,guardado
 2025-09-11 22:44:42,top_flow,xlsx,guardado
+2025-09-11 22:44:44,top_flow,parquet,guardado
