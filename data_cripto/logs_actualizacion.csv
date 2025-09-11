@@ -1900,3 +1900,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 08:24:04,top_flow,parquet,guardado
 2025-09-11 08:24:06,trending,csv,guardado
 2025-09-11 08:24:08,trending,xlsx,guardado
+2025-09-11 08:24:10,trending,parquet,guardado
