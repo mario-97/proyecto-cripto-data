@@ -4092,3 +4092,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 18:55:11,top_holders,csv,guardado
 2025-09-11 18:55:14,top_holders,xlsx,guardado
 2025-09-11 18:55:16,top_holders,parquet,guardado
+2025-09-11 18:56:23,top_flow,csv,guardado
