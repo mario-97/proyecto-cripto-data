@@ -3,3 +3,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 00:48:16,btc_nrpl_usd,xlsx,guardado
 2025-09-11 00:48:18,btc_nrpl_usd,parquet,guardado
 2025-09-11 00:48:22,btc_change_price,csv,guardado
+2025-09-11 00:48:26,btc_change_price,xlsx,guardado
