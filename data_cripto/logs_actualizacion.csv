@@ -2851,3 +2851,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 12:48:25,btc_mvrvz_lth,parquet,guardado
 2025-09-11 12:48:29,btc_sopr_lth,csv,guardado
 2025-09-11 12:48:31,btc_sopr_lth,xlsx,guardado
+2025-09-11 12:48:33,btc_sopr_lth,parquet,guardado
