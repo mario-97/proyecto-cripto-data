@@ -802,3 +802,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 03:50:24,top_volume,parquet,guardado
 2025-09-11 03:50:46,transfers,csv,guardado
 2025-09-11 03:50:53,transfers,xlsx,guardado
+2025-09-11 03:50:55,transfers,parquet,guardado
