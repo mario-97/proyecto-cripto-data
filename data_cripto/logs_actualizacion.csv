@@ -68,3 +68,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 01:02:12,transfers,parquet,error
 2025-09-11 01:02:13,trending,xlsx,error
 2025-09-11 01:02:14,trending,parquet,guardado
+2025-09-11 01:02:17,top_volume,csv,guardado
