@@ -316,3 +316,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 02:00:15,btc_change_price,parquet,guardado
 2025-09-11 02:00:18,btc_hashrate,csv,guardado
 2025-09-11 02:00:20,btc_hashrate,xlsx,guardado
+2025-09-11 02:00:23,btc_hashrate,parquet,guardado
