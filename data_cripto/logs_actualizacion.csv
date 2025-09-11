@@ -415,3 +415,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 00:45:00,transfers,parquet,guardado
 2025-09-11 00:45:34,top_flow,csv,guardado
 2025-09-11 00:45:36,top_flow,xlsx,guardado
+2025-09-11 00:45:38,top_flow,parquet,guardado
