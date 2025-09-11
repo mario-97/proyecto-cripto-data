@@ -1703,3 +1703,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 07:31:57,transfers,csv,guardado
 2025-09-11 07:32:04,transfers,xlsx,guardado
 2025-09-11 07:32:07,transfers,parquet,guardado
+2025-09-11 07:32:27,top_flow,csv,guardado
