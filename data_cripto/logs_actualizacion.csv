@@ -4950,3 +4950,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 22:31:49,top_holders,csv,guardado
 2025-09-11 22:31:52,top_holders,xlsx,guardado
 2025-09-11 22:31:54,top_holders,parquet,guardado
+2025-09-11 22:33:01,top_flow,csv,guardado
