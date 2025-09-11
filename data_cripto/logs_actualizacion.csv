@@ -4470,3 +4470,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 20:28:32,top_holders,csv,guardado
 2025-09-11 20:28:35,top_holders,xlsx,guardado
 2025-09-11 20:28:38,top_holders,parquet,guardado
+2025-09-11 20:29:38,top_flow,csv,guardado
