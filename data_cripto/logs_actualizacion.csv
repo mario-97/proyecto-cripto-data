@@ -372,3 +372,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 00:37:26,btc_change_price,xlsx,guardado
 2025-09-11 00:37:27,btc_change_price,parquet,guardado
 2025-09-11 00:37:28,top_flow,csv,error
+2025-09-11 00:37:29,top_flow,xlsx,guardado
