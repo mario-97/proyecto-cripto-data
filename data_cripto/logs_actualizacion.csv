@@ -310,3 +310,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 01:59:18,top_volume,parquet,guardado
 2025-09-11 02:00:02,btc_nrpl_usd,csv,guardado
 2025-09-11 02:00:04,btc_nrpl_usd,xlsx,guardado
+2025-09-11 02:00:06,btc_nrpl_usd,parquet,guardado
