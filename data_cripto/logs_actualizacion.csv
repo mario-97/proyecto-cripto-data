@@ -4710,3 +4710,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 21:31:42,top_holders,csv,guardado
 2025-09-11 21:31:46,top_holders,xlsx,guardado
 2025-09-11 21:31:48,top_holders,parquet,guardado
+2025-09-11 21:32:58,top_flow,csv,guardado
