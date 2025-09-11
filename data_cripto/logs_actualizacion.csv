@@ -8,3 +8,4 @@ fecha_hora,archivo,formato,status
 2025-09-11 00:48:31,btc_hashrate,csv,guardado
 2025-09-11 00:48:33,btc_hashrate,xlsx,guardado
 2025-09-11 00:48:34,btc_hashrate,parquet,guardado
+2025-09-11 00:49:20,top_holders,csv,guardado
