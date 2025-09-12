@@ -4700,3 +4700,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 20:30:02,top_volume,csv,guardado
 2025-09-12 20:30:04,top_volume,xlsx,guardado
 2025-09-12 20:30:06,top_volume,parquet,guardado
+2025-09-12 20:32:27,top_holders,csv,guardado
