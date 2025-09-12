@@ -1615,3 +1615,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 07:08:59,top_flow,parquet,guardado
 2025-09-12 07:09:01,trending,csv,guardado
 2025-09-12 07:09:03,trending,xlsx,guardado
+2025-09-12 07:09:05,trending,parquet,guardado
