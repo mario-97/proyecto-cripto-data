@@ -3718,3 +3718,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 16:18:32,top_volume,parquet,guardado
 2025-09-12 16:20:06,top_holders,csv,guardado
 2025-09-12 16:20:09,top_holders,xlsx,guardado
+2025-09-12 16:20:11,top_holders,parquet,guardado
