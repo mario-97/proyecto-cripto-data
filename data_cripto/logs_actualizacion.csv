@@ -1957,3 +1957,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 08:32:44,top_volume,parquet,guardado
 2025-09-12 08:34:42,top_holders,csv,guardado
 2025-09-12 08:34:45,top_holders,xlsx,guardado
+2025-09-12 08:34:47,top_holders,parquet,guardado
