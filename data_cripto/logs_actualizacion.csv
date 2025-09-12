@@ -928,3 +928,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 04:20:30,trending,parquet,guardado
 2025-09-12 04:20:33,top_volume,csv,guardado
 2025-09-12 04:20:34,top_volume,xlsx,guardado
+2025-09-12 04:20:36,top_volume,parquet,guardado
