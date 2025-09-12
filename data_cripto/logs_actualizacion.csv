@@ -1218,3 +1218,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 05:31:24,top_holders,xlsx,guardado
 2025-09-12 05:31:26,top_holders,parquet,guardado
 2025-09-12 05:32:30,top_flow,csv,guardado
+2025-09-12 05:32:32,top_flow,xlsx,guardado
