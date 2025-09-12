@@ -2068,3 +2068,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 09:00:13,top_volume,csv,guardado
 2025-09-12 09:00:13,btc_sopr_lth,parquet,error
 2025-09-12 09:00:14,top_volume,xlsx,guardado
+2025-09-12 09:00:16,btc_sopr_sth,csv,guardado
