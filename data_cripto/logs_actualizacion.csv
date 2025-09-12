@@ -3270,3 +3270,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 14:15:22,trending,xlsx,guardado
 2025-09-12 14:15:24,trending,parquet,guardado
 2025-09-12 14:15:29,top_volume,csv,guardado
+2025-09-12 14:15:30,top_volume,xlsx,guardado
