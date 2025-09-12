@@ -114,3 +114,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 01:00:12,btc_mvrvz,parquet,error
 2025-09-12 01:00:13,top_volume,parquet,guardado
 2025-09-12 01:00:14,btc_nupl,csv,error
+2025-09-12 01:00:16,btc_nupl,xlsx,guardado
