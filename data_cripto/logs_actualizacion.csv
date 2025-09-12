@@ -1085,3 +1085,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 04:59:56,top_volume,csv,guardado
 2025-09-12 04:59:58,top_volume,xlsx,guardado
 2025-09-12 04:59:59,top_volume,parquet,guardado
+2025-09-12 05:00:02,btc_nrpl_usd,csv,guardado
