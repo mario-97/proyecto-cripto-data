@@ -109,3 +109,6 @@ fecha_hora,archivo,formato,status
 2025-09-12 01:00:05,btc_price,parquet,error
 2025-09-12 01:00:08,btc_mvrvz,csv,guardado
 2025-09-12 01:00:10,top_volume,csv,guardado
+2025-09-12 01:00:10,btc_mvrvz,xlsx,error
+2025-09-12 01:00:12,top_volume,xlsx,guardado
+2025-09-12 01:00:12,btc_mvrvz,parquet,error
