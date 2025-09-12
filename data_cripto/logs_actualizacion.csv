@@ -3331,3 +3331,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 14:32:59,trending,parquet,guardado
 2025-09-12 14:33:03,top_volume,csv,guardado
 2025-09-12 14:33:04,top_volume,xlsx,guardado
+2025-09-12 14:33:06,top_volume,parquet,guardado
