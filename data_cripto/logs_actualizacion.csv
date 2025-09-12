@@ -645,3 +645,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 03:10:36,top_holders,xlsx,guardado
 2025-09-12 03:10:38,top_holders,parquet,guardado
 2025-09-12 03:11:44,top_flow,csv,guardado
+2025-09-12 03:11:46,top_flow,xlsx,guardado
