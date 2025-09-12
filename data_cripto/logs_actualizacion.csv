@@ -4002,3 +4002,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 17:36:01,trending,xlsx,guardado
 2025-09-12 17:36:03,trending,parquet,guardado
 2025-09-12 17:36:07,top_volume,csv,guardado
+2025-09-12 17:36:09,top_volume,xlsx,guardado
