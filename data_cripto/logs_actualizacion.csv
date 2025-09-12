@@ -2910,3 +2910,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 12:41:58,trending,xlsx,guardado
 2025-09-12 12:42:00,trending,parquet,guardado
 2025-09-12 12:42:03,top_volume,csv,guardado
+2025-09-12 12:42:04,top_volume,xlsx,guardado
