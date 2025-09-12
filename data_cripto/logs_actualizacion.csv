@@ -5095,3 +5095,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 22:14:58,trending,parquet,guardado
 2025-09-12 22:15:01,top_volume,csv,guardado
 2025-09-12 22:15:03,top_volume,xlsx,guardado
+2025-09-12 22:15:04,top_volume,parquet,guardado
