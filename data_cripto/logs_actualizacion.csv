@@ -1095,3 +1095,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 05:00:21,btc_mvrvz_sth,xlsx,guardado
 2025-09-12 05:00:23,btc_mvrvz_sth,parquet,guardado
 2025-09-12 05:01:15,top_holders,csv,guardado
+2025-09-12 05:01:18,top_holders,xlsx,guardado
