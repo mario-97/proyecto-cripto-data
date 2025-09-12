@@ -3095,3 +3095,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 13:28:28,top_holders,csv,guardado
 2025-09-12 13:28:32,top_holders,xlsx,guardado
 2025-09-12 13:28:34,top_holders,parquet,guardado
+2025-09-12 13:29:42,top_flow,csv,guardado
