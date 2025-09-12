@@ -2056,3 +2056,5 @@ fecha_hora,archivo,formato,status
 2025-09-12 08:58:49,top_holders,parquet,guardado
 2025-09-12 09:00:00,top_flow,csv,guardado
 2025-09-12 09:00:02,btc_mvrvz_lth,csv,guardado
+2025-09-12 09:00:02,top_flow,xlsx,error
+2025-09-12 09:00:04,top_flow,parquet,guardado
