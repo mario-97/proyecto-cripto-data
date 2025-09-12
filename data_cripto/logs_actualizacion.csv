@@ -2065,3 +2065,4 @@ fecha_hora,archivo,formato,status
 2025-09-12 09:00:09,btc_sopr_lth,csv,guardado
 2025-09-12 09:00:09,trending,parquet,guardado
 2025-09-12 09:00:11,btc_sopr_lth,xlsx,guardado
+2025-09-12 09:00:13,top_volume,csv,guardado
