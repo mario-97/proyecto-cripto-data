@@ -2014,3 +2014,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 11:17:29,top_flow,parquet,guardado
 2025-09-13 11:17:31,trending,csv,guardado
 2025-09-13 11:17:33,trending,xlsx,guardado
+2025-09-13 11:17:34,trending,parquet,guardado
