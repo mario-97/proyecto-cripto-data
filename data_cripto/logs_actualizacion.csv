@@ -4519,3 +4519,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 21:20:16,trending,parquet,guardado
 2025-09-13 21:20:19,top_volume,csv,guardado
 2025-09-13 21:20:21,top_volume,xlsx,guardado
+2025-09-13 21:20:22,top_volume,parquet,guardado
