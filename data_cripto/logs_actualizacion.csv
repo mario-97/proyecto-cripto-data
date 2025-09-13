@@ -4645,3 +4645,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 21:50:13,top_volume,parquet,guardado
 2025-09-13 21:50:31,transfers,csv,guardado
 2025-09-13 21:50:33,transfers,xlsx,guardado
+2025-09-13 21:50:35,transfers,parquet,guardado
