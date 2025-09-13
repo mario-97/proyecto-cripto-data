@@ -5684,3 +5684,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 00:55:05,top_volume,csv,guardado
 2025-09-13 00:55:06,top_volume,xlsx,guardado
 2025-09-13 00:55:08,top_volume,parquet,guardado
+2025-09-13 00:59:05,top_holders,csv,guardado
