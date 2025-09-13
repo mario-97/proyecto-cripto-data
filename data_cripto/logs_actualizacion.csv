@@ -1987,3 +1987,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 11:11:20,top_flow,parquet,guardado
 2025-09-13 11:11:20,transfers,csv,guardado
 2025-09-13 11:11:21,trending,csv,error
+2025-09-13 11:11:23,transfers,xlsx,guardado
