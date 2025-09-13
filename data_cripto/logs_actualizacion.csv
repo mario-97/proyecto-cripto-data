@@ -4399,3 +4399,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 20:50:11,top_volume,parquet,error
 2025-09-13 20:51:47,top_holders,csv,guardado
 2025-09-13 20:51:50,top_holders,xlsx,guardado
+2025-09-13 20:51:52,top_holders,parquet,guardado
