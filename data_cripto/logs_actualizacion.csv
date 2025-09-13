@@ -3729,3 +3729,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 18:10:21,transfers,xlsx,guardado
 2025-09-13 18:10:23,transfers,parquet,guardado
 2025-09-13 18:11:21,top_flow,csv,guardado
+2025-09-13 18:11:23,top_flow,xlsx,guardado
