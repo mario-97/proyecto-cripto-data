@@ -453,3 +453,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 05:00:12,btc_change_price,xlsx,guardado
 2025-09-13 05:00:14,btc_change_price,parquet,guardado
 2025-09-13 05:00:17,btc_mvrvz_sth,csv,guardado
+2025-09-13 05:00:19,btc_mvrvz_sth,xlsx,guardado
