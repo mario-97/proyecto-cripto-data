@@ -4615,3 +4615,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 21:43:58,top_flow,parquet,guardado
 2025-09-13 21:44:01,trending,csv,guardado
 2025-09-13 21:44:02,trending,xlsx,guardado
+2025-09-13 21:44:04,trending,parquet,guardado
