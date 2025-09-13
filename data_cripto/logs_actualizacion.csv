@@ -2717,3 +2717,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 14:06:55,top_holders,csv,guardado
 2025-09-13 14:06:59,top_holders,xlsx,guardado
 2025-09-13 14:07:01,top_holders,parquet,guardado
+2025-09-13 14:08:05,top_flow,csv,guardado
