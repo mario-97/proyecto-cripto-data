@@ -2730,3 +2730,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 14:09:59,top_holders,xlsx,guardado
 2025-09-13 14:10:01,top_holders,parquet,guardado
 2025-09-13 14:10:43,transfers,csv,guardado
+2025-09-13 14:10:45,transfers,xlsx,guardado
