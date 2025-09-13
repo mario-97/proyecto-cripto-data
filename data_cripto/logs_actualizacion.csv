@@ -4393,3 +4393,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 20:50:06,trending,parquet,guardado
 2025-09-13 20:50:07,transfers,csv,error
 2025-09-13 20:50:09,top_volume,csv,guardado
+2025-09-13 20:50:10,transfers,xlsx,error
