@@ -2571,3 +2571,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 13:31:05,top_holders,parquet,error
 2025-09-13 13:31:05,transfers,parquet,guardado
 2025-09-13 13:32:33,top_flow,csv,guardado
+2025-09-13 13:32:35,top_flow,xlsx,guardado
