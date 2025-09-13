@@ -1996,3 +1996,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 11:11:30,top_volume,parquet,guardado
 2025-09-13 11:12:57,top_holders,csv,guardado
 2025-09-13 11:13:00,top_holders,xlsx,guardado
+2025-09-13 11:13:02,top_holders,parquet,guardado
