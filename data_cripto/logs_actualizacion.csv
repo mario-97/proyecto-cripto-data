@@ -4774,3 +4774,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 22:22:04,top_holders,parquet,guardado
 2025-09-13 22:23:05,top_flow,csv,guardado
 2025-09-13 22:23:07,top_flow,xlsx,guardado
+2025-09-13 22:23:09,top_flow,parquet,guardado
