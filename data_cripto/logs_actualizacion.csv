@@ -4535,3 +4535,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 21:24:51,top_holders,csv,guardado
 2025-09-13 21:24:54,top_holders,xlsx,guardado
 2025-09-13 21:24:56,top_holders,parquet,guardado
+2025-09-13 21:26:01,top_flow,csv,guardado
