@@ -4725,3 +4725,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 22:10:24,transfers,xlsx,guardado
 2025-09-13 22:10:26,transfers,parquet,guardado
 2025-09-13 22:11:10,top_flow,csv,guardado
+2025-09-13 22:11:12,top_flow,xlsx,guardado
