@@ -4028,3 +4028,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 19:22:58,top_flow,csv,guardado
 2025-09-13 19:23:00,top_flow,xlsx,guardado
 2025-09-13 19:23:02,top_flow,parquet,guardado
+2025-09-13 19:23:04,trending,csv,guardado
