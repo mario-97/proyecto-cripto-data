@@ -1988,3 +1988,5 @@ fecha_hora,archivo,formato,status
 2025-09-13 11:11:20,transfers,csv,guardado
 2025-09-13 11:11:21,trending,csv,error
 2025-09-13 11:11:23,transfers,xlsx,guardado
+2025-09-13 11:11:23,trending,xlsx,error
+2025-09-13 11:11:25,trending,parquet,guardado
