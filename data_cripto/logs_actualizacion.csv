@@ -2820,3 +2820,4 @@ fecha_hora,archivo,formato,status
 2025-09-13 14:31:04,top_holders,xlsx,guardado
 2025-09-13 14:31:06,top_holders,parquet,guardado
 2025-09-13 14:32:18,top_flow,csv,guardado
+2025-09-13 14:32:20,top_flow,xlsx,guardado
