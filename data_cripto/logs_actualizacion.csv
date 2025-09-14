@@ -10609,3 +10609,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 21:52:36,transfers,csv,guardado
 2025-09-14 21:52:36,top_holders,parquet,error
 2025-09-14 21:52:38,transfers,xlsx,guardado
+2025-09-14 21:52:41,transfers,parquet,guardado
