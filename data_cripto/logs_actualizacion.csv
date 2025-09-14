@@ -8610,3 +8610,5 @@ fecha_hora,archivo,formato,status
 2025-09-14 13:50:10,transfers,csv,guardado
 2025-09-14 13:50:11,trending,xlsx,guardado
 2025-09-14 13:50:12,transfers,xlsx,error
+2025-09-14 13:50:13,trending,parquet,guardado
+2025-09-14 13:50:14,transfers,parquet,guardado
