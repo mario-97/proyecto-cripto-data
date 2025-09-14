@@ -6610,3 +6610,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 05:38:01,top_flow,parquet,guardado
 2025-09-14 05:38:03,trending,csv,guardado
 2025-09-14 05:38:05,trending,xlsx,guardado
+2025-09-14 05:38:07,trending,parquet,guardado
