@@ -8338,3 +8338,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 12:44:11,trending,parquet,guardado
 2025-09-14 12:44:14,top_volume,csv,guardado
 2025-09-14 12:44:16,top_volume,xlsx,guardado
+2025-09-14 12:44:18,top_volume,parquet,guardado
