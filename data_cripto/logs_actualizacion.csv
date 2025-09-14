@@ -8880,3 +8880,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 14:55:07,top_holders,xlsx,guardado
 2025-09-14 14:55:09,top_holders,parquet,guardado
 2025-09-14 14:56:09,top_flow,csv,guardado
+2025-09-14 14:56:11,top_flow,xlsx,guardado
