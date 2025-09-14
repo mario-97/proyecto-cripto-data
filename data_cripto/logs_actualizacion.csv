@@ -9649,3 +9649,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 17:59:25,top_volume,parquet,guardado
 2025-09-14 18:00:48,top_holders,csv,guardado
 2025-09-14 18:00:51,top_holders,xlsx,guardado
+2025-09-14 18:00:53,top_holders,parquet,guardado
