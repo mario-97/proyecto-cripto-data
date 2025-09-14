@@ -8005,3 +8005,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 11:23:11,top_volume,parquet,guardado
 2025-09-14 11:24:51,top_holders,csv,guardado
 2025-09-14 11:24:54,top_holders,xlsx,guardado
+2025-09-14 11:24:56,top_holders,parquet,guardado
