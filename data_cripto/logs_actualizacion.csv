@@ -6569,3 +6569,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 05:28:58,top_flow,csv,guardado
 2025-09-14 05:29:00,top_flow,xlsx,guardado
 2025-09-14 05:29:02,top_flow,parquet,guardado
+2025-09-14 05:29:04,trending,csv,guardado
