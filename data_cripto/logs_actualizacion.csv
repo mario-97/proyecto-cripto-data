@@ -10111,3 +10111,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 19:50:23,transfers,parquet,guardado
 2025-09-14 19:51:50,top_holders,csv,guardado
 2025-09-14 19:51:54,top_holders,xlsx,guardado
+2025-09-14 19:51:56,top_holders,parquet,guardado
