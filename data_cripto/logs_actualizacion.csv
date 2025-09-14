@@ -9895,3 +9895,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 18:59:48,trending,parquet,guardado
 2025-09-14 18:59:51,top_volume,csv,guardado
 2025-09-14 18:59:53,top_volume,xlsx,guardado
+2025-09-14 18:59:55,top_volume,parquet,guardado
