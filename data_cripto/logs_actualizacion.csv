@@ -7456,3 +7456,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 08:59:54,trending,parquet,guardado
 2025-09-14 08:59:59,top_volume,csv,guardado
 2025-09-14 09:00:00,top_volume,xlsx,guardado
+2025-09-14 09:00:02,btc_mvrvz_lth,csv,error
