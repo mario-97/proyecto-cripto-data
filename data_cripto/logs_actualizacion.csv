@@ -6455,3 +6455,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 05:00:50,top_holders,csv,guardado
 2025-09-14 05:00:53,top_holders,xlsx,guardado
 2025-09-14 05:00:56,top_holders,parquet,guardado
+2025-09-14 05:01:57,top_flow,csv,guardado
