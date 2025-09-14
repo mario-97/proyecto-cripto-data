@@ -6409,3 +6409,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 04:50:33,transfers,parquet,guardado
 2025-09-14 04:51:56,top_holders,csv,guardado
 2025-09-14 04:51:59,top_holders,xlsx,guardado
+2025-09-14 04:52:01,top_holders,parquet,guardado
