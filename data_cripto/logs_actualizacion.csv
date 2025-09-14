@@ -7910,3 +7910,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 11:01:58,top_flow,csv,guardado
 2025-09-14 11:02:00,top_flow,xlsx,guardado
 2025-09-14 11:02:02,top_flow,parquet,guardado
+2025-09-14 11:02:04,trending,csv,guardado
