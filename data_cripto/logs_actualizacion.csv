@@ -10409,3 +10409,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 21:03:47,top_holders,csv,guardado
 2025-09-14 21:03:51,top_holders,xlsx,guardado
 2025-09-14 21:03:53,top_holders,parquet,guardado
+2025-09-14 21:05:04,top_flow,csv,guardado
