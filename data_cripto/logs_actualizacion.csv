@@ -5650,3 +5650,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 01:50:17,top_volume,parquet,guardado
 2025-09-14 01:50:20,transfers,csv,guardado
 2025-09-14 01:50:22,transfers,xlsx,guardado
+2025-09-14 01:50:24,transfers,parquet,guardado
