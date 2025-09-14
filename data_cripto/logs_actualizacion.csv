@@ -6741,3 +6741,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 06:09:52,top_holders,xlsx,guardado
 2025-09-14 06:09:54,top_holders,parquet,guardado
 2025-09-14 06:10:13,transfers,csv,guardado
+2025-09-14 06:10:16,transfers,xlsx,guardado
