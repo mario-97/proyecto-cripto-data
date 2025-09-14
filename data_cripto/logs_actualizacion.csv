@@ -8776,3 +8776,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 14:29:37,top_volume,parquet,guardado
 2025-09-14 14:30:16,transfers,csv,guardado
 2025-09-14 14:30:19,transfers,xlsx,guardado
+2025-09-14 14:30:21,transfers,parquet,guardado
