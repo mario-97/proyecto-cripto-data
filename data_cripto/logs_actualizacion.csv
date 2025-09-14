@@ -8370,3 +8370,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 12:51:57,top_holders,xlsx,guardado
 2025-09-14 12:51:59,top_holders,parquet,guardado
 2025-09-14 12:53:01,top_flow,csv,guardado
+2025-09-14 12:53:03,top_flow,xlsx,guardado
