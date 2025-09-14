@@ -8239,3 +8239,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 12:20:00,trending,parquet,guardado
 2025-09-14 12:20:02,top_volume,csv,guardado
 2025-09-14 12:20:04,top_volume,xlsx,guardado
+2025-09-14 12:20:06,top_volume,parquet,guardado
