@@ -9085,3 +9085,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 15:44:13,trending,parquet,guardado
 2025-09-14 15:44:16,top_volume,csv,guardado
 2025-09-14 15:44:18,top_volume,xlsx,guardado
+2025-09-14 15:44:20,top_volume,parquet,guardado
