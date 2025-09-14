@@ -9737,3 +9737,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 18:21:46,top_holders,csv,guardado
 2025-09-14 18:21:49,top_holders,xlsx,guardado
 2025-09-14 18:21:52,top_holders,parquet,guardado
+2025-09-14 18:23:10,top_flow,csv,guardado
