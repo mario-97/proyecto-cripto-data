@@ -10759,3 +10759,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 22:31:15,top_holders,parquet,guardado
 2025-09-14 22:32:10,transfers,csv,guardado
 2025-09-14 22:32:12,transfers,xlsx,guardado
+2025-09-14 22:32:14,transfers,parquet,guardado
