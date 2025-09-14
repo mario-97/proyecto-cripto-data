@@ -8445,3 +8445,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 13:10:15,transfers,xlsx,guardado
 2025-09-14 13:10:17,transfers,parquet,guardado
 2025-09-14 13:10:59,top_flow,csv,guardado
+2025-09-14 13:11:01,top_flow,xlsx,guardado
