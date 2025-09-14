@@ -7212,3 +7212,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 08:00:50,top_holders,xlsx,guardado
 2025-09-14 08:00:52,top_holders,parquet,guardado
 2025-09-14 08:02:33,top_flow,csv,guardado
+2025-09-14 08:02:35,top_flow,xlsx,guardado
