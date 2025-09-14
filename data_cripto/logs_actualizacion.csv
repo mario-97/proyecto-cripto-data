@@ -8818,3 +8818,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 14:40:08,top_holders,parquet,guardado
 2025-09-14 14:41:13,top_flow,csv,guardado
 2025-09-14 14:41:15,top_flow,xlsx,guardado
+2025-09-14 14:41:16,top_flow,parquet,guardado
