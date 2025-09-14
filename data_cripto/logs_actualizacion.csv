@@ -6391,3 +6391,4 @@ fecha_hora,archivo,formato,status
 2025-09-14 04:47:19,trending,parquet,guardado
 2025-09-14 04:47:22,top_volume,csv,guardado
 2025-09-14 04:47:23,top_volume,xlsx,guardado
+2025-09-14 04:47:25,top_volume,parquet,guardado
