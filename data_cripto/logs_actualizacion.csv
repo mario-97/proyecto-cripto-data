@@ -13623,3 +13623,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 09:50:35,transfers,parquet,error
 2025-09-15 09:50:37,top_flow,parquet,guardado
 2025-09-15 09:50:39,trending,csv,guardado
+2025-09-15 09:50:42,trending,xlsx,guardado
