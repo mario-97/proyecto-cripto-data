@@ -16123,3 +16123,5 @@ fecha_hora,archivo,formato,status
 2025-09-15 20:50:39,transfers,xlsx,guardado
 2025-09-15 20:50:40,top_flow,xlsx,guardado
 2025-09-15 20:50:42,transfers,parquet,guardado
+2025-09-15 20:50:42,top_flow,parquet,error
+2025-09-15 20:50:44,trending,csv,guardado
