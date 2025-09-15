@@ -14560,3 +14560,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 13:51:05,trending,parquet,guardado
 2025-09-15 13:51:05,transfers,csv,error
 2025-09-15 13:51:07,transfers,xlsx,guardado
+2025-09-15 13:51:10,transfers,parquet,guardado
