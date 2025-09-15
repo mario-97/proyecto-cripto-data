@@ -13705,3 +13705,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 10:10:30,top_holders,parquet,guardado
 2025-09-15 10:11:14,transfers,csv,guardado
 2025-09-15 10:11:17,transfers,xlsx,guardado
+2025-09-15 10:11:20,transfers,parquet,guardado
