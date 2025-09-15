@@ -13110,3 +13110,5 @@ fecha_hora,archivo,formato,status
 2025-09-15 07:49:12,top_holders,xlsx,guardado
 2025-09-15 07:49:14,top_holders,parquet,guardado
 2025-09-15 07:50:19,top_flow,csv,guardado
+2025-09-15 07:50:20,transfers,csv,error
+2025-09-15 07:50:21,top_flow,xlsx,guardado
