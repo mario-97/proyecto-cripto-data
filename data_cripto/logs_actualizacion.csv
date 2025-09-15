@@ -16042,3 +16042,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 20:29:42,top_volume,parquet,guardado
 2025-09-15 20:30:18,transfers,csv,guardado
 2025-09-15 20:30:21,transfers,xlsx,guardado
+2025-09-15 20:30:23,transfers,parquet,guardado
