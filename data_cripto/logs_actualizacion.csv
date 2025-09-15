@@ -15208,3 +15208,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 17:01:33,top_volume,parquet,guardado
 2025-09-15 17:04:55,top_holders,csv,guardado
 2025-09-15 17:04:59,top_holders,xlsx,guardado
+2025-09-15 17:05:02,top_holders,parquet,guardado
