@@ -15655,3 +15655,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 18:56:27,trending,parquet,guardado
 2025-09-15 18:56:30,top_volume,csv,guardado
 2025-09-15 18:56:32,top_volume,xlsx,guardado
+2025-09-15 18:56:35,top_volume,parquet,guardado
