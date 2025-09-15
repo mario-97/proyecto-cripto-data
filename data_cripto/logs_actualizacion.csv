@@ -13112,3 +13112,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 07:50:19,top_flow,csv,guardado
 2025-09-15 07:50:20,transfers,csv,error
 2025-09-15 07:50:21,top_flow,xlsx,guardado
+2025-09-15 07:50:23,transfers,xlsx,error
