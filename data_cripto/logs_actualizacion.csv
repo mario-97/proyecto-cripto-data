@@ -11140,3 +11140,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 00:02:04,trending,parquet,guardado
 2025-09-15 00:02:07,top_volume,csv,guardado
 2025-09-15 00:02:09,top_volume,xlsx,guardado
+2025-09-15 00:02:11,top_volume,parquet,guardado
