@@ -13038,3 +13038,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 07:31:09,top_holders,xlsx,guardado
 2025-09-15 07:31:11,top_holders,parquet,guardado
 2025-09-15 07:32:11,top_flow,csv,guardado
+2025-09-15 07:32:13,top_flow,xlsx,guardado
