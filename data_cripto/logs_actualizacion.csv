@@ -14908,3 +14908,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 15:32:30,trending,parquet,guardado
 2025-09-15 15:32:35,top_volume,csv,guardado
 2025-09-15 15:32:37,top_volume,xlsx,guardado
+2025-09-15 15:32:39,top_volume,parquet,guardado
