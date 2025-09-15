@@ -16540,3 +16540,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 22:29:18,top_volume,parquet,guardado
 2025-09-15 22:30:26,transfers,csv,guardado
 2025-09-15 22:30:29,transfers,xlsx,guardado
+2025-09-15 22:30:31,transfers,parquet,guardado
