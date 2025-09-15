@@ -12268,3 +12268,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 04:29:12,top_volume,parquet,guardado
 2025-09-15 04:30:09,transfers,csv,guardado
 2025-09-15 04:30:11,transfers,xlsx,guardado
+2025-09-15 04:30:13,transfers,parquet,guardado
