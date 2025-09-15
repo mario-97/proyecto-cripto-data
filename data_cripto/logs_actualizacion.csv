@@ -16177,3 +16177,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 21:02:32,trending,parquet,guardado
 2025-09-15 21:02:39,top_volume,csv,guardado
 2025-09-15 21:02:41,top_volume,xlsx,guardado
+2025-09-15 21:02:43,top_volume,parquet,guardado
