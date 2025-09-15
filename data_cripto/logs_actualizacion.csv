@@ -12185,3 +12185,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 04:10:08,transfers,csv,guardado
 2025-09-15 04:10:10,transfers,xlsx,guardado
 2025-09-15 04:10:13,transfers,parquet,guardado
+2025-09-15 04:11:00,top_flow,csv,guardado
