@@ -16778,3 +16778,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 23:27:58,top_holders,csv,guardado
 2025-09-15 23:28:03,top_holders,xlsx,guardado
 2025-09-15 23:28:05,top_holders,parquet,guardado
+2025-09-15 23:29:04,top_flow,csv,guardado
