@@ -13690,3 +13690,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 10:06:00,top_volume,parquet,guardado
 2025-09-15 10:07:45,top_holders,csv,guardado
 2025-09-15 10:07:49,top_holders,xlsx,guardado
+2025-09-15 10:07:52,top_holders,parquet,guardado
