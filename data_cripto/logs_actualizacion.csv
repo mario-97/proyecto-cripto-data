@@ -14200,3 +14200,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 12:12:31,trending,parquet,guardado
 2025-09-15 12:13:21,top_volume,csv,guardado
 2025-09-15 12:13:23,top_volume,xlsx,guardado
+2025-09-15 12:13:25,top_volume,parquet,guardado
