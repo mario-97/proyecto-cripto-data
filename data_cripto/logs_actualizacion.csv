@@ -16141,3 +16141,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 20:53:20,trending,parquet,guardado
 2025-09-15 20:53:23,top_volume,csv,guardado
 2025-09-15 20:53:25,top_volume,xlsx,guardado
+2025-09-15 20:53:28,top_volume,parquet,guardado
