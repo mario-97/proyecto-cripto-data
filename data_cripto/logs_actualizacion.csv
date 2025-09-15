@@ -16206,3 +16206,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 21:10:08,top_holders,xlsx,guardado
 2025-09-15 21:10:10,top_holders,parquet,guardado
 2025-09-15 21:10:45,transfers,csv,guardado
+2025-09-15 21:10:48,transfers,xlsx,guardado
