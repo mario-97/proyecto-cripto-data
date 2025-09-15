@@ -11844,3 +11844,7 @@ fecha_hora,archivo,formato,status
 2025-09-15 02:50:02,trending,xlsx,guardado
 2025-09-15 02:50:04,trending,parquet,guardado
 2025-09-15 02:50:06,top_volume,csv,guardado
+2025-09-15 02:50:07,transfers,csv,guardado
+2025-09-15 02:50:08,top_volume,xlsx,guardado
+2025-09-15 02:50:10,transfers,xlsx,guardado
+2025-09-15 02:50:10,top_volume,parquet,guardado
