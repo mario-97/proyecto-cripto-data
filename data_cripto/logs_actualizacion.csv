@@ -15469,3 +15469,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 18:08:16,top_volume,parquet,guardado
 2025-09-15 18:09:58,top_holders,csv,guardado
 2025-09-15 18:10:02,top_holders,xlsx,guardado
+2025-09-15 18:10:05,top_holders,parquet,guardado
