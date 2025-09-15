@@ -14340,3 +14340,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 12:50:35,transfers,xlsx,error
 2025-09-15 12:50:37,transfers,parquet,guardado
 2025-09-15 12:52:18,top_holders,csv,guardado
+2025-09-15 12:52:22,top_holders,xlsx,guardado
