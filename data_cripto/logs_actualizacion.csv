@@ -12840,3 +12840,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 06:45:58,top_holders,xlsx,guardado
 2025-09-15 06:46:00,top_holders,parquet,guardado
 2025-09-15 06:46:58,top_flow,csv,guardado
+2025-09-15 06:47:00,top_flow,xlsx,guardado
