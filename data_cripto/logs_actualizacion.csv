@@ -16435,3 +16435,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 22:05:08,top_flow,parquet,guardado
 2025-09-15 22:05:11,trending,csv,guardado
 2025-09-15 22:05:14,trending,xlsx,guardado
+2025-09-15 22:05:16,trending,parquet,guardado
