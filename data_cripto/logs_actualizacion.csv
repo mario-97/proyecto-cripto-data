@@ -16817,3 +16817,4 @@ fecha_hora,archivo,formato,status
 2025-09-15 23:37:05,top_holders,csv,guardado
 2025-09-15 23:37:09,top_holders,xlsx,guardado
 2025-09-15 23:37:11,top_holders,parquet,guardado
+2025-09-15 23:38:13,top_flow,csv,guardado
