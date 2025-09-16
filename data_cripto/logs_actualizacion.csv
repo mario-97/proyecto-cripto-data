@@ -17608,3 +17608,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 02:50:22,transfers,parquet,guardado
 2025-09-16 02:50:23,top_volume,csv,guardado
 2025-09-16 02:50:25,top_volume,xlsx,guardado
+2025-09-16 02:50:27,top_volume,parquet,guardado
