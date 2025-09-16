@@ -17603,3 +17603,6 @@ fecha_hora,archivo,formato,status
 2025-09-16 02:50:16,trending,csv,guardado
 2025-09-16 02:50:17,transfers,csv,guardado
 2025-09-16 02:50:18,trending,xlsx,guardado
+2025-09-16 02:50:19,transfers,xlsx,guardado
+2025-09-16 02:50:20,trending,parquet,guardado
+2025-09-16 02:50:22,transfers,parquet,guardado
