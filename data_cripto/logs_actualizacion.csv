@@ -20080,3 +20080,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 12:50:19,transfers,csv,guardado
 2025-09-16 12:50:20,top_volume,parquet,error
 2025-09-16 12:50:23,transfers,xlsx,guardado
+2025-09-16 12:50:26,transfers,parquet,guardado
