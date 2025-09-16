@@ -17161,3 +17161,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 01:00:27,btc_nupl,parquet,guardado
 2025-09-16 01:00:51,top_holders,csv,guardado
 2025-09-16 01:00:55,top_holders,xlsx,guardado
+2025-09-16 01:00:58,top_holders,parquet,guardado
