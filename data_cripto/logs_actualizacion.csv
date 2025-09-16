@@ -21142,3 +21142,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 17:20:40,top_volume,parquet,guardado
 2025-09-16 17:23:11,top_holders,csv,guardado
 2025-09-16 17:23:15,top_holders,xlsx,guardado
+2025-09-16 17:23:18,top_holders,parquet,guardado
