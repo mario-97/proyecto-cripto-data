@@ -19171,3 +19171,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 09:00:18,btc_sopr_lth,parquet,guardado
 2025-09-16 09:00:21,btc_sopr_sth,csv,guardado
 2025-09-16 09:00:24,btc_sopr_sth,xlsx,guardado
+2025-09-16 09:00:27,btc_sopr_sth,parquet,guardado
