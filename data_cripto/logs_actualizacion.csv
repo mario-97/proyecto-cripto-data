@@ -20131,3 +20131,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 13:02:31,top_volume,parquet,guardado
 2025-09-16 13:04:09,top_holders,csv,guardado
 2025-09-16 13:04:13,top_holders,xlsx,guardado
+2025-09-16 13:04:16,top_holders,parquet,guardado
