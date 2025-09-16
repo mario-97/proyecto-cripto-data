@@ -18163,3 +18163,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 05:00:29,btc_mvrvz_sth,parquet,guardado
 2025-09-16 05:00:45,top_holders,csv,guardado
 2025-09-16 05:00:49,top_holders,xlsx,guardado
+2025-09-16 05:00:52,top_holders,parquet,guardado
