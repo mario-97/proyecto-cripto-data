@@ -18112,3 +18112,5 @@ fecha_hora,archivo,formato,status
 2025-09-16 04:50:04,trending,parquet,guardado
 2025-09-16 04:50:07,top_volume,csv,guardado
 2025-09-16 04:50:09,transfers,csv,guardado
+2025-09-16 04:50:10,top_volume,xlsx,error
+2025-09-16 04:50:12,top_volume,parquet,guardado
