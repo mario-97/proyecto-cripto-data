@@ -17878,3 +17878,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 03:53:29,trending,parquet,guardado
 2025-09-16 03:53:33,top_volume,csv,guardado
 2025-09-16 03:53:35,top_volume,xlsx,guardado
+2025-09-16 03:53:37,top_volume,parquet,guardado
