@@ -18158,3 +18158,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 05:00:12,btc_change_price,csv,guardado
 2025-09-16 05:00:18,btc_change_price,xlsx,guardado
 2025-09-16 05:00:20,btc_change_price,parquet,guardado
+2025-09-16 05:00:23,btc_mvrvz_sth,csv,guardado
