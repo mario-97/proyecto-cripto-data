@@ -17539,3 +17539,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 02:33:59,top_holders,parquet,guardado
 2025-09-16 02:35:04,top_flow,csv,guardado
 2025-09-16 02:35:07,top_flow,xlsx,guardado
+2025-09-16 02:35:09,top_flow,parquet,guardado
