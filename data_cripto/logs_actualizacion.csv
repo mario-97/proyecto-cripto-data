@@ -16928,3 +16928,4 @@ fecha_hora,archivo,formato,status
 2025-09-16 00:03:51,top_holders,csv,guardado
 2025-09-16 00:03:54,top_holders,xlsx,guardado
 2025-09-16 00:03:56,top_holders,parquet,guardado
+2025-09-16 00:05:01,top_flow,csv,guardado
