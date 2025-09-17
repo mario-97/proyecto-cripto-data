@@ -6380,3 +6380,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 21:43:29,top_holders,csv,guardado
 2025-09-17 21:43:33,top_holders,xlsx,guardado
 2025-09-17 21:43:34,top_holders,parquet,guardado
+2025-09-17 21:44:13,transfers,csv,guardado
