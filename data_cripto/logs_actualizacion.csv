@@ -6085,3 +6085,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 20:30:51,top_holders,parquet,guardado
 2025-09-17 20:31:57,top_flow,csv,guardado
 2025-09-17 20:31:59,top_flow,xlsx,guardado
+2025-09-17 20:32:00,top_flow,parquet,guardado
