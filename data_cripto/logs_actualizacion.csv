@@ -6803,3 +6803,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 23:23:49,transfers,csv,guardado
 2025-09-17 23:23:51,transfers,xlsx,guardado
 2025-09-17 23:23:53,transfers,parquet,guardado
+2025-09-17 23:24:48,top_holders,csv,guardado
