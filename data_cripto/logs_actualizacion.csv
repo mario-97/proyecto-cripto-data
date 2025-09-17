@@ -6090,3 +6090,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 20:32:04,trending,xlsx,guardado
 2025-09-17 20:32:06,trending,parquet,guardado
 2025-09-17 20:32:09,top_volume,csv,guardado
+2025-09-17 20:32:11,top_volume,xlsx,guardado
