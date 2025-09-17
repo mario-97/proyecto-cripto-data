@@ -6535,3 +6535,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 22:19:58,top_flow,parquet,guardado
 2025-09-17 22:20:00,trending,csv,guardado
 2025-09-17 22:20:02,trending,xlsx,guardado
+2025-09-17 22:20:04,trending,parquet,guardado
