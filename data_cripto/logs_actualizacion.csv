@@ -3433,3 +3433,6 @@ fecha_hora,archivo,formato,status
 2025-09-17 09:44:20,transfers,csv,guardado
 2025-09-17 09:44:20,top_flow,parquet,error
 2025-09-17 09:44:22,transfers,xlsx,guardado
+2025-09-17 09:44:22,trending,csv,guardado
+2025-09-17 09:44:24,transfers,parquet,error
+2025-09-17 09:44:24,trending,xlsx,guardado
