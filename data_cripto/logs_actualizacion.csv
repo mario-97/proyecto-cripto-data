@@ -2079,3 +2079,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 04:23:04,top_volume,xlsx,guardado
 2025-09-17 04:23:06,top_volume,parquet,guardado
 2025-09-17 04:23:53,transfers,csv,guardado
+2025-09-17 04:23:56,transfers,xlsx,guardado
