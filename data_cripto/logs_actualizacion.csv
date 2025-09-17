@@ -5809,3 +5809,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 19:21:28,top_holders,parquet,guardado
 2025-09-17 19:24:08,transfers,csv,guardado
 2025-09-17 19:24:10,transfers,xlsx,guardado
+2025-09-17 19:24:12,transfers,parquet,guardado
