@@ -6818,3 +6818,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 23:27:44,top_holders,csv,guardado
 2025-09-17 23:27:48,top_holders,xlsx,guardado
 2025-09-17 23:27:50,top_holders,parquet,guardado
+2025-09-17 23:28:48,top_flow,csv,guardado
