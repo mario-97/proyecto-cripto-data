@@ -1224,3 +1224,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 01:00:18,btc_nupl,xlsx,guardado
 2025-09-17 01:00:20,btc_nupl,parquet,guardado
 2025-09-17 01:00:21,top_holders,csv,error
+2025-09-17 01:00:24,top_holders,xlsx,guardado
