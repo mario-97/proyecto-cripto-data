@@ -5175,3 +5175,5 @@ fecha_hora,archivo,formato,status
 2025-09-17 16:43:50,transfers,csv,error
 2025-09-17 16:43:51,top_flow,xlsx,guardado
 2025-09-17 16:43:53,transfers,xlsx,guardado
+2025-09-17 16:43:53,top_flow,parquet,guardado
+2025-09-17 16:43:55,transfers,parquet,guardado
