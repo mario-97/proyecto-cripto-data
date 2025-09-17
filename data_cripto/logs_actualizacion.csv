@@ -6220,3 +6220,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 21:03:47,top_holders,parquet,guardado
 2025-09-17 21:04:02,transfers,csv,guardado
 2025-09-17 21:04:04,transfers,xlsx,guardado
+2025-09-17 21:04:06,transfers,parquet,guardado
