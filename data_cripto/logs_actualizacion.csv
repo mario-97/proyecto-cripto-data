@@ -3250,3 +3250,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 09:00:14,btc_sopr_lth,parquet,guardado
 2025-09-17 09:00:17,btc_sopr_sth,csv,guardado
 2025-09-17 09:00:19,btc_sopr_sth,xlsx,guardado
+2025-09-17 09:00:21,btc_sopr_sth,parquet,guardado
