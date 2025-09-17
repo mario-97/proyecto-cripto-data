@@ -5118,3 +5118,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 16:29:00,trending,xlsx,guardado
 2025-09-17 16:29:02,trending,parquet,guardado
 2025-09-17 16:29:05,top_volume,csv,guardado
+2025-09-17 16:29:07,top_volume,xlsx,guardado
