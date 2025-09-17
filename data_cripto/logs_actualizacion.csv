@@ -6223,3 +6223,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 21:04:06,transfers,parquet,guardado
 2025-09-17 21:04:55,top_flow,csv,guardado
 2025-09-17 21:04:57,top_flow,xlsx,guardado
+2025-09-17 21:04:59,top_flow,parquet,guardado
