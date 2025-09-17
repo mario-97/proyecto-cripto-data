@@ -4434,3 +4434,4 @@ fecha_hora,archivo,formato,status
 2025-09-17 13:43:54,top_volume,xlsx,guardado
 2025-09-17 13:43:56,top_volume,parquet,guardado
 2025-09-17 13:44:21,transfers,csv,guardado
+2025-09-17 13:44:24,transfers,xlsx,guardado
