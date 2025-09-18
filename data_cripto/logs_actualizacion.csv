@@ -827,3 +827,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 04:00:36,btc_nupl,parquet,guardado
 2025-09-18 04:01:11,top_holders,csv,error
 2025-09-18 04:01:17,top_holders,xlsx,guardado
+2025-09-18 04:01:21,top_holders,parquet,guardado
