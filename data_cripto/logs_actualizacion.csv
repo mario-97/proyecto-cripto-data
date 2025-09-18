@@ -9224,3 +9224,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 09:03:49,top_volume,csv,guardado
 2025-09-18 09:03:51,top_volume,xlsx,guardado
 2025-09-18 09:03:53,top_volume,parquet,guardado
+2025-09-18 09:04:25,transfers,csv,guardado
