@@ -7682,3 +7682,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 02:58:56,top_volume,csv,guardado
 2025-09-18 02:58:58,top_volume,xlsx,guardado
 2025-09-18 02:58:59,top_volume,parquet,guardado
+2025-09-18 03:00:02,btc_sopr,csv,guardado
