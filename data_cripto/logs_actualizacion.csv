@@ -7185,3 +7185,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 01:00:22,btc_nupl,xlsx,guardado
 2025-09-18 01:00:22,top_holders,csv,guardado
 2025-09-18 01:00:24,btc_nupl,parquet,guardado
+2025-09-18 01:00:25,top_holders,xlsx,error
