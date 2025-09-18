@@ -11560,3 +11560,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 18:35:03,top_flow,parquet,guardado
 2025-09-18 18:35:05,trending,csv,guardado
 2025-09-18 18:35:07,trending,xlsx,guardado
+2025-09-18 18:35:09,trending,parquet,guardado
