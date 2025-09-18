@@ -10132,3 +10132,6 @@ fecha_hora,archivo,formato,status
 2025-09-18 12:43:41,trending,parquet,guardado
 2025-09-18 12:43:44,top_volume,csv,guardado
 2025-09-18 12:43:46,top_volume,xlsx,guardado
+2025-09-18 12:43:47,transfers,csv,guardado
+2025-09-18 12:43:49,top_volume,parquet,guardado
+2025-09-18 12:43:50,transfers,xlsx,guardado
