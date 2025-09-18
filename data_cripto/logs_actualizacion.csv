@@ -8835,3 +8835,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 07:30:52,top_holders,xlsx,guardado
 2025-09-18 07:30:54,top_holders,parquet,guardado
 2025-09-18 07:31:57,top_flow,csv,guardado
+2025-09-18 07:32:00,top_flow,xlsx,guardado
