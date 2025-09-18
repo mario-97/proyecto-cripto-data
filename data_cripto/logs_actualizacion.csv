@@ -11598,3 +11598,6 @@ fecha_hora,archivo,formato,status
 2025-09-18 18:43:57,transfers,csv,error
 2025-09-18 18:43:58,trending,xlsx,guardado
 2025-09-18 18:44:00,transfers,xlsx,error
+2025-09-18 18:44:00,trending,parquet,guardado
+2025-09-18 18:44:02,transfers,parquet,guardado
+2025-09-18 18:44:03,top_volume,csv,guardado
