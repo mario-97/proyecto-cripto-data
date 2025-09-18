@@ -995,3 +995,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 04:41:31,top_flow,parquet,error
 2025-09-18 04:41:35,trending,csv,guardado
 2025-09-18 04:41:38,trending,xlsx,guardado
+2025-09-18 04:41:41,trending,parquet,guardado
