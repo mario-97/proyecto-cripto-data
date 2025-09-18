@@ -9343,3 +9343,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 09:33:30,top_holders,parquet,guardado
 2025-09-18 09:34:44,top_flow,csv,guardado
 2025-09-18 09:34:46,top_flow,xlsx,guardado
+2025-09-18 09:34:48,top_flow,parquet,guardado
