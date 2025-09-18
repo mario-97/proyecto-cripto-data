@@ -8209,3 +8209,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 05:01:54,trending,parquet,guardado
 2025-09-18 05:01:56,top_volume,csv,guardado
 2025-09-18 05:01:59,top_volume,xlsx,guardado
+2025-09-18 05:02:01,top_volume,parquet,guardado
