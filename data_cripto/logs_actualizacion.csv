@@ -9875,3 +9875,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 11:42:32,top_holders,csv,guardado
 2025-09-18 11:42:36,top_holders,xlsx,guardado
 2025-09-18 11:42:38,top_holders,parquet,guardado
+2025-09-18 11:43:44,transfers,csv,guardado
