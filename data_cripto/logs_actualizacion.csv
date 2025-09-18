@@ -8068,3 +8068,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 04:29:45,top_volume,parquet,guardado
 2025-09-18 04:31:20,top_holders,csv,guardado
 2025-09-18 04:31:23,top_holders,xlsx,error
+2025-09-18 04:31:25,top_holders,parquet,guardado
