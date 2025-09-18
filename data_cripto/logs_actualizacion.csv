@@ -545,3 +545,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 02:44:15,top_volume,parquet,error
 2025-09-18 02:44:58,transfers,csv,guardado
 2025-09-18 02:45:03,transfers,xlsx,guardado
+2025-09-18 02:45:07,transfers,parquet,guardado
