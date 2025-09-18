@@ -9665,3 +9665,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 10:51:25,top_holders,csv,guardado
 2025-09-18 10:51:29,top_holders,xlsx,guardado
 2025-09-18 10:51:31,top_holders,parquet,guardado
+2025-09-18 10:52:45,top_flow,csv,guardado
