@@ -9115,3 +9115,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 08:38:21,trending,parquet,guardado
 2025-09-18 08:38:24,top_volume,csv,guardado
 2025-09-18 08:38:26,top_volume,xlsx,guardado
+2025-09-18 08:38:28,top_volume,parquet,guardado
