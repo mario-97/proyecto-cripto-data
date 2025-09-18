@@ -9910,3 +9910,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 11:49:54,trending,parquet,guardado
 2025-09-18 11:49:57,top_volume,csv,guardado
 2025-09-18 11:49:59,top_volume,xlsx,guardado
+2025-09-18 11:50:01,top_volume,parquet,guardado
