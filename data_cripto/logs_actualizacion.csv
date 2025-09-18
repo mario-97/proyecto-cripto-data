@@ -7111,3 +7111,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 00:42:59,trending,parquet,guardado
 2025-09-18 00:43:02,top_volume,csv,guardado
 2025-09-18 00:43:04,top_volume,xlsx,guardado
+2025-09-18 00:43:06,top_volume,parquet,guardado
