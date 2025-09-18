@@ -11738,3 +11738,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 19:21:42,top_volume,csv,guardado
 2025-09-18 19:21:44,top_volume,xlsx,guardado
 2025-09-18 19:21:45,top_volume,parquet,guardado
+2025-09-18 19:23:51,transfers,csv,guardado
