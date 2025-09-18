@@ -12379,3 +12379,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 22:04:57,top_volume,parquet,guardado
 2025-09-18 22:06:32,top_holders,csv,guardado
 2025-09-18 22:06:35,top_holders,xlsx,guardado
+2025-09-18 22:06:37,top_holders,parquet,guardado
