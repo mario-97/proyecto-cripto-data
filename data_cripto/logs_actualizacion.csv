@@ -8120,3 +8120,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 04:43:59,transfers,csv,guardado
 2025-09-18 04:44:01,transfers,xlsx,guardado
 2025-09-18 04:44:04,transfers,parquet,guardado
+2025-09-18 04:44:24,top_flow,csv,guardado
