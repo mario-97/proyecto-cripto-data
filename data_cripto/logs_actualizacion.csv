@@ -810,3 +810,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 03:59:18,top_flow,csv,error
 2025-09-18 03:59:21,top_flow,xlsx,guardado
 2025-09-18 03:59:31,top_flow,parquet,guardado
+2025-09-18 03:59:36,trending,csv,guardado
