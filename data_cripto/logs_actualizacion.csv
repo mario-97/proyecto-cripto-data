@@ -9466,3 +9466,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 10:03:27,top_holders,parquet,guardado
 2025-09-18 10:03:51,transfers,csv,guardado
 2025-09-18 10:03:54,transfers,xlsx,guardado
+2025-09-18 10:03:56,transfers,parquet,guardado
