@@ -9629,3 +9629,5 @@ fecha_hora,archivo,formato,status
 2025-09-18 10:43:50,transfers,csv,guardado
 2025-09-18 10:43:52,top_flow,csv,guardado
 2025-09-18 10:43:53,transfers,xlsx,guardado
+2025-09-18 10:43:54,top_flow,xlsx,guardado
+2025-09-18 10:43:56,top_flow,parquet,error
