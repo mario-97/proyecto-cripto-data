@@ -10729,3 +10729,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 15:13:46,trending,parquet,guardado
 2025-09-18 15:13:49,top_volume,csv,guardado
 2025-09-18 15:13:51,top_volume,xlsx,guardado
+2025-09-18 15:13:52,top_volume,parquet,guardado
