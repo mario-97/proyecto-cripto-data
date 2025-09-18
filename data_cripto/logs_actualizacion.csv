@@ -12400,3 +12400,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 22:10:55,trending,parquet,guardado
 2025-09-18 22:10:57,top_volume,csv,guardado
 2025-09-18 22:11:00,top_volume,xlsx,guardado
+2025-09-18 22:11:02,top_volume,parquet,guardado
