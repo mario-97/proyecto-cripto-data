@@ -6980,3 +6980,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 00:06:56,top_holders,csv,guardado
 2025-09-18 00:06:59,top_holders,xlsx,guardado
 2025-09-18 00:07:01,top_holders,parquet,guardado
+2025-09-18 00:08:00,top_flow,csv,guardado
