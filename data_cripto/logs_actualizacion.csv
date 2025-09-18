@@ -9589,3 +9589,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 10:32:11,top_volume,parquet,guardado
 2025-09-18 10:33:29,top_holders,csv,guardado
 2025-09-18 10:33:33,top_holders,xlsx,guardado
+2025-09-18 10:33:35,top_holders,parquet,guardado
