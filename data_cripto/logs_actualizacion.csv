@@ -818,3 +818,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 03:59:53,top_volume,parquet,guardado
 2025-09-18 04:00:04,btc_price,csv,guardado
 2025-09-18 04:00:08,btc_price,xlsx,guardado
+2025-09-18 04:00:11,btc_price,parquet,guardado
