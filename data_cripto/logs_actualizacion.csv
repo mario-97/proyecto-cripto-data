@@ -9132,3 +9132,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 08:42:32,top_holders,xlsx,guardado
 2025-09-18 08:42:35,top_holders,parquet,guardado
 2025-09-18 08:43:47,transfers,csv,guardado
+2025-09-18 08:43:49,transfers,xlsx,guardado
