@@ -12778,3 +12778,5 @@ fecha_hora,archivo,formato,status
 2025-09-18 23:42:27,top_holders,parquet,guardado
 2025-09-18 23:43:40,top_flow,csv,guardado
 2025-09-18 23:43:42,top_flow,xlsx,guardado
+2025-09-18 23:43:43,transfers,csv,guardado
+2025-09-18 23:43:44,top_flow,parquet,guardado
