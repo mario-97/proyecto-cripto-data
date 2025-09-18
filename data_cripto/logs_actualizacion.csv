@@ -7560,3 +7560,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 02:28:53,top_volume,xlsx,error
 2025-09-18 02:28:55,top_volume,parquet,guardado
 2025-09-18 02:30:33,top_holders,csv,guardado
+2025-09-18 02:30:36,top_holders,xlsx,guardado
