@@ -929,3 +929,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 04:23:38,top_volume,parquet,guardado
 2025-09-18 04:25:05,top_holders,csv,error
 2025-09-18 04:25:10,top_holders,xlsx,error
+2025-09-18 04:25:14,top_holders,parquet,guardado
