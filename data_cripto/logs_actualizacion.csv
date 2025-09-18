@@ -11389,3 +11389,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 17:53:08,trending,parquet,guardado
 2025-09-18 17:53:11,top_volume,csv,guardado
 2025-09-18 17:53:14,top_volume,xlsx,guardado
+2025-09-18 17:53:16,top_volume,parquet,guardado
