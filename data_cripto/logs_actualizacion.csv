@@ -7789,3 +7789,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 03:22:50,trending,parquet,guardado
 2025-09-18 03:22:53,top_volume,csv,error
 2025-09-18 03:22:55,top_volume,xlsx,guardado
+2025-09-18 03:22:57,top_volume,parquet,guardado
