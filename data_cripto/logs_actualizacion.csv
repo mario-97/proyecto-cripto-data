@@ -9382,3 +9382,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 09:43:53,transfers,xlsx,error
 2025-09-18 09:43:55,top_flow,xlsx,guardado
 2025-09-18 09:43:55,transfers,parquet,error
+2025-09-18 09:43:57,top_flow,parquet,guardado
