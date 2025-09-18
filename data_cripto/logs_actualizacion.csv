@@ -8548,3 +8548,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 06:23:06,top_volume,parquet,guardado
 2025-09-18 06:23:50,transfers,csv,guardado
 2025-09-18 06:23:53,transfers,xlsx,guardado
+2025-09-18 06:23:55,transfers,parquet,guardado
