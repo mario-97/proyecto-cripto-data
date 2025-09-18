@@ -7150,3 +7150,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 00:53:22,trending,parquet,guardado
 2025-09-18 00:53:28,top_volume,csv,guardado
 2025-09-18 00:53:30,top_volume,xlsx,guardado
+2025-09-18 00:53:31,top_volume,parquet,guardado
