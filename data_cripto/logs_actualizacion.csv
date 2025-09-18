@@ -8883,3 +8883,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 07:43:02,top_holders,xlsx,guardado
 2025-09-18 07:43:05,top_holders,parquet,guardado
 2025-09-18 07:43:54,transfers,csv,guardado
+2025-09-18 07:43:57,transfers,xlsx,guardado
