@@ -8247,3 +8247,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 05:11:13,trending,xlsx,error
 2025-09-18 05:11:15,trending,parquet,guardado
 2025-09-18 05:11:18,top_volume,csv,guardado
+2025-09-18 05:11:20,top_volume,xlsx,guardado
