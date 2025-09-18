@@ -10211,3 +10211,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 13:03:24,top_holders,csv,guardado
 2025-09-18 13:03:27,top_holders,xlsx,guardado
 2025-09-18 13:03:29,top_holders,parquet,guardado
+2025-09-18 13:03:48,transfers,csv,guardado
