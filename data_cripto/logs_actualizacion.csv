@@ -9353,3 +9353,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 09:36:31,top_holders,csv,guardado
 2025-09-18 09:36:34,top_holders,xlsx,guardado
 2025-09-18 09:36:37,top_holders,parquet,guardado
+2025-09-18 09:38:01,top_flow,csv,guardado
