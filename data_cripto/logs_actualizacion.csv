@@ -788,3 +788,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 03:53:19,top_flow,parquet,error
 2025-09-18 03:53:23,trending,csv,guardado
 2025-09-18 03:53:26,trending,xlsx,guardado
+2025-09-18 03:53:29,trending,parquet,guardado
