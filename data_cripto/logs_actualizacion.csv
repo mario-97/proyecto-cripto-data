@@ -9057,3 +9057,5 @@ fecha_hora,archivo,formato,status
 2025-09-18 08:24:29,top_holders,xlsx,guardado
 2025-09-18 08:24:30,transfers,csv,guardado
 2025-09-18 08:24:32,top_holders,parquet,guardado
+2025-09-18 08:24:32,transfers,xlsx,error
+2025-09-18 08:24:34,transfers,parquet,guardado
