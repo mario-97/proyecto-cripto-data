@@ -12715,3 +12715,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 23:25:49,top_volume,parquet,guardado
 2025-09-18 23:27:50,top_holders,csv,guardado
 2025-09-18 23:27:53,top_holders,xlsx,guardado
+2025-09-18 23:27:56,top_holders,parquet,guardado
