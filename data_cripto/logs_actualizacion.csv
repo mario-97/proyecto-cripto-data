@@ -8822,3 +8822,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 07:27:58,top_holders,csv,guardado
 2025-09-18 07:28:01,top_holders,xlsx,guardado
 2025-09-18 07:28:04,top_holders,parquet,guardado
+2025-09-18 07:29:35,top_flow,csv,guardado
