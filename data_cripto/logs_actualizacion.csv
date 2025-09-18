@@ -388,3 +388,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 01:59:56,top_holders,xlsx,guardado
 2025-09-18 02:00:04,top_holders,parquet,guardado
 2025-09-18 02:00:13,transfers,csv,guardado
+2025-09-18 02:00:19,transfers,xlsx,guardado
