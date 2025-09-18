@@ -643,3 +643,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 03:15:55,top_volume,xlsx,guardado
 2025-09-18 03:15:58,top_volume,parquet,guardado
 2025-09-18 03:18:59,top_holders,csv,guardado
+2025-09-18 03:19:04,top_holders,xlsx,guardado
