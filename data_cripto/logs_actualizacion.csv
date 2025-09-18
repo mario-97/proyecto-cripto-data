@@ -9060,3 +9060,4 @@ fecha_hora,archivo,formato,status
 2025-09-18 08:24:32,transfers,xlsx,error
 2025-09-18 08:24:34,transfers,parquet,guardado
 2025-09-18 08:25:48,top_flow,csv,guardado
+2025-09-18 08:25:50,top_flow,xlsx,guardado
