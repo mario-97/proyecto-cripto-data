@@ -13878,3 +13878,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 04:03:27,top_holders,xlsx,guardado
 2025-09-19 04:03:29,top_holders,parquet,guardado
 2025-09-19 04:03:52,transfers,csv,guardado
+2025-09-19 04:03:55,transfers,xlsx,guardado
