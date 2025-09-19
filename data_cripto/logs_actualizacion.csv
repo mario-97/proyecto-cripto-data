@@ -13485,3 +13485,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 02:30:32,top_holders,xlsx,error
 2025-09-19 02:30:34,top_holders,parquet,guardado
 2025-09-19 02:31:42,top_flow,csv,guardado
+2025-09-19 02:31:44,top_flow,xlsx,guardado
