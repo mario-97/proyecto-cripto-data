@@ -14245,3 +14245,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 05:28:51,trending,parquet,guardado
 2025-09-19 05:28:54,top_volume,csv,guardado
 2025-09-19 05:28:56,top_volume,xlsx,guardado
+2025-09-19 05:28:58,top_volume,parquet,guardado
