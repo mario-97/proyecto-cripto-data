@@ -1995,3 +1995,5 @@ fecha_hora,archivo,formato,status
 2025-09-19 03:25:02,trending,parquet,guardado
 2025-09-19 03:25:07,top_volume,csv,guardado
 2025-09-19 03:25:11,top_volume,xlsx,guardado
+2025-09-19 03:25:12,transfers,csv,guardado
+2025-09-19 03:25:15,top_volume,parquet,guardado
