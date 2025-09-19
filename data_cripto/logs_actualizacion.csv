@@ -14470,3 +14470,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 06:23:24,top_volume,parquet,guardado
 2025-09-19 06:23:46,transfers,csv,guardado
 2025-09-19 06:23:49,transfers,xlsx,guardado
+2025-09-19 06:23:51,transfers,parquet,guardado
