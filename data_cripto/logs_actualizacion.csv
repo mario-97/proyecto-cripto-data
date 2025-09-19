@@ -1910,3 +1910,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 03:04:03,top_volume,xlsx,guardado
 2025-09-19 03:04:07,top_volume,parquet,guardado
 2025-09-19 03:05:11,transfers,csv,guardado
+2025-09-19 03:05:15,top_holders,csv,guardado
