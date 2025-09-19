@@ -1202,3 +1202,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 00:05:32,transfers,xlsx,guardado
 2025-09-19 00:05:33,top_holders,xlsx,guardado
 2025-09-19 00:05:37,transfers,parquet,guardado
+2025-09-19 00:05:40,top_holders,parquet,error
