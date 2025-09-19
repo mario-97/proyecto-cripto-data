@@ -15568,3 +15568,5 @@ do,,,
 2025-09-19 10:43:48,top_volume,csv,guardado
 2025-09-19 10:43:50,top_volume,xlsx,guardado
 2025-09-19 10:43:52,top_volume,parquet,guardado
+2025-09-19 10:43:52,transfers,csv,error
+2025-09-19 10:43:55,transfers,xlsx,guardado
