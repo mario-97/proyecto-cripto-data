@@ -2633,3 +2633,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 22:29:01,transfers,parquet,error
 2025-09-19 22:48:17,transfers,csv,guardado
 2025-09-19 22:48:22,transfers,xlsx,guardado
+2025-09-19 22:48:27,transfers,parquet,guardado
