@@ -1239,3 +1239,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 00:14:21,top_holders,csv,guardado
 2025-09-19 00:14:31,top_holders,xlsx,guardado
 2025-09-19 00:14:38,top_holders,parquet,guardado
+2025-09-19 00:15:41,top_flow,csv,guardado
