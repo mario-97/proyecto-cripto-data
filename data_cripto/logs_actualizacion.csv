@@ -13111,3 +13111,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 01:00:25,btc_nupl,parquet,error
 2025-09-19 01:01:22,top_flow,csv,guardado
 2025-09-19 01:01:24,top_flow,xlsx,guardado
+2025-09-19 01:01:26,top_flow,parquet,guardado
