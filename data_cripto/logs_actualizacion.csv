@@ -2639,3 +2639,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 23:08:27,transfers,parquet,guardado
 2025-09-19 23:28:10,transfers,csv,guardado
 2025-09-19 23:28:16,transfers,xlsx,guardado
+2025-09-19 23:28:20,transfers,parquet,guardado
