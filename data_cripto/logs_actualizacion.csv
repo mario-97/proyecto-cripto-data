@@ -17351,3 +17351,5 @@ do,,,
 2025-09-19 18:15:28,top_holders,xlsx,guardado
 2025-09-19 18:15:31,top_holders,parquet,guardado
 2025-09-19 18:16:17,top_flow,csv,error
+2025-09-19 18:16:19,top_flow,xlsx,guardado
+2025-09-19 18:16:21,top_flow,parquet,guardado
