@@ -13798,3 +13798,6 @@ fecha_hora,archivo,formato,status
 2025-09-19 03:43:44,trending,parquet,guardado
 2025-09-19 03:43:46,top_volume,csv,guardado
 2025-09-19 03:43:48,transfers,csv,guardado
+2025-09-19 03:43:49,top_volume,xlsx,guardado
+2025-09-19 03:43:50,top_volume,parquet,guardado
+2025-09-19 03:43:51,transfers,xlsx,guardado
