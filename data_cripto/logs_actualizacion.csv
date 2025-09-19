@@ -14035,3 +14035,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 04:40:55,trending,parquet,guardado
 2025-09-19 04:40:58,top_volume,csv,guardado
 2025-09-19 04:41:00,top_volume,xlsx,guardado
+2025-09-19 04:41:02,top_volume,parquet,guardado
