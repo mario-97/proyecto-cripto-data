@@ -1300,3 +1300,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 00:29:12,top_volume,xlsx,error
 2025-09-19 00:29:16,top_volume,parquet,error
 2025-09-19 00:32:47,top_holders,csv,guardado
+2025-09-19 00:32:54,top_holders,xlsx,guardado
