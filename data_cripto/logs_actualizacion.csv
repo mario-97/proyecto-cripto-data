@@ -2605,3 +2605,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 19:29:01,transfers,xlsx,error
 2025-09-19 19:29:12,transfers,parquet,error
 2025-09-19 19:48:46,transfers,csv,guardado
+2025-09-19 19:48:52,transfers,xlsx,guardado
