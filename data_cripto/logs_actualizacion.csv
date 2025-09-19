@@ -17574,3 +17574,4 @@ do,,,
 2025-09-19 19:07:57,top_volume,parquet,error
 2025-09-19 19:09:37,top_holders,csv,guardado
 2025-09-19 19:09:40,top_holders,xlsx,guardado
+2025-09-19 19:09:43,top_holders,parquet,guardado
