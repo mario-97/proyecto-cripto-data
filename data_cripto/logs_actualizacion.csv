@@ -14360,3 +14360,4 @@ fecha_hora,archivo,formato,status
 2025-09-19 05:57:21,top_holders,csv,guardado
 2025-09-19 05:57:25,top_holders,xlsx,guardado
 2025-09-19 05:57:28,top_holders,parquet,guardado
+2025-09-19 05:58:39,top_flow,csv,guardado
