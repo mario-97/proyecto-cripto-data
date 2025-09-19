@@ -17965,3 +17965,5 @@ do,,,
 2025-09-19 20:43:49,transfers,csv,error
 2025-09-19 20:43:50,trending,csv,guardado
 2025-09-19 20:43:52,transfers,xlsx,error
+2025-09-19 20:43:52,trending,xlsx,guardado
+2025-09-19 20:43:54,transfers,parquet,guardado
