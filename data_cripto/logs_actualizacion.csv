@@ -4414,3 +4414,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 20:35:58,top_flow,parquet,guardado
 2025-09-20 20:36:00,trending,csv,guardado
 2025-09-20 20:36:02,trending,xlsx,guardado
+2025-09-20 20:36:04,trending,parquet,guardado
