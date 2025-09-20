@@ -4918,3 +4918,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 22:35:30,top_volume,parquet,guardado
 2025-09-20 22:37:18,top_holders,csv,guardado
 2025-09-20 22:37:22,top_holders,xlsx,guardado
+2025-09-20 22:37:24,top_holders,parquet,guardado
