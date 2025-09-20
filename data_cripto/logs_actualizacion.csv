@@ -4329,3 +4329,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 20:15:07,trending,xlsx,guardado
 2025-09-20 20:15:09,trending,parquet,guardado
 2025-09-20 20:15:11,top_volume,csv,guardado
+2025-09-20 20:15:13,top_volume,xlsx,guardado
