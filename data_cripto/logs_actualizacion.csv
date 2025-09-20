@@ -81,3 +81,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 03:13:02,top_volume,xlsx,guardado
 2025-09-20 03:13:04,top_volume,parquet,guardado
 2025-09-20 03:14:36,transfers,csv,error
+2025-09-20 03:14:38,transfers,xlsx,guardado
