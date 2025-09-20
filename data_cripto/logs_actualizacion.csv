@@ -1990,3 +1990,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 10:50:41,top_volume,parquet,guardado
 2025-09-20 10:51:50,transfers,csv,guardado
 2025-09-20 10:51:53,transfers,xlsx,guardado
+2025-09-20 10:51:54,transfers,parquet,guardado
