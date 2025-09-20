@@ -3899,3 +3899,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 18:31:43,transfers,csv,guardado
 2025-09-20 18:31:46,transfers,xlsx,guardado
 2025-09-20 18:31:48,transfers,parquet,guardado
+2025-09-20 18:32:25,top_flow,csv,guardado
