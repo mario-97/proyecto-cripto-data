@@ -1984,3 +1984,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 10:50:30,top_flow,parquet,guardado
 2025-09-20 10:50:33,trending,csv,guardado
 2025-09-20 10:50:34,trending,xlsx,guardado
+2025-09-20 10:50:36,trending,parquet,guardado
