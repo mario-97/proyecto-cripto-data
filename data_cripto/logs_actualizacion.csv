@@ -850,3 +850,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 06:20:33,trending,parquet,guardado
 2025-09-20 06:20:36,top_volume,csv,guardado
 2025-09-20 06:20:37,top_volume,xlsx,guardado
+2025-09-20 06:20:39,top_volume,parquet,guardado
