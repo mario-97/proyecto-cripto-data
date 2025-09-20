@@ -2812,3 +2812,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 14:08:40,top_volume,parquet,guardado
 2025-09-20 14:10:25,top_holders,csv,guardado
 2025-09-20 14:10:28,top_holders,xlsx,guardado
+2025-09-20 14:10:30,top_holders,parquet,guardado
