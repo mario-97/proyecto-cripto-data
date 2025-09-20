@@ -2006,3 +2006,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 10:55:41,top_holders,csv,guardado
 2025-09-20 10:55:44,top_holders,xlsx,guardado
 2025-09-20 10:55:46,top_holders,parquet,guardado
+2025-09-20 10:56:44,top_flow,csv,guardado
