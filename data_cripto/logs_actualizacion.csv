@@ -1313,3 +1313,6 @@ fecha_hora,archivo,formato,status
 2025-09-20 08:11:55,top_flow,csv,guardado
 2025-09-20 08:11:55,transfers,csv,error
 2025-09-20 08:11:57,top_flow,xlsx,guardado
+2025-09-20 08:11:57,transfers,xlsx,error
+2025-09-20 08:11:59,transfers,parquet,error
+2025-09-20 08:11:59,top_flow,parquet,guardado
