@@ -5080,3 +5080,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 23:14:40,top_volume,parquet,guardado
 2025-09-20 23:16:35,top_holders,csv,guardado
 2025-09-20 23:16:38,top_holders,xlsx,guardado
+2025-09-20 23:16:40,top_holders,parquet,guardado
