@@ -9959,3 +9959,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 19:11:57,transfers,csv,guardado
 2025-09-21 19:11:59,transfers,xlsx,guardado
 2025-09-21 19:12:01,transfers,parquet,guardado
+2025-09-21 19:13:29,top_holders,csv,guardado
