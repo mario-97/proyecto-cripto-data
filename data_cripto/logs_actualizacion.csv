@@ -9520,3 +9520,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 17:26:56,trending,parquet,guardado
 2025-09-21 17:26:58,top_volume,csv,guardado
 2025-09-21 17:27:00,top_volume,xlsx,guardado
+2025-09-21 17:27:02,top_volume,parquet,guardado
