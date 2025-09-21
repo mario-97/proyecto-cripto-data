@@ -9669,3 +9669,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 18:02:34,trending,xlsx,guardado
 2025-09-21 18:02:36,trending,parquet,guardado
 2025-09-21 18:02:38,top_volume,csv,guardado
+2025-09-21 18:02:40,top_volume,xlsx,error
