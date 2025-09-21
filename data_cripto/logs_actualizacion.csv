@@ -9478,3 +9478,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 17:16:39,top_holders,parquet,guardado
 2025-09-21 17:17:36,top_flow,csv,guardado
 2025-09-21 17:17:38,top_flow,xlsx,guardado
+2025-09-21 17:17:40,top_flow,parquet,guardado
