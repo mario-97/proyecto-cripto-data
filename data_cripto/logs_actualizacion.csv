@@ -7975,3 +7975,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 10:54:04,trending,parquet,guardado
 2025-09-21 10:54:06,top_volume,csv,guardado
 2025-09-21 10:54:08,top_volume,xlsx,guardado
+2025-09-21 10:54:10,top_volume,parquet,guardado
