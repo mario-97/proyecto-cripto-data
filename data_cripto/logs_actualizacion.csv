@@ -8077,3 +8077,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 11:21:25,top_volume,parquet,guardado
 2025-09-21 11:23:42,top_holders,csv,guardado
 2025-09-21 11:23:45,top_holders,xlsx,guardado
+2025-09-21 11:23:47,top_holders,parquet,guardado
