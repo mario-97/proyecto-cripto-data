@@ -6250,3 +6250,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 04:02:32,top_flow,parquet,guardado
 2025-09-21 04:02:35,trending,csv,guardado
 2025-09-21 04:02:36,trending,xlsx,guardado
+2025-09-21 04:02:38,trending,parquet,guardado
