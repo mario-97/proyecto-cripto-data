@@ -6495,3 +6495,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 05:00:04,btc_nrpl_usd,xlsx,guardado
 2025-09-21 05:00:06,btc_nrpl_usd,parquet,guardado
 2025-09-21 05:00:10,btc_change_price,csv,guardado
+2025-09-21 05:00:15,btc_change_price,xlsx,guardado
