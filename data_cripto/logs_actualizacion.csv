@@ -9621,3 +9621,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 17:51:02,top_volume,xlsx,error
 2025-09-21 17:51:04,top_volume,parquet,guardado
 2025-09-21 17:51:45,transfers,csv,guardado
+2025-09-21 17:51:47,transfers,xlsx,guardado
