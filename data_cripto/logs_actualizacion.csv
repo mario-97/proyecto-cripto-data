@@ -8230,3 +8230,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 11:59:05,top_holders,parquet,guardado
 2025-09-21 12:00:04,top_flow,csv,guardado
 2025-09-21 12:00:06,top_flow,xlsx,guardado
+2025-09-21 12:00:08,top_flow,parquet,guardado
