@@ -10270,3 +10270,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 20:28:10,top_volume,parquet,guardado
 2025-09-21 20:31:50,transfers,csv,guardado
 2025-09-21 20:31:53,transfers,xlsx,guardado
+2025-09-21 20:31:55,transfers,parquet,guardado
