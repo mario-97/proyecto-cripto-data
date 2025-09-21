@@ -8758,3 +8758,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 14:06:21,trending,parquet,guardado
 2025-09-21 14:06:23,top_volume,csv,guardado
 2025-09-21 14:06:25,top_volume,xlsx,guardado
+2025-09-21 14:06:27,top_volume,parquet,guardado
