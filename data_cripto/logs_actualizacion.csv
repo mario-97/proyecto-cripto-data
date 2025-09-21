@@ -6190,3 +6190,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 03:47:31,trending,parquet,guardado
 2025-09-21 03:47:34,top_volume,csv,guardado
 2025-09-21 03:47:36,top_volume,xlsx,guardado
+2025-09-21 03:47:38,top_volume,parquet,guardado
