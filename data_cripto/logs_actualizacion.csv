@@ -8204,3 +8204,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 11:53:39,top_holders,csv,guardado
 2025-09-21 11:53:42,top_holders,xlsx,guardado
 2025-09-21 11:53:44,top_holders,parquet,guardado
+2025-09-21 11:54:41,top_flow,csv,guardado
