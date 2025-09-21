@@ -8030,3 +8030,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 11:12:05,transfers,csv,guardado
 2025-09-21 11:12:07,transfers,xlsx,guardado
 2025-09-21 11:12:09,transfers,parquet,guardado
+2025-09-21 11:12:46,top_flow,csv,guardado
