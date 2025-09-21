@@ -11010,3 +11010,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 23:50:30,trending,xlsx,guardado
 2025-09-21 23:50:32,trending,parquet,guardado
 2025-09-21 23:50:38,top_volume,csv,error
+2025-09-21 23:50:40,top_volume,xlsx,guardado
