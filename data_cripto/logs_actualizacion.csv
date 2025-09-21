@@ -8438,3 +8438,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 12:50:30,top_holders,csv,guardado
 2025-09-21 12:50:33,top_holders,xlsx,guardado
 2025-09-21 12:50:35,top_holders,parquet,guardado
+2025-09-21 12:51:30,top_flow,csv,guardado
