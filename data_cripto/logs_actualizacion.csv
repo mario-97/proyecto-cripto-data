@@ -6130,3 +6130,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 03:32:31,trending,parquet,guardado
 2025-09-21 03:32:34,top_volume,csv,guardado
 2025-09-21 03:32:36,top_volume,xlsx,guardado
+2025-09-21 03:32:37,top_volume,parquet,guardado
