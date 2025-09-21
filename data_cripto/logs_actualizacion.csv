@@ -5773,3 +5773,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 02:08:35,top_volume,parquet,guardado
 2025-09-21 02:10:46,top_holders,csv,guardado
 2025-09-21 02:10:49,top_holders,xlsx,guardado
+2025-09-21 02:10:51,top_holders,parquet,guardado
