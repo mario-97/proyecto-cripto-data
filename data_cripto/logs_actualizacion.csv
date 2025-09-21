@@ -9928,3 +9928,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 19:05:28,top_flow,parquet,guardado
 2025-09-21 19:05:31,trending,csv,guardado
 2025-09-21 19:05:33,trending,xlsx,guardado
+2025-09-21 19:05:35,trending,parquet,guardado
