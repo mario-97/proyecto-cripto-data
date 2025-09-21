@@ -10355,3 +10355,5 @@ fecha_hora,archivo,formato,status
 2025-09-21 20:51:49,transfers,csv,guardado
 2025-09-21 20:51:50,top_volume,csv,error
 2025-09-21 20:51:52,transfers,xlsx,error
+2025-09-21 20:51:52,top_volume,xlsx,guardado
+2025-09-21 20:51:54,transfers,parquet,guardado
