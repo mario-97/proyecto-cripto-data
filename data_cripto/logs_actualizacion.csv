@@ -6280,3 +6280,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 04:08:43,top_volume,parquet,guardado
 2025-09-21 04:10:34,top_holders,csv,guardado
 2025-09-21 04:10:37,top_holders,xlsx,guardado
+2025-09-21 04:10:40,top_holders,parquet,guardado
