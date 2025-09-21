@@ -5990,3 +5990,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 03:00:09,btc_hashrate,csv,guardado
 2025-09-21 03:00:12,btc_hashrate,xlsx,guardado
 2025-09-21 03:00:14,btc_hashrate,parquet,guardado
+2025-09-21 03:00:17,btc_miner_reserves,csv,guardado
