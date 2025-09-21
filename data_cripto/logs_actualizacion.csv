@@ -5782,3 +5782,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 02:11:50,trending,xlsx,guardado
 2025-09-21 02:11:51,transfers,xlsx,guardado
 2025-09-21 02:11:52,trending,parquet,guardado
+2025-09-21 02:11:53,transfers,parquet,error
