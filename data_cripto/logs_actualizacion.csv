@@ -6715,3 +6715,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 05:51:51,transfers,parquet,guardado
 2025-09-21 05:52:46,top_holders,csv,guardado
 2025-09-21 05:52:49,top_holders,xlsx,guardado
+2025-09-21 05:52:52,top_holders,parquet,guardado
