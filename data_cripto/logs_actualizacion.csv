@@ -7058,3 +7058,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 07:11:56,transfers,csv,guardado
 2025-09-21 07:11:59,transfers,xlsx,guardado
 2025-09-21 07:12:00,transfers,parquet,guardado
+2025-09-21 07:13:59,top_holders,csv,guardado
