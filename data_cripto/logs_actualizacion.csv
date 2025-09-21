@@ -7219,3 +7219,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 07:51:01,top_volume,parquet,guardado
 2025-09-21 07:51:51,transfers,csv,guardado
 2025-09-21 07:51:53,transfers,xlsx,guardado
+2025-09-21 07:51:55,transfers,parquet,guardado
