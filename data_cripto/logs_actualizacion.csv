@@ -6212,3 +6212,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 03:54:00,top_flow,csv,guardado
 2025-09-21 03:54:02,top_flow,xlsx,guardado
 2025-09-21 03:54:04,top_flow,parquet,guardado
+2025-09-21 03:54:07,trending,csv,guardado
