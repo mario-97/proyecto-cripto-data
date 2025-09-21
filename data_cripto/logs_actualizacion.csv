@@ -8113,3 +8113,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 11:29:46,top_volume,parquet,guardado
 2025-09-21 11:32:00,transfers,csv,guardado
 2025-09-21 11:32:03,transfers,xlsx,guardado
+2025-09-21 11:32:05,transfers,parquet,guardado
