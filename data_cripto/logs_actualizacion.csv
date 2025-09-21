@@ -10360,3 +10360,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 20:51:54,top_volume,parquet,error
 2025-09-21 20:53:51,top_holders,csv,guardado
 2025-09-21 20:53:54,top_holders,xlsx,guardado
+2025-09-21 20:53:57,top_holders,parquet,guardado
