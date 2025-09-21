@@ -8959,3 +8959,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 14:53:50,trending,parquet,guardado
 2025-09-21 14:53:53,top_volume,csv,guardado
 2025-09-21 14:53:55,top_volume,xlsx,guardado
+2025-09-21 14:53:56,top_volume,parquet,guardado
