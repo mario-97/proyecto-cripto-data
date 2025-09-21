@@ -9333,3 +9333,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 16:29:46,top_volume,xlsx,guardado
 2025-09-21 16:29:48,top_volume,parquet,guardado
 2025-09-21 16:32:04,transfers,csv,guardado
+2025-09-21 16:32:07,transfers,xlsx,guardado
