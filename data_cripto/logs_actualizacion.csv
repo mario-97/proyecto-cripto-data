@@ -2783,3 +2783,4 @@ fecha_hora,archivo,formato,status
 2025-09-20 03:16:58,top_holders,parquet,guardado
 2025-09-21 17:20:14,top_holders,csv,error
 2025-09-21 17:20:23,top_holders,xlsx,guardado
+2025-09-21 17:20:29,top_holders,parquet,guardado
