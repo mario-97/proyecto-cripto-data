@@ -9208,3 +9208,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 15:53:32,trending,parquet,guardado
 2025-09-21 15:53:35,top_volume,csv,guardado
 2025-09-21 15:53:37,top_volume,xlsx,guardado
+2025-09-21 15:53:39,top_volume,parquet,guardado
