@@ -9213,3 +9213,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 15:55:59,top_holders,xlsx,guardado
 2025-09-21 15:56:02,top_holders,parquet,guardado
 2025-09-21 15:57:04,top_flow,csv,guardado
+2025-09-21 15:57:07,top_flow,xlsx,guardado
