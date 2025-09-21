@@ -10405,3 +10405,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 21:05:48,trending,parquet,guardado
 2025-09-21 21:05:52,top_volume,csv,guardado
 2025-09-21 21:05:53,top_volume,xlsx,guardado
+2025-09-21 21:05:55,top_volume,parquet,guardado
