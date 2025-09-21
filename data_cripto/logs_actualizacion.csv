@@ -9788,3 +9788,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 18:32:01,transfers,csv,guardado
 2025-09-21 18:32:05,transfers,xlsx,guardado
 2025-09-21 18:32:07,transfers,parquet,guardado
+2025-09-21 18:32:34,top_flow,csv,guardado
