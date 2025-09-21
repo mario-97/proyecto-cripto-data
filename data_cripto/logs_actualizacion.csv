@@ -6022,3 +6022,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 03:07:30,top_holders,parquet,guardado
 2025-09-21 03:08:23,top_flow,csv,guardado
 2025-09-21 03:08:25,top_flow,xlsx,guardado
+2025-09-21 03:08:27,top_flow,parquet,guardado
