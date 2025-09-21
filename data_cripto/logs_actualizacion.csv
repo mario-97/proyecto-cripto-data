@@ -10705,3 +10705,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 22:35:42,top_volume,parquet,guardado
 2025-09-21 22:37:18,top_holders,csv,guardado
 2025-09-21 22:37:21,top_holders,xlsx,guardado
+2025-09-21 22:37:24,top_holders,parquet,guardado
