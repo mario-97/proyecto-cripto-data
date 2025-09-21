@@ -8395,3 +8395,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 12:38:58,top_flow,parquet,guardado
 2025-09-21 12:39:01,trending,csv,guardado
 2025-09-21 12:39:02,trending,xlsx,guardado
+2025-09-21 12:39:04,trending,parquet,guardado
