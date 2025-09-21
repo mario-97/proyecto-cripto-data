@@ -9868,3 +9868,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 18:50:50,trending,parquet,guardado
 2025-09-21 18:50:53,top_volume,csv,guardado
 2025-09-21 18:50:54,top_volume,xlsx,guardado
+2025-09-21 18:50:56,top_volume,parquet,guardado
