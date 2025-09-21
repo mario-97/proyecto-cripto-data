@@ -8615,3 +8615,4 @@ fecha_hora,archivo,formato,status
 2025-09-21 13:31:53,transfers,csv,guardado
 2025-09-21 13:31:56,transfers,xlsx,guardado
 2025-09-21 13:31:58,transfers,parquet,guardado
+2025-09-21 13:32:28,top_flow,csv,guardado
