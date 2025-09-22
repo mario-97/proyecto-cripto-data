@@ -11130,3 +11130,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 00:20:06,top_holders,xlsx,guardado
 2025-09-22 00:20:08,top_holders,parquet,guardado
 2025-09-22 00:21:05,top_flow,csv,guardado
+2025-09-22 00:21:07,top_flow,xlsx,guardado
