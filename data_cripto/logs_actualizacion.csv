@@ -11945,3 +11945,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 03:35:26,top_flow,csv,guardado
 2025-09-22 03:35:28,top_flow,xlsx,guardado
 2025-09-22 03:35:30,top_flow,parquet,error
+2025-09-22 03:35:32,trending,csv,guardado
