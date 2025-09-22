@@ -4409,3 +4409,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 04:00:36,btc_nupl,parquet,guardado
 2025-09-22 04:02:06,top_holders,csv,error
 2025-09-22 04:02:11,top_holders,xlsx,error
+2025-09-22 04:02:19,top_holders,parquet,guardado
