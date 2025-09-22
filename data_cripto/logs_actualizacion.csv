@@ -16519,3 +16519,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 21:50:49,top_volume,parquet,guardado
 2025-09-22 21:51:43,transfers,csv,guardado
 2025-09-22 21:51:46,transfers,xlsx,guardado
+2025-09-22 21:51:48,transfers,parquet,guardado
