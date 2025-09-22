@@ -3730,3 +3730,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 01:16:56,top_holders,xlsx,guardado
 2025-09-22 01:17:00,top_holders,parquet,guardado
 2025-09-22 01:17:49,top_flow,csv,error
+2025-09-22 01:17:52,top_flow,xlsx,guardado
