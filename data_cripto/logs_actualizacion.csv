@@ -11698,3 +11698,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 02:35:44,top_volume,parquet,guardado
 2025-09-22 02:37:24,top_holders,csv,guardado
 2025-09-22 02:37:28,top_holders,xlsx,error
+2025-09-22 02:37:30,top_holders,parquet,guardado
