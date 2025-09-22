@@ -4412,3 +4412,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 04:02:19,top_holders,parquet,guardado
 2025-09-22 04:02:59,transfers,csv,guardado
 2025-09-22 04:03:03,transfers,xlsx,guardado
+2025-09-22 04:03:07,transfers,parquet,guardado
