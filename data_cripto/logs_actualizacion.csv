@@ -11248,3 +11248,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 00:50:34,trending,parquet,guardado
 2025-09-22 00:50:38,top_volume,csv,guardado
 2025-09-22 00:50:40,top_volume,xlsx,error
+2025-09-22 00:50:41,top_volume,parquet,guardado
