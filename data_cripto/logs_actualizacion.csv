@@ -14360,3 +14360,5 @@ fecha_hora,archivo,formato,status
 2025-09-22 13:11:53,transfers,csv,guardado
 2025-09-22 13:11:53,trending,csv,error
 2025-09-22 13:11:56,trending,xlsx,guardado
+2025-09-22 13:11:56,transfers,xlsx,guardado
+2025-09-22 13:11:58,trending,parquet,guardado
