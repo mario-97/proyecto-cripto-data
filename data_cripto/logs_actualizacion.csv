@@ -4282,3 +4282,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 03:30:13,top_flow,xlsx,error
 2025-09-22 03:30:17,top_flow,parquet,error
 2025-09-22 03:30:20,trending,csv,error
+2025-09-22 03:30:23,trending,xlsx,guardado
