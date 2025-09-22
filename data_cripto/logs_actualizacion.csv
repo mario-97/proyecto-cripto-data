@@ -12348,3 +12348,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 05:10:18,top_holders,xlsx,guardado
 2025-09-22 05:10:20,top_holders,parquet,guardado
 2025-09-22 05:11:36,transfers,csv,guardado
+2025-09-22 05:11:39,transfers,xlsx,guardado
