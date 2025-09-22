@@ -3840,3 +3840,5 @@ fecha_hora,archivo,formato,status
 2025-09-22 01:44:10,transfers,csv,guardado
 2025-09-22 01:44:11,top_holders,csv,error
 2025-09-22 01:44:18,transfers,xlsx,guardado
+2025-09-22 01:44:18,top_holders,xlsx,guardado
+2025-09-22 01:44:23,transfers,parquet,guardado
