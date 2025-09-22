@@ -16460,3 +16460,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 21:37:25,top_holders,csv,guardado
 2025-09-22 21:37:29,top_holders,xlsx,guardado
 2025-09-22 21:37:32,top_holders,parquet,guardado
+2025-09-22 21:38:28,top_flow,csv,guardado
