@@ -15238,3 +15238,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 16:41:58,top_volume,parquet,guardado
 2025-09-22 16:43:45,top_holders,csv,guardado
 2025-09-22 16:43:49,top_holders,xlsx,guardado
+2025-09-22 16:43:52,top_holders,parquet,guardado
