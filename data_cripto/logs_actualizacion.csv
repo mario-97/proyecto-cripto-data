@@ -11728,3 +11728,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 02:44:49,top_flow,parquet,error
 2025-09-22 02:44:51,trending,csv,guardado
 2025-09-22 02:44:53,trending,xlsx,guardado
+2025-09-22 02:44:55,trending,parquet,guardado
