@@ -4673,3 +4673,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 05:06:33,top_volume,parquet,guardado
 2025-09-22 05:07:52,top_holders,csv,guardado
 2025-09-22 05:07:57,top_holders,xlsx,guardado
+2025-09-22 05:08:01,top_holders,parquet,guardado
