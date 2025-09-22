@@ -4127,3 +4127,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 02:51:19,top_volume,parquet,guardado
 2025-09-22 02:53:00,top_holders,csv,error
 2025-09-22 02:53:04,top_holders,xlsx,guardado
+2025-09-22 02:53:08,top_holders,parquet,guardado
