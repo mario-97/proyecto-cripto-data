@@ -4405,3 +4405,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 04:00:24,btc_mvrvz,parquet,guardado
 2025-09-22 04:00:24,top_volume,parquet,guardado
 2025-09-22 04:00:29,btc_nupl,csv,guardado
+2025-09-22 04:00:32,btc_nupl,xlsx,guardado
