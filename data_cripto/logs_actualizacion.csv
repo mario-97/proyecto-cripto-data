@@ -13003,3 +13003,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 07:44:49,top_volume,parquet,guardado
 2025-09-22 07:46:15,top_holders,csv,guardado
 2025-09-22 07:46:19,top_holders,xlsx,guardado
+2025-09-22 07:46:21,top_holders,parquet,guardado
