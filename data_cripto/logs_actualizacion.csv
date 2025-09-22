@@ -15619,3 +15619,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 18:14:59,top_flow,parquet,guardado
 2025-09-22 18:15:02,trending,csv,guardado
 2025-09-22 18:15:05,trending,xlsx,guardado
+2025-09-22 18:15:07,trending,parquet,guardado
