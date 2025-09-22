@@ -4445,3 +4445,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 04:09:08,trending,parquet,error
 2025-09-22 04:09:12,top_volume,csv,guardado
 2025-09-22 04:09:16,top_volume,xlsx,guardado
+2025-09-22 04:09:19,top_volume,parquet,guardado
