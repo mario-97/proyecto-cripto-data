@@ -16185,3 +16185,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 20:31:44,top_holders,xlsx,guardado
 2025-09-22 20:31:47,top_holders,parquet,guardado
 2025-09-22 20:31:52,transfers,csv,guardado
+2025-09-22 20:31:55,transfers,xlsx,guardado
