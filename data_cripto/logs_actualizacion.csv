@@ -14443,3 +14443,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 13:31:49,top_holders,parquet,guardado
 2025-09-22 13:32:25,transfers,csv,guardado
 2025-09-22 13:32:28,transfers,xlsx,guardado
+2025-09-22 13:32:31,transfers,parquet,guardado
