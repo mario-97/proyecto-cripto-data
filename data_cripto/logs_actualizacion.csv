@@ -4088,3 +4088,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 02:42:27,top_volume,parquet,guardado
 2025-09-22 02:43:17,transfers,csv,guardado
 2025-09-22 02:43:21,transfers,xlsx,guardado
+2025-09-22 02:43:25,transfers,parquet,guardado
