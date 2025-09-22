@@ -12808,3 +12808,6 @@ fecha_hora,archivo,formato,status
 2025-09-22 07:00:07,btc_mvrvz_lth,parquet,guardado
 2025-09-22 07:00:08,top_volume,csv,guardado
 2025-09-22 07:00:10,top_volume,xlsx,guardado
+2025-09-22 07:00:11,btc_sopr_lth,csv,guardado
+2025-09-22 07:00:12,top_volume,parquet,guardado
+2025-09-22 07:00:13,btc_sopr_lth,xlsx,guardado
