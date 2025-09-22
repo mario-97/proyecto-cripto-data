@@ -12058,3 +12058,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 04:02:45,top_flow,parquet,guardado
 2025-09-22 04:02:48,trending,csv,guardado
 2025-09-22 04:02:50,trending,xlsx,error
+2025-09-22 04:02:52,trending,parquet,guardado
