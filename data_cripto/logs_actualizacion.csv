@@ -4472,3 +4472,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 04:16:19,top_volume,parquet,guardado
 2025-09-22 04:16:52,top_holders,csv,error
 2025-09-22 04:16:56,top_holders,xlsx,error
+2025-09-22 04:17:00,top_holders,parquet,guardado
