@@ -15188,3 +15188,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 16:32:15,top_holders,csv,guardado
 2025-09-22 16:32:18,top_holders,xlsx,guardado
 2025-09-22 16:32:21,top_holders,parquet,guardado
+2025-09-22 16:32:42,transfers,csv,guardado
