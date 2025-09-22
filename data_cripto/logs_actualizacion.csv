@@ -4002,3 +4002,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 02:23:10,top_holders,csv,error
 2025-09-22 02:23:15,top_holders,xlsx,error
 2025-09-22 02:23:19,top_holders,parquet,guardado
+2025-09-22 02:24:04,transfers,csv,guardado
