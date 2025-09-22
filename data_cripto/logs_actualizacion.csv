@@ -13945,3 +13945,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 11:31:23,top_holders,parquet,guardado
 2025-09-22 11:31:39,transfers,csv,guardado
 2025-09-22 11:31:42,transfers,xlsx,guardado
+2025-09-22 11:31:44,transfers,parquet,guardado
