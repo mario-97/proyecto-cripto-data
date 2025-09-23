@@ -20580,3 +20580,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 17:06:18,top_holders,csv,guardado
 2025-09-23 17:06:22,top_holders,xlsx,guardado
 2025-09-23 17:06:25,top_holders,parquet,guardado
+2025-09-23 17:08:01,top_flow,csv,guardado
