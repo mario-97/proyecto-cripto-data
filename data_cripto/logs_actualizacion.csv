@@ -18160,3 +18160,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 04:25:22,top_volume,xlsx,error
 2025-09-23 04:25:24,top_volume,parquet,guardado
 2025-09-23 04:27:21,top_holders,csv,guardado
+2025-09-23 04:27:25,top_holders,xlsx,guardado
