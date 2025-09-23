@@ -19909,3 +19909,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 13:45:01,top_volume,xlsx,guardado
 2025-09-23 13:45:03,top_volume,parquet,guardado
 2025-09-23 13:45:56,transfers,csv,guardado
+2025-09-23 13:45:59,transfers,xlsx,guardado
