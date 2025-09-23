@@ -19518,3 +19518,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 10:10:50,top_volume,csv,guardado
 2025-09-23 10:10:52,top_volume,xlsx,guardado
 2025-09-23 10:10:55,top_volume,parquet,guardado
+2025-09-23 10:14:02,transfers,csv,guardado
