@@ -17104,3 +17104,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 00:11:52,transfers,parquet,guardado
 2025-09-23 00:11:52,top_volume,csv,guardado
 2025-09-23 00:11:54,top_volume,xlsx,guardado
+2025-09-23 00:11:57,top_volume,parquet,guardado
