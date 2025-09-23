@@ -17775,3 +17775,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 02:52:00,transfers,parquet,guardado
 2025-09-23 02:52:29,top_holders,csv,guardado
 2025-09-23 02:52:32,top_holders,xlsx,guardado
+2025-09-23 02:52:35,top_holders,parquet,guardado
