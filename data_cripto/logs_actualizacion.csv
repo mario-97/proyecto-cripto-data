@@ -17100,3 +17100,5 @@ fecha_hora,archivo,formato,status
 2025-09-23 00:11:46,transfers,csv,error
 2025-09-23 00:11:47,trending,xlsx,guardado
 2025-09-23 00:11:49,trending,parquet,guardado
+2025-09-23 00:11:49,transfers,xlsx,guardado
+2025-09-23 00:11:52,transfers,parquet,guardado
