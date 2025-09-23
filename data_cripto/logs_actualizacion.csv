@@ -17515,3 +17515,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 01:49:25,top_holders,parquet,guardado
 2025-09-23 01:50:29,top_flow,csv,guardado
 2025-09-23 01:50:31,top_flow,xlsx,guardado
+2025-09-23 01:50:34,top_flow,parquet,guardado
