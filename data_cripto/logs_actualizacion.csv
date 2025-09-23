@@ -22250,3 +22250,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 23:48:02,top_holders,parquet,guardado
 2025-09-23 23:49:01,top_flow,csv,guardado
 2025-09-23 23:49:03,top_flow,xlsx,guardado
+2025-09-23 23:49:05,top_flow,parquet,guardado
