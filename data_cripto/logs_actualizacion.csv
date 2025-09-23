@@ -21485,3 +21485,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 20:43:27,top_volume,parquet,guardado
 2025-09-23 20:45:05,top_holders,csv,guardado
 2025-09-23 20:45:08,top_holders,xlsx,guardado
+2025-09-23 20:45:11,top_holders,parquet,guardado
