@@ -19821,3 +19821,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 13:03:28,top_holders,csv,guardado
 2025-09-23 13:03:32,top_holders,xlsx,guardado
 2025-09-23 13:03:35,top_holders,parquet,guardado
+2025-09-23 13:05:19,top_flow,csv,guardado
