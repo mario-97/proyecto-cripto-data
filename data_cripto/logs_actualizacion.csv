@@ -17269,3 +17269,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 00:51:44,transfers,parquet,guardado
 2025-09-23 00:52:17,top_holders,csv,guardado
 2025-09-23 00:52:21,top_holders,xlsx,guardado
+2025-09-23 00:52:23,top_holders,parquet,guardado
