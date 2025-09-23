@@ -20900,3 +20900,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 18:22:28,top_volume,parquet,guardado
 2025-09-23 18:24:10,top_holders,csv,guardado
 2025-09-23 18:24:15,top_holders,xlsx,guardado
+2025-09-23 18:24:17,top_holders,parquet,guardado
