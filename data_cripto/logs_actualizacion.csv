@@ -21910,3 +21910,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 22:25:23,top_volume,parquet,guardado
 2025-09-23 22:25:24,transfers,parquet,error
 2025-09-23 22:26:57,top_holders,csv,guardado
+2025-09-23 22:27:02,top_holders,xlsx,guardado
