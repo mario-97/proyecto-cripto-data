@@ -22137,3 +22137,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 23:22:00,top_flow,csv,guardado
 2025-09-23 23:22:02,top_flow,xlsx,guardado
 2025-09-23 23:22:05,top_flow,parquet,guardado
+2025-09-23 23:22:07,trending,csv,guardado
