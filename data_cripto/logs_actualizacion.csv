@@ -18806,3 +18806,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 07:00:06,top_holders,csv,guardado
 2025-09-23 07:00:07,btc_mvrvz_lth,parquet,guardado
 2025-09-23 07:00:09,top_holders,xlsx,guardado
+2025-09-23 07:00:11,btc_sopr_lth,csv,guardado
