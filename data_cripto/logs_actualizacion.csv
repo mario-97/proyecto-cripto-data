@@ -19331,3 +19331,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 09:02:57,top_volume,parquet,guardado
 2025-09-23 09:05:59,transfers,csv,guardado
 2025-09-23 09:06:02,transfers,xlsx,guardado
+2025-09-23 09:06:05,transfers,parquet,guardado
