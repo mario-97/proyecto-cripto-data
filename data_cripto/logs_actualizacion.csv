@@ -19083,3 +19083,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 08:04:21,top_volume,csv,guardado
 2025-09-23 08:04:24,top_volume,xlsx,guardado
 2025-09-23 08:04:26,top_volume,parquet,guardado
+2025-09-23 08:05:26,transfers,csv,guardado
