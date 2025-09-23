@@ -18154,3 +18154,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 04:25:15,trending,xlsx,guardado
 2025-09-23 04:25:17,trending,parquet,guardado
 2025-09-23 04:25:17,transfers,csv,error
+2025-09-23 04:25:20,transfers,xlsx,guardado
