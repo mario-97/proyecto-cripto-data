@@ -19459,3 +19459,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 09:45:31,top_holders,xlsx,guardado
 2025-09-23 09:45:34,top_holders,parquet,guardado
 2025-09-23 09:45:52,transfers,csv,guardado
+2025-09-23 09:45:55,transfers,xlsx,guardado
