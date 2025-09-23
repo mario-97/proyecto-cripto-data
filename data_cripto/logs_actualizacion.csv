@@ -22259,3 +22259,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 23:49:21,top_volume,parquet,guardado
 2025-09-23 23:50:56,top_holders,csv,guardado
 2025-09-23 23:51:00,top_holders,xlsx,guardado
+2025-09-23 23:51:02,top_holders,parquet,guardado
