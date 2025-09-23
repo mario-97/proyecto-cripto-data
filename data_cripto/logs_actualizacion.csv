@@ -19400,3 +19400,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 09:25:54,transfers,parquet,guardado
 2025-09-23 09:26:42,top_flow,csv,guardado
 2025-09-23 09:26:45,top_flow,xlsx,guardado
+2025-09-23 09:26:48,top_flow,parquet,guardado
