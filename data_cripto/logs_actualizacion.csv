@@ -18110,3 +18110,4 @@ fecha_hora,archivo,formato,status
 2025-09-23 04:13:25,top_volume,parquet,guardado
 2025-09-23 04:15:15,top_holders,csv,guardado
 2025-09-23 04:15:18,top_holders,xlsx,guardado
+2025-09-23 04:15:21,top_holders,parquet,guardado
