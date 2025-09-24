@@ -5602,3 +5602,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 04:49:57,top_volume,parquet,guardado
 2025-09-24 04:51:23,montecarlo_histograma,csv,guardado
 2025-09-24 04:51:26,montecarlo_histograma,xlsx,guardado
+2025-09-24 04:51:28,montecarlo_histograma,parquet,guardado
