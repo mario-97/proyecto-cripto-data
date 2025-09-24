@@ -1940,3 +1940,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 12:59:37,top_flow,csv,guardado
 2025-09-24 12:59:39,top_flow,xlsx,guardado
 2025-09-24 12:59:41,top_flow,parquet,guardado
+2025-09-24 12:59:43,trending,csv,guardado
