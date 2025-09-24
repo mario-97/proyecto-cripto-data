@@ -22640,3 +22640,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 01:22:12,trending,parquet,guardado
 2025-09-24 01:22:15,top_volume,csv,guardado
 2025-09-24 01:22:17,top_volume,xlsx,guardado
+2025-09-24 01:22:19,top_volume,parquet,guardado
