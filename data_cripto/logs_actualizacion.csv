@@ -2663,3 +2663,6 @@ fecha_hora,archivo,formato,status
 2025-09-24 15:53:40,trending,csv,guardado
 2025-09-24 15:53:42,trending,xlsx,guardado
 2025-09-24 15:53:44,trending,parquet,guardado
+2025-09-24 15:53:46,top_volume,csv,guardado
+2025-09-24 15:53:47,transfers,csv,guardado
+2025-09-24 15:53:48,top_volume,xlsx,guardado
