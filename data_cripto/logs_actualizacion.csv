@@ -22408,3 +22408,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 00:25:17,top_volume,parquet,guardado
 2025-09-24 00:25:18,transfers,parquet,guardado
 2025-09-24 00:26:55,top_holders,csv,guardado
+2025-09-24 00:26:59,top_holders,xlsx,guardado
