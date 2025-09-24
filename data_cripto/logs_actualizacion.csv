@@ -2020,3 +2020,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 13:17:46,trending,parquet,guardado
 2025-09-24 13:17:49,top_volume,csv,guardado
 2025-09-24 13:17:51,top_volume,xlsx,guardado
+2025-09-24 13:17:53,top_volume,parquet,guardado
