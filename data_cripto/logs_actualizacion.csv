@@ -22508,3 +22508,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 00:49:17,top_volume,parquet,guardado
 2025-09-24 00:50:58,top_holders,csv,guardado
 2025-09-24 00:51:02,top_holders,xlsx,guardado
+2025-09-24 00:51:05,top_holders,parquet,guardado
