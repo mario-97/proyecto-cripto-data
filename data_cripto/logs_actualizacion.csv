@@ -5188,3 +5188,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 03:11:30,montecarlo_histograma,parquet,guardado
 2025-09-24 03:11:46,montecarlo_lineas_simulacion,csv,guardado
 2025-09-24 03:12:17,montecarlo_lineas_simulacion,xlsx,guardado
+2025-09-24 03:12:26,montecarlo_lineas_simulacion,parquet,guardado
