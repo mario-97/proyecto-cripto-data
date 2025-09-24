@@ -1984,3 +1984,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 13:08:51,top_volume,parquet,guardado
 2025-09-24 13:10:31,top_holders,csv,guardado
 2025-09-24 13:10:35,top_holders,xlsx,guardado
+2025-09-24 13:10:37,top_holders,parquet,guardado
