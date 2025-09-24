@@ -5011,3 +5011,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:27:43,montecarlo_lineas_simulacion,xlsx,error
 2025-09-24 02:27:59,montecarlo_lineas_simulacion,parquet,error
 2025-09-24 02:28:03,montecarlo_estadistica_descriptiva,csv,guardado
+2025-09-24 02:28:06,montecarlo_estadistica_descriptiva,xlsx,guardado
