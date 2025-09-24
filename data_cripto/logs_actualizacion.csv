@@ -22885,3 +22885,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:21:58,top_flow,xlsx,guardado
 2025-09-24 02:22:00,top_flow,parquet,error
 2025-09-24 02:22:03,trending,csv,guardado
+2025-09-24 02:22:05,trending,xlsx,guardado
