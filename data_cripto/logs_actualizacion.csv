@@ -3004,3 +3004,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 17:14:42,trending,parquet,guardado
 2025-09-24 17:14:44,top_volume,csv,guardado
 2025-09-24 17:14:46,top_volume,xlsx,guardado
+2025-09-24 17:14:48,top_volume,parquet,guardado
