@@ -444,3 +444,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 07:00:18,btc_sopr_sth,xlsx,guardado
 2025-09-24 07:00:20,btc_sopr_sth,parquet,guardado
 2025-09-24 07:01:29,top_holders,csv,guardado
+2025-09-24 07:01:32,top_holders,xlsx,guardado
