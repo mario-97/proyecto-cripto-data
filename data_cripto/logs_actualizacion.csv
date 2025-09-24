@@ -1933,3 +1933,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 12:56:57,trending,parquet,guardado
 2025-09-24 12:57:00,top_volume,csv,guardado
 2025-09-24 12:57:02,top_volume,xlsx,guardado
+2025-09-24 12:57:04,top_volume,parquet,guardado
