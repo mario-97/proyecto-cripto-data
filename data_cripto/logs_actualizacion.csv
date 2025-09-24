@@ -5113,3 +5113,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:53:00,montecarlo_lineas_simulacion,csv.gz,error
 2025-09-24 02:53:03,montecarlo_estadistica_descriptiva,csv,guardado
 2025-09-24 02:53:06,montecarlo_estadistica_descriptiva,xlsx,guardado
+2025-09-24 02:53:08,montecarlo_estadistica_descriptiva,parquet,error
