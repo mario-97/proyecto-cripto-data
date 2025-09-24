@@ -2218,3 +2218,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 14:05:46,trending,parquet,guardado
 2025-09-24 14:05:48,top_volume,csv,guardado
 2025-09-24 14:05:50,top_volume,xlsx,guardado
+2025-09-24 14:05:52,top_volume,parquet,guardado
