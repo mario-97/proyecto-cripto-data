@@ -3268,3 +3268,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 18:17:46,top_volume,parquet,guardado
 2025-09-24 18:19:27,top_holders,csv,guardado
 2025-09-24 18:19:31,top_holders,xlsx,guardado
+2025-09-24 18:19:33,top_holders,parquet,guardado
