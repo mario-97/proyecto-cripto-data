@@ -2023,3 +2023,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 13:17:53,top_volume,parquet,guardado
 2025-09-24 13:19:34,top_holders,csv,guardado
 2025-09-24 13:19:37,top_holders,xlsx,guardado
+2025-09-24 13:19:39,top_holders,parquet,guardado
