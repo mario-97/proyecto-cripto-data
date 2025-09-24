@@ -5166,3 +5166,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 03:05:48,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-09-24 03:05:50,montecarlo_estadistica_descriptiva,parquet,error
 2025-09-24 03:07:52,montecarlo_histograma,csv,guardado
+2025-09-24 03:07:56,montecarlo_histograma,xlsx,guardado
