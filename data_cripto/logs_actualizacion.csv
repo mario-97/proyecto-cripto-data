@@ -4763,3 +4763,4 @@ fecha_hora,archivo,formato,status
 2025-09-22 05:29:06,top_holders,parquet,guardado
 2025-09-24 01:15:42,btc_change_price,csv,guardado
 2025-09-24 01:15:50,btc_change_price,xlsx,guardado
+2025-09-24 01:15:54,btc_change_price,parquet,guardado
