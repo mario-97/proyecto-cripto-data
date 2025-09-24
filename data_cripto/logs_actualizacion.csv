@@ -22395,3 +22395,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 00:23:56,top_holders,csv,guardado
 2025-09-24 00:23:59,top_holders,xlsx,guardado
 2025-09-24 00:24:02,top_holders,parquet,guardado
+2025-09-24 00:24:58,top_flow,csv,guardado
