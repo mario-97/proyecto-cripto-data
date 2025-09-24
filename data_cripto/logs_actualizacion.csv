@@ -23400,3 +23400,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 04:25:01,top_flow,csv,guardado
 2025-09-24 04:25:04,top_flow,xlsx,guardado
 2025-09-24 04:25:06,top_flow,parquet,guardado
+2025-09-24 04:25:08,trending,csv,guardado
