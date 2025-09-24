@@ -5025,3 +5025,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:29:23,montecarlo_histograma,csv,guardado
 2025-09-24 02:29:26,montecarlo_histograma,xlsx,guardado
 2025-09-24 02:29:30,montecarlo_histograma,parquet,guardado
+2025-09-24 02:29:53,montecarlo_lineas_simulacion,csv,error
