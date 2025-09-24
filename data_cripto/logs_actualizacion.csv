@@ -3829,3 +3829,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 20:33:51,transfers,parquet,guardado
 2025-09-24 20:34:27,top_holders,csv,guardado
 2025-09-24 20:34:30,top_holders,xlsx,guardado
+2025-09-24 20:34:32,top_holders,parquet,guardado
