@@ -1998,3 +1998,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 13:13:38,top_holders,xlsx,guardado
 2025-09-24 13:13:40,top_holders,parquet,guardado
 2025-09-24 13:13:57,transfers,csv,guardado
+2025-09-24 13:14:00,transfers,xlsx,guardado
