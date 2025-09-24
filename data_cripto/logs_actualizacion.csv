@@ -5089,3 +5089,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:43:59,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-09-24 02:44:01,montecarlo_estadistica_descriptiva,parquet,error
 2025-09-24 02:47:35,montecarlo_histograma,csv,guardado
+2025-09-24 02:47:39,montecarlo_histograma,xlsx,guardado
