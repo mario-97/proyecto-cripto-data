@@ -5611,3 +5611,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 04:51:46,montecarlo_estadistica_descriptiva,parquet,error
 2025-09-24 04:52:21,montecarlo_histograma,csv,guardado
 2025-09-24 04:52:25,montecarlo_histograma,xlsx,guardado
+2025-09-24 04:52:27,montecarlo_histograma,parquet,guardado
