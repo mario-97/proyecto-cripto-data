@@ -22349,3 +22349,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 00:12:05,top_holders,parquet,guardado
 2025-09-24 00:13:00,top_flow,csv,guardado
 2025-09-24 00:13:02,top_flow,xlsx,guardado
+2025-09-24 00:13:05,top_flow,parquet,guardado
