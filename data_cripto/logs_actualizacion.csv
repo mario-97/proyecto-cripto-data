@@ -4090,3 +4090,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 21:35:46,top_volume,parquet,guardado
 2025-09-24 21:37:27,top_holders,csv,guardado
 2025-09-24 21:37:31,top_holders,xlsx,guardado
+2025-09-24 21:37:33,top_holders,parquet,guardado
