@@ -4967,3 +4967,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:13:09,top_holders,csv,guardado
 2025-09-24 02:13:09,estadistica_descriptiva_link,parquet,error
 2025-09-24 02:13:13,top_holders,xlsx,guardado
+2025-09-24 02:13:17,top_holders,parquet,guardado
