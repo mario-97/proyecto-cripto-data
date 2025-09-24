@@ -1,0 +1,41 @@
+estadistica,valor,token_symbol
+Precio inicial,112234.05,btc
+Precio promedio a 180 días,158976.13554252053,btc
+Mediana a 180 días,143925.3624265961,btc
+Moda,116730.0,btc
+Desviación estándar,77500.6426971184,btc
+Rango (min - max),21067.78 - 722572.09,btc
+Percentil 5 (escenario de riesgo),65833.98696117496,btc
+Percentil 95 (escenario alcista),302216.8529935636,btc
+Precio inicial,4174.64,eth
+Precio promedio a 180 días,4848.622754943077,eth
+Mediana a 180 días,4275.421384235897,eth
+Moda,2960.0,eth
+Desviación estándar,2570.3353925740944,eth
+Rango (min - max),621.66 - 29053.28,eth
+Percentil 5 (escenario de riesgo),1910.8714335046013,eth
+Percentil 95 (escenario alcista),9663.26450729665,eth
+Precio inicial,1016.65,bnb
+Precio promedio a 180 días,1901.1814748167421,bnb
+Mediana a 180 días,1464.820203122024,bnb
+Moda,990.0,bnb
+Desviación estándar,1549.3378033474598,bnb
+Rango (min - max),70.49 - 20497.92,bnb
+Percentil 5 (escenario de riesgo),467.0129699287242,bnb
+Percentil 95 (escenario alcista),4707.199614452577,bnb
+Precio inicial,213.43,sol
+Precio promedio a 180 días,294.8089212611218,sol
+Mediana a 180 días,230.77137900537429,sol
+Moda,120.0,sol
+Desviación estándar,229.41011285691167,sol
+Rango (min - max),11.13 - 3034.02,sol
+Percentil 5 (escenario de riesgo),70.91479973744902,sol
+Percentil 95 (escenario alcista),731.548954003908,sol
+Precio inicial,21.5085,link
+Precio promedio a 180 días,34.74664013062244,link
+Mediana a 180 días,26.284372545476224,link
+Moda,20.0,link
+Desviación estándar,29.579033363929025,link
+Rango (min - max),1.45 - 381.35,link
+Percentil 5 (escenario de riesgo),7.511399660322454,link
+Percentil 95 (escenario alcista),89.97837452560898,link
