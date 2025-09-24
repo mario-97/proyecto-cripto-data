@@ -3901,3 +3901,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 20:50:47,top_volume,parquet,guardado
 2025-09-24 20:52:27,top_holders,csv,guardado
 2025-09-24 20:52:31,top_holders,xlsx,guardado
+2025-09-24 20:52:33,top_holders,parquet,guardado
