@@ -4952,3 +4952,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:09:16,histogramalink,parquet,guardado
 2025-09-24 02:09:23,lineas_simulacionlink,csv,guardado
 2025-09-24 02:09:39,lineas_simulacionlink,xlsx,guardado
+2025-09-24 02:09:47,lineas_simulacionlink,parquet,guardado
