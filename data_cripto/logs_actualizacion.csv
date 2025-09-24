@@ -4950,3 +4950,4 @@ fecha_hora,archivo,formato,status
 2025-09-24 02:09:09,histogramalink,csv,guardado
 2025-09-24 02:09:13,histogramalink,xlsx,guardado
 2025-09-24 02:09:16,histogramalink,parquet,guardado
+2025-09-24 02:09:23,lineas_simulacionlink,csv,guardado
