@@ -7295,3 +7295,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 12:41:45,trending,parquet,guardado
 2025-09-25 12:41:47,top_volume,csv,guardado
 2025-09-25 12:41:49,top_volume,xlsx,guardado
+2025-09-25 12:41:52,top_volume,parquet,guardado
