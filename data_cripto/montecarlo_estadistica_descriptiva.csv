@@ -1,25 +1,25 @@
 estadistica,valor,token_symbol
-Precio inicial,112234.05,btc
-Precio promedio a 365 días,232197.51529396168,btc
-Mediana a 365 días,187077.9968585763,btc
-Moda,108440.0,btc
-Desviación estándar,175848.58131161824,btc
-Rango (min - max),10723.71 - 2512782.39,btc
-Percentil 5 (escenario de riesgo),61008.24065580327,btc
-Percentil 95 (escenario alcista),556835.7922327778,btc
-Precio inicial,4174.64,eth
-Precio promedio a 365 días,5655.808406829099,eth
-Mediana a 365 días,4435.147887001069,eth
-Moda,3270.0,eth
-Desviación estándar,4565.880325913149,eth
-Rango (min - max),329.08 - 92605.72,eth
-Percentil 5 (escenario de riesgo),1386.8465265111797,eth
-Percentil 95 (escenario alcista),13976.450966607847,eth
-Precio inicial,21.5085,link
-Precio promedio a 365 días,58.7871394830824,link
-Mediana a 365 días,32.873236748948,link
+Precio inicial,113060.73,btc
+Precio promedio a 365 días,235174.5874014041,btc
+Mediana a 365 días,188948.38954075758,btc
+Moda,232330.0,btc
+Desviación estándar,174299.33299739094,btc
+Rango (min - max),14727.47 - 1855342.12,btc
+Percentil 5 (escenario de riesgo),61597.16918829986,btc
+Percentil 95 (escenario alcista),564107.3885353163,btc
+Precio inicial,4130.48,eth
+Precio promedio a 365 días,5617.452432780765,eth
+Mediana a 365 días,4396.389172441164,eth
+Moda,1900.0,eth
+Desviación estándar,4421.453653985322,eth
+Rango (min - max),249.50 - 55779.87,eth
+Percentil 5 (escenario de riesgo),1395.6264705381334,eth
+Percentil 95 (escenario alcista),13943.328919238043,eth
+Precio inicial,21.4265,link
+Precio promedio a 365 días,58.43006063242537,link
+Mediana a 365 días,32.14852869389515,link
 Moda,10.0,link
-Desviación estándar,87.85156506780916,link
-Rango (min - max),0.59 - 2219.11,link
-Percentil 5 (escenario de riesgo),5.615048291585599,link
-Percentil 95 (escenario alcista),188.60836416179245,link
+Desviación estándar,92.60666431119361,link
+Rango (min - max),0.37 - 2831.83,link
+Percentil 5 (escenario de riesgo),5.5357399896095885,link
+Percentil 95 (escenario alcista),188.90900824556215,link
