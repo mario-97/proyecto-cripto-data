@@ -9032,3 +9032,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 19:40:36,top_holders,parquet,guardado
 2025-09-25 19:41:32,top_flow,csv,guardado
 2025-09-25 19:41:34,top_flow,xlsx,guardado
+2025-09-25 19:41:37,top_flow,parquet,guardado
