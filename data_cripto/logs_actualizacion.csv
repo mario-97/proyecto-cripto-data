@@ -5015,3 +5015,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 01:59:36,top_flow,csv,guardado
 2025-09-25 01:59:38,top_flow,xlsx,guardado
 2025-09-25 02:01:56,top_flow,parquet,error
+2025-09-25 02:01:58,trending,csv,guardado
