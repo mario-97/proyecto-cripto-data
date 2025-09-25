@@ -6840,3 +6840,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 10:53:51,transfers,csv,error
 2025-09-25 10:53:53,transfers,xlsx,guardado
 2025-09-25 10:53:55,transfers,parquet,guardado
+2025-09-25 10:55:28,top_holders,csv,guardado
