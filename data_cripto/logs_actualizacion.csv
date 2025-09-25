@@ -6366,3 +6366,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 09:00:19,btc_sopr_sth,csv,guardado
 2025-09-25 09:00:21,btc_sopr_sth,xlsx,guardado
 2025-09-25 09:00:24,btc_sopr_sth,parquet,guardado
+2025-09-25 09:01:28,top_holders,csv,guardado
