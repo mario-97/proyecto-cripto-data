@@ -9835,3 +9835,5 @@ fecha_hora,archivo,formato,status
 2025-09-25 22:53:47,transfers,csv,error
 2025-09-25 22:53:47,top_volume,xlsx,guardado
 2025-09-25 22:53:49,top_volume,parquet,guardado
+2025-09-25 22:53:49,transfers,xlsx,error
+2025-09-25 22:53:51,transfers,parquet,guardado
