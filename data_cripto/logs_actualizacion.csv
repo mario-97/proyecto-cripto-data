@@ -7820,3 +7820,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 14:48:00,top_volume,parquet,guardado
 2025-09-25 14:49:28,top_holders,csv,guardado
 2025-09-25 14:49:32,top_holders,xlsx,guardado
+2025-09-25 14:49:34,top_holders,parquet,guardado
