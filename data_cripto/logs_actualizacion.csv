@@ -5485,3 +5485,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 04:35:41,trending,csv,guardado
 2025-09-25 04:35:42,trending,xlsx,guardado
 2025-09-25 04:37:55,trending,xlsx,error
+2025-09-25 04:37:57,trending,parquet,guardado
