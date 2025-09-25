@@ -7508,3 +7508,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 13:33:00,top_volume,parquet,guardado
 2025-09-25 13:33:50,transfers,csv,guardado
 2025-09-25 13:33:53,transfers,xlsx,guardado
+2025-09-25 13:33:55,transfers,parquet,guardado
