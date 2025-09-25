@@ -5660,3 +5660,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 05:50:29,top_flow,csv,guardado
 2025-09-25 05:52:44,top_flow,xlsx,error
 2025-09-25 05:52:46,top_flow,parquet,guardado
+2025-09-25 05:52:48,trending,csv,guardado
