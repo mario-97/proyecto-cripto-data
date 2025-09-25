@@ -5537,3 +5537,5 @@ fecha_hora,archivo,formato,status
 2025-09-25 05:01:48,trending,xlsx,guardado
 2025-09-25 05:01:49,trending,parquet,guardado
 2025-09-25 05:01:52,top_volume,csv,guardado
+2025-09-25 05:01:54,top_volume,xlsx,guardado
+2025-09-25 05:02:17,btc_nrpl_usd,xlsx,error
