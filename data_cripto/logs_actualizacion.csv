@@ -9912,3 +9912,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 23:13:30,top_holders,csv,guardado
 2025-09-25 23:13:34,top_holders,xlsx,guardado
 2025-09-25 23:13:36,top_holders,parquet,guardado
+2025-09-25 23:13:49,transfers,csv,guardado
