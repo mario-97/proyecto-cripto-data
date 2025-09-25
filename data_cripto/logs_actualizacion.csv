@@ -4873,3 +4873,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 01:10:48,trending,csv,error
 2025-09-25 01:10:49,trending,xlsx,guardado
 2025-09-25 01:13:03,trending,xlsx,error
+2025-09-25 01:13:05,trending,parquet,guardado
