@@ -9101,3 +9101,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 19:56:47,trending,parquet,guardado
 2025-09-25 19:56:49,top_volume,csv,guardado
 2025-09-25 19:56:52,top_volume,xlsx,guardado
+2025-09-25 19:56:53,top_volume,parquet,guardado
