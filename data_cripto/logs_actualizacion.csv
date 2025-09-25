@@ -5042,3 +5042,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 02:13:45,transfers,csv,guardado
 2025-09-25 02:13:47,transfers,xlsx,guardado
 2025-09-25 02:13:49,transfers,parquet,guardado
+2025-09-25 02:13:52,trending,csv,error
