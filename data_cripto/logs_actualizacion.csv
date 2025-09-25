@@ -5190,3 +5190,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 02:59:06,top_volume,parquet,guardado
 2025-09-25 03:00:02,btc_sopr,csv,guardado
 2025-09-25 03:00:05,btc_sopr,xlsx,guardado
+2025-09-25 03:00:07,btc_sopr,parquet,guardado
