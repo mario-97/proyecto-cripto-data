@@ -5285,3 +5285,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 03:23:52,top_volume,csv,guardado
 2025-09-25 03:26:06,top_volume,xlsx,error
 2025-09-25 03:26:08,top_volume,parquet,guardado
+2025-09-25 03:28:29,top_holders,csv,guardado
