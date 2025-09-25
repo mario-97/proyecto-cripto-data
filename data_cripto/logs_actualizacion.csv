@@ -7343,3 +7343,6 @@ fecha_hora,archivo,formato,status
 2025-09-25 12:53:45,transfers,csv,guardado
 2025-09-25 12:53:46,trending,parquet,guardado
 2025-09-25 12:53:48,transfers,xlsx,guardado
+2025-09-25 12:53:48,top_volume,csv,error
+2025-09-25 12:53:50,top_volume,xlsx,error
+2025-09-25 12:53:50,transfers,parquet,guardado
