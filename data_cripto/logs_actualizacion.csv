@@ -4844,3 +4844,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 00:58:10,top_volume,xlsx,error
 2025-09-25 01:00:03,btc_price,csv,guardado
 2025-09-25 01:00:06,btc_price,xlsx,guardado
+2025-09-25 01:00:08,btc_price,parquet,guardado
