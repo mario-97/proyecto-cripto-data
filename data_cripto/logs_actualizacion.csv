@@ -5299,3 +5299,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 03:32:04,top_volume,parquet,guardado
 2025-09-25 03:33:45,transfers,csv,guardado
 2025-09-25 03:33:47,transfers,xlsx,guardado
+2025-09-25 03:33:49,transfers,parquet,guardado
