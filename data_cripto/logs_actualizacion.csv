@@ -7094,3 +7094,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 11:53:43,transfers,csv,error
 2025-09-25 11:53:44,trending,parquet,guardado
 2025-09-25 11:53:46,transfers,xlsx,error
+2025-09-25 11:53:48,top_volume,csv,guardado
