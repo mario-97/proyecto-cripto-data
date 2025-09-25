@@ -9839,3 +9839,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 22:53:51,transfers,parquet,guardado
 2025-09-25 22:55:28,top_holders,csv,guardado
 2025-09-25 22:55:31,top_holders,xlsx,guardado
+2025-09-25 22:55:33,top_holders,parquet,guardado
