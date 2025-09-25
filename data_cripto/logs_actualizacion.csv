@@ -8259,3 +8259,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 16:34:32,top_holders,csv,error
 2025-09-25 16:34:37,top_holders,xlsx,guardado
 2025-09-25 16:34:41,top_holders,parquet,guardado
+2025-09-25 16:35:42,top_flow,csv,guardado
