@@ -4804,3 +4804,5 @@ fecha_hora,archivo,formato,status
 2025-09-25 00:40:34,top_holders,csv,guardado
 2025-09-25 00:40:37,top_holders,xlsx,guardado
 2025-09-25 00:40:40,top_holders,parquet,guardado
+2025-09-25 00:41:39,top_flow,csv,guardado
+2025-09-25 00:43:54,top_flow,csv,error
