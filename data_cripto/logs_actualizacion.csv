@@ -5473,3 +5473,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 04:32:49,top_volume,csv,guardado
 2025-09-25 04:32:51,top_volume,xlsx,guardado
 2025-09-25 04:32:52,top_volume,parquet,guardado
+2025-09-25 04:33:47,transfers,csv,guardado
