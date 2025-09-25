@@ -8655,3 +8655,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 18:10:28,top_holders,csv,guardado
 2025-09-25 18:10:32,top_holders,xlsx,guardado
 2025-09-25 18:10:35,top_holders,parquet,guardado
+2025-09-25 18:11:35,top_flow,csv,guardado
