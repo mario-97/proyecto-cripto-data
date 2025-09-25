@@ -5621,3 +5621,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 05:33:54,transfers,csv,guardado
 2025-09-25 05:33:57,transfers,xlsx,guardado
 2025-09-25 05:33:58,transfers,parquet,guardado
+2025-09-25 05:34:55,top_flow,parquet,error
