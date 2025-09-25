@@ -9869,3 +9869,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 23:02:35,top_flow,parquet,guardado
 2025-09-25 23:02:37,trending,csv,guardado
 2025-09-25 23:02:39,trending,xlsx,guardado
+2025-09-25 23:02:41,trending,parquet,guardado
