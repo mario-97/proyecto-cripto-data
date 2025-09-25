@@ -8090,3 +8090,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 15:53:45,trending,parquet,guardado
 2025-09-25 15:53:47,transfers,csv,guardado
 2025-09-25 15:53:48,top_volume,csv,guardado
+2025-09-25 15:53:49,transfers,xlsx,error
