@@ -9030,3 +9030,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 19:40:29,top_holders,csv,guardado
 2025-09-25 19:40:33,top_holders,xlsx,guardado
 2025-09-25 19:40:36,top_holders,parquet,guardado
+2025-09-25 19:41:32,top_flow,csv,guardado
