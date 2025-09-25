@@ -6583,3 +6583,7 @@ fecha_hora,archivo,formato,status
 2025-09-25 09:53:38,top_flow,xlsx,guardado
 2025-09-25 09:53:40,top_flow,parquet,guardado
 2025-09-25 09:53:43,trending,csv,guardado
+2025-09-25 09:53:43,transfers,csv,guardado
+2025-09-25 09:53:45,trending,xlsx,guardado
+2025-09-25 09:53:46,transfers,xlsx,guardado
+2025-09-25 09:53:47,trending,parquet,guardado
