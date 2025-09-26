@@ -12090,3 +12090,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 07:49:28,top_holders,csv,guardado
 2025-09-26 07:49:31,top_holders,xlsx,guardado
 2025-09-26 07:49:34,top_holders,parquet,guardado
+2025-09-26 07:50:33,top_flow,csv,guardado
