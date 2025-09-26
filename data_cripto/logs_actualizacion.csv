@@ -11870,3 +11870,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 06:56:52,top_volume,parquet,guardado
 2025-09-26 06:58:27,top_holders,csv,guardado
 2025-09-26 06:58:31,top_holders,xlsx,guardado
+2025-09-26 06:58:33,top_holders,parquet,guardado
