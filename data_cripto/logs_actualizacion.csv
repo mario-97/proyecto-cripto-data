@@ -10319,3 +10319,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 00:50:45,trending,parquet,guardado
 2025-09-26 00:50:48,top_volume,csv,guardado
 2025-09-26 00:50:50,top_volume,xlsx,guardado
+2025-09-26 00:50:52,top_volume,parquet,guardado
