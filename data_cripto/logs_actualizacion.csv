@@ -11175,3 +11175,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 04:13:30,top_holders,csv,guardado
 2025-09-26 04:13:34,top_holders,xlsx,guardado
 2025-09-26 04:13:36,top_holders,parquet,guardado
+2025-09-26 04:13:52,transfers,csv,guardado
