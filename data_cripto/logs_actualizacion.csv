@@ -13520,3 +13520,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 13:30:16,top_flow,parquet,guardado
 2025-09-26 13:30:19,trending,csv,guardado
 2025-09-26 13:30:21,trending,xlsx,guardado
+2025-09-26 13:30:23,trending,parquet,guardado
