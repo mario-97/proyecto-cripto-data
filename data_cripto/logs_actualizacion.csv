@@ -13178,3 +13178,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 12:05:55,top_volume,parquet,guardado
 2025-09-26 12:07:28,top_holders,csv,guardado
 2025-09-26 12:07:32,top_holders,xlsx,guardado
+2025-09-26 12:07:35,top_holders,parquet,guardado
