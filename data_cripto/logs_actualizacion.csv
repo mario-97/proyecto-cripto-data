@@ -10868,3 +10868,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 02:59:48,top_volume,parquet,guardado
 2025-09-26 03:00:02,btc_sopr,csv,guardado
 2025-09-26 03:00:04,btc_sopr,xlsx,guardado
+2025-09-26 03:00:07,btc_sopr,parquet,guardado
