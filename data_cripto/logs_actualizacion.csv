@@ -13088,3 +13088,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 11:44:50,trending,parquet,guardado
 2025-09-26 11:44:53,top_volume,csv,guardado
 2025-09-26 11:44:55,top_volume,xlsx,guardado
+2025-09-26 11:44:57,top_volume,parquet,guardado
