@@ -13959,3 +13959,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 15:15:00,trending,xlsx,guardado
 2025-09-26 15:15:02,trending,parquet,guardado
 2025-09-26 15:15:06,top_volume,csv,guardado
+2025-09-26 15:15:08,top_volume,xlsx,guardado
