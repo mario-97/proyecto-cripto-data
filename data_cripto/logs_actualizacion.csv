@@ -12901,3 +12901,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 11:00:43,top_volume,parquet,error
 2025-09-26 11:00:43,montecarlo_lineas_simulacion,parquet,guardado
 2025-09-26 11:00:45,montecarlo_estadistica_descriptiva,csv,guardado
+2025-09-26 11:00:48,montecarlo_estadistica_descriptiva,xlsx,guardado
