@@ -14113,3 +14113,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 15:52:39,top_holders,parquet,guardado
 2025-09-26 15:53:53,transfers,csv,guardado
 2025-09-26 15:53:56,transfers,xlsx,guardado
+2025-09-26 15:53:58,transfers,parquet,guardado
