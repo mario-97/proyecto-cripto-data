@@ -15430,3 +15430,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 21:08:53,top_volume,parquet,guardado
 2025-09-26 21:10:30,top_holders,csv,guardado
 2025-09-26 21:10:34,top_holders,xlsx,guardado
+2025-09-26 21:10:37,top_holders,parquet,guardado
