@@ -10208,3 +10208,4 @@ fecha_hora,archivo,formato,status
 2025-09-26 00:23:50,trending,parquet,guardado
 2025-09-26 00:23:53,top_volume,csv,guardado
 2025-09-26 00:23:55,top_volume,xlsx,guardado
+2025-09-26 00:23:57,top_volume,parquet,guardado
