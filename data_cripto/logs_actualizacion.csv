@@ -6101,3 +6101,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 23:28:10,top_holders,xlsx,error
 2025-09-27 23:28:14,top_holders,parquet,error
 2025-09-27 23:29:10,top_flow,csv,guardado
+2025-09-27 23:29:14,top_flow,xlsx,guardado
