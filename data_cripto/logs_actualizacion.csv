@@ -6019,3 +6019,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 23:04:06,top_flow,csv,error
 2025-09-27 23:04:09,top_flow,xlsx,guardado
 2025-09-27 23:04:12,top_flow,parquet,guardado
+2025-09-27 23:04:16,trending,csv,guardado
