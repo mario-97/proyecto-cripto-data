@@ -5684,3 +5684,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 21:26:48,btc_change_price,parquet,guardado
 2025-09-27 21:29:22,top_holders,csv,guardado
 2025-09-27 21:29:27,top_holders,xlsx,guardado
+2025-09-27 21:29:31,top_holders,parquet,guardado
