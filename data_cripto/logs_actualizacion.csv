@@ -5758,3 +5758,4 @@ ardado,,,
 2025-09-27 23:17:30,top_holders,csv,error
 2025-09-27 23:17:34,transfers,xlsx,guardado
 2025-09-27 23:17:34,top_holders,xlsx,guardado
+2025-09-27 23:17:36,transfers,parquet,guardado
