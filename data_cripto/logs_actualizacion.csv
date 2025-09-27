@@ -5681,3 +5681,4 @@ fecha_hora,archivo,formato,status
 2025-09-25 02:00:42,btc_mvrvz_sth,parquet,guardado
 2025-09-27 21:26:42,btc_change_price,csv,guardado
 2025-09-27 21:26:44,btc_change_price,xlsx,error
+2025-09-27 21:26:48,btc_change_price,parquet,guardado
