@@ -6090,3 +6090,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 23:25:09,top_holders,parquet,error
 2025-09-27 23:26:05,top_flow,csv,guardado
 2025-09-27 23:26:09,top_flow,xlsx,guardado
+2025-09-27 23:26:12,top_flow,parquet,guardado
