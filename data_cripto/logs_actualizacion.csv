@@ -5673,3 +5673,4 @@ ardado,,,
 2025-09-27 22:57:30,top_flow,csv,guardado
 2025-09-27 22:57:32,top_flow,xlsx,guardado
 2025-09-27 22:57:33,transfers,csv,error
+2025-09-27 22:57:34,top_flow,parquet,error
