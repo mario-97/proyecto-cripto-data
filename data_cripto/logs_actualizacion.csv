@@ -5929,3 +5929,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 22:40:28,btc_change_price,csv,guardado
 2025-09-27 22:40:34,btc_change_price,xlsx,guardado
 2025-09-27 22:40:39,btc_change_price,parquet,guardado
+2025-09-27 22:41:08,montecarlo_histograma,csv,guardado
