@@ -5422,3 +5422,5 @@ ardado,,,
 2025-09-27 21:57:26,top_flow,xlsx,guardado
 2025-09-27 21:57:27,top_flow,parquet,guardado
 2025-09-27 21:57:30,trending,csv,guardado
+2025-09-27 21:57:30,transfers,csv,error
+2025-09-27 21:57:32,trending,xlsx,guardado
