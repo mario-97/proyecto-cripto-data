@@ -1269,3 +1269,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 05:18:24,trending,xlsx,guardado
 2025-09-27 05:18:26,trending,parquet,guardado
 2025-09-27 05:18:28,top_volume,csv,guardado
+2025-09-27 05:18:30,top_volume,xlsx,guardado
