@@ -5882,3 +5882,4 @@ ardado,,,
 2025-09-27 23:45:52,top_volume,parquet,guardado
 2025-09-27 23:47:28,top_holders,csv,guardado
 2025-09-27 23:47:31,top_holders,xlsx,guardado
+2025-09-27 23:47:33,top_holders,parquet,error
