@@ -1004,3 +1004,4 @@ fecha_hora,archivo,formato,status
 2025-09-27 04:17:35,transfers,csv,guardado
 2025-09-27 04:17:37,transfers,xlsx,guardado
 2025-09-27 04:17:39,transfers,parquet,guardado
+2025-09-27 04:18:13,top_flow,csv,guardado
