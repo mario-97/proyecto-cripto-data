@@ -2698,3 +2698,4 @@ ardado,,,
 2025-09-27 11:00:31,montecarlo_histograma,csv,error
 2025-09-27 11:00:33,top_flow,parquet,error
 2025-09-27 11:00:35,trending,csv,guardado
+2025-09-27 11:00:36,trending,xlsx,guardado
