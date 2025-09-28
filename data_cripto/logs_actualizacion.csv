@@ -6271,3 +6271,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 03:11:53,montecarlo_estadistica_descriptiva,csv,error
 o,,,
 2025-09-28 03:11:57,montecarlo_estadistica_descriptiva,xlsx,guardado
+2025-09-28 03:11:59,montecarlo_estadistica_descriptiva,parquet,error
