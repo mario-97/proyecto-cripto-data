@@ -664,3 +664,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 06:01:50,transfers,csv,error
 2025-09-28 06:01:51,top_volume,parquet,guardado
 2025-09-28 06:01:53,transfers,xlsx,guardado
+2025-09-28 06:01:54,transfers,parquet,guardado
