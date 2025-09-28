@@ -904,3 +904,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 07:00:06,btc_mvrvz_lth,parquet,guardado
 2025-09-28 07:00:09,btc_sopr_lth,csv,guardado
 2025-09-28 07:00:12,btc_sopr_lth,xlsx,guardado
+2025-09-28 07:00:14,btc_sopr_lth,parquet,guardado
