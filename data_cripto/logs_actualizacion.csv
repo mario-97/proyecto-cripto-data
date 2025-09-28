@@ -6255,3 +6255,7 @@ fecha_hora,archivo,formato,status
 2025-09-28 03:11:00,trending,parquet,guardado
 2025-09-28 03:11:24,top_volume,csv,guardado
 2025-09-28 03:11:33,montecarlo_histograma,csv,error
+2025-09-28 03:11:33,montecarlo_histograma,csv,guardado
+2025-09-28 03:11:33,top_volume,xlsx,guardado
+2025-09-28 03:11:36,top_volume,parquet,error
+2025-09-28 03:11:36,montecarlo_histograma,xlsx,guardado
