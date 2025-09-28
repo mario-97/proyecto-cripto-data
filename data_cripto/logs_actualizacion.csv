@@ -3628,3 +3628,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 17:49:52,top_volume,parquet,guardado
 2025-09-28 17:51:29,top_holders,csv,guardado
 2025-09-28 17:51:32,top_holders,xlsx,guardado
+2025-09-28 17:51:34,top_holders,parquet,guardado
