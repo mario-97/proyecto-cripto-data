@@ -1962,3 +1962,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 11:10:50,top_volume,xlsx,guardado
 2025-09-28 11:10:52,top_volume,parquet,guardado
 2025-09-28 11:12:31,top_holders,csv,guardado
+2025-09-28 11:12:34,top_holders,xlsx,guardado
