@@ -3008,3 +3008,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 15:21:48,transfers,csv,guardado
 2025-09-28 15:21:51,transfers,xlsx,guardado
 2025-09-28 15:21:52,transfers,parquet,guardado
+2025-09-28 15:22:34,top_flow,csv,guardado
