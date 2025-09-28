@@ -1585,3 +1585,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 09:40:45,top_volume,parquet,guardado
 2025-09-28 09:41:50,transfers,csv,guardado
 2025-09-28 09:41:52,transfers,xlsx,guardado
+2025-09-28 09:41:54,transfers,parquet,guardado
