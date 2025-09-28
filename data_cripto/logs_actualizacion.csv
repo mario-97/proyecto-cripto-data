@@ -2928,3 +2928,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 15:01:45,top_volume,xlsx,guardado
 2025-09-28 15:01:47,top_volume,parquet,guardado
 2025-09-28 15:01:48,transfers,csv,guardado
+2025-09-28 15:01:51,transfers,xlsx,guardado
