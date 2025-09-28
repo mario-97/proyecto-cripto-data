@@ -2038,3 +2038,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 11:28:45,top_volume,parquet,guardado
 2025-09-28 11:30:31,montecarlo_histograma,csv,guardado
 2025-09-28 11:30:32,montecarlo_histograma,xlsx,guardado
+2025-09-28 11:30:34,montecarlo_histograma,parquet,guardado
