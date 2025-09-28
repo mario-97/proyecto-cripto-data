@@ -1909,3 +1909,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 10:58:49,top_volume,parquet,guardado
 2025-09-28 11:00:03,btc_change_price,csv,guardado
 2025-09-28 11:00:12,btc_change_price,xlsx,guardado
+2025-09-28 11:00:14,btc_change_price,parquet,guardado
