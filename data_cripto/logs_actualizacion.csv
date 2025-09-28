@@ -2045,3 +2045,5 @@ fecha_hora,archivo,formato,status
 2025-09-28 11:30:40,top_holders,xlsx,guardado
 2025-09-28 11:30:40,montecarlo_lineas_simulacion,parquet,guardado
 2025-09-28 11:30:41,montecarlo_estadistica_descriptiva,csv,guardado
+2025-09-28 11:30:42,top_holders,parquet,guardado
+2025-09-28 11:30:43,montecarlo_estadistica_descriptiva,xlsx,guardado
