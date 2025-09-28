@@ -2430,3 +2430,4 @@ fecha_hora,archivo,formato,status
 2025-09-28 13:01:45,top_volume,xlsx,guardado
 2025-09-28 13:01:47,top_volume,parquet,guardado
 2025-09-28 13:01:53,transfers,csv,guardado
+2025-09-28 13:01:55,transfers,xlsx,guardado
