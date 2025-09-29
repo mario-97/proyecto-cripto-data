@@ -9898,3 +9898,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 18:53:04,trending,parquet,guardado
 2025-09-29 18:53:07,top_volume,csv,guardado
 2025-09-29 18:53:09,top_volume,xlsx,guardado
+2025-09-29 18:53:11,top_volume,parquet,guardado
