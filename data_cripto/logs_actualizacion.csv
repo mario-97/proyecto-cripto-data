@@ -7185,3 +7185,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 08:01:51,top_volume,xlsx,guardado
 2025-09-29 08:01:53,top_volume,parquet,guardado
 2025-09-29 08:01:56,transfers,csv,guardado
+2025-09-29 08:01:59,transfers,xlsx,guardado
