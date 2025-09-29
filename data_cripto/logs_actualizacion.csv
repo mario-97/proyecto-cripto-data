@@ -6509,3 +6509,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 05:21:47,transfers,csv,guardado
 2025-09-29 05:21:49,transfers,xlsx,guardado
 2025-09-29 05:21:51,transfers,parquet,guardado
+2025-09-29 05:22:38,top_flow,csv,guardado
