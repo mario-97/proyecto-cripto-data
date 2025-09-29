@@ -8199,3 +8199,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 12:01:54,transfers,xlsx,guardado
 2025-09-29 12:01:56,transfers,parquet,guardado
 2025-09-29 12:03:57,top_holders,csv,guardado
+2025-09-29 12:04:00,top_holders,xlsx,guardado
