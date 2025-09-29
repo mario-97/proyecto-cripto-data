@@ -9727,3 +9727,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 18:11:18,top_volume,parquet,guardado
 2025-09-29 18:12:35,top_holders,csv,guardado
 2025-09-29 18:12:39,top_holders,xlsx,guardado
+2025-09-29 18:12:41,top_holders,parquet,guardado
