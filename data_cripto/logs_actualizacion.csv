@@ -8026,3 +8026,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 11:22:41,trending,parquet,guardado
 2025-09-29 11:22:44,top_volume,csv,guardado
 2025-09-29 11:22:46,top_volume,xlsx,guardado
+2025-09-29 11:22:47,top_volume,parquet,guardado
