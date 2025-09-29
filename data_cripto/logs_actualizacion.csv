@@ -8063,3 +8063,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 11:30:45,montecarlo_estadistica_descriptiva,csv,guardado
 2025-09-29 11:30:47,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-09-29 11:30:48,montecarlo_estadistica_descriptiva,parquet,error
+2025-09-29 11:31:44,top_flow,csv,guardado
