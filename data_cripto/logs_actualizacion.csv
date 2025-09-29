@@ -8359,3 +8359,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 12:41:08,top_volume,parquet,guardado
 2025-09-29 12:41:50,transfers,csv,guardado
 2025-09-29 12:41:53,transfers,xlsx,guardado
+2025-09-29 12:41:55,transfers,parquet,guardado
