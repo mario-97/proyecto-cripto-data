@@ -7102,3 +7102,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 07:41:56,transfers,parquet,guardado
 2025-09-29 07:42:31,top_holders,csv,guardado
 2025-09-29 07:42:34,top_holders,xlsx,guardado
+2025-09-29 07:42:37,top_holders,parquet,guardado
