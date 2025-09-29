@@ -8011,3 +8011,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 11:19:46,trending,parquet,guardado
 2025-09-29 11:19:49,top_volume,csv,guardado
 2025-09-29 11:19:51,top_volume,xlsx,guardado
+2025-09-29 11:19:53,top_volume,parquet,guardado
