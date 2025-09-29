@@ -9505,3 +9505,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 17:16:53,top_volume,parquet,guardado
 2025-09-29 17:18:47,top_holders,csv,guardado
 2025-09-29 17:18:50,top_holders,xlsx,guardado
+2025-09-29 17:18:52,top_holders,parquet,guardado
