@@ -8773,3 +8773,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 14:21:38,top_holders,parquet,guardado
 2025-09-29 14:22:06,transfers,csv,guardado
 2025-09-29 14:22:08,transfers,xlsx,guardado
+2025-09-29 14:22:11,transfers,parquet,guardado
