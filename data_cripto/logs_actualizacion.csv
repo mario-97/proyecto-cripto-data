@@ -8092,3 +8092,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 11:37:50,top_flow,parquet,guardado
 2025-09-29 11:37:52,trending,csv,guardado
 2025-09-29 11:37:54,trending,xlsx,guardado
+2025-09-29 11:37:56,trending,parquet,guardado
