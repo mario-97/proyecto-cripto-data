@@ -6568,3 +6568,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 05:34:49,top_volume,parquet,guardado
 2025-09-29 05:36:29,top_holders,csv,guardado
 2025-09-29 05:36:33,top_holders,xlsx,guardado
+2025-09-29 05:36:35,top_holders,parquet,guardado
