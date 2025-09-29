@@ -6439,3 +6439,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 05:04:43,top_flow,parquet,guardado
 2025-09-29 05:04:45,trending,csv,guardado
 2025-09-29 05:04:47,trending,xlsx,guardado
+2025-09-29 05:04:49,trending,parquet,guardado
