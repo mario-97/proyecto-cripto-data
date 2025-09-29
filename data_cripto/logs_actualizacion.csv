@@ -8260,3 +8260,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 12:16:57,top_volume,parquet,guardado
 2025-09-29 12:19:39,top_holders,csv,guardado
 2025-09-29 12:19:42,top_holders,xlsx,guardado
+2025-09-29 12:19:44,top_holders,parquet,guardado
