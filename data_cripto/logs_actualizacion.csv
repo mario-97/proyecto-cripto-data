@@ -6355,3 +6355,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 04:45:38,top_holders,parquet,guardado
 2025-09-29 04:46:42,top_flow,csv,guardado
 2025-09-29 04:46:44,top_flow,xlsx,guardado
+2025-09-29 04:46:45,top_flow,parquet,guardado
