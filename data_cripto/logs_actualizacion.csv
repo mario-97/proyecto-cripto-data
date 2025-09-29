@@ -10512,3 +10512,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 21:21:37,top_holders,xlsx,guardado
 2025-09-29 21:21:40,top_holders,parquet,guardado
 2025-09-29 21:21:51,transfers,csv,guardado
+2025-09-29 21:21:53,transfers,xlsx,guardado
