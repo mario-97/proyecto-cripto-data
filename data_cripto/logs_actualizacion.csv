@@ -9940,3 +9940,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 19:02:27,transfers,parquet,guardado
 2025-09-29 19:03:45,top_holders,csv,guardado
 2025-09-29 19:03:48,top_holders,xlsx,guardado
+2025-09-29 19:03:51,top_holders,parquet,guardado
