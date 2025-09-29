@@ -8348,3 +8348,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 12:39:47,top_holders,csv,guardado
 2025-09-29 12:39:50,top_holders,xlsx,guardado
 2025-09-29 12:39:53,top_holders,parquet,guardado
+2025-09-29 12:40:50,top_flow,csv,guardado
