@@ -11035,3 +11035,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 23:25:54,top_volume,parquet,guardado
 2025-09-29 23:27:33,top_holders,csv,guardado
 2025-09-29 23:27:37,top_holders,xlsx,guardado
+2025-09-29 23:27:39,top_holders,parquet,guardado
