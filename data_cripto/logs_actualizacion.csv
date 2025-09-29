@@ -8410,3 +8410,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 12:52:53,top_volume,parquet,guardado
 2025-09-29 12:54:31,top_holders,csv,guardado
 2025-09-29 12:54:35,top_holders,xlsx,guardado
+2025-09-29 12:54:37,top_holders,parquet,guardado
