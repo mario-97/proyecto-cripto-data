@@ -5921,3 +5921,5 @@ fecha_hora,archivo,formato,status
 2025-09-29 03:01:45,trending,csv,guardado
 2025-09-29 03:01:47,trending,xlsx,guardado
 2025-09-29 03:01:48,trending,parquet,error
+2025-09-29 03:01:48,transfers,csv,guardado
+2025-09-29 03:01:51,top_volume,csv,guardado
