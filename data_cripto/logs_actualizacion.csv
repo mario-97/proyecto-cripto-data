@@ -6430,3 +6430,5 @@ fecha_hora,archivo,formato,status
 2025-09-29 05:01:47,top_volume,xlsx,guardado
 2025-09-29 05:01:48,transfers,xlsx,guardado
 2025-09-29 05:01:49,top_volume,parquet,guardado
+2025-09-29 05:01:49,transfers,parquet,guardado
+2025-09-29 05:03:31,top_holders,csv,guardado
