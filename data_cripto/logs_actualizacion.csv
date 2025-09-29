@@ -7728,3 +7728,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 10:12:52,top_holders,xlsx,guardado
 2025-09-29 10:12:55,top_holders,parquet,guardado
 2025-09-29 10:13:52,top_flow,csv,guardado
+2025-09-29 10:13:54,top_flow,xlsx,guardado
