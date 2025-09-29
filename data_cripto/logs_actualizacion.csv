@@ -7426,3 +7426,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 09:00:08,btc_cdd,parquet,guardado
 2025-09-29 09:01:38,top_holders,csv,guardado
 2025-09-29 09:01:42,top_holders,xlsx,guardado
+2025-09-29 09:01:44,top_holders,parquet,guardado
