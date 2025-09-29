@@ -6401,3 +6401,4 @@ fecha_hora,archivo,formato,status
 2025-09-29 04:57:33,top_holders,csv,guardado
 2025-09-29 04:57:36,top_holders,xlsx,guardado
 2025-09-29 04:57:39,top_holders,parquet,guardado
+2025-09-29 04:58:35,top_flow,csv,guardado
