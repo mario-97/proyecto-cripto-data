@@ -8057,3 +8057,6 @@ fecha_hora,archivo,formato,status
 2025-09-29 11:30:37,top_holders,csv,guardado
 2025-09-29 11:30:37,montecarlo_lineas_simulacion,csv,error
 2025-09-29 11:30:41,montecarlo_lineas_simulacion,xlsx,guardado
+2025-09-29 11:30:41,top_holders,xlsx,guardado
+2025-09-29 11:30:43,montecarlo_lineas_simulacion,parquet,guardado
+2025-09-29 11:30:43,top_holders,parquet,error
