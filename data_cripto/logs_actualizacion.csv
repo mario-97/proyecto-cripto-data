@@ -12192,3 +12192,5 @@ fecha_hora,archivo,formato,status
 2025-09-30 04:01:47,trending,csv,guardado
 2025-09-30 04:01:48,transfers,xlsx,error
 2025-09-30 04:01:49,trending,xlsx,guardado
+2025-09-30 04:01:50,transfers,parquet,error
+2025-09-30 04:01:51,trending,parquet,guardado
