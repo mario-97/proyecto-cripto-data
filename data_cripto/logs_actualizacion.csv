@@ -11728,3 +11728,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 02:10:54,top_volume,parquet,guardado
 2025-09-30 02:12:30,top_holders,csv,guardado
 2025-09-30 02:12:34,top_holders,xlsx,guardado
+2025-09-30 02:12:36,top_holders,parquet,guardado
