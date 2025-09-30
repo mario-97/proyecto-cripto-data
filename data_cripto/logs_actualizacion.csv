@@ -13947,3 +13947,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 11:00:12,btc_change_price,xlsx,guardado
 2025-09-30 11:00:15,btc_change_price,parquet,guardado
 2025-09-30 11:00:28,top_holders,csv,guardado
+2025-09-30 11:00:32,top_holders,xlsx,guardado
