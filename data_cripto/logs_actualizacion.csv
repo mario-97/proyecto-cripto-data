@@ -13840,3 +13840,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 10:34:58,top_flow,parquet,guardado
 2025-09-30 10:35:00,trending,csv,guardado
 2025-09-30 10:35:02,trending,xlsx,guardado
+2025-09-30 10:35:05,trending,parquet,guardado
