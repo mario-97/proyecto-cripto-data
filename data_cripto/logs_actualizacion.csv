@@ -15429,3 +15429,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 17:00:35,top_holders,xlsx,guardado
 2025-09-30 17:00:37,top_holders,parquet,guardado
 2025-09-30 17:01:44,top_flow,csv,guardado
+2025-09-30 17:01:46,transfers,csv,guardado
