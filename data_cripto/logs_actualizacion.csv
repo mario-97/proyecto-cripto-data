@@ -12298,3 +12298,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 04:26:00,top_volume,parquet,guardado
 2025-09-30 04:27:39,top_holders,csv,guardado
 2025-09-30 04:27:42,top_holders,xlsx,guardado
+2025-09-30 04:27:45,top_holders,parquet,guardado
