@@ -12433,3 +12433,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 04:58:56,top_volume,parquet,guardado
 2025-09-30 05:00:02,btc_nrpl_usd,csv,guardado
 2025-09-30 05:00:05,btc_nrpl_usd,xlsx,guardado
+2025-09-30 05:00:07,btc_nrpl_usd,parquet,guardado
