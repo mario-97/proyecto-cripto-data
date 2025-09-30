@@ -12319,3 +12319,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 04:31:52,trending,parquet,guardado
 2025-09-30 04:31:55,top_volume,csv,guardado
 2025-09-30 04:31:57,top_volume,xlsx,guardado
+2025-09-30 04:31:59,top_volume,parquet,guardado
