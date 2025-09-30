@@ -12690,3 +12690,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 06:01:02,top_holders,xlsx,guardado
 2025-09-30 06:01:05,top_holders,parquet,guardado
 2025-09-30 06:01:47,transfers,csv,guardado
+2025-09-30 06:01:50,transfers,xlsx,guardado
