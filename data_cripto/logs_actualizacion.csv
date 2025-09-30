@@ -14086,3 +14086,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 11:30:52,montecarlo_estadistica_descriptiva,parquet,error
 2025-09-30 11:31:42,top_flow,csv,guardado
 2025-09-30 11:31:44,top_flow,xlsx,guardado
+2025-09-30 11:31:47,top_flow,parquet,guardado
