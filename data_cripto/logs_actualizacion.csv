@@ -15765,3 +15765,4 @@ rs,parquet,guardado,
 2025-09-30 18:21:53,top_holders,parquet,guardado
 2025-09-30 18:21:53,transfers,parquet,error
 2025-09-30 18:22:51,top_flow,csv,guardado
+2025-09-30 18:22:54,top_flow,xlsx,guardado
