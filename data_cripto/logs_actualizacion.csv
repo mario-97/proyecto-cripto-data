@@ -14209,3 +14209,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 12:00:50,top_holders,parquet,guardado
 2025-09-30 12:01:44,transfers,csv,guardado
 2025-09-30 12:01:47,transfers,xlsx,guardado
+2025-09-30 12:01:49,transfers,parquet,guardado
