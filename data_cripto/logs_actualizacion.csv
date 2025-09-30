@@ -12085,3 +12085,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 03:34:54,top_volume,parquet,guardado
 2025-09-30 03:36:41,top_holders,csv,guardado
 2025-09-30 03:36:44,top_holders,xlsx,guardado
+2025-09-30 03:36:47,top_holders,parquet,guardado
