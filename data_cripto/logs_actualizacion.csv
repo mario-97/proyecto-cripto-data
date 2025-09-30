@@ -11439,3 +11439,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 01:01:47,trending,parquet,guardado
 2025-09-30 01:01:47,transfers,parquet,error
 2025-09-30 01:01:50,top_volume,csv,guardado
+2025-09-30 01:01:52,top_volume,xlsx,guardado
