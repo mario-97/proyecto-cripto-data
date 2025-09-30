@@ -11849,3 +11849,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 02:40:48,top_volume,csv,guardado
 2025-09-30 02:40:50,top_volume,xlsx,guardado
 2025-09-30 02:40:52,top_volume,parquet,guardado
+2025-09-30 02:41:45,transfers,csv,guardado
