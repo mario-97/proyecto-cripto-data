@@ -3820,3 +3820,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 22:41:50,transfers,parquet,guardado
 2025-09-30 22:42:31,top_holders,csv,guardado
 2025-09-30 22:42:34,top_holders,xlsx,guardado
+2025-09-30 22:42:36,top_holders,parquet,guardado
