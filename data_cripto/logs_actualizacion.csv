@@ -12358,3 +12358,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 04:40:50,top_volume,parquet,guardado
 2025-09-30 04:42:02,transfers,csv,guardado
 2025-09-30 04:42:05,transfers,xlsx,guardado
+2025-09-30 04:42:07,transfers,parquet,guardado
