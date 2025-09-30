@@ -11360,3 +11360,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 00:45:41,top_holders,csv,guardado
 2025-09-30 00:45:44,top_holders,xlsx,guardado
 2025-09-30 00:45:47,top_holders,parquet,guardado
+2025-09-30 00:46:44,top_flow,csv,guardado
