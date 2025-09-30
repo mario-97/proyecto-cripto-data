@@ -12478,3 +12478,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 05:08:15,top_volume,parquet,guardado
 2025-09-30 05:09:28,top_holders,csv,guardado
 2025-09-30 05:09:32,top_holders,xlsx,guardado
+2025-09-30 05:09:35,top_holders,parquet,guardado
