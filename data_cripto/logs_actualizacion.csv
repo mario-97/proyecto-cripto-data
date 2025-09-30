@@ -14143,3 +14143,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 11:44:12,trending,parquet,guardado
 2025-09-30 11:44:15,top_volume,csv,guardado
 2025-09-30 11:44:17,top_volume,xlsx,guardado
+2025-09-30 11:44:19,top_volume,parquet,guardado
