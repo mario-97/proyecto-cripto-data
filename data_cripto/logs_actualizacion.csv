@@ -12275,3 +12275,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 04:21:50,top_holders,csv,error
 2025-09-30 04:21:54,top_holders,xlsx,guardado
 2025-09-30 04:21:56,top_holders,parquet,guardado
+2025-09-30 04:22:52,top_flow,csv,guardado
