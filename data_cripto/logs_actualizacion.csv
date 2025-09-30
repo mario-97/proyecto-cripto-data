@@ -16009,3 +16009,5 @@ rs,parquet,guardado,
 2025-09-30 19:19:52,top_volume,parquet,guardado
 2025-09-30 19:21:38,top_holders,csv,guardado
 2025-09-30 19:21:41,top_holders,xlsx,guardado
+2025-09-30 19:21:44,top_holders,parquet,guardado
+2025-09-30 19:21:45,transfers,csv,guardado
