@@ -3745,3 +3745,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 22:22:53,top_volume,parquet,guardado
 2025-09-30 22:24:37,top_holders,csv,guardado
 2025-09-30 22:24:40,top_holders,xlsx,guardado
+2025-09-30 22:24:42,top_holders,parquet,guardado
