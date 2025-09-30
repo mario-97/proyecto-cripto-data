@@ -15934,3 +15934,4 @@ rs,parquet,guardado,
 2025-09-30 19:01:52,transfers,parquet,error
 2025-09-30 19:01:54,top_volume,csv,error
 2025-09-30 19:01:56,top_volume,xlsx,guardado
+2025-09-30 19:01:58,top_volume,parquet,guardado
