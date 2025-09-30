@@ -11666,7 +11666,7 @@ fecha_hora,archivo,formato,status
 2025-09-30 01:57:29,top_holders,csv,guardado
 2025-09-30 01:57:33,top_holders,,
 2025-09-30 18:01:51,transfers,xlsx,error
-rs,parquet,guardado
+rs,parquet,guardado,
 2025-09-30 01:58:29,top_flow,csv,guardado
 2025-09-30 01:58:31,top_flow,xlsx,guardado
 2025-09-30 01:58:33,top_flow,parquet,guardado
@@ -15677,3 +15677,5 @@ rs,parquet,guardado
 2025-09-30 18:00:51,top_holders,parquet,guardado
 2025-09-30 18:01:48,transfers,csv,guardado
 2025-09-30 18:01:51,top_flow,csv,guardado
+2025-09-30 18:01:54,transfers,parquet,guardado
+2025-09-30 18:01:54,top_flow,xlsx,error
