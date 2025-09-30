@@ -4015,3 +4015,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 23:28:51,trending,parquet,guardado
 2025-09-30 23:28:54,top_volume,csv,guardado
 2025-09-30 23:28:56,top_volume,xlsx,guardado
+2025-09-30 23:28:57,top_volume,parquet,guardado
