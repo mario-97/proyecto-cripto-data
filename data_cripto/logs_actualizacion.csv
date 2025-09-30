@@ -11940,3 +11940,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 03:02:00,transfers,xlsx,guardado
 2025-09-30 03:02:02,transfers,parquet,guardado
 2025-09-30 03:02:19,top_flow,csv,guardado
+2025-09-30 03:02:22,top_flow,xlsx,guardado
