@@ -12530,3 +12530,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 05:21:45,transfers,csv,guardado
 2025-09-30 05:21:48,transfers,xlsx,guardado
 2025-09-30 05:21:50,transfers,parquet,guardado
+2025-09-30 05:22:40,top_flow,csv,guardado
