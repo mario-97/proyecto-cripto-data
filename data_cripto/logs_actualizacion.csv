@@ -12799,3 +12799,4 @@ fecha_hora,archivo,formato,status
 2025-09-30 06:25:57,trending,parquet,guardado
 2025-09-30 06:26:00,top_volume,csv,guardado
 2025-09-30 06:26:02,top_volume,xlsx,guardado
+2025-09-30 06:26:05,top_volume,parquet,guardado
