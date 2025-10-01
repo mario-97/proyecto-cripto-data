@@ -6005,3 +6005,5 @@ fecha_hora,archivo,formato,status
 2025-10-01 07:21:41,top_holders,csv,guardado
 2025-10-01 07:21:44,top_holders,xlsx,guardado
 2025-10-01 07:21:47,top_holders,parquet,guardado
+2025-10-01 07:21:47,transfers,csv,guardado
+2025-10-01 07:21:50,transfers,xlsx,guardado
