@@ -4375,3 +4375,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 00:55:52,trending,parquet,guardado
 2025-10-01 00:55:55,top_volume,csv,guardado
 2025-10-01 00:55:57,top_volume,xlsx,guardado
+2025-10-01 00:55:58,top_volume,parquet,guardado
