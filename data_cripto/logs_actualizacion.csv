@@ -4407,3 +4407,5 @@ fecha_hora,archivo,formato,status
 2025-10-01 01:01:47,transfers,csv,guardado
 2025-10-01 01:01:48,trending,xlsx,guardado
 2025-10-01 01:01:50,transfers,xlsx,guardado
+2025-10-01 01:01:50,trending,parquet,error
+2025-10-01 01:01:52,transfers,parquet,guardado
