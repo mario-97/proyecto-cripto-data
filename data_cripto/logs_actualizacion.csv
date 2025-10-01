@@ -8228,3 +8228,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 16:16:51,top_flow,csv,guardado
 2025-10-01 16:16:53,top_flow,xlsx,guardado
 2025-10-01 16:16:55,top_flow,parquet,guardado
+2025-10-01 16:16:58,trending,csv,guardado
