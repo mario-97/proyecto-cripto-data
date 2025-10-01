@@ -8389,3 +8389,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 16:54:57,top_holders,parquet,guardado
 2025-10-01 16:55:52,top_flow,csv,guardado
 2025-10-01 16:55:54,top_flow,xlsx,guardado
+2025-10-01 16:55:56,top_flow,parquet,guardado
