@@ -8739,3 +8739,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 18:22:41,top_holders,xlsx,guardado
 2025-10-01 18:22:43,top_holders,parquet,guardado
 2025-10-01 18:23:26,top_flow,csv,guardado
+2025-10-01 18:23:28,top_flow,xlsx,guardado
