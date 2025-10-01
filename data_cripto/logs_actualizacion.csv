@@ -9388,3 +9388,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 20:58:57,top_flow,parquet,guardado
 2025-10-01 20:59:00,trending,csv,guardado
 2025-10-01 20:59:02,trending,xlsx,guardado
+2025-10-01 20:59:04,trending,parquet,guardado
