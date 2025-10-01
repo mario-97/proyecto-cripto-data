@@ -9859,3 +9859,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 22:54:57,top_holders,parquet,guardado
 2025-10-01 22:55:52,top_flow,csv,guardado
 2025-10-01 22:55:53,top_flow,xlsx,guardado
+2025-10-01 22:55:55,top_flow,parquet,guardado
