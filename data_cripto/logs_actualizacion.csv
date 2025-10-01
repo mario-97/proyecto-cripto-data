@@ -8337,3 +8337,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 16:42:03,top_volume,parquet,guardado
 2025-10-01 16:42:03,transfers,parquet,guardado
 2025-10-01 16:43:41,top_holders,csv,guardado
+2025-10-01 16:43:43,top_holders,xlsx,guardado
