@@ -6169,3 +6169,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 08:00:47,top_holders,parquet,guardado
 2025-10-01 08:01:49,transfers,csv,guardado
 2025-10-01 08:01:52,transfers,xlsx,guardado
+2025-10-01 08:01:54,top_flow,csv,guardado
