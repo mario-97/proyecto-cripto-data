@@ -4463,3 +4463,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 01:15:51,top_holders,csv,guardado
 2025-10-01 01:15:54,top_holders,xlsx,guardado
 2025-10-01 01:15:56,top_holders,parquet,guardado
+2025-10-01 01:16:48,top_flow,csv,guardado
