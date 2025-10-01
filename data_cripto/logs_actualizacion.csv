@@ -8485,3 +8485,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 17:20:20,top_volume,parquet,guardado
 2025-10-01 17:21:59,transfers,csv,guardado
 2025-10-01 17:22:01,transfers,xlsx,guardado
+2025-10-01 17:22:04,transfers,parquet,guardado
