@@ -9584,3 +9584,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 21:45:34,top_holders,csv,guardado
 2025-10-01 21:45:37,top_holders,xlsx,guardado
 2025-10-01 21:45:39,top_holders,parquet,guardado
+2025-10-01 21:46:35,top_flow,csv,guardado
