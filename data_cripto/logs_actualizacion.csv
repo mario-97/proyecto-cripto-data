@@ -7540,3 +7540,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 13:29:35,top_volume,parquet,guardado
 2025-10-01 13:30:44,top_holders,csv,guardado
 2025-10-01 13:30:47,top_holders,xlsx,guardado
+2025-10-01 13:30:49,top_holders,parquet,guardado
