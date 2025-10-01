@@ -8664,3 +8664,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 18:03:44,top_holders,xlsx,guardado
 2025-10-01 18:03:46,top_holders,parquet,guardado
 2025-10-01 18:04:15,top_flow,csv,guardado
+2025-10-01 18:04:17,top_flow,xlsx,guardado
