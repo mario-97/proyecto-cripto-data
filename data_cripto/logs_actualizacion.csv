@@ -5833,3 +5833,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 06:41:49,transfers,csv,error
 2025-10-01 06:41:49,top_volume,parquet,guardado
 2025-10-01 06:41:52,transfers,xlsx,guardado
+2025-10-01 06:41:54,transfers,parquet,guardado
