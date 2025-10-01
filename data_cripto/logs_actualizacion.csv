@@ -6715,3 +6715,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 10:14:05,trending,parquet,guardado
 2025-10-01 10:14:07,top_volume,csv,guardado
 2025-10-01 10:14:09,top_volume,xlsx,guardado
+2025-10-01 10:14:11,top_volume,parquet,guardado
