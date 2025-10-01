@@ -9619,3 +9619,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 21:53:00,top_volume,parquet,guardado
 2025-10-01 21:54:59,top_holders,csv,guardado
 2025-10-01 21:55:03,top_holders,xlsx,guardado
+2025-10-01 21:55:06,top_holders,parquet,guardado
