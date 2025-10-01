@@ -9485,3 +9485,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 21:21:49,transfers,csv,error
 2025-10-01 21:21:52,transfers,xlsx,guardado
 2025-10-01 21:21:54,transfers,parquet,guardado
+2025-10-01 21:22:44,top_flow,csv,guardado
