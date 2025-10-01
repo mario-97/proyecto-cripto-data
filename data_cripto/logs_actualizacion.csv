@@ -6919,3 +6919,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 11:01:49,transfers,csv,error
 2025-10-01 11:01:51,top_volume,parquet,guardado
 2025-10-01 11:01:52,transfers,xlsx,guardado
+2025-10-01 11:01:54,transfers,parquet,guardado
