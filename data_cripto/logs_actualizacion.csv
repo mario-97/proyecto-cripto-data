@@ -9150,3 +9150,5 @@ fecha_hora,archivo,formato,status
 2025-10-01 20:02:08,top_flow,xlsx,guardado
 2025-10-01 20:02:11,top_flow,parquet,guardado
 2025-10-01 20:02:13,trending,csv,error
+2025-10-01 20:02:13,transfers,csv,guardado
+2025-10-01 20:02:16,trending,xlsx,guardado
