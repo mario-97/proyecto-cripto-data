@@ -8648,3 +8648,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 18:00:57,top_holders,csv,guardado
 2025-10-01 18:01:01,top_holders,xlsx,guardado
 2025-10-01 18:01:03,top_holders,parquet,guardado
+2025-10-01 18:01:53,transfers,csv,guardado
