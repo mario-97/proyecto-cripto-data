@@ -9720,3 +9720,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 22:21:54,transfers,xlsx,guardado
 2025-10-01 22:21:57,transfers,parquet,guardado
 2025-10-01 22:22:06,top_holders,csv,guardado
+2025-10-01 22:22:10,top_holders,xlsx,guardado
