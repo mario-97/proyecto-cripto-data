@@ -9688,3 +9688,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 22:13:52,top_flow,parquet,guardado
 2025-10-01 22:13:54,trending,csv,guardado
 2025-10-01 22:13:56,trending,xlsx,guardado
+2025-10-01 22:13:58,trending,parquet,guardado
