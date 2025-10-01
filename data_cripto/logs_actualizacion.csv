@@ -7674,3 +7674,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 14:01:50,transfers,xlsx,error
 2025-10-01 14:01:51,top_volume,csv,error
 2025-10-01 14:01:52,transfers,parquet,guardado
+2025-10-01 14:01:53,top_volume,xlsx,error
