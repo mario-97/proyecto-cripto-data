@@ -5629,3 +5629,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 05:52:55,top_flow,parquet,guardado
 2025-10-01 05:52:57,trending,csv,guardado
 2025-10-01 05:52:59,trending,xlsx,guardado
+2025-10-01 05:53:01,trending,parquet,guardado
