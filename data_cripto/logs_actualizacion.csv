@@ -6710,3 +6710,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 10:13:55,top_flow,csv,guardado
 2025-10-01 10:13:57,top_flow,xlsx,guardado
 2025-10-01 10:13:58,top_flow,parquet,guardado
+2025-10-01 10:14:01,trending,csv,guardado
