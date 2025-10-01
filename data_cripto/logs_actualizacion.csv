@@ -6481,3 +6481,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 09:15:42,top_volume,parquet,guardado
 2025-10-01 09:18:45,top_holders,csv,guardado
 2025-10-01 09:18:49,top_holders,xlsx,guardado
+2025-10-01 09:18:51,top_holders,parquet,guardado
