@@ -7299,3 +7299,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 12:31:58,trending,xlsx,guardado
 2025-10-01 12:31:59,trending,parquet,guardado
 2025-10-01 12:32:02,top_volume,csv,guardado
+2025-10-01 12:32:05,top_volume,xlsx,guardado
