@@ -8002,3 +8002,5 @@ fecha_hora,archivo,formato,status
 2025-10-01 15:21:51,transfers,xlsx,guardado
 2025-10-01 15:21:51,top_holders,xlsx,error
 2025-10-01 15:21:54,transfers,parquet,guardado
+2025-10-01 15:21:54,top_holders,parquet,error
+2025-10-01 15:22:52,top_flow,csv,guardado
