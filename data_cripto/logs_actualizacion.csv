@@ -7945,3 +7945,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 15:08:34,top_flow,parquet,guardado
 2025-10-01 15:08:36,trending,csv,guardado
 2025-10-01 15:08:38,trending,xlsx,guardado
+2025-10-01 15:08:40,trending,parquet,guardado
