@@ -4575,3 +4575,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 01:41:49,transfers,xlsx,guardado
 2025-10-01 01:41:51,transfers,parquet,guardado
 2025-10-01 01:42:50,top_holders,csv,guardado
+2025-10-01 01:42:54,top_holders,xlsx,guardado
