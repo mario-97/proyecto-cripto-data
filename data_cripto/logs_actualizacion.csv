@@ -4660,3 +4660,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 02:01:46,transfers,csv,error
 2025-10-01 02:01:46,top_volume,parquet,guardado
 2025-10-01 02:01:48,transfers,xlsx,guardado
+2025-10-01 02:01:50,transfers,parquet,guardado
