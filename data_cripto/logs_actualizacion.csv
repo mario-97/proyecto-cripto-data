@@ -5418,3 +5418,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 05:01:53,transfers,parquet,error
 2025-10-01 05:01:54,top_flow,parquet,guardado
 2025-10-01 05:01:56,trending,csv,guardado
+2025-10-01 05:01:58,trending,xlsx,guardado
