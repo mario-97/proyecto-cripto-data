@@ -6813,3 +6813,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 10:37:43,trending,xlsx,guardado
 2025-10-01 10:37:45,trending,parquet,guardado
 2025-10-01 10:37:47,top_volume,csv,guardado
+2025-10-01 10:37:49,top_volume,xlsx,guardado
