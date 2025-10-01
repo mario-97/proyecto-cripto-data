@@ -9233,3 +9233,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 20:21:50,transfers,csv,guardado
 2025-10-01 20:21:53,transfers,xlsx,guardado
 2025-10-01 20:21:55,transfers,parquet,guardado
+2025-10-01 20:22:32,top_holders,csv,guardado
