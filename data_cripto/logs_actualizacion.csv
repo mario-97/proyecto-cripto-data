@@ -4391,3 +4391,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 01:00:02,btc_price,csv,guardado
 2025-10-01 01:00:04,btc_price,xlsx,guardado
 2025-10-01 01:00:07,btc_price,parquet,guardado
+2025-10-01 01:00:10,btc_mvrvz,csv,guardado
