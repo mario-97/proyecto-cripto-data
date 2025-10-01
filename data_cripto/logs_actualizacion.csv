@@ -8860,3 +8860,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 18:49:55,top_volume,parquet,guardado
 2025-10-01 18:51:42,top_holders,csv,guardado
 2025-10-01 18:51:47,top_holders,xlsx,guardado
+2025-10-01 18:51:49,top_holders,parquet,guardado
