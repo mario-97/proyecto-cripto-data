@@ -5585,3 +5585,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 05:41:58,transfers,csv,guardado
 2025-10-01 05:42:01,transfers,xlsx,guardado
 2025-10-01 05:42:03,transfers,parquet,guardado
+2025-10-01 05:42:32,top_holders,csv,guardado
