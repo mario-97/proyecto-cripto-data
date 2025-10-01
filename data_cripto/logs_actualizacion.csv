@@ -8491,3 +8491,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 17:22:11,top_holders,parquet,guardado
 2025-10-01 17:23:09,top_flow,csv,guardado
 2025-10-01 17:23:11,top_flow,xlsx,guardado
+2025-10-01 17:23:13,top_flow,parquet,guardado
