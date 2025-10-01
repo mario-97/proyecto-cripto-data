@@ -5673,3 +5673,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 06:01:51,top_volume,parquet,guardado
 2025-10-01 06:01:52,transfers,parquet,error
 2025-10-01 06:04:05,top_holders,csv,guardado
+2025-10-01 06:04:09,top_holders,xlsx,guardado
