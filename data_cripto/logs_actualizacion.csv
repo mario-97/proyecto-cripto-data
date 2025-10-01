@@ -9109,3 +9109,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 19:50:40,top_volume,parquet,guardado
 2025-10-01 19:52:04,top_holders,csv,guardado
 2025-10-01 19:52:07,top_holders,xlsx,guardado
+2025-10-01 19:52:10,top_holders,parquet,guardado
