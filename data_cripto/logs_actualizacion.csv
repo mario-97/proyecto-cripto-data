@@ -4939,3 +4939,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 03:08:46,top_flow,parquet,guardado
 2025-10-01 03:08:48,trending,csv,guardado
 2025-10-01 03:08:50,trending,xlsx,guardado
+2025-10-01 03:08:52,trending,parquet,guardado
