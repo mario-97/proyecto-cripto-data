@@ -9248,3 +9248,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 20:25:50,top_holders,csv,guardado
 2025-10-01 20:25:53,top_holders,xlsx,guardado
 2025-10-01 20:25:55,top_holders,parquet,guardado
+2025-10-01 20:26:53,top_flow,csv,guardado
