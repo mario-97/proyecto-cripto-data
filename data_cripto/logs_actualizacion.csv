@@ -4912,3 +4912,5 @@ fecha_hora,archivo,formato,status
 2025-10-01 03:01:52,top_flow,xlsx,guardado
 2025-10-01 03:01:53,transfers,xlsx,guardado
 2025-10-01 03:01:54,top_flow,parquet,guardado
+2025-10-01 03:01:54,transfers,parquet,guardado
+2025-10-01 03:01:56,trending,csv,guardado
