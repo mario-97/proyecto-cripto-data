@@ -4903,3 +4903,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 03:00:15,btc_hashrate,parquet,guardado
 2025-10-01 03:00:18,btc_miner_reserves,csv,guardado
 2025-10-01 03:00:20,btc_miner_reserves,xlsx,guardado
+2025-10-01 03:00:22,btc_miner_reserves,parquet,guardado
