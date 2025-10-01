@@ -6664,3 +6664,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 10:01:50,transfers,parquet,guardado
 2025-10-01 10:01:52,trending,csv,guardado
 2025-10-01 10:01:54,trending,xlsx,guardado
+2025-10-01 10:01:56,trending,parquet,guardado
