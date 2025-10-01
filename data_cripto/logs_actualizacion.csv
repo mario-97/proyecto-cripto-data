@@ -8053,3 +8053,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 15:34:02,top_holders,parquet,guardado
 2025-10-01 15:35:03,top_flow,csv,guardado
 2025-10-01 15:35:05,top_flow,xlsx,guardado
+2025-10-01 15:35:07,top_flow,parquet,guardado
