@@ -6172,3 +6172,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 08:01:54,top_flow,csv,guardado
 2025-10-01 08:01:54,transfers,parquet,error
 2025-10-01 08:01:56,top_flow,xlsx,guardado
+2025-10-01 08:01:57,top_flow,parquet,guardado
