@@ -9644,3 +9644,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 22:01:34,top_holders,csv,guardado
 2025-10-01 22:01:37,top_holders,xlsx,guardado
 2025-10-01 22:01:40,top_holders,parquet,guardado
+2025-10-01 22:01:52,transfers,csv,guardado
