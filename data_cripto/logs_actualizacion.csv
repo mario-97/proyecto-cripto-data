@@ -6463,3 +6463,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 09:11:11,top_flow,parquet,guardado
 2025-10-01 09:11:14,trending,csv,guardado
 2025-10-01 09:11:16,trending,xlsx,guardado
+2025-10-01 09:11:18,trending,parquet,guardado
