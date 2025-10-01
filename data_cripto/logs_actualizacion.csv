@@ -7912,3 +7912,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 14:59:18,top_volume,parquet,guardado
 2025-10-01 15:00:47,top_holders,csv,guardado
 2025-10-01 15:00:50,top_holders,xlsx,guardado
+2025-10-01 15:00:53,top_holders,parquet,guardado
