@@ -5158,3 +5158,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 04:01:29,top_holders,parquet,guardado
 2025-10-01 04:01:52,transfers,csv,guardado
 2025-10-01 04:01:54,transfers,xlsx,guardado
+2025-10-01 04:01:56,transfers,parquet,guardado
