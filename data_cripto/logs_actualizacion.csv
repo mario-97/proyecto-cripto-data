@@ -5270,3 +5270,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 04:27:57,top_holders,csv,guardado
 2025-10-01 04:28:00,top_holders,xlsx,guardado
 2025-10-01 04:28:02,top_holders,parquet,guardado
+2025-10-01 04:28:58,top_flow,csv,guardado
