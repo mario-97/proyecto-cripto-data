@@ -7422,3 +7422,7 @@ fecha_hora,archivo,formato,status
 2025-10-01 13:01:45,trending,xlsx,guardado
 2025-10-01 13:01:46,transfers,csv,error
 2025-10-01 13:01:47,trending,parquet,guardado
+2025-10-01 13:01:49,transfers,xlsx,guardado
+2025-10-01 13:01:50,top_volume,csv,guardado
+2025-10-01 13:01:51,transfers,parquet,guardado
+2025-10-01 13:01:52,top_volume,xlsx,guardado
