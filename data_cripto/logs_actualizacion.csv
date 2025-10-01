@@ -9040,3 +9040,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 19:35:01,top_flow,parquet,guardado
 2025-10-01 19:35:04,trending,csv,guardado
 2025-10-01 19:35:06,trending,xlsx,guardado
+2025-10-01 19:35:07,trending,parquet,guardado
