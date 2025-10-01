@@ -5038,3 +5038,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 03:32:54,top_flow,parquet,guardado
 2025-10-01 03:32:56,trending,csv,guardado
 2025-10-01 03:32:58,trending,xlsx,guardado
+2025-10-01 03:33:00,trending,parquet,guardado
