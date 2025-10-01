@@ -8544,3 +8544,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 17:34:58,trending,xlsx,guardado
 2025-10-01 17:35:00,trending,parquet,guardado
 2025-10-01 17:35:03,top_volume,csv,guardado
+2025-10-01 17:35:05,top_volume,xlsx,guardado
