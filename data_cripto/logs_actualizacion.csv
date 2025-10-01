@@ -4491,3 +4491,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 01:21:48,transfers,xlsx,guardado
 2025-10-01 01:21:50,transfers,parquet,guardado
 2025-10-01 01:22:32,top_flow,csv,guardado
+2025-10-01 01:22:34,top_flow,xlsx,guardado
