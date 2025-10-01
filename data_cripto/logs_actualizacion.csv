@@ -5409,3 +5409,4 @@ fecha_hora,archivo,formato,status
 2025-10-01 05:00:13,btc_mvrvz_sth,xlsx,guardado
 2025-10-01 05:00:15,btc_mvrvz_sth,parquet,guardado
 2025-10-01 05:00:49,top_holders,csv,guardado
+2025-10-01 05:00:52,top_holders,xlsx,guardado
