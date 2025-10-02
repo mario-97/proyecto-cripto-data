@@ -10318,3 +10318,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 00:44:52,top_volume,parquet,guardado
 2025-10-02 00:45:42,top_holders,csv,guardado
 2025-10-02 00:45:46,top_holders,xlsx,guardado
+2025-10-02 00:45:48,top_holders,parquet,guardado
