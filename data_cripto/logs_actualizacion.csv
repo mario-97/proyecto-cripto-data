@@ -15620,3 +15620,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 22:01:16,top_holders,parquet,guardado
 2025-10-02 22:01:50,transfers,csv,guardado
 2025-10-02 22:01:53,transfers,xlsx,guardado
+2025-10-02 22:01:55,transfers,parquet,guardado
