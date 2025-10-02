@@ -13023,3 +13023,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 11:30:34,montecarlo_histograma,xlsx,guardado
 2025-10-02 11:30:36,montecarlo_histograma,parquet,guardado
 2025-10-02 11:30:38,montecarlo_lineas_simulacion,csv,guardado
+2025-10-02 11:30:40,top_holders,csv,guardado
