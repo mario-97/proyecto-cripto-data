@@ -12868,3 +12868,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 10:53:11,top_volume,parquet,guardado
 2025-10-02 10:54:49,top_holders,csv,guardado
 2025-10-02 10:54:53,top_holders,xlsx,guardado
+2025-10-02 10:54:56,top_holders,parquet,guardado
