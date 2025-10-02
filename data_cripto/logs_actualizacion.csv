@@ -12730,3 +12730,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 10:20:22,top_volume,parquet,guardado
 2025-10-02 10:21:54,transfers,csv,guardado
 2025-10-02 10:21:57,transfers,xlsx,guardado
+2025-10-02 10:21:59,transfers,parquet,guardado
