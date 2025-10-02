@@ -10725,3 +10725,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 02:21:52,transfers,xlsx,guardado
 2025-10-02 02:21:54,transfers,parquet,guardado
 2025-10-02 02:22:03,top_holders,csv,guardado
+2025-10-02 02:22:07,top_holders,xlsx,guardado
