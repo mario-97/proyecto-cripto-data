@@ -10305,3 +10305,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 00:42:01,transfers,xlsx,guardado
 2025-10-02 00:42:03,transfers,parquet,guardado
 2025-10-02 00:43:31,top_holders,csv,guardado
+2025-10-02 00:43:35,top_holders,xlsx,guardado
