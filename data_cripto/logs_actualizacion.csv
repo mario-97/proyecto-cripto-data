@@ -14708,3 +14708,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 18:20:42,top_volume,parquet,guardado
 2025-10-02 18:21:46,transfers,csv,guardado
 2025-10-02 18:21:49,transfers,xlsx,guardado
+2025-10-02 18:21:52,transfers,parquet,guardado
