@@ -15830,3 +15830,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 22:50:47,top_volume,parquet,guardado
 2025-10-02 22:52:21,top_holders,csv,guardado
 2025-10-02 22:52:24,top_holders,xlsx,guardado
+2025-10-02 22:52:27,top_holders,parquet,guardado
