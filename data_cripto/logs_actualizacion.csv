@@ -12071,3 +12071,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 07:41:42,trending,csv,guardado
 2025-10-02 07:41:44,trending,xlsx,guardado
 2025-10-02 07:41:47,trending,parquet,guardado
+2025-10-02 07:41:48,transfers,csv,error
