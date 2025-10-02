@@ -14600,3 +14600,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 17:55:09,top_holders,parquet,guardado
 2025-10-02 17:56:04,top_flow,csv,guardado
 2025-10-02 17:56:06,top_flow,xlsx,guardado
+2025-10-02 17:56:08,top_flow,parquet,guardado
