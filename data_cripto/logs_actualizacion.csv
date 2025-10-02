@@ -12244,3 +12244,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 08:22:37,top_holders,parquet,guardado
 2025-10-02 08:23:36,top_flow,csv,guardado
 2025-10-02 08:23:38,top_flow,xlsx,guardado
+2025-10-02 08:23:40,top_flow,parquet,guardado
