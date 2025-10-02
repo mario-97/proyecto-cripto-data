@@ -10399,3 +10399,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 01:02:26,trending,parquet,guardado
 2025-10-02 01:02:28,top_volume,csv,guardado
 2025-10-02 01:02:30,top_volume,xlsx,guardado
+2025-10-02 01:02:32,top_volume,parquet,guardado
