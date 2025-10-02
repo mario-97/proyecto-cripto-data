@@ -10900,3 +10900,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 03:02:40,top_flow,parquet,guardado
 2025-10-02 03:02:42,trending,csv,guardado
 2025-10-02 03:02:44,trending,xlsx,guardado
+2025-10-02 03:02:45,trending,parquet,guardado
