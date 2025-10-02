@@ -12154,3 +12154,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 08:01:27,top_holders,parquet,guardado
 2025-10-02 08:01:46,transfers,csv,guardado
 2025-10-02 08:01:49,transfers,xlsx,guardado
+2025-10-02 08:01:52,transfers,parquet,guardado
