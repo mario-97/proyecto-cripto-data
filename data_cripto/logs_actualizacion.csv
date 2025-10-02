@@ -12365,3 +12365,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 08:51:51,top_holders,csv,guardado
 2025-10-02 08:51:54,top_holders,xlsx,guardado
 2025-10-02 08:51:56,top_holders,parquet,guardado
+2025-10-02 08:52:58,top_flow,csv,guardado
