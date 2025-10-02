@@ -11142,3 +11142,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 04:01:46,top_holders,xlsx,guardado
 2025-10-02 04:01:48,top_holders,parquet,guardado
 2025-10-02 04:01:50,transfers,csv,guardado
+2025-10-02 04:01:53,transfers,xlsx,guardado
