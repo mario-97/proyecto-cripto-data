@@ -13625,3 +13625,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 13:53:00,top_volume,parquet,guardado
 2025-10-02 13:55:18,top_holders,csv,guardado
 2025-10-02 13:55:23,top_holders,xlsx,guardado
+2025-10-02 13:55:25,top_holders,parquet,guardado
