@@ -12930,3 +12930,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 11:08:03,trending,xlsx,guardado
 2025-10-02 11:08:05,trending,parquet,guardado
 2025-10-02 11:08:08,top_volume,csv,guardado
+2025-10-02 11:08:10,top_volume,xlsx,guardado
