@@ -12892,3 +12892,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 10:59:18,top_volume,parquet,guardado
 2025-10-02 11:00:03,btc_change_price,csv,guardado
 2025-10-02 11:00:13,btc_change_price,xlsx,guardado
+2025-10-02 11:00:16,btc_change_price,parquet,guardado
