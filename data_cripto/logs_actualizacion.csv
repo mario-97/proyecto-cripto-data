@@ -13313,3 +13313,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 12:38:04,top_volume,parquet,guardado
 2025-10-02 12:39:52,top_holders,csv,guardado
 2025-10-02 12:39:56,top_holders,xlsx,guardado
+2025-10-02 12:39:59,top_holders,parquet,guardado
