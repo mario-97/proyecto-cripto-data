@@ -10641,3 +10641,5 @@ fecha_hora,archivo,formato,status
 2025-10-02 02:01:52,top_flow,csv,guardado
 2025-10-02 02:01:52,transfers,xlsx,guardado
 2025-10-02 02:01:54,top_flow,xlsx,guardado
+2025-10-02 02:01:54,transfers,parquet,guardado
+2025-10-02 02:01:55,top_flow,parquet,guardado
