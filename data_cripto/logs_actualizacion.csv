@@ -12935,3 +12935,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 11:10:33,top_holders,csv,guardado
 2025-10-02 11:10:36,top_holders,xlsx,guardado
 2025-10-02 11:10:39,top_holders,parquet,guardado
+2025-10-02 11:11:42,top_flow,csv,guardado
