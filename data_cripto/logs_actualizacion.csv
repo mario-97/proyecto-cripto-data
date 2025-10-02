@@ -10723,3 +10723,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 02:20:17,top_volume,parquet,guardado
 2025-10-02 02:21:49,transfers,csv,guardado
 2025-10-02 02:21:52,transfers,xlsx,guardado
+2025-10-02 02:21:54,transfers,parquet,guardado
