@@ -14375,3 +14375,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 17:01:32,top_holders,parquet,guardado
 2025-10-02 17:01:51,transfers,csv,guardado
 2025-10-02 17:01:54,transfers,xlsx,guardado
+2025-10-02 17:01:56,transfers,parquet,guardado
