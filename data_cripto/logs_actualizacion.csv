@@ -13310,3 +13310,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 12:37:57,trending,parquet,guardado
 2025-10-02 12:38:00,top_volume,csv,guardado
 2025-10-02 12:38:02,top_volume,xlsx,guardado
+2025-10-02 12:38:04,top_volume,parquet,guardado
