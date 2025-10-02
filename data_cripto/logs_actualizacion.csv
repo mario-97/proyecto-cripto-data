@@ -15372,3 +15372,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 21:01:49,transfers,csv,guardado
 2025-10-02 21:01:53,transfers,xlsx,guardado
 2025-10-02 21:01:55,transfers,parquet,guardado
+2025-10-02 21:02:20,top_flow,csv,guardado
