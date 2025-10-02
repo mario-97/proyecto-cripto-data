@@ -10408,3 +10408,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 01:04:35,top_flow,parquet,guardado
 2025-10-02 01:04:38,trending,csv,guardado
 2025-10-02 01:04:39,trending,xlsx,guardado
+2025-10-02 01:04:41,trending,parquet,guardado
