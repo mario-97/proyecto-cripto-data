@@ -11650,3 +11650,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 06:01:59,transfers,parquet,guardado
 2025-10-02 06:02:03,top_flow,csv,guardado
 2025-10-02 06:02:05,top_flow,xlsx,guardado
+2025-10-02 06:02:08,top_flow,parquet,guardado
