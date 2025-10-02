@@ -11770,3 +11770,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 06:29:17,top_volume,parquet,guardado
 2025-10-02 06:31:09,top_holders,csv,guardado
 2025-10-02 06:31:12,top_holders,xlsx,guardado
+2025-10-02 06:31:14,top_holders,parquet,guardado
