@@ -13048,3 +13048,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 11:35:19,top_flow,parquet,guardado
 2025-10-02 11:35:21,trending,csv,guardado
 2025-10-02 11:35:23,trending,xlsx,guardado
+2025-10-02 11:35:25,trending,parquet,guardado
