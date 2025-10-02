@@ -12820,3 +12820,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 10:42:13,transfers,parquet,guardado
 2025-10-02 10:43:06,top_holders,csv,guardado
 2025-10-02 10:43:10,top_holders,xlsx,guardado
+2025-10-02 10:43:13,top_holders,parquet,guardado
