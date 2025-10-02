@@ -13730,3 +13730,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 14:20:24,top_flow,parquet,guardado
 2025-10-02 14:20:27,trending,csv,guardado
 2025-10-02 14:20:29,trending,xlsx,guardado
+2025-10-02 14:20:32,trending,parquet,guardado
