@@ -14975,3 +14975,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 19:25:15,top_holders,parquet,guardado
 2025-10-02 19:26:09,top_flow,csv,guardado
 2025-10-02 19:26:11,top_flow,xlsx,guardado
+2025-10-02 19:26:13,top_flow,parquet,guardado
