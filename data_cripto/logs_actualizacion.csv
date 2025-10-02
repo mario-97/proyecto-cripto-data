@@ -12079,3 +12079,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 07:41:53,top_volume,parquet,error
 2025-10-02 07:43:06,top_holders,csv,guardado
 2025-10-02 07:43:09,top_holders,xlsx,guardado
+2025-10-02 07:43:12,top_holders,parquet,guardado
