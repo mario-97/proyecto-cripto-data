@@ -12850,3 +12850,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 10:50:19,top_flow,parquet,guardado
 2025-10-02 10:50:21,trending,csv,guardado
 2025-10-02 10:50:23,trending,xlsx,guardado
+2025-10-02 10:50:25,trending,parquet,guardado
