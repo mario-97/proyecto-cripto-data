@@ -11065,3 +11065,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 03:41:27,top_volume,parquet,guardado
 2025-10-02 03:41:48,transfers,csv,guardado
 2025-10-02 03:41:50,transfers,xlsx,guardado
+2025-10-02 03:41:53,transfers,parquet,guardado
