@@ -13740,3 +13740,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 14:21:54,transfers,xlsx,error
 2025-10-02 14:21:55,top_holders,parquet,guardado
 2025-10-02 14:21:57,transfers,parquet,error
+2025-10-02 14:22:52,top_flow,csv,guardado
