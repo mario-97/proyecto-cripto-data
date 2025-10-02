@@ -11884,3 +11884,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 06:58:12,top_holders,parquet,guardado
 2025-10-02 06:59:21,top_flow,csv,guardado
 2025-10-02 06:59:23,top_flow,xlsx,guardado
+2025-10-02 06:59:26,top_flow,parquet,guardado
