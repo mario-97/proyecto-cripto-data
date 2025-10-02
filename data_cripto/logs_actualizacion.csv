@@ -14348,3 +14348,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 16:53:34,top_volume,parquet,guardado
 2025-10-02 16:54:52,top_holders,csv,guardado
 2025-10-02 16:54:56,top_holders,xlsx,guardado
+2025-10-02 16:54:58,top_holders,parquet,guardado
