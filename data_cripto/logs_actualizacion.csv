@@ -11119,3 +11119,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 03:55:46,top_holders,parquet,guardado
 2025-10-02 03:56:44,top_flow,csv,guardado
 2025-10-02 03:56:47,top_flow,xlsx,guardado
+2025-10-02 03:56:49,top_flow,parquet,guardado
