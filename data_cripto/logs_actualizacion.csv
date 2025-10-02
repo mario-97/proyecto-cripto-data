@@ -10135,3 +10135,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 00:02:06,transfers,parquet,guardado
 2025-10-02 00:02:39,top_flow,csv,guardado
 2025-10-02 00:02:41,top_flow,xlsx,guardado
+2025-10-02 00:02:43,top_flow,parquet,guardado
