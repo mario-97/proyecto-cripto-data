@@ -13569,3 +13569,4 @@ fecha_hora,archivo,formato,status
 2025-10-02 13:41:42,trending,csv,guardado
 2025-10-02 13:41:44,trending,xlsx,guardado
 2025-10-02 13:41:46,trending,parquet,guardado
+2025-10-02 13:41:48,transfers,csv,error
