@@ -18108,3 +18108,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 08:01:47,top_holders,parquet,error
 2025-10-03 08:01:50,transfers,xlsx,guardado
 2025-10-03 08:01:52,transfers,parquet,guardado
+2025-10-03 08:02:42,top_flow,csv,guardado
