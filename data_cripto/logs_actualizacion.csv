@@ -20810,3 +20810,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 19:18:04,trending,parquet,guardado
 2025-10-03 19:18:06,top_volume,csv,guardado
 2025-10-03 19:18:09,top_volume,xlsx,guardado
+2025-10-03 19:18:11,top_volume,parquet,guardado
