@@ -17588,3 +17588,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 05:58:37,top_holders,parquet,guardado
 2025-10-03 05:59:36,top_flow,csv,guardado
 2025-10-03 05:59:39,top_flow,xlsx,guardado
+2025-10-03 05:59:41,top_flow,parquet,guardado
