@@ -20285,3 +20285,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 17:11:51,top_flow,parquet,guardado
 2025-10-03 17:11:54,trending,csv,guardado
 2025-10-03 17:11:56,trending,xlsx,guardado
+2025-10-03 17:11:58,trending,parquet,guardado
