@@ -19427,3 +19427,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 13:42:01,transfers,parquet,guardado
 2025-10-03 13:42:01,trending,csv,error
 2025-10-03 13:42:03,trending,xlsx,guardado
+2025-10-03 13:42:05,trending,parquet,guardado
