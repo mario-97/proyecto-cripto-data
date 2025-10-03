@@ -20678,3 +20678,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 18:44:24,top_volume,parquet,guardado
 2025-10-03 18:46:36,top_holders,csv,guardado
 2025-10-03 18:46:40,top_holders,xlsx,guardado
+2025-10-03 18:46:43,top_holders,parquet,guardado
