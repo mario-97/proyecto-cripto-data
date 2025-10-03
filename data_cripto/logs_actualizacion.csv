@@ -18821,3 +18821,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 10:58:40,top_holders,parquet,guardado
 2025-10-03 10:59:35,top_flow,csv,guardado
 2025-10-03 10:59:37,top_flow,xlsx,guardado
+2025-10-03 10:59:40,top_flow,parquet,guardado
