@@ -16304,3 +16304,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 00:45:02,top_volume,parquet,guardado
 2025-10-03 00:46:10,top_holders,csv,guardado
 2025-10-03 00:46:14,top_holders,xlsx,guardado
+2025-10-03 00:46:16,top_holders,parquet,guardado
