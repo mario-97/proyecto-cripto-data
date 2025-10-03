@@ -21240,3 +21240,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 21:02:03,transfers,csv,guardado
 2025-10-03 21:02:06,transfers,xlsx,guardado
 2025-10-03 21:02:09,transfers,parquet,guardado
+2025-10-03 21:02:46,top_flow,csv,guardado
