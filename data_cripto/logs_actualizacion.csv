@@ -19928,3 +19928,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 15:45:00,trending,parquet,guardado
 2025-10-03 15:45:04,top_volume,csv,guardado
 2025-10-03 15:45:06,top_volume,xlsx,guardado
+2025-10-03 15:45:09,top_volume,parquet,guardado
