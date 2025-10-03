@@ -16970,3 +16970,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 03:26:58,top_volume,parquet,guardado
 2025-10-03 03:28:41,top_holders,csv,guardado
 2025-10-03 03:28:45,top_holders,xlsx,guardado
+2025-10-03 03:28:47,top_holders,parquet,guardado
