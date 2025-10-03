@@ -16943,3 +16943,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 03:21:05,top_volume,parquet,guardado
 2025-10-03 03:21:46,transfers,csv,guardado
 2025-10-03 03:21:48,transfers,xlsx,guardado
+2025-10-03 03:21:50,transfers,parquet,guardado
