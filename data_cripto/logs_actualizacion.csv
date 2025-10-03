@@ -20039,3 +20039,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 16:12:08,trending,parquet,guardado
 2025-10-03 16:12:11,top_volume,csv,guardado
 2025-10-03 16:12:13,top_volume,xlsx,guardado
+2025-10-03 16:12:16,top_volume,parquet,guardado
