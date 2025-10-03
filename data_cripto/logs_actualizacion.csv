@@ -18125,3 +18125,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 08:05:59,top_flow,parquet,guardado
 2025-10-03 08:06:01,trending,csv,guardado
 2025-10-03 08:06:03,trending,xlsx,guardado
+2025-10-03 08:06:05,trending,parquet,guardado
