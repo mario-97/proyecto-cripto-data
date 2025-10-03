@@ -16172,3 +16172,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 00:14:45,top_flow,parquet,guardado
 2025-10-03 00:14:48,trending,csv,guardado
 2025-10-03 00:14:50,trending,xlsx,guardado
+2025-10-03 00:14:52,trending,parquet,guardado
