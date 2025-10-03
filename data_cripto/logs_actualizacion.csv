@@ -17018,3 +17018,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 03:39:05,top_volume,parquet,guardado
 2025-10-03 03:40:28,top_holders,csv,guardado
 2025-10-03 03:40:31,top_holders,xlsx,guardado
+2025-10-03 03:40:33,top_holders,parquet,guardado
