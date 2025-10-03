@@ -16117,3 +16117,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 00:01:16,top_holders,xlsx,guardado
 2025-10-03 00:01:19,top_holders,parquet,guardado
 2025-10-03 00:01:51,transfers,csv,guardado
+2025-10-03 00:01:54,transfers,xlsx,guardado
