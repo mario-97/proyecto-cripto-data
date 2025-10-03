@@ -20240,3 +20240,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 16:59:59,top_volume,parquet,guardado
 2025-10-03 17:01:38,top_holders,csv,guardado
 2025-10-03 17:01:42,top_holders,xlsx,guardado
+2025-10-03 17:01:45,top_holders,parquet,guardado
