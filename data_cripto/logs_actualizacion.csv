@@ -19913,3 +19913,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 15:41:57,transfers,parquet,guardado
 2025-10-03 15:41:57,trending,csv,error
 2025-10-03 15:41:59,trending,xlsx,guardado
+2025-10-03 15:42:02,trending,parquet,guardado
