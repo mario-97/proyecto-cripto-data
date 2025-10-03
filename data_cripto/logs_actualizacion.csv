@@ -21595,3 +21595,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 23:11:44,top_flow,parquet,guardado
 2025-10-03 23:11:46,trending,csv,guardado
 2025-10-03 23:11:48,trending,xlsx,guardado
+2025-10-03 23:11:50,trending,parquet,guardado
