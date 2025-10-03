@@ -18002,3 +18002,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 07:35:01,trending,parquet,guardado
 2025-10-03 07:35:04,top_volume,csv,guardado
 2025-10-03 07:35:07,top_volume,xlsx,guardado
+2025-10-03 07:35:09,top_volume,parquet,guardado
