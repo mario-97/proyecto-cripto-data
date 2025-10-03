@@ -20245,3 +20245,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 17:01:51,transfers,xlsx,guardado
 2025-10-03 17:01:54,transfers,parquet,guardado
 2025-10-03 17:02:48,top_flow,csv,guardado
+2025-10-03 17:02:50,top_flow,xlsx,guardado
