@@ -17858,3 +17858,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 07:01:40,top_holders,parquet,guardado
 2025-10-03 07:01:54,transfers,csv,guardado
 2025-10-03 07:01:57,transfers,xlsx,guardado
+2025-10-03 07:02:00,transfers,parquet,guardado
