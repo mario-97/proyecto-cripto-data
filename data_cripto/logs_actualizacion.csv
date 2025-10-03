@@ -21440,3 +21440,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 21:49:46,top_holders,parquet,guardado
 2025-10-03 21:50:47,top_flow,csv,guardado
 2025-10-03 21:50:50,top_flow,xlsx,guardado
+2025-10-03 21:50:52,top_flow,parquet,guardado
