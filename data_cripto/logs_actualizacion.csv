@@ -19040,3 +19040,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 11:50:34,trending,parquet,guardado
 2025-10-03 11:50:37,top_volume,csv,guardado
 2025-10-03 11:50:40,top_volume,xlsx,guardado
+2025-10-03 11:50:42,top_volume,parquet,guardado
