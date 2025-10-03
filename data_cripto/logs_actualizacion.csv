@@ -19419,3 +19419,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 13:40:46,top_holders,csv,guardado
 2025-10-03 13:40:50,top_holders,xlsx,guardado
 2025-10-03 13:40:52,top_holders,parquet,guardado
+2025-10-03 13:41:53,top_flow,csv,guardado
