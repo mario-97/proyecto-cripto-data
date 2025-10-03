@@ -16739,3 +16739,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 02:30:51,top_holders,parquet,guardado
 2025-10-03 02:31:52,top_flow,csv,guardado
 2025-10-03 02:31:54,top_flow,xlsx,guardado
+2025-10-03 02:31:56,top_flow,parquet,guardado
