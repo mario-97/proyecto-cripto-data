@@ -21745,3 +21745,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 23:47:43,top_flow,parquet,guardado
 2025-10-03 23:47:45,trending,csv,guardado
 2025-10-03 23:47:48,trending,xlsx,guardado
+2025-10-03 23:47:50,trending,parquet,guardado
