@@ -17475,3 +17475,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 05:28:40,top_holders,csv,guardado
 2025-10-03 05:28:44,top_holders,xlsx,guardado
 2025-10-03 05:28:46,top_holders,parquet,guardado
+2025-10-03 05:29:41,top_flow,csv,guardado
