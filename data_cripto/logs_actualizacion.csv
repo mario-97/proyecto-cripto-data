@@ -16550,3 +16550,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 01:41:57,top_volume,parquet,guardado
 2025-10-03 01:43:35,top_holders,csv,guardado
 2025-10-03 01:43:39,top_holders,xlsx,guardado
+2025-10-03 01:43:42,top_holders,parquet,guardado
