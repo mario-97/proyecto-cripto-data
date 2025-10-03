@@ -16374,3 +16374,5 @@ fecha_hora,archivo,formato,status
 2025-10-03 01:01:41,top_holders,csv,guardado
 2025-10-03 01:01:45,top_holders,xlsx,guardado
 2025-10-03 01:01:47,top_holders,parquet,guardado
+2025-10-03 01:01:48,transfers,csv,error
+2025-10-03 01:01:51,transfers,xlsx,guardado
