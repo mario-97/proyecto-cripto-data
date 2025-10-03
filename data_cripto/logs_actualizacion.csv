@@ -20605,3 +20605,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 18:27:59,top_holders,xlsx,guardado
 2025-10-03 18:28:02,top_holders,parquet,guardado
 2025-10-03 18:29:02,top_flow,csv,guardado
+2025-10-03 18:29:04,top_flow,xlsx,guardado
