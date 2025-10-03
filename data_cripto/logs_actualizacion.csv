@@ -16542,3 +16542,6 @@ fecha_hora,archivo,formato,status
 2025-10-03 01:41:45,trending,csv,guardado
 2025-10-03 01:41:47,trending,xlsx,guardado
 2025-10-03 01:41:49,trending,parquet,guardado
+2025-10-03 01:41:50,transfers,csv,guardado
+2025-10-03 01:41:52,top_volume,csv,guardado
+2025-10-03 01:41:52,transfers,xlsx,error
