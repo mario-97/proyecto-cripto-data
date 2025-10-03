@@ -19541,3 +19541,4 @@ fecha_hora,archivo,formato,status
 2025-10-03 14:09:03,trending,parquet,guardado
 2025-10-03 14:09:06,top_volume,csv,guardado
 2025-10-03 14:09:08,top_volume,xlsx,guardado
+2025-10-03 14:09:10,top_volume,parquet,guardado
