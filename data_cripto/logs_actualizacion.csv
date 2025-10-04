@@ -26245,3 +26245,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 18:01:09,top_holders,csv,guardado
 2025-10-04 18:01:12,top_holders,xlsx,guardado
 2025-10-04 18:01:14,top_holders,parquet,guardado
+2025-10-04 18:01:44,transfers,csv,guardado
