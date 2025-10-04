@@ -23060,3 +23060,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 05:01:48,transfers,csv,guardado
 2025-10-04 05:01:51,transfers,xlsx,guardado
 2025-10-04 05:01:54,transfers,parquet,guardado
+2025-10-04 05:02:26,top_flow,csv,guardado
