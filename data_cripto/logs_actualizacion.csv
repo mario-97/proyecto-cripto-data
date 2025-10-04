@@ -24490,3 +24490,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 10:59:40,top_volume,parquet,guardado
 2025-10-04 11:00:03,btc_change_price,csv,guardado
 2025-10-04 11:00:11,btc_change_price,xlsx,guardado
+2025-10-04 11:00:14,btc_change_price,parquet,guardado
