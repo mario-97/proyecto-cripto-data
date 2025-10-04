@@ -27108,3 +27108,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 21:36:39,top_holders,parquet,guardado
 2025-10-04 21:37:37,top_flow,csv,guardado
 2025-10-04 21:37:39,top_flow,xlsx,guardado
+2025-10-04 21:37:41,top_flow,parquet,guardado
