@@ -22463,3 +22463,5 @@ fecha_hora,archivo,formato,status
 2025-10-04 02:41:45,trending,csv,guardado
 2025-10-04 02:41:46,transfers,csv,guardado
 2025-10-04 02:41:48,trending,xlsx,guardado
+2025-10-04 02:41:49,transfers,xlsx,guardado
+2025-10-04 02:41:50,trending,parquet,guardado
