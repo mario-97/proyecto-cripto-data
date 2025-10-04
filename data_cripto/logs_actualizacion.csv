@@ -25419,3 +25419,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 14:41:48,transfers,xlsx,guardado
 2025-10-04 14:41:49,transfers,parquet,error
 2025-10-04 14:41:51,trending,xlsx,guardado
+2025-10-04 14:41:53,trending,parquet,guardado
