@@ -24623,3 +24623,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 11:30:37,montecarlo_lineas_simulacion,csv,guardado
 2025-10-04 11:30:39,montecarlo_lineas_simulacion,xlsx,guardado
 2025-10-04 11:30:41,montecarlo_lineas_simulacion,parquet,guardado
+2025-10-04 11:30:43,montecarlo_estadistica_descriptiva,csv,guardado
