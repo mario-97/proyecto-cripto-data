@@ -22679,3 +22679,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 03:31:31,top_holders,csv,guardado
 2025-10-04 03:31:35,top_holders,xlsx,guardado
 2025-10-04 03:31:37,top_holders,parquet,guardado
+2025-10-04 03:32:36,top_flow,csv,guardado
