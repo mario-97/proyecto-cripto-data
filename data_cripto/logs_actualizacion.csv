@@ -26667,3 +26667,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 19:41:29,top_volume,parquet,guardado
 2025-10-04 19:41:43,transfers,csv,guardado
 2025-10-04 19:41:46,transfers,xlsx,guardado
+2025-10-04 19:41:48,transfers,parquet,guardado
