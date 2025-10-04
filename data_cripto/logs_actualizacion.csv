@@ -27129,3 +27129,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 21:40:59,top_volume,parquet,guardado
 2025-10-04 21:41:44,transfers,csv,guardado
 2025-10-04 21:41:47,transfers,xlsx,guardado
+2025-10-04 21:41:49,transfers,parquet,guardado
