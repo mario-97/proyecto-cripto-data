@@ -26133,3 +26133,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 17:32:37,top_volume,parquet,guardado
 2025-10-04 17:34:05,top_holders,csv,guardado
 2025-10-04 17:34:08,top_holders,xlsx,guardado
+2025-10-04 17:34:11,top_holders,parquet,guardado
