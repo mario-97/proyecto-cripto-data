@@ -24627,3 +24627,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 11:30:45,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-10-04 11:30:46,montecarlo_estadistica_descriptiva,parquet,error
 2025-10-04 11:31:35,top_holders,csv,guardado
+2025-10-04 11:31:38,top_holders,xlsx,guardado
