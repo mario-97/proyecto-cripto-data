@@ -27045,3 +27045,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 21:21:50,transfers,parquet,guardado
 2025-10-04 21:22:09,top_holders,csv,guardado
 2025-10-04 21:22:12,top_holders,xlsx,guardado
+2025-10-04 21:22:14,top_holders,parquet,guardado
