@@ -26122,3 +26122,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 17:31:08,top_holders,csv,guardado
 2025-10-04 17:31:11,top_holders,xlsx,guardado
 2025-10-04 17:31:14,top_holders,parquet,guardado
+2025-10-04 17:32:19,top_flow,csv,guardado
