@@ -22060,3 +22060,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 01:01:42,top_holders,parquet,guardado
 2025-10-04 01:01:48,transfers,csv,guardado
 2025-10-04 01:01:51,transfers,xlsx,guardado
+2025-10-04 01:01:53,transfers,parquet,guardado
