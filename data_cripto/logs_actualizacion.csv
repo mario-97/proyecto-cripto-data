@@ -27290,3 +27290,7 @@ fecha_hora,archivo,formato,status
 2025-10-04 22:20:20,top_volume,xlsx,guardado
 2025-10-04 22:20:22,top_volume,parquet,guardado
 2025-10-04 22:21:46,top_holders,csv,guardado
+2025-10-04 22:21:49,transfers,csv,guardado
+2025-10-04 22:21:50,top_holders,xlsx,guardado
+2025-10-04 22:21:52,transfers,xlsx,guardado
+2025-10-04 22:21:53,top_holders,parquet,guardado
