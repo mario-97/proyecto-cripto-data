@@ -27210,3 +27210,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 22:01:52,transfers,parquet,guardado
 2025-10-04 22:02:03,top_flow,csv,guardado
 2025-10-04 22:02:05,top_flow,xlsx,guardado
+2025-10-04 22:02:07,top_flow,parquet,guardado
