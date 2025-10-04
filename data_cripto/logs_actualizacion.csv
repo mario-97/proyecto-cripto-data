@@ -23555,3 +23555,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 07:01:49,transfers,csv,guardado
 2025-10-04 07:01:52,transfers,xlsx,guardado
 2025-10-04 07:01:54,transfers,parquet,guardado
+2025-10-04 07:02:46,top_flow,csv,guardado
