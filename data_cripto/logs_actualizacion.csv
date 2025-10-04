@@ -22300,3 +22300,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 02:01:53,transfers,parquet,guardado
 2025-10-04 02:02:38,top_flow,csv,guardado
 2025-10-04 02:02:40,top_flow,xlsx,guardado
+2025-10-04 02:02:42,top_flow,parquet,guardado
