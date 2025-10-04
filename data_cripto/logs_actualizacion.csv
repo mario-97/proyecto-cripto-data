@@ -26173,3 +26173,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 17:42:49,top_holders,csv,guardado
 2025-10-04 17:42:53,top_holders,xlsx,guardado
 2025-10-04 17:42:55,top_holders,parquet,guardado
+2025-10-04 17:43:51,top_flow,csv,guardado
