@@ -22721,3 +22721,5 @@ fecha_hora,archivo,formato,status
 2025-10-04 03:41:46,transfers,csv,guardado
 2025-10-04 03:41:46,trending,csv,guardado
 2025-10-04 03:41:48,trending,xlsx,guardado
+2025-10-04 03:41:49,transfers,xlsx,guardado
+2025-10-04 03:41:50,trending,parquet,guardado
