@@ -21803,3 +21803,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 00:01:54,transfers,csv,guardado
 2025-10-04 00:01:58,transfers,xlsx,guardado
 2025-10-04 00:02:00,transfers,parquet,guardado
+2025-10-04 00:02:42,top_flow,csv,guardado
