@@ -22273,3 +22273,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 01:55:47,top_holders,parquet,guardado
 2025-10-04 01:56:42,top_flow,csv,guardado
 2025-10-04 01:56:45,top_flow,xlsx,guardado
+2025-10-04 01:56:47,top_flow,parquet,guardado
