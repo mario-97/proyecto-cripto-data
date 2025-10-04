@@ -24283,3 +24283,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 10:01:53,transfers,parquet,guardado
 2025-10-04 10:02:55,top_flow,csv,guardado
 2025-10-04 10:02:56,top_flow,xlsx,guardado
+2025-10-04 10:02:58,top_flow,parquet,guardado
