@@ -25511,3 +25511,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 15:02:17,top_volume,xlsx,error
 2025-10-04 15:02:20,top_volume,parquet,guardado
 2025-10-04 15:03:35,top_holders,csv,guardado
+2025-10-04 15:03:39,top_holders,xlsx,guardado
