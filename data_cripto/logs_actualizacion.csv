@@ -24989,3 +24989,4 @@ fecha_hora,archivo,formato,status
 2025-10-04 12:57:54,top_holders,csv,guardado
 2025-10-04 12:57:57,top_holders,xlsx,guardado
 2025-10-04 12:58:00,top_holders,parquet,guardado
+2025-10-04 12:59:01,top_flow,csv,guardado
