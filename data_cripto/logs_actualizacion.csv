@@ -30090,3 +30090,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 18:12:46,top_holders,parquet,guardado
 2025-10-05 18:13:55,top_flow,csv,guardado
 2025-10-05 18:13:57,top_flow,xlsx,guardado
+2025-10-05 18:14:00,top_flow,parquet,guardado
