@@ -30180,3 +30180,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 18:34:59,top_flow,parquet,guardado
 2025-10-05 18:35:01,trending,csv,guardado
 2025-10-05 18:35:03,trending,xlsx,guardado
+2025-10-05 18:35:05,trending,parquet,guardado
