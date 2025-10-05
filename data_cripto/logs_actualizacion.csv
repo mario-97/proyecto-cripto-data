@@ -29307,3 +29307,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 06:20:09,top_volume,parquet,guardado
 2025-10-05 06:21:46,transfers,csv,guardado
 2025-10-05 06:21:49,transfers,xlsx,guardado
+2025-10-05 06:21:52,transfers,parquet,guardado
