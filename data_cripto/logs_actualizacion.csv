@@ -31410,3 +31410,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 14:41:40,top_volume,parquet,guardado
 2025-10-05 14:41:58,transfers,csv,guardado
 2025-10-05 14:42:00,transfers,xlsx,guardado
+2025-10-05 14:42:03,transfers,parquet,guardado
