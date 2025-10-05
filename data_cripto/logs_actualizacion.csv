@@ -30151,3 +30151,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 09:41:25,top_volume,csv,guardado
 2025-10-05 09:41:27,top_volume,xlsx,guardado
 2025-10-05 09:41:29,top_volume,parquet,guardado
+2025-10-05 09:41:43,transfers,csv,guardado
