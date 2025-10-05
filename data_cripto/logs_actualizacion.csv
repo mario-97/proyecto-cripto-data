@@ -30420,3 +30420,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 10:46:40,top_holders,parquet,guardado
 2025-10-05 10:47:31,top_flow,csv,guardado
 2025-10-05 10:47:33,top_flow,xlsx,guardado
+2025-10-05 10:47:35,top_flow,parquet,guardado
