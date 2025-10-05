@@ -31120,3 +31120,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 22:21:47,transfers,csv,guardado
 2025-10-05 22:21:49,transfers,xlsx,guardado
 2025-10-05 22:21:52,transfers,parquet,guardado
+2025-10-05 22:21:56,top_holders,csv,guardado
