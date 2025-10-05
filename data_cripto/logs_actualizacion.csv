@@ -30555,3 +30555,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 11:17:20,top_volume,parquet,guardado
 2025-10-05 11:18:53,top_holders,csv,guardado
 2025-10-05 11:18:57,top_holders,xlsx,guardado
+2025-10-05 11:18:59,top_holders,parquet,guardado
