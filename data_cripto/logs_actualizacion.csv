@@ -30401,3 +30401,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 10:41:08,top_volume,xlsx,guardado
 2025-10-05 10:41:10,top_volume,parquet,guardado
 2025-10-05 10:41:57,transfers,csv,guardado
+2025-10-05 10:42:00,transfers,xlsx,guardado
