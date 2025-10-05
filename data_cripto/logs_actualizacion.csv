@@ -31159,3 +31159,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 22:31:00,top_holders,csv,guardado
 2025-10-05 22:31:04,top_holders,xlsx,guardado
 2025-10-05 22:31:07,top_holders,parquet,guardado
+2025-10-05 22:32:05,top_flow,csv,guardado
