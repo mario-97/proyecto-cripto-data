@@ -31368,3 +31368,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 23:20:42,top_volume,parquet,guardado
 2025-10-05 23:21:45,transfers,csv,guardado
 2025-10-05 23:21:48,transfers,xlsx,guardado
+2025-10-05 23:21:51,transfers,parquet,guardado
