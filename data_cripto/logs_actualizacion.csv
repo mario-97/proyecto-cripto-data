@@ -31735,3 +31735,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 16:00:42,top_holders,csv,guardado
 2025-10-05 16:00:46,top_holders,xlsx,guardado
 2025-10-05 16:00:48,top_holders,parquet,guardado
+2025-10-05 16:01:45,transfers,csv,guardado
