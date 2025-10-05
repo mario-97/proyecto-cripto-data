@@ -30390,3 +30390,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 10:38:57,top_volume,parquet,guardado
 2025-10-05 10:39:52,top_holders,csv,guardado
 2025-10-05 10:39:55,top_holders,xlsx,guardado
+2025-10-05 10:39:58,top_holders,parquet,guardado
