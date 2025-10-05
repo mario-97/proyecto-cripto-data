@@ -30849,3 +30849,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 12:26:11,trending,parquet,guardado
 2025-10-05 12:26:14,top_volume,csv,guardado
 2025-10-05 12:26:16,top_volume,xlsx,guardado
+2025-10-05 12:26:18,top_volume,parquet,guardado
