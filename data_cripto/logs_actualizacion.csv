@@ -30187,3 +30187,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 18:36:41,top_holders,csv,guardado
 2025-10-05 18:36:44,top_holders,xlsx,guardado
 2025-10-05 18:36:47,top_holders,parquet,guardado
+2025-10-05 18:37:43,top_flow,csv,guardado
