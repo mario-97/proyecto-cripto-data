@@ -30478,3 +30478,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 11:00:03,btc_change_price,csv,guardado
 2025-10-05 11:00:12,btc_change_price,xlsx,guardado
 2025-10-05 11:00:15,btc_change_price,parquet,guardado
+2025-10-05 11:01:21,top_holders,csv,guardado
