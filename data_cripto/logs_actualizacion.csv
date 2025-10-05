@@ -30538,3 +30538,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 20:01:45,transfers,csv,guardado
 2025-10-05 20:01:48,transfers,xlsx,guardado
 2025-10-05 20:01:50,transfers,parquet,guardado
+2025-10-05 20:02:03,top_flow,csv,guardado
