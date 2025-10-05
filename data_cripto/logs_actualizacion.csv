@@ -31143,3 +31143,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 22:26:16,trending,parquet,guardado
 2025-10-05 22:26:19,top_volume,csv,guardado
 2025-10-05 22:26:21,top_volume,xlsx,guardado
+2025-10-05 22:26:23,top_volume,parquet,guardado
