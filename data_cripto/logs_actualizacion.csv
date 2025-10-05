@@ -31153,3 +31153,5 @@ fecha_hora,archivo,formato,status
 2025-10-05 13:41:41,top_flow,csv,guardado
 2025-10-05 13:41:43,top_flow,xlsx,guardado
 2025-10-05 13:41:44,transfers,csv,guardado
+2025-10-05 13:41:45,top_flow,parquet,guardado
+2025-10-05 13:41:47,transfers,xlsx,guardado
