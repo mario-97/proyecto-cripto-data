@@ -30198,3 +30198,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 18:38:00,top_volume,parquet,guardado
 2025-10-05 18:40:36,top_holders,csv,guardado
 2025-10-05 18:40:39,top_holders,xlsx,guardado
+2025-10-05 18:40:42,top_holders,parquet,guardado
