@@ -27708,3 +27708,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 00:01:56,transfers,parquet,guardado
 2025-10-05 00:02:40,top_flow,csv,guardado
 2025-10-05 00:02:42,top_flow,xlsx,guardado
+2025-10-05 00:02:44,top_flow,parquet,guardado
