@@ -28722,3 +28722,5 @@ fecha_hora,archivo,formato,status
 2025-10-05 04:01:47,top_flow,xlsx,guardado
 2025-10-05 04:01:48,transfers,xlsx,guardado
 2025-10-05 04:01:49,top_flow,parquet,guardado
+2025-10-05 04:01:50,transfers,parquet,guardado
+2025-10-05 04:01:52,trending,csv,guardado
