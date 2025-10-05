@@ -31508,3 +31508,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 23:55:04,top_holders,xlsx,guardado
 2025-10-05 23:55:07,top_holders,parquet,guardado
 2025-10-05 23:56:00,top_flow,csv,guardado
+2025-10-05 23:56:02,top_flow,xlsx,guardado
