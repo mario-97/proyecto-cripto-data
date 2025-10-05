@@ -30475,3 +30475,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 10:59:31,top_volume,csv,guardado
 2025-10-05 10:59:33,top_volume,xlsx,guardado
 2025-10-05 10:59:36,top_volume,parquet,guardado
+2025-10-05 11:00:03,btc_change_price,csv,guardado
