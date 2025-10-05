@@ -29979,3 +29979,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 09:00:07,btc_cdd,parquet,guardado
 2025-10-05 09:01:12,top_holders,csv,guardado
 2025-10-05 09:01:15,top_holders,xlsx,guardado
+2025-10-05 09:01:18,top_holders,parquet,guardado
