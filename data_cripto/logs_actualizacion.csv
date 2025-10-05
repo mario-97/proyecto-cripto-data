@@ -30599,3 +30599,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 20:15:53,top_holders,xlsx,guardado
 2025-10-05 20:15:55,top_holders,parquet,guardado
 2025-10-05 20:16:52,top_flow,csv,guardado
+2025-10-05 20:16:54,top_flow,xlsx,guardado
