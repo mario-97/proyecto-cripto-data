@@ -29862,3 +29862,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 08:32:51,trending,parquet,guardado
 2025-10-05 08:32:54,top_volume,csv,guardado
 2025-10-05 08:32:56,top_volume,xlsx,guardado
+2025-10-05 08:32:58,top_volume,parquet,guardado
