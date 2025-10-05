@@ -30070,3 +30070,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 09:21:44,transfers,csv,guardado
 2025-10-05 09:21:47,transfers,xlsx,guardado
 2025-10-05 09:21:50,transfers,parquet,guardado
+2025-10-05 09:22:44,top_flow,csv,guardado
