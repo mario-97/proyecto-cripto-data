@@ -31984,3 +31984,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 17:01:10,top_holders,csv,guardado
 2025-10-05 17:01:13,top_holders,xlsx,guardado
 2025-10-05 17:01:16,top_holders,parquet,guardado
+2025-10-05 17:01:54,transfers,csv,guardado
