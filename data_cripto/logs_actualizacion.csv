@@ -31225,3 +31225,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 13:57:53,top_holders,csv,guardado
 2025-10-05 13:57:57,top_holders,xlsx,guardado
 2025-10-05 13:57:59,top_holders,parquet,guardado
+2025-10-05 13:58:55,top_flow,csv,guardado
