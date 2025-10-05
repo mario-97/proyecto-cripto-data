@@ -29389,3 +29389,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 06:41:53,trending,csv,guardado
 2025-10-05 06:41:55,trending,xlsx,guardado
 2025-10-05 06:41:55,transfers,csv,error
+2025-10-05 06:41:57,trending,parquet,guardado
