@@ -30612,3 +30612,5 @@ fecha_hora,archivo,formato,status
 2025-10-05 11:30:42,top_holders,csv,guardado
 2025-10-05 11:30:44,montecarlo_lineas_simulacion,parquet,guardado
 2025-10-05 11:30:46,top_holders,xlsx,guardado
+2025-10-05 11:30:47,montecarlo_estadistica_descriptiva,csv,guardado
+2025-10-05 11:30:48,top_holders,parquet,guardado
