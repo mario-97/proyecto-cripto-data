@@ -28350,3 +28350,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 02:33:38,top_holders,parquet,guardado
 2025-10-05 02:34:40,top_flow,csv,guardado
 2025-10-05 02:34:42,top_flow,xlsx,guardado
+2025-10-05 02:34:44,top_flow,parquet,guardado
