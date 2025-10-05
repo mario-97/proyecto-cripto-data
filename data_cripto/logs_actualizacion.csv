@@ -30625,3 +30625,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 20:21:50,transfers,csv,guardado
 2025-10-05 20:21:53,transfers,xlsx,guardado
 2025-10-05 20:21:56,transfers,parquet,guardado
+2025-10-05 20:22:43,top_flow,csv,guardado
