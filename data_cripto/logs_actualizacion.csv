@@ -28301,3 +28301,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 02:21:52,top_holders,parquet,error
 2025-10-05 02:21:53,transfers,parquet,guardado
 2025-10-05 02:22:49,top_flow,csv,guardado
+2025-10-05 02:22:51,top_flow,xlsx,guardado
