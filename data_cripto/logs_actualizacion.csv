@@ -29976,3 +29976,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 08:59:07,top_volume,parquet,guardado
 2025-10-05 09:00:02,btc_cdd,csv,guardado
 2025-10-05 09:00:05,btc_cdd,xlsx,guardado
+2025-10-05 09:00:07,btc_cdd,parquet,guardado
