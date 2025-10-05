@@ -31302,3 +31302,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 23:04:56,top_flow,parquet,guardado
 2025-10-05 23:04:58,trending,csv,guardado
 2025-10-05 23:05:01,trending,xlsx,guardado
+2025-10-05 23:05:03,trending,parquet,guardado
