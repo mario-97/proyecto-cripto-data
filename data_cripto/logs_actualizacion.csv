@@ -30616,3 +30616,4 @@ fecha_hora,archivo,formato,status
 2025-10-05 11:30:48,top_holders,parquet,guardado
 2025-10-05 11:30:48,montecarlo_estadistica_descriptiva,xlsx,error
 2025-10-05 11:30:50,montecarlo_estadistica_descriptiva,parquet,error
+2025-10-05 11:31:49,top_flow,csv,guardado
