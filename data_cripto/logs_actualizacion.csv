@@ -32719,3 +32719,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 11:46:37,top_holders,parquet,guardado
 2025-10-06 11:47:47,top_flow,csv,guardado
 2025-10-06 11:47:49,top_flow,xlsx,guardado
+2025-10-06 11:47:51,top_flow,parquet,guardado
