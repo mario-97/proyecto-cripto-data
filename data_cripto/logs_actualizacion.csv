@@ -31942,3 +31942,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 08:08:05,top_flow,parquet,guardado
 2025-10-06 08:08:07,trending,csv,guardado
 2025-10-06 08:08:10,trending,xlsx,guardado
+2025-10-06 08:08:12,trending,parquet,guardado
