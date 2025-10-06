@@ -32615,3 +32615,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 11:00:03,btc_change_price,csv,guardado
 2025-10-06 11:00:12,btc_change_price,xlsx,guardado
 2025-10-06 11:00:16,btc_change_price,parquet,guardado
+2025-10-06 11:00:29,top_flow,csv,guardado
