@@ -33388,3 +33388,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 14:41:20,top_volume,parquet,guardado
 2025-10-06 14:41:51,transfers,csv,guardado
 2025-10-06 14:41:55,transfers,xlsx,guardado
+2025-10-06 14:41:57,transfers,parquet,guardado
