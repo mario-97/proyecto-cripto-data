@@ -33465,3 +33465,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 15:02:07,top_volume,parquet,guardado
 2025-10-06 15:02:08,transfers,parquet,guardado
 2025-10-06 15:03:28,top_holders,csv,guardado
+2025-10-06 15:03:31,top_holders,xlsx,guardado
