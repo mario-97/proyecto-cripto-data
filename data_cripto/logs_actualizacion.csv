@@ -34211,3 +34211,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 18:01:52,transfers,xlsx,guardado
 2025-10-06 18:01:53,top_volume,parquet,guardado
 2025-10-06 18:01:54,transfers,parquet,error
+2025-10-06 18:03:25,top_holders,csv,guardado
