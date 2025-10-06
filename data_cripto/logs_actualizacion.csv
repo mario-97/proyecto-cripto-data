@@ -31147,3 +31147,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 04:59:39,top_volume,parquet,guardado
 2025-10-06 05:00:02,btc_nrpl_usd,csv,guardado
 2025-10-06 05:00:05,btc_nrpl_usd,xlsx,guardado
+2025-10-06 05:00:07,btc_nrpl_usd,parquet,guardado
