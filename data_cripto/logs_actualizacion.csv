@@ -33228,3 +33228,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 14:01:53,transfers,parquet,error
 2025-10-06 14:01:56,top_volume,parquet,guardado
 2025-10-06 14:03:29,top_holders,csv,guardado
+2025-10-06 14:03:33,top_holders,xlsx,guardado
