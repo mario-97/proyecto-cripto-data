@@ -32288,3 +32288,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 09:31:39,top_holders,csv,guardado
 2025-10-06 09:31:42,top_holders,xlsx,guardado
 2025-10-06 09:31:45,top_holders,parquet,guardado
+2025-10-06 09:32:37,top_flow,csv,guardado
