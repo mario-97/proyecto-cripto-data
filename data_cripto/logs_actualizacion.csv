@@ -32600,3 +32600,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 10:52:44,top_holders,csv,guardado
 2025-10-06 10:52:48,top_holders,xlsx,guardado
 2025-10-06 10:52:50,top_holders,parquet,guardado
+2025-10-06 10:54:03,top_flow,csv,guardado
