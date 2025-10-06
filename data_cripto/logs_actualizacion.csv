@@ -34048,3 +34048,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 17:22:47,trending,parquet,guardado
 2025-10-06 17:22:50,top_volume,csv,guardado
 2025-10-06 17:22:52,top_volume,xlsx,guardado
+2025-10-06 17:22:55,top_volume,parquet,guardado
