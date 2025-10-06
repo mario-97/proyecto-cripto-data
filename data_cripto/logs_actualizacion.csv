@@ -30074,3 +30074,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 19:01:51,transfers,parquet,error
 2025-10-06 19:01:52,top_volume,parquet,guardado
 2025-10-06 19:03:26,top_holders,csv,guardado
+2025-10-06 19:03:29,top_holders,xlsx,guardado
