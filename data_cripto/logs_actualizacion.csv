@@ -34412,3 +34412,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 18:51:27,top_holders,csv,guardado
 2025-10-06 18:51:33,top_holders,xlsx,guardado
 2025-10-06 18:51:35,top_holders,parquet,guardado
+2025-10-06 18:52:36,top_flow,csv,guardado
