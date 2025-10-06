@@ -34117,3 +34117,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 17:40:38,top_flow,parquet,guardado
 2025-10-06 17:40:40,trending,csv,guardado
 2025-10-06 17:40:43,trending,xlsx,guardado
+2025-10-06 17:40:45,trending,parquet,guardado
