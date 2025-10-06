@@ -31088,3 +31088,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 04:45:57,top_holders,csv,guardado
 2025-10-06 04:46:01,top_holders,xlsx,guardado
 2025-10-06 04:46:03,top_holders,parquet,guardado
+2025-10-06 04:46:55,top_flow,csv,guardado
