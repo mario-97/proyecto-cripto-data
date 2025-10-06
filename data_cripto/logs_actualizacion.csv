@@ -31558,3 +31558,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 00:07:24,top_holders,csv,guardado
 2025-10-06 00:07:28,top_holders,xlsx,guardado
 2025-10-06 00:07:31,top_holders,parquet,guardado
+2025-10-06 00:08:29,top_flow,csv,guardado
