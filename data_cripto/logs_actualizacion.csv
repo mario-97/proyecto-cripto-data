@@ -32665,3 +32665,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 11:18:22,top_volume,parquet,guardado
 2025-10-06 11:22:04,transfers,csv,guardado
 2025-10-06 11:22:07,transfers,xlsx,guardado
+2025-10-06 11:22:10,transfers,parquet,guardado
