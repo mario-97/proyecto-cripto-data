@@ -32230,3 +32230,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 09:17:44,top_flow,parquet,guardado
 2025-10-06 09:17:46,trending,csv,guardado
 2025-10-06 09:17:48,trending,xlsx,guardado
+2025-10-06 09:17:50,trending,parquet,guardado
