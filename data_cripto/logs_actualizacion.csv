@@ -33221,3 +33221,5 @@ fecha_hora,archivo,formato,status
 2025-10-06 14:01:43,trending,csv,guardado
 2025-10-06 14:01:46,trending,xlsx,guardado
 2025-10-06 14:01:48,trending,parquet,guardado
+2025-10-06 14:01:48,transfers,csv,guardado
+2025-10-06 14:01:51,transfers,xlsx,guardado
