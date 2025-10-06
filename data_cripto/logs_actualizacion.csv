@@ -31180,3 +31180,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 05:05:29,top_volume,parquet,guardado
 2025-10-06 05:06:54,top_holders,csv,guardado
 2025-10-06 05:06:58,top_holders,xlsx,guardado
+2025-10-06 05:07:00,top_holders,parquet,guardado
