@@ -32245,3 +32245,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 09:20:11,trending,parquet,guardado
 2025-10-06 09:20:14,top_volume,csv,guardado
 2025-10-06 09:20:16,top_volume,xlsx,guardado
+2025-10-06 09:20:18,top_volume,parquet,guardado
