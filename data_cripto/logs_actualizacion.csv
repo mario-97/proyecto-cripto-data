@@ -31996,3 +31996,5 @@ fecha_hora,archivo,formato,status
 2025-10-06 08:21:01,top_volume,parquet,guardado
 2025-10-06 08:21:46,transfers,csv,guardado
 2025-10-06 08:21:49,transfers,xlsx,guardado
+2025-10-06 08:21:51,transfers,parquet,guardado
+2025-10-06 08:21:52,top_holders,csv,guardado
