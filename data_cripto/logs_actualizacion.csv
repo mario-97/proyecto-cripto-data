@@ -32177,3 +32177,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 09:04:18,top_holders,csv,guardado
 2025-10-06 09:04:22,top_holders,xlsx,guardado
 2025-10-06 09:04:24,top_holders,parquet,guardado
+2025-10-06 09:05:20,top_flow,csv,guardado
