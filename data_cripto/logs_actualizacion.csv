@@ -31535,3 +31535,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 00:01:50,transfers,xlsx,guardado
 2025-10-06 00:01:52,transfers,parquet,guardado
 2025-10-06 00:01:55,top_flow,csv,guardado
+2025-10-06 00:01:58,top_flow,xlsx,guardado
