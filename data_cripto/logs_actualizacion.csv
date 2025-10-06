@@ -32685,3 +32685,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 11:30:35,top_holders,parquet,guardado
 2025-10-06 11:30:36,montecarlo_histograma,parquet,guardado
 2025-10-06 11:30:38,montecarlo_lineas_simulacion,csv,guardado
+2025-10-06 11:30:40,montecarlo_lineas_simulacion,xlsx,guardado
