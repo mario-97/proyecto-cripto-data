@@ -32155,3 +32155,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 08:59:03,trending,parquet,guardado
 2025-10-06 08:59:06,top_volume,csv,guardado
 2025-10-06 08:59:08,top_volume,xlsx,guardado
+2025-10-06 08:59:10,top_volume,parquet,guardado
