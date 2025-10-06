@@ -32678,3 +32678,5 @@ fecha_hora,archivo,formato,status
 2025-10-06 11:24:28,top_volume,csv,guardado
 2025-10-06 11:24:30,top_volume,xlsx,guardado
 2025-10-06 11:24:32,top_volume,parquet,guardado
+2025-10-06 11:30:24,top_holders,csv,guardado
+2025-10-06 11:30:32,montecarlo_histograma,csv,guardado
