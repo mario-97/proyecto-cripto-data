@@ -32113,3 +32113,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 08:49:05,top_holders,parquet,guardado
 2025-10-06 08:50:05,top_flow,csv,guardado
 2025-10-06 08:50:08,top_flow,xlsx,guardado
+2025-10-06 08:50:10,top_flow,parquet,guardado
