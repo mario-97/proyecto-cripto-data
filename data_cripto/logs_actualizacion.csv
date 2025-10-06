@@ -34040,3 +34040,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 17:21:47,transfers,csv,guardado
 2025-10-06 17:21:50,transfers,xlsx,guardado
 2025-10-06 17:21:52,transfers,parquet,guardado
+2025-10-06 17:22:35,top_flow,csv,guardado
