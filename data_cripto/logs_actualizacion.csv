@@ -33137,3 +33137,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 13:40:44,top_volume,csv,guardado
 2025-10-06 13:40:46,top_volume,xlsx,guardado
 2025-10-06 13:40:48,top_volume,parquet,guardado
+2025-10-06 13:41:46,transfers,csv,guardado
