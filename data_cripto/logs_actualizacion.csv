@@ -30478,3 +30478,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 02:20:25,top_volume,parquet,guardado
 2025-10-06 02:21:45,transfers,csv,guardado
 2025-10-06 02:21:48,transfers,xlsx,guardado
+2025-10-06 02:21:50,transfers,parquet,guardado
