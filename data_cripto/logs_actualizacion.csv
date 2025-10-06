@@ -30255,3 +30255,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 19:46:43,top_flow,parquet,guardado
 2025-10-06 19:46:45,trending,csv,guardado
 2025-10-06 19:46:47,trending,xlsx,guardado
+2025-10-06 19:46:50,trending,parquet,guardado
