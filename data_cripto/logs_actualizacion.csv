@@ -32350,3 +32350,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 09:45:00,top_volume,parquet,guardado
 2025-10-06 09:46:44,top_holders,csv,guardado
 2025-10-06 09:46:47,top_holders,xlsx,guardado
+2025-10-06 09:46:49,top_holders,parquet,guardado
