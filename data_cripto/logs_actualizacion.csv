@@ -31779,3 +31779,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 00:59:59,top_volume,parquet,guardado
 2025-10-06 01:00:02,btc_price,csv,guardado
 2025-10-06 01:00:05,btc_price,xlsx,guardado
+2025-10-06 01:00:07,btc_price,parquet,guardado
