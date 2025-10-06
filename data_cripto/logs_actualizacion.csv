@@ -30640,3 +30640,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 02:59:37,top_volume,parquet,guardado
 2025-10-06 03:00:02,btc_sopr,csv,guardado
 2025-10-06 03:00:04,btc_sopr,xlsx,guardado
+2025-10-06 03:00:07,btc_sopr,parquet,guardado
