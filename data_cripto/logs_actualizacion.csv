@@ -30739,3 +30739,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 03:21:51,transfers,parquet,guardado
 2025-10-06 03:22:04,top_holders,csv,guardado
 2025-10-06 03:22:08,top_holders,xlsx,guardado
+2025-10-06 03:22:10,top_holders,parquet,guardado
