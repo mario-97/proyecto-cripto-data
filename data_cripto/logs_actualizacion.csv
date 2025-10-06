@@ -31375,3 +31375,4 @@ fecha_hora,archivo,formato,status
 2025-10-06 05:53:08,trending,parquet,guardado
 2025-10-06 05:53:11,top_volume,csv,guardado
 2025-10-06 05:53:13,top_volume,xlsx,guardado
+2025-10-06 05:53:15,top_volume,parquet,guardado
