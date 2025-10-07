@@ -29234,3 +29234,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 03:21:52,transfers,parquet,guardado
 2025-10-07 03:22:38,top_flow,csv,guardado
 2025-10-07 03:22:40,top_flow,xlsx,guardado
+2025-10-07 03:22:42,top_flow,parquet,guardado
