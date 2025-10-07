@@ -30170,3 +30170,6 @@ fecha_hora,archivo,formato,status
 2025-10-07 02:01:44,trending,csv,guardado
 2025-10-07 02:01:47,trending,xlsx,guardado
 2025-10-07 02:01:49,trending,parquet,guardado
+2025-10-07 02:01:49,transfers,csv,guardado
+2025-10-07 02:01:51,top_volume,csv,guardado
+2025-10-07 02:01:52,transfers,xlsx,guardado
