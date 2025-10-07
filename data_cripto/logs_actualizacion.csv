@@ -28048,3 +28048,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 17:21:35,top_holders,parquet,guardado
 2025-10-07 17:21:49,transfers,csv,guardado
 2025-10-07 17:21:52,transfers,xlsx,guardado
+2025-10-07 17:21:54,transfers,parquet,guardado
