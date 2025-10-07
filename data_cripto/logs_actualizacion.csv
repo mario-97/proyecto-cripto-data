@@ -28130,3 +28130,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 17:40:55,top_volume,csv,guardado
 2025-10-07 17:40:58,top_volume,xlsx,guardado
 2025-10-07 17:41:00,top_volume,parquet,guardado
+2025-10-07 17:41:45,transfers,csv,guardado
