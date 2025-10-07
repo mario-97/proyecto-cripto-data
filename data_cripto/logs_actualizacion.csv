@@ -28105,3 +28105,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 11:28:38,trending,parquet,guardado
 2025-10-07 11:30:30,montecarlo_histograma,csv,guardado
 2025-10-07 11:30:32,montecarlo_histograma,xlsx,guardado
+2025-10-07 11:30:34,montecarlo_histograma,parquet,guardado
