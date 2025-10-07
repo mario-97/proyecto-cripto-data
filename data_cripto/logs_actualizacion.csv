@@ -28138,3 +28138,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 11:49:51,trending,parquet,guardado
 2025-10-07 11:49:53,top_volume,csv,guardado
 2025-10-07 11:49:56,top_volume,xlsx,guardado
+2025-10-07 11:49:58,top_volume,parquet,guardado
