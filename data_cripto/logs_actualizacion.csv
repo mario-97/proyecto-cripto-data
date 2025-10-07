@@ -29131,3 +29131,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 21:41:51,transfers,parquet,guardado
 2025-10-07 21:42:27,top_holders,csv,guardado
 2025-10-07 21:42:31,top_holders,xlsx,guardado
+2025-10-07 21:42:34,top_holders,parquet,guardado
