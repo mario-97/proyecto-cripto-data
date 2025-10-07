@@ -29810,3 +29810,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 00:36:26,top_holders,csv,guardado
 2025-10-07 00:36:29,top_holders,xlsx,guardado
 2025-10-07 00:36:32,top_holders,parquet,guardado
+2025-10-07 00:38:01,top_flow,csv,guardado
