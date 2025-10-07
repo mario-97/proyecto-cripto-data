@@ -28187,3 +28187,5 @@ fecha_hora,archivo,formato,status
 2025-10-07 12:01:47,transfers,csv,guardado
 2025-10-07 12:01:48,top_volume,csv,guardado
 2025-10-07 12:01:50,top_volume,xlsx,guardado
+2025-10-07 12:01:50,transfers,xlsx,error
+2025-10-07 12:01:52,top_volume,parquet,guardado
