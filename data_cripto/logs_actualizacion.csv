@@ -29130,3 +29130,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 08:01:39,trending,csv,guardado
 2025-10-07 08:01:41,trending,xlsx,guardado
 2025-10-07 08:01:44,trending,parquet,guardado
+2025-10-07 08:01:45,transfers,csv,error
