@@ -28160,3 +28160,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 17:48:27,top_holders,csv,guardado
 2025-10-07 17:48:31,top_holders,xlsx,guardado
 2025-10-07 17:48:34,top_holders,parquet,guardado
+2025-10-07 17:49:36,top_flow,csv,guardado
