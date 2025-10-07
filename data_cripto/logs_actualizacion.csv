@@ -27973,3 +27973,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 10:42:43,top_holders,parquet,guardado
 2025-10-07 10:43:46,top_flow,csv,guardado
 2025-10-07 10:43:49,top_flow,xlsx,guardado
+2025-10-07 10:43:51,top_flow,parquet,guardado
