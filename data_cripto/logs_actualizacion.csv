@@ -29153,3 +29153,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 03:01:47,top_volume,parquet,guardado
 2025-10-07 03:01:47,transfers,csv,guardado
 2025-10-07 03:01:49,transfers,xlsx,guardado
+2025-10-07 03:01:51,transfers,parquet,guardado
