@@ -28117,3 +28117,4 @@ fecha_hora,archivo,formato,status
 2025-10-07 17:37:50,trending,parquet,guardado
 2025-10-07 17:37:52,top_volume,csv,guardado
 2025-10-07 17:37:54,top_volume,xlsx,guardado
+2025-10-07 17:37:57,top_volume,parquet,guardado
