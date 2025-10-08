@@ -32391,3 +32391,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 18:01:51,trending,csv,error
 2025-10-08 18:01:52,transfers,parquet,guardado
 2025-10-08 18:01:53,trending,xlsx,guardado
+2025-10-08 18:01:55,trending,parquet,guardado
