@@ -33133,3 +33133,5 @@ fecha_hora,archivo,formato,status
 2025-10-08 21:01:44,transfers,csv,guardado
 2025-10-08 21:01:45,trending,csv,guardado
 2025-10-08 21:01:47,trending,xlsx,guardado
+2025-10-08 21:01:48,transfers,xlsx,guardado
+2025-10-08 21:01:49,trending,parquet,guardado
