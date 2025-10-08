@@ -31728,3 +31728,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 15:21:53,transfers,parquet,guardado
 2025-10-08 15:22:49,top_flow,csv,guardado
 2025-10-08 15:22:52,top_flow,xlsx,guardado
+2025-10-08 15:22:54,top_flow,parquet,guardado
