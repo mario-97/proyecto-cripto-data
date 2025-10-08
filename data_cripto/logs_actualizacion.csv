@@ -31649,3 +31649,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 15:01:57,top_volume,parquet,guardado
 2025-10-08 15:01:57,transfers,parquet,guardado
 2025-10-08 15:03:26,top_holders,csv,guardado
+2025-10-08 15:03:30,top_holders,xlsx,guardado
