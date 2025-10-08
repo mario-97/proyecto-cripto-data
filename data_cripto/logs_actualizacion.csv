@@ -30168,3 +30168,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 09:01:58,top_volume,parquet,guardado
 2025-10-08 09:03:26,top_holders,csv,guardado
 2025-10-08 09:03:29,top_holders,xlsx,guardado
+2025-10-08 09:03:32,top_holders,parquet,guardado
