@@ -31098,3 +31098,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 12:44:07,trending,parquet,guardado
 2025-10-08 12:44:10,top_volume,csv,guardado
 2025-10-08 12:44:12,top_volume,xlsx,guardado
+2025-10-08 12:44:14,top_volume,parquet,guardado
