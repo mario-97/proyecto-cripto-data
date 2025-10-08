@@ -33219,3 +33219,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 21:21:49,transfers,parquet,guardado
 2025-10-08 21:22:37,top_flow,csv,guardado
 2025-10-08 21:22:40,top_flow,xlsx,guardado
+2025-10-08 21:22:42,top_flow,parquet,guardado
