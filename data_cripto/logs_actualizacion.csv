@@ -31189,3 +31189,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 13:09:27,top_holders,csv,guardado
 2025-10-08 13:09:30,top_holders,xlsx,guardado
 2025-10-08 13:09:33,top_holders,parquet,guardado
+2025-10-08 13:10:32,top_flow,csv,guardado
