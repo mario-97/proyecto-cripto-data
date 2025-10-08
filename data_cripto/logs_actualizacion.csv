@@ -31699,3 +31699,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 15:15:28,top_holders,csv,guardado
 2025-10-08 15:15:31,top_holders,xlsx,guardado
 2025-10-08 15:15:34,top_holders,parquet,guardado
+2025-10-08 15:17:06,top_flow,csv,guardado
