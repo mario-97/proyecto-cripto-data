@@ -32265,3 +32265,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 17:31:56,top_flow,parquet,guardado
 2025-10-08 17:31:59,trending,csv,guardado
 2025-10-08 17:32:01,trending,xlsx,guardado
+2025-10-08 17:32:03,trending,parquet,guardado
