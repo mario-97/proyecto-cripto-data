@@ -30092,3 +30092,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 08:45:31,top_holders,xlsx,guardado
 2025-10-08 08:45:33,top_holders,parquet,guardado
 2025-10-08 08:46:30,top_flow,csv,guardado
+2025-10-08 08:46:32,top_flow,xlsx,guardado
