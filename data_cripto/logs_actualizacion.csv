@@ -30615,3 +30615,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 10:50:10,top_volume,parquet,guardado
 2025-10-08 10:51:28,top_holders,csv,guardado
 2025-10-08 10:51:32,top_holders,xlsx,guardado
+2025-10-08 10:51:35,top_holders,parquet,guardado
