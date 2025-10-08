@@ -29925,3 +29925,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 08:04:59,trending,parquet,guardado
 2025-10-08 08:05:02,top_volume,csv,guardado
 2025-10-08 08:05:05,top_volume,xlsx,guardado
+2025-10-08 08:05:07,top_volume,parquet,guardado
