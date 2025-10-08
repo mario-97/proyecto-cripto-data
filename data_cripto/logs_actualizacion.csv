@@ -30619,3 +30619,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 10:52:49,top_flow,csv,guardado
 2025-10-08 10:52:51,top_flow,xlsx,guardado
 2025-10-08 10:52:53,top_flow,parquet,guardado
+2025-10-08 10:52:55,trending,csv,guardado
