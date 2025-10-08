@@ -31159,3 +31159,5 @@ fecha_hora,archivo,formato,status
 2025-10-08 13:01:51,transfers,csv,guardado
 2025-10-08 13:01:53,top_volume,csv,guardado
 2025-10-08 13:01:54,transfers,xlsx,error
+2025-10-08 13:01:55,top_volume,xlsx,guardado
+2025-10-08 13:01:57,transfers,parquet,guardado
