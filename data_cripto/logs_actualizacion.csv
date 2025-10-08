@@ -31131,3 +31131,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 12:52:38,top_flow,parquet,guardado
 2025-10-08 12:52:41,trending,csv,guardado
 2025-10-08 12:52:43,trending,xlsx,guardado
+2025-10-08 12:52:45,trending,parquet,guardado
