@@ -30165,3 +30165,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 09:01:53,transfers,parquet,guardado
 2025-10-08 09:01:54,top_volume,csv,guardado
 2025-10-08 09:01:56,top_volume,xlsx,guardado
+2025-10-08 09:01:58,top_volume,parquet,guardado
