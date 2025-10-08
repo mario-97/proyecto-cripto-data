@@ -30788,3 +30788,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 11:30:40,top_holders,parquet,guardado
 2025-10-08 11:30:42,montecarlo_lineas_simulacion,parquet,guardado
 2025-10-08 11:30:45,montecarlo_estadistica_descriptiva,csv,guardado
+2025-10-08 11:30:47,montecarlo_estadistica_descriptiva,xlsx,guardado
