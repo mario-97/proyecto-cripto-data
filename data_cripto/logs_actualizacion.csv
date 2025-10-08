@@ -30075,3 +30075,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 08:40:57,top_volume,parquet,guardado
 2025-10-08 08:41:46,transfers,csv,guardado
 2025-10-08 08:41:49,transfers,xlsx,guardado
+2025-10-08 08:41:51,transfers,parquet,guardado
