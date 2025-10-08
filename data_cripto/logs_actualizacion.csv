@@ -32304,3 +32304,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 17:41:17,trending,parquet,guardado
 2025-10-08 17:41:21,top_volume,csv,guardado
 2025-10-08 17:41:23,top_volume,xlsx,guardado
+2025-10-08 17:41:25,top_volume,parquet,guardado
