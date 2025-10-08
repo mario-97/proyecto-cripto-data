@@ -31163,3 +31163,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 13:01:57,transfers,parquet,guardado
 2025-10-08 13:01:57,top_volume,parquet,guardado
 2025-10-08 13:03:29,top_holders,csv,guardado
+2025-10-08 13:03:33,top_holders,xlsx,guardado
