@@ -31560,3 +31560,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 14:41:20,top_volume,parquet,guardado
 2025-10-08 14:41:49,transfers,csv,guardado
 2025-10-08 14:41:52,transfers,xlsx,guardado
+2025-10-08 14:41:55,transfers,parquet,guardado
