@@ -31893,3 +31893,4 @@ fecha_hora,archivo,formato,status
 2025-10-08 16:02:00,transfers,parquet,guardado
 2025-10-08 16:02:02,trending,csv,guardado
 2025-10-08 16:02:05,trending,xlsx,guardado
+2025-10-08 16:02:07,trending,parquet,guardado
