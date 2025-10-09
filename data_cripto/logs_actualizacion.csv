@@ -32096,3 +32096,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 11:01:44,transfers,csv,guardado
 2025-10-09 11:01:45,top_flow,csv,guardado
 2025-10-09 11:01:46,transfers,xlsx,guardado
+2025-10-09 11:01:48,top_flow,xlsx,error
