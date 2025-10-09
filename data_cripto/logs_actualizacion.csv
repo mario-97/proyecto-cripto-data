@@ -31598,3 +31598,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 09:01:47,transfers,xlsx,error
 2025-10-09 09:01:50,top_flow,xlsx,guardado
 2025-10-09 09:01:52,top_flow,parquet,guardado
+2025-10-09 09:01:55,trending,csv,guardado
