@@ -32100,3 +32100,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 11:01:48,transfers,parquet,guardado
 2025-10-09 11:01:50,top_flow,parquet,guardado
 2025-10-09 11:01:52,trending,csv,guardado
+2025-10-09 11:01:55,trending,xlsx,guardado
