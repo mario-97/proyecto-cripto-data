@@ -34105,3 +34105,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 06:37:54,top_volume,parquet,guardado
 2025-10-09 06:39:26,top_holders,csv,guardado
 2025-10-09 06:39:31,top_holders,xlsx,guardado
+2025-10-09 06:39:34,top_holders,parquet,guardado
