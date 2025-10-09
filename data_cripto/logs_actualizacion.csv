@@ -34197,3 +34197,5 @@ fecha_hora,archivo,formato,status
 2025-10-09 07:00:26,top_holders,csv,guardado
 2025-10-09 07:00:28,btc_sopr_lth,xlsx,error
 2025-10-09 07:00:30,top_holders,xlsx,error
+2025-10-09 07:00:31,btc_sopr_lth,parquet,guardado
+2025-10-09 07:00:33,top_holders,parquet,guardado
