@@ -33112,3 +33112,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 15:11:06,top_flow,parquet,guardado
 2025-10-09 15:11:08,trending,csv,guardado
 2025-10-09 15:11:10,trending,xlsx,guardado
+2025-10-09 15:11:13,trending,parquet,error
