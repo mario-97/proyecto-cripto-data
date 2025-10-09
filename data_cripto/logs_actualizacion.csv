@@ -32918,3 +32918,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 14:21:34,top_holders,csv,guardado
 2025-10-09 14:21:38,top_holders,xlsx,guardado
 2025-10-09 14:21:40,top_holders,parquet,guardado
+2025-10-09 14:21:51,transfers,csv,guardado
