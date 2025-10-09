@@ -23130,3 +23130,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 19:51:34,top_holders,parquet,guardado
 2025-10-09 19:52:47,top_flow,csv,guardado
 2025-10-09 19:52:50,top_flow,xlsx,guardado
+2025-10-09 19:52:52,top_flow,parquet,guardado
