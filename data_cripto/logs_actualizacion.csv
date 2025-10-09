@@ -31844,3 +31844,5 @@ fecha_hora,archivo,formato,status
 2025-10-09 10:01:47,transfers,csv,guardado
 2025-10-09 10:01:50,transfers,xlsx,guardado
 2025-10-09 10:01:51,top_flow,csv,guardado
+2025-10-09 10:01:52,transfers,parquet,guardado
+2025-10-09 10:01:54,top_flow,xlsx,guardado
