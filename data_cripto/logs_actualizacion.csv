@@ -34121,3 +34121,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 06:42:25,top_holders,csv,guardado
 2025-10-09 06:42:29,top_holders,xlsx,guardado
 2025-10-09 06:42:32,top_holders,parquet,guardado
+2025-10-09 06:43:30,top_flow,csv,guardado
