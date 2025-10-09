@@ -33099,3 +33099,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 15:07:39,top_flow,xlsx,error
 2025-10-09 15:07:41,top_flow,parquet,guardado
 2025-10-09 15:07:45,trending,csv,guardado
+2025-10-09 15:07:47,trending,xlsx,guardado
