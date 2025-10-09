@@ -32119,3 +32119,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 11:04:59,top_volume,parquet,guardado
 2025-10-09 11:06:27,top_holders,csv,guardado
 2025-10-09 11:06:31,top_holders,xlsx,guardado
+2025-10-09 11:06:34,top_holders,parquet,guardado
