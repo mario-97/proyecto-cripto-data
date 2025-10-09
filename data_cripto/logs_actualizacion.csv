@@ -31810,3 +31810,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 09:52:45,top_flow,parquet,guardado
 2025-10-09 09:52:48,trending,csv,guardado
 2025-10-09 09:52:50,trending,xlsx,guardado
+2025-10-09 09:52:52,trending,parquet,guardado
