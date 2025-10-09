@@ -33015,3 +33015,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 14:46:58,trending,xlsx,guardado
 2025-10-09 14:47:00,trending,parquet,guardado
 2025-10-09 14:47:04,top_volume,csv,error
+2025-10-09 14:47:13,top_volume,xlsx,guardado
