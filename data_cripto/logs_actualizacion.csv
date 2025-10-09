@@ -32278,3 +32278,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 11:41:46,transfers,parquet,guardado
 2025-10-09 11:42:26,top_holders,csv,guardado
 2025-10-09 11:42:30,top_holders,xlsx,guardado
+2025-10-09 11:42:32,top_holders,parquet,guardado
