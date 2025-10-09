@@ -34202,3 +34202,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 07:00:34,btc_sopr_sth,csv,error
 2025-10-09 07:00:37,btc_sopr_sth,xlsx,guardado
 2025-10-09 07:00:40,btc_sopr_sth,parquet,guardado
+2025-10-09 07:01:37,top_flow,csv,guardado
