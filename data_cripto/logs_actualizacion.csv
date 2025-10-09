@@ -32217,3 +32217,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 11:28:55,top_volume,xlsx,guardado
 2025-10-09 11:28:57,top_volume,parquet,guardado
 2025-10-09 11:30:30,montecarlo_histograma,csv,guardado
+2025-10-09 11:30:33,montecarlo_histograma,xlsx,guardado
