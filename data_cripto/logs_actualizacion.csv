@@ -32089,3 +32089,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 10:59:04,top_volume,parquet,guardado
 2025-10-09 11:00:03,btc_change_price,csv,guardado
 2025-10-09 11:00:13,btc_change_price,xlsx,guardado
+2025-10-09 11:00:15,btc_change_price,parquet,guardado
