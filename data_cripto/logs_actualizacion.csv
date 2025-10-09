@@ -33950,3 +33950,5 @@ fecha_hora,archivo,formato,status
 2025-10-09 06:01:41,trending,csv,guardado
 2025-10-09 06:01:43,trending,xlsx,guardado
 2025-10-09 06:01:44,transfers,csv,error
+2025-10-09 06:01:45,trending,parquet,guardado
+2025-10-09 06:01:47,transfers,xlsx,guardado
