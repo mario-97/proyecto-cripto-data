@@ -32223,3 +32223,5 @@ fecha_hora,archivo,formato,status
 2025-10-09 11:30:37,top_holders,xlsx,error
 2025-10-09 11:30:38,montecarlo_lineas_simulacion,csv,guardado
 2025-10-09 11:30:40,top_holders,parquet,guardado
+2025-10-09 11:30:41,montecarlo_lineas_simulacion,xlsx,guardado
+2025-10-09 11:30:43,montecarlo_lineas_simulacion,parquet,guardado
