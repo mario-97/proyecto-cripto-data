@@ -23163,3 +23163,4 @@ fecha_hora,archivo,formato,status
 2025-10-09 19:59:00,top_volume,parquet,guardado
 2025-10-09 20:00:27,top_holders,csv,guardado
 2025-10-09 20:00:31,top_holders,xlsx,guardado
+2025-10-09 20:00:33,top_holders,parquet,guardado
