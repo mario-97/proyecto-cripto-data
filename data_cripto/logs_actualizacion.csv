@@ -28165,3 +28165,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 16:00:28,top_holders,csv,guardado
 2025-10-10 16:00:33,top_holders,xlsx,guardado
 2025-10-10 16:00:36,top_holders,parquet,guardado
+2025-10-10 16:01:49,transfers,csv,guardado
