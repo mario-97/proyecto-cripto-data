@@ -28177,3 +28177,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 19:41:50,transfers,parquet,guardado
 2025-10-10 19:42:30,top_holders,csv,guardado
 2025-10-10 19:42:33,top_holders,xlsx,guardado
+2025-10-10 19:42:36,top_holders,parquet,guardado
