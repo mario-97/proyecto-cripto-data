@@ -26330,3 +26330,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 20:21:29,top_holders,xlsx,guardado
 2025-10-10 20:21:31,top_holders,parquet,guardado
 2025-10-10 20:21:44,transfers,csv,guardado
+2025-10-10 20:21:46,transfers,xlsx,guardado
