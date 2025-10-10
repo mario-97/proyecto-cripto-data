@@ -25180,3 +25180,5 @@ fecha_hora,archivo,formato,status
 2025-10-10 04:01:35,trending,csv,guardado
 2025-10-10 04:01:37,trending,xlsx,guardado
 2025-10-10 04:01:39,trending,parquet,guardado
+2025-10-10 04:01:41,top_volume,csv,guardado
+2025-10-10 04:01:42,transfers,csv,error
