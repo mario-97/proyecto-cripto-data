@@ -26419,3 +26419,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 20:42:26,top_holders,csv,guardado
 2025-10-10 20:42:29,top_holders,xlsx,guardado
 2025-10-10 20:42:31,top_holders,parquet,guardado
+2025-10-10 20:43:41,top_flow,csv,guardado
