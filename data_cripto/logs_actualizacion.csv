@@ -27428,3 +27428,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 12:58:59,top_volume,xlsx,guardado
 2025-10-10 12:59:01,top_volume,parquet,guardado
 2025-10-10 13:00:26,top_holders,csv,guardado
+2025-10-10 13:00:30,top_holders,xlsx,guardado
