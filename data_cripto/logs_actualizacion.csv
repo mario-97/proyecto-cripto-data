@@ -24417,3 +24417,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 01:00:25,btc_nupl,parquet,guardado
 2025-10-10 01:00:27,top_holders,csv,error
 2025-10-10 01:00:30,top_holders,xlsx,guardado
+2025-10-10 01:00:33,top_holders,parquet,guardado
