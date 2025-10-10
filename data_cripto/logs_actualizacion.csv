@@ -25932,3 +25932,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 07:00:15,btc_sopr_lth,parquet,guardado
 2025-10-10 07:00:19,btc_sopr_sth,csv,guardado
 2025-10-10 07:00:21,btc_sopr_sth,xlsx,guardado
+2025-10-10 07:00:23,btc_sopr_sth,parquet,guardado
