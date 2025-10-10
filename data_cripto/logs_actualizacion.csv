@@ -27183,3 +27183,5 @@ fecha_hora,archivo,formato,status
 2025-10-10 12:00:35,top_holders,parquet,guardado
 2025-10-10 12:01:47,transfers,csv,guardado
 2025-10-10 12:01:50,transfers,xlsx,guardado
+2025-10-10 12:01:50,top_flow,csv,guardado
+2025-10-10 12:01:52,transfers,parquet,guardado
