@@ -28185,3 +28185,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 16:05:30,top_flow,parquet,guardado
 2025-10-10 16:05:33,trending,csv,guardado
 2025-10-10 16:05:35,trending,xlsx,guardado
+2025-10-10 16:05:37,trending,parquet,guardado
