@@ -25011,3 +25011,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 03:19:54,top_volume,parquet,guardado
 2025-10-10 03:21:28,top_holders,csv,guardado
 2025-10-10 03:21:32,top_holders,xlsx,guardado
+2025-10-10 03:21:34,top_holders,parquet,guardado
