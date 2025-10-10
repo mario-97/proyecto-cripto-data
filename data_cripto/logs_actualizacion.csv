@@ -28784,3 +28784,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 18:28:37,trending,csv,guardado
 2025-10-10 18:28:37,trending,csv,error
 2025-10-10 18:28:39,trending,xlsx,guardado
+2025-10-10 18:28:41,trending,parquet,guardado
