@@ -24375,3 +24375,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 00:51:33,top_holders,parquet,guardado
 2025-10-10 00:52:33,top_flow,csv,guardado
 2025-10-10 00:52:35,top_flow,xlsx,guardado
+2025-10-10 00:52:37,top_flow,parquet,guardado
