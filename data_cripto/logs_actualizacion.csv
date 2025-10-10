@@ -25949,3 +25949,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 07:01:52,top_volume,parquet,guardado
 2025-10-10 07:01:54,transfers,parquet,guardado
 2025-10-10 07:03:26,top_holders,csv,guardado
+2025-10-10 07:03:30,top_holders,xlsx,guardado
