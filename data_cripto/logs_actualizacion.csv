@@ -25690,3 +25690,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 06:01:56,transfers,csv,error
 2025-10-10 06:01:58,transfers,xlsx,guardado
 2025-10-10 06:02:01,transfers,parquet,guardado
+2025-10-10 06:03:26,top_holders,csv,guardado
