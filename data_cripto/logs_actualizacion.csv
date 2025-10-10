@@ -26433,3 +26433,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 08:58:51,top_volume,parquet,guardado
 2025-10-10 09:00:02,btc_cdd,csv,guardado
 2025-10-10 09:00:05,btc_cdd,xlsx,guardado
+2025-10-10 09:00:07,btc_cdd,parquet,guardado
