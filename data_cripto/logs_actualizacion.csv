@@ -24680,3 +24680,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 02:01:48,transfers,parquet,guardado
 2025-10-10 02:01:50,top_volume,parquet,guardado
 2025-10-10 02:03:26,top_holders,csv,guardado
+2025-10-10 02:03:29,top_holders,xlsx,guardado
