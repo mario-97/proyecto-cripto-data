@@ -26200,3 +26200,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 08:03:26,top_holders,csv,guardado
 2025-10-10 08:03:30,top_holders,xlsx,guardado
 2025-10-10 08:03:32,top_holders,parquet,guardado
+2025-10-10 08:04:28,top_flow,csv,guardado
