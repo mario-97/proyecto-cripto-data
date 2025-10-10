@@ -24508,3 +24508,4 @@ fecha_hora,archivo,formato,status
 2025-10-10 01:21:50,transfers,csv,guardado
 2025-10-10 01:21:52,transfers,xlsx,guardado
 2025-10-10 01:21:55,transfers,parquet,guardado
+2025-10-10 01:22:34,top_flow,csv,guardado
