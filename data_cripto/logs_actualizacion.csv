@@ -28579,3 +28579,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 05:21:42,transfers,csv,guardado
 2025-10-11 05:21:44,transfers,xlsx,guardado
 2025-10-11 05:21:46,transfers,parquet,guardado
+2025-10-11 05:22:27,top_flow,csv,guardado
