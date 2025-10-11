@@ -29754,3 +29754,5 @@ fecha_hora,archivo,formato,status
 2025-10-11 10:01:37,trending,parquet,guardado
 2025-10-11 10:01:40,top_volume,csv,guardado
 2025-10-11 10:01:42,top_volume,xlsx,guardado
+2025-10-11 10:01:42,transfers,csv,error
+2025-10-11 10:01:44,top_volume,parquet,guardado
