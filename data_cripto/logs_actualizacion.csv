@@ -32395,3 +32395,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 20:40:42,top_volume,csv,guardado
 2025-10-11 20:40:44,top_volume,xlsx,guardado
 2025-10-11 20:40:46,top_volume,parquet,guardado
+2025-10-11 20:41:42,transfers,csv,guardado
