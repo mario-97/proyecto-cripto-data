@@ -32735,3 +32735,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 22:01:46,transfers,parquet,guardado
 2025-10-11 22:01:47,top_volume,parquet,error
 2025-10-11 22:03:25,top_holders,csv,guardado
+2025-10-11 22:03:29,top_holders,xlsx,guardado
