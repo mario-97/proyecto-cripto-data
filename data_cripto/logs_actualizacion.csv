@@ -27496,3 +27496,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 01:00:26,btc_nupl,parquet,guardado
 2025-10-11 01:00:29,top_holders,xlsx,guardado
 2025-10-11 01:00:31,top_holders,parquet,guardado
+2025-10-11 01:01:26,top_flow,csv,guardado
