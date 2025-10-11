@@ -29955,3 +29955,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 10:49:34,trending,parquet,guardado
 2025-10-11 10:49:37,top_volume,csv,guardado
 2025-10-11 10:49:39,top_volume,xlsx,guardado
+2025-10-11 10:49:41,top_volume,parquet,guardado
