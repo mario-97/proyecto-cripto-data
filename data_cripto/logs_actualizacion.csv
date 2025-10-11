@@ -30134,3 +30134,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 11:30:46,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-10-11 11:30:47,montecarlo_estadistica_descriptiva,parquet,error
 2025-10-11 11:31:40,top_flow,csv,guardado
+2025-10-11 11:31:42,top_flow,xlsx,guardado
