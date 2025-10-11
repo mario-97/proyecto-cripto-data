@@ -28603,3 +28603,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 05:27:26,top_holders,csv,guardado
 2025-10-11 05:27:29,top_holders,xlsx,guardado
 2025-10-11 05:27:32,top_holders,parquet,guardado
+2025-10-11 05:28:23,top_flow,csv,guardado
