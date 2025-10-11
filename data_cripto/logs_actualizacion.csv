@@ -30334,3 +30334,4 @@ fecha_hora,archivo,formato,status
 2025-10-11 12:21:46,transfers,csv,guardado
 2025-10-11 12:21:49,transfers,xlsx,guardado
 2025-10-11 12:21:51,transfers,parquet,guardado
+2025-10-11 12:22:31,top_flow,csv,guardado
