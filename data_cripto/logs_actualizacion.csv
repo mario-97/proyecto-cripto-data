@@ -36118,3 +36118,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 21:01:28,top_flow,parquet,guardado
 2025-10-12 21:01:30,trending,csv,guardado
 2025-10-12 21:01:32,trending,xlsx,guardado
+2025-10-12 21:01:35,trending,parquet,guardado
