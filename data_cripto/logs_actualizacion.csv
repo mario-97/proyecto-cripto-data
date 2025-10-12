@@ -34344,3 +34344,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 10:58:43,top_volume,parquet,guardado
 2025-10-12 11:00:03,btc_change_price,csv,guardado
 2025-10-12 11:00:12,btc_change_price,xlsx,guardado
+2025-10-12 11:00:15,btc_change_price,parquet,guardado
