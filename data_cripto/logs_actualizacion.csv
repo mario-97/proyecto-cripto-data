@@ -34660,3 +34660,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 15:09:32,top_holders,parquet,guardado
 2025-10-12 15:10:30,top_flow,csv,guardado
 2025-10-12 15:10:32,top_flow,xlsx,guardado
+2025-10-12 15:10:34,top_flow,parquet,guardado
