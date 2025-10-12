@@ -36748,3 +36748,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 23:40:42,top_volume,parquet,guardado
 2025-10-12 23:41:43,transfers,csv,guardado
 2025-10-12 23:41:46,transfers,xlsx,guardado
+2025-10-12 23:41:48,transfers,parquet,guardado
