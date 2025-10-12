@@ -33465,3 +33465,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 00:58:43,top_volume,parquet,guardado
 2025-10-12 01:00:02,btc_price,csv,guardado
 2025-10-12 01:00:05,btc_price,xlsx,guardado
+2025-10-12 01:00:08,btc_price,parquet,guardado
