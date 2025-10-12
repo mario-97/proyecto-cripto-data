@@ -34359,3 +34359,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 11:01:50,transfers,csv,guardado
 2025-10-12 11:01:52,top_volume,parquet,guardado
 2025-10-12 11:01:53,transfers,xlsx,guardado
+2025-10-12 11:01:55,transfers,parquet,guardado
