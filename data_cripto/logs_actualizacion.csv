@@ -34915,3 +34915,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 16:10:58,trending,parquet,guardado
 2025-10-12 16:11:01,top_volume,csv,guardado
 2025-10-12 16:11:03,top_volume,xlsx,guardado
+2025-10-12 16:11:06,top_volume,parquet,guardado
