@@ -34795,3 +34795,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 15:41:48,transfers,parquet,guardado
 2025-10-12 15:42:25,top_holders,csv,guardado
 2025-10-12 15:42:29,top_holders,xlsx,guardado
+2025-10-12 15:42:32,top_holders,parquet,guardado
