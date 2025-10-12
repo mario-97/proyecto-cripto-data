@@ -32677,3 +32677,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 04:21:43,transfers,csv,guardado
 2025-10-12 04:21:47,transfers,xlsx,guardado
 2025-10-12 04:21:49,transfers,parquet,guardado
+2025-10-12 04:22:31,top_flow,csv,guardado
