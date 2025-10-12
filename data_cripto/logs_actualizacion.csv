@@ -36200,3 +36200,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 21:21:24,top_holders,csv,guardado
 2025-10-12 21:21:28,top_holders,xlsx,guardado
 2025-10-12 21:21:31,top_holders,parquet,guardado
+2025-10-12 21:21:43,transfers,csv,guardado
