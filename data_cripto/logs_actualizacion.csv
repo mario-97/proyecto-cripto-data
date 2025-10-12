@@ -34630,3 +34630,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 15:01:45,top_volume,parquet,guardado
 2025-10-12 15:01:55,transfers,csv,guardado
 2025-10-12 15:01:58,transfers,xlsx,guardado
+2025-10-12 15:02:00,transfers,parquet,guardado
