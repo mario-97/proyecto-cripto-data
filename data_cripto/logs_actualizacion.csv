@@ -33260,3 +33260,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 06:40:44,top_volume,xlsx,guardado
 2025-10-12 06:40:46,top_volume,parquet,guardado
 2025-10-12 06:41:49,transfers,csv,guardado
+2025-10-12 06:41:52,transfers,xlsx,guardado
