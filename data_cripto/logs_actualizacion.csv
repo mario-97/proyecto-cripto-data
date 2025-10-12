@@ -33345,3 +33345,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 07:00:24,btc_sopr_sth,parquet,guardado
 2025-10-12 07:00:28,top_holders,csv,guardado
 2025-10-12 07:00:32,top_holders,xlsx,guardado
+2025-10-12 07:00:35,top_holders,parquet,guardado
