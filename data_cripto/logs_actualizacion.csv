@@ -34179,3 +34179,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 10:19:39,trending,parquet,guardado
 2025-10-12 10:19:42,top_volume,csv,guardado
 2025-10-12 10:19:44,top_volume,xlsx,guardado
+2025-10-12 10:19:46,top_volume,parquet,guardado
