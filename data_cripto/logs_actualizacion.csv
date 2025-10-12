@@ -34645,3 +34645,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 15:04:43,top_volume,parquet,guardado
 2025-10-12 15:06:26,top_holders,csv,guardado
 2025-10-12 15:06:30,top_holders,xlsx,guardado
+2025-10-12 15:06:32,top_holders,parquet,guardado
