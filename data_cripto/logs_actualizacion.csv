@@ -36610,3 +36610,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 23:07:32,trending,parquet,guardado
 2025-10-12 23:07:34,top_volume,csv,guardado
 2025-10-12 23:07:37,top_volume,xlsx,guardado
+2025-10-12 23:07:39,top_volume,parquet,guardado
