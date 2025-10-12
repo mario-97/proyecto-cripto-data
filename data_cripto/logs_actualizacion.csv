@@ -32334,3 +32334,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 03:00:11,btc_hashrate,csv,guardado
 2025-10-12 03:00:13,btc_hashrate,xlsx,guardado
 2025-10-12 03:00:16,btc_hashrate,parquet,guardado
+2025-10-12 03:00:19,btc_miner_reserves,csv,guardado
