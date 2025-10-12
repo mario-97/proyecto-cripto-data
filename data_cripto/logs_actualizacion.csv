@@ -34133,3 +34133,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 13:01:48,transfers,xlsx,guardado
 2025-10-12 13:01:49,top_volume,parquet,guardado
 2025-10-12 13:01:51,transfers,parquet,guardado
+2025-10-12 13:03:30,top_holders,csv,guardado
