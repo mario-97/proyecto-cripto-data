@@ -34020,3 +34020,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 09:40:45,top_volume,parquet,guardado
 2025-10-12 09:41:44,transfers,csv,guardado
 2025-10-12 09:41:46,transfers,xlsx,guardado
+2025-10-12 09:41:49,transfers,parquet,guardado
