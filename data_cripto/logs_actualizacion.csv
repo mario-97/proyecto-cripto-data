@@ -36040,3 +36040,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 20:41:54,transfers,parquet,guardado
 2025-10-12 20:42:26,top_holders,csv,guardado
 2025-10-12 20:42:29,top_holders,xlsx,guardado
+2025-10-12 20:42:32,top_holders,parquet,guardado
