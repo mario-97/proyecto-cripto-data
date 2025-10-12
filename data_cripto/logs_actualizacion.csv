@@ -33884,3 +33884,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 12:01:46,top_volume,csv,error
 2025-10-12 12:01:48,transfers,parquet,guardado
 2025-10-12 12:01:50,top_volume,parquet,guardado
+2025-10-12 12:03:27,top_holders,csv,guardado
