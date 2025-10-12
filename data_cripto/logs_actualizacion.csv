@@ -33300,3 +33300,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 06:49:47,top_volume,parquet,guardado
 2025-10-12 06:51:30,top_holders,csv,guardado
 2025-10-12 06:51:34,top_holders,xlsx,guardado
+2025-10-12 06:51:37,top_holders,parquet,guardado
