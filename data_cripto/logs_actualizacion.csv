@@ -35041,3 +35041,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 16:40:48,top_volume,parquet,guardado
 2025-10-12 16:41:44,transfers,csv,guardado
 2025-10-12 16:41:47,transfers,xlsx,guardado
+2025-10-12 16:41:49,transfers,parquet,guardado
