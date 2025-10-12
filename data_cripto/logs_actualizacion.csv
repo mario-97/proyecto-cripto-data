@@ -32253,3 +32253,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 02:40:50,top_volume,csv,guardado
 2025-10-12 02:40:52,top_volume,xlsx,guardado
 2025-10-12 02:40:55,top_volume,parquet,guardado
+2025-10-12 02:41:47,transfers,csv,guardado
