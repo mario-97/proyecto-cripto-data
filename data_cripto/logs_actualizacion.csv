@@ -34868,3 +34868,4 @@ fecha_hora,archivo,formato,status
 2025-10-12 16:00:25,top_holders,csv,guardado
 2025-10-12 16:00:29,top_holders,xlsx,guardado
 2025-10-12 16:00:32,top_holders,parquet,guardado
+2025-10-12 16:01:36,top_flow,csv,guardado
