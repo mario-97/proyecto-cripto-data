@@ -39112,3 +39112,5 @@ fecha_hora,archivo,formato,status
 2025-10-13 09:01:44,top_volume,xlsx,guardado
 2025-10-13 09:01:45,transfers,xlsx,guardado
 2025-10-13 09:01:47,top_volume,parquet,guardado
+2025-10-13 09:01:47,transfers,parquet,guardado
+2025-10-13 09:03:26,top_holders,csv,guardado
