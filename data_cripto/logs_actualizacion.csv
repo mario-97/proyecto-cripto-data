@@ -38600,3 +38600,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 07:00:25,btc_sopr_sth,parquet,guardado
 2025-10-13 07:00:28,top_holders,xlsx,guardado
 2025-10-13 07:00:31,top_holders,parquet,guardado
+2025-10-13 07:01:27,top_flow,csv,guardado
