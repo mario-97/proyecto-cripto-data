@@ -34196,3 +34196,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 17:16:50,top_volume,parquet,guardado
 2025-10-13 17:18:28,top_holders,csv,guardado
 2025-10-13 17:18:32,top_holders,xlsx,guardado
+2025-10-13 17:18:34,top_holders,parquet,guardado
