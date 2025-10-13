@@ -34260,3 +34260,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 17:33:27,top_holders,csv,guardado
 2025-10-13 17:33:31,top_holders,xlsx,guardado
 2025-10-13 17:33:33,top_holders,parquet,guardado
+2025-10-13 17:34:36,top_flow,csv,guardado
