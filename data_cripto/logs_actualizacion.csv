@@ -38134,3 +38134,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 05:09:33,top_holders,parquet,guardado
 2025-10-13 05:10:31,top_flow,csv,guardado
 2025-10-13 05:10:33,top_flow,xlsx,guardado
+2025-10-13 05:10:36,top_flow,parquet,guardado
