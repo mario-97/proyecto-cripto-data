@@ -38939,3 +38939,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 08:21:53,transfers,csv,guardado
 2025-10-13 08:21:56,transfers,xlsx,guardado
 2025-10-13 08:21:58,transfers,parquet,guardado
+2025-10-13 08:22:42,top_flow,csv,guardado
