@@ -34382,3 +34382,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 18:01:49,transfers,xlsx,guardado
 2025-10-13 18:01:50,top_volume,xlsx,error
 2025-10-13 18:01:52,transfers,parquet,error
+2025-10-13 18:03:27,top_holders,csv,guardado
