@@ -38938,3 +38938,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 08:21:35,top_holders,parquet,guardado
 2025-10-13 08:21:53,transfers,csv,guardado
 2025-10-13 08:21:56,transfers,xlsx,guardado
+2025-10-13 08:21:58,transfers,parquet,guardado
