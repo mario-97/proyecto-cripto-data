@@ -38590,3 +38590,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 06:58:46,top_volume,parquet,guardado
 2025-10-13 07:00:02,btc_mvrvz_lth,csv,guardado
 2025-10-13 07:00:05,btc_mvrvz_lth,xlsx,guardado
+2025-10-13 07:00:07,btc_mvrvz_lth,parquet,guardado
