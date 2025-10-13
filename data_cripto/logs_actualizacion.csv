@@ -37690,3 +37690,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 03:23:06,top_volume,parquet,guardado
 2025-10-13 03:24:26,top_holders,csv,guardado
 2025-10-13 03:24:29,top_holders,xlsx,guardado
+2025-10-13 03:24:32,top_holders,parquet,guardado
