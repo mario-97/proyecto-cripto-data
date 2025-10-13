@@ -39190,3 +39190,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 09:21:36,top_holders,parquet,guardado
 2025-10-13 09:21:52,transfers,csv,guardado
 2025-10-13 09:21:56,transfers,xlsx,guardado
+2025-10-13 09:21:58,transfers,parquet,guardado
