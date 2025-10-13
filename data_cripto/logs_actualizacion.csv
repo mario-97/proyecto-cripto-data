@@ -38773,3 +38773,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 07:40:46,top_volume,parquet,guardado
 2025-10-13 07:41:41,transfers,csv,guardado
 2025-10-13 07:41:44,transfers,xlsx,guardado
+2025-10-13 07:41:46,transfers,parquet,guardado
