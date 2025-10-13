@@ -34555,3 +34555,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 18:43:42,trending,parquet,guardado
 2025-10-13 18:43:46,top_volume,csv,guardado
 2025-10-13 18:43:48,top_volume,xlsx,guardado
+2025-10-13 18:43:50,top_volume,parquet,guardado
