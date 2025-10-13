@@ -40819,3 +40819,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 15:58:55,top_volume,parquet,guardado
 2025-10-13 16:00:28,top_holders,csv,guardado
 2025-10-13 16:00:33,top_holders,xlsx,guardado
+2025-10-13 16:00:36,top_holders,parquet,guardado
