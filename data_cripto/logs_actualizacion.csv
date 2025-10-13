@@ -34855,3 +34855,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 19:55:47,top_volume,parquet,guardado
 2025-10-13 19:57:27,top_holders,csv,guardado
 2025-10-13 19:57:30,top_holders,xlsx,guardado
+2025-10-13 19:57:33,top_holders,parquet,guardado
