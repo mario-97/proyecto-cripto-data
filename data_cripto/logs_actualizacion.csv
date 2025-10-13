@@ -38089,3 +38089,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 05:00:08,btc_nrpl_usd,parquet,guardado
 2025-10-13 05:00:12,btc_mvrvz_sth,csv,guardado
 2025-10-13 05:00:15,btc_mvrvz_sth,xlsx,guardado
+2025-10-13 05:00:17,btc_mvrvz_sth,parquet,guardado
