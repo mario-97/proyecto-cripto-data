@@ -40657,3 +40657,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 15:19:52,top_volume,parquet,guardado
 2025-10-13 15:21:27,top_holders,csv,guardado
 2025-10-13 15:21:31,top_holders,xlsx,guardado
+2025-10-13 15:21:34,top_holders,parquet,guardado
