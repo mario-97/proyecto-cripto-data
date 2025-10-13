@@ -40321,3 +40321,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 13:59:04,top_volume,parquet,guardado
 2025-10-13 14:00:27,top_holders,csv,guardado
 2025-10-13 14:00:33,top_holders,xlsx,guardado
+2025-10-13 14:00:35,top_holders,parquet,guardado
