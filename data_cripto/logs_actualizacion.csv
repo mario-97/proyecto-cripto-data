@@ -40498,3 +40498,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 14:41:49,transfers,parquet,guardado
 2025-10-13 14:42:32,top_holders,csv,guardado
 2025-10-13 14:42:35,top_holders,xlsx,guardado
+2025-10-13 14:42:38,top_holders,parquet,guardado
