@@ -34460,3 +34460,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 18:21:55,transfers,csv,guardado
 2025-10-13 18:21:58,transfers,xlsx,guardado
 2025-10-13 18:22:00,transfers,parquet,guardado
+2025-10-13 18:22:37,top_flow,csv,guardado
