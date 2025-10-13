@@ -36913,3 +36913,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 00:21:33,top_holders,parquet,guardado
 2025-10-13 00:21:46,transfers,csv,guardado
 2025-10-13 00:21:48,transfers,xlsx,guardado
+2025-10-13 00:21:50,transfers,parquet,guardado
