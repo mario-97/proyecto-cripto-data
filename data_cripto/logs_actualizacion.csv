@@ -40262,3 +40262,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 13:45:27,top_holders,csv,guardado
 2025-10-13 13:45:31,top_holders,xlsx,guardado
 2025-10-13 13:45:33,top_holders,parquet,guardado
+2025-10-13 13:46:38,top_flow,csv,guardado
