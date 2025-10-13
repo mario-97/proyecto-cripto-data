@@ -34131,3 +34131,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 17:01:44,transfers,csv,guardado
 2025-10-13 17:01:47,transfers,xlsx,guardado
 2025-10-13 17:01:47,top_volume,csv,error
+2025-10-13 17:01:49,top_volume,xlsx,guardado
