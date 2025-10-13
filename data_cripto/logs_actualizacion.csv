@@ -40309,3 +40309,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 13:56:10,top_volume,parquet,guardado
 2025-10-13 13:57:30,top_holders,csv,guardado
 2025-10-13 13:57:35,top_holders,xlsx,guardado
+2025-10-13 13:57:38,top_holders,parquet,guardado
