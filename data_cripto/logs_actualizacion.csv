@@ -36835,3 +36835,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 00:01:44,top_volume,parquet,guardado
 2025-10-13 00:01:46,transfers,csv,error
 2025-10-13 00:01:49,transfers,xlsx,guardado
+2025-10-13 00:01:51,transfers,parquet,guardado
