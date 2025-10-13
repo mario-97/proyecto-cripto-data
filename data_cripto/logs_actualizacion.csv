@@ -40219,3 +40219,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 13:34:52,trending,parquet,guardado
 2025-10-13 13:35:00,top_volume,csv,guardado
 2025-10-13 13:35:02,top_volume,xlsx,guardado
+2025-10-13 13:35:04,top_volume,parquet,guardado
