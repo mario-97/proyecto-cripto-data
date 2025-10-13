@@ -37590,3 +37590,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 03:00:29,top_holders,xlsx,guardado
 2025-10-13 03:00:32,top_holders,parquet,guardado
 2025-10-13 03:01:41,transfers,csv,guardado
+2025-10-13 03:01:44,transfers,xlsx,guardado
