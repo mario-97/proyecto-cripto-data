@@ -38998,3 +38998,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 08:34:46,top_volume,parquet,guardado
 2025-10-13 08:36:26,top_holders,csv,guardado
 2025-10-13 08:36:29,top_holders,xlsx,guardado
+2025-10-13 08:36:31,top_holders,parquet,guardado
