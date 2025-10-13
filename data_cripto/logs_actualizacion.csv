@@ -38911,3 +38911,4 @@ fecha_hora,archivo,formato,status
 2025-10-13 08:13:48,top_volume,parquet,guardado
 2025-10-13 08:15:39,top_holders,csv,guardado
 2025-10-13 08:15:42,top_holders,xlsx,guardado
+2025-10-13 08:15:45,top_holders,parquet,guardado
