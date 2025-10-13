@@ -38104,3 +38104,5 @@ fecha_hora,archivo,formato,status
 2025-10-13 05:01:45,top_volume,xlsx,guardado
 2025-10-13 05:01:46,transfers,xlsx,guardado
 2025-10-13 05:01:47,top_volume,parquet,guardado
+2025-10-13 05:01:48,transfers,parquet,guardado
+2025-10-13 05:03:28,top_holders,csv,guardado
