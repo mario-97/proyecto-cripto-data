@@ -40830,3 +40830,7 @@ fecha_hora,archivo,formato,status
 2025-10-14 23:01:39,trending,xlsx,guardado
 2025-10-14 23:01:42,trending,parquet,guardado
 2025-10-14 23:01:44,top_volume,csv,guardado
+2025-10-14 23:01:45,transfers,csv,guardado
+2025-10-14 23:01:47,top_volume,xlsx,guardado
+2025-10-14 23:01:48,transfers,xlsx,guardado
+2025-10-14 23:01:49,top_volume,parquet,guardado
