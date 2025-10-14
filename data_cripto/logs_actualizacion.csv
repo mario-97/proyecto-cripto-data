@@ -38869,3 +38869,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 15:03:27,top_holders,csv,guardado
 2025-10-14 15:03:31,top_holders,xlsx,guardado
 2025-10-14 15:03:35,top_holders,parquet,guardado
+2025-10-14 15:05:15,top_flow,csv,guardado
