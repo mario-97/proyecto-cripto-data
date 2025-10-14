@@ -39033,3 +39033,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 15:45:34,top_holders,parquet,guardado
 2025-10-14 15:47:07,top_flow,csv,guardado
 2025-10-14 15:47:10,top_flow,xlsx,guardado
+2025-10-14 15:47:12,top_flow,parquet,guardado
