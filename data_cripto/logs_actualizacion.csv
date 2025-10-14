@@ -40150,3 +40150,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 20:17:25,top_volume,parquet,guardado
 2025-10-14 20:18:25,top_holders,csv,guardado
 2025-10-14 20:18:30,top_holders,xlsx,guardado
+2025-10-14 20:18:32,top_holders,parquet,guardado
