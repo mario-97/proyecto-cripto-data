@@ -39655,3 +39655,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 18:18:34,top_holders,parquet,guardado
 2025-10-14 18:19:57,top_flow,csv,guardado
 2025-10-14 18:19:59,top_flow,xlsx,guardado
+2025-10-14 18:20:01,top_flow,parquet,guardado
