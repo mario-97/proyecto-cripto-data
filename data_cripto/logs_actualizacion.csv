@@ -38469,3 +38469,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 13:21:35,top_holders,parquet,guardado
 2025-10-14 13:21:58,transfers,csv,guardado
 2025-10-14 13:22:01,transfers,xlsx,guardado
+2025-10-14 13:22:04,transfers,parquet,guardado
