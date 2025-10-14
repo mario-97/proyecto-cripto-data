@@ -38842,3 +38842,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 14:54:33,top_holders,csv,guardado
 2025-10-14 14:54:37,top_holders,xlsx,guardado
 2025-10-14 14:54:40,top_holders,parquet,guardado
+2025-10-14 14:56:05,top_flow,csv,guardado
