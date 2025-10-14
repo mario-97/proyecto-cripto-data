@@ -38763,3 +38763,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 14:32:06,trending,parquet,guardado
 2025-10-14 14:32:09,top_volume,csv,guardado
 2025-10-14 14:32:11,top_volume,xlsx,guardado
+2025-10-14 14:32:14,top_volume,parquet,guardado
