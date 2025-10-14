@@ -39940,3 +39940,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 19:25:56,top_volume,parquet,guardado
 2025-10-14 19:27:26,top_holders,csv,guardado
 2025-10-14 19:27:29,top_holders,xlsx,guardado
+2025-10-14 19:27:32,top_holders,parquet,guardado
