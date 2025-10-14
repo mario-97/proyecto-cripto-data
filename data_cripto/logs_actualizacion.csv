@@ -38331,3 +38331,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 12:39:33,top_holders,parquet,guardado
 2025-10-14 12:40:52,top_flow,csv,guardado
 2025-10-14 12:40:55,top_flow,xlsx,guardado
+2025-10-14 12:40:58,top_flow,parquet,guardado
