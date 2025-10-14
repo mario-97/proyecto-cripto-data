@@ -37914,3 +37914,5 @@ fecha_hora,archivo,formato,status
 2025-10-14 11:01:45,transfers,csv,guardado
 2025-10-14 11:01:45,top_flow,parquet,error
 2025-10-14 11:01:48,trending,csv,guardado
+2025-10-14 11:01:48,transfers,xlsx,error
+2025-10-14 11:01:50,trending,xlsx,guardado
