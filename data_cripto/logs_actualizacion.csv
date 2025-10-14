@@ -40625,3 +40625,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 22:12:27,top_holders,csv,guardado
 2025-10-14 22:12:32,top_holders,xlsx,guardado
 2025-10-14 22:12:34,top_holders,parquet,guardado
+2025-10-14 22:13:29,top_flow,csv,guardado
