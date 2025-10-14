@@ -38970,3 +38970,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 15:30:39,top_holders,parquet,guardado
 2025-10-14 15:32:05,top_flow,csv,guardado
 2025-10-14 15:32:07,top_flow,xlsx,guardado
+2025-10-14 15:32:10,top_flow,parquet,guardado
