@@ -36381,3 +36381,5 @@ w,parquet,guardado,
 2025-10-14 02:01:41,transfers,csv,guardado
 2025-10-14 02:01:43,top_volume,xlsx,guardado
 2025-10-14 02:01:44,transfers,xlsx,guardado
+2025-10-14 02:01:45,top_volume,parquet,guardado
+2025-10-14 02:01:46,transfers,parquet,guardado
