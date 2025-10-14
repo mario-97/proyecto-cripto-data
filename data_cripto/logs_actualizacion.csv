@@ -37998,3 +37998,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 11:21:33,top_holders,parquet,guardado
 2025-10-14 11:21:45,transfers,csv,guardado
 2025-10-14 11:21:48,transfers,xlsx,guardado
+2025-10-14 11:21:51,transfers,parquet,guardado
