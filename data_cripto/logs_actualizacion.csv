@@ -40835,3 +40835,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 23:01:48,transfers,xlsx,guardado
 2025-10-14 23:01:49,top_volume,parquet,guardado
 2025-10-14 23:01:50,transfers,parquet,error
+2025-10-14 23:03:27,top_holders,csv,guardado
