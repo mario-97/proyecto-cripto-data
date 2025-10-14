@@ -39370,3 +39370,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 17:09:44,top_holders,parquet,guardado
 2025-10-14 17:11:23,top_flow,csv,guardado
 2025-10-14 17:11:25,top_flow,xlsx,guardado
+2025-10-14 17:11:27,top_flow,parquet,guardado
