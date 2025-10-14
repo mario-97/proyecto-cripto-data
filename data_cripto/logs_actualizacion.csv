@@ -38409,3 +38409,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 13:05:28,top_holders,parquet,guardado
 2025-10-14 13:06:26,top_flow,csv,guardado
 2025-10-14 13:06:29,top_flow,xlsx,guardado
+2025-10-14 13:06:31,top_flow,parquet,guardado
