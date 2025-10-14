@@ -39100,3 +39100,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 16:05:03,top_flow,parquet,guardado
 2025-10-14 16:05:06,trending,csv,guardado
 2025-10-14 16:05:08,trending,xlsx,guardado
+2025-10-14 16:05:11,trending,parquet,guardado
