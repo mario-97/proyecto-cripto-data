@@ -38091,3 +38091,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 11:40:53,top_volume,parquet,guardado
 2025-10-14 11:41:44,transfers,csv,guardado
 2025-10-14 11:41:47,transfers,xlsx,guardado
+2025-10-14 11:41:50,transfers,parquet,guardado
