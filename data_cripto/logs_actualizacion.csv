@@ -39015,3 +39015,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 15:41:43,top_volume,parquet,guardado
 2025-10-14 15:42:06,transfers,csv,guardado
 2025-10-14 15:42:10,transfers,xlsx,guardado
+2025-10-14 15:42:12,transfers,parquet,guardado
