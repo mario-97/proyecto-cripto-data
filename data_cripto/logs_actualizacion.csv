@@ -36628,3 +36628,4 @@ w,parquet,guardado,
 2025-10-14 03:00:25,btc_miner_reserves,parquet,guardado
 2025-10-14 03:00:26,top_holders,csv,error
 2025-10-14 03:00:30,top_holders,xlsx,guardado
+2025-10-14 03:00:32,top_holders,parquet,guardado
