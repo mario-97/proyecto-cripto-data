@@ -40838,3 +40838,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 23:03:27,top_holders,csv,guardado
 2025-10-14 23:03:31,top_holders,xlsx,guardado
 2025-10-14 23:03:33,top_holders,parquet,guardado
+2025-10-14 23:04:28,top_flow,csv,guardado
