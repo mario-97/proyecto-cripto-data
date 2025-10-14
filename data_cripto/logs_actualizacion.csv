@@ -40911,3 +40911,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 23:21:31,top_holders,xlsx,guardado
 2025-10-14 23:21:34,top_holders,parquet,guardado
 2025-10-14 23:21:43,transfers,csv,guardado
+2025-10-14 23:21:47,transfers,xlsx,guardado
