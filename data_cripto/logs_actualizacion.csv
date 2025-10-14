@@ -38064,3 +38064,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 11:34:37,trending,parquet,guardado
 2025-10-14 11:34:40,top_volume,csv,guardado
 2025-10-14 11:34:42,top_volume,xlsx,guardado
+2025-10-14 11:34:44,top_volume,parquet,guardado
