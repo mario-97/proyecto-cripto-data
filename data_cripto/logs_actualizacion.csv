@@ -38917,3 +38917,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 15:18:28,top_holders,csv,guardado
 2025-10-14 15:18:33,top_holders,xlsx,guardado
 2025-10-14 15:18:38,top_holders,parquet,guardado
+2025-10-14 15:20:06,top_flow,csv,guardado
