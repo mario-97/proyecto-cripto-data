@@ -38355,3 +38355,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 12:44:13,top_volume,parquet,guardado
 2025-10-14 12:45:38,top_holders,csv,guardado
 2025-10-14 12:45:42,top_holders,xlsx,guardado
+2025-10-14 12:45:44,top_holders,parquet,guardado
