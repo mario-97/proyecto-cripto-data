@@ -38033,3 +38033,6 @@ fecha_hora,archivo,formato,status
 2025-10-14 11:28:43,top_volume,xlsx,guardado
 2025-10-14 11:28:45,top_volume,parquet,guardado
 2025-10-14 11:30:30,montecarlo_histograma,csv,guardado
+2025-10-14 11:30:31,top_holders,csv,guardado
+2025-10-14 11:30:33,montecarlo_histograma,xlsx,guardado
+2025-10-14 11:30:35,top_holders,xlsx,guardado
