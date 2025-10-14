@@ -40495,3 +40495,4 @@ fecha_hora,archivo,formato,status
 2025-10-14 21:40:55,trending,parquet,guardado
 2025-10-14 21:40:57,top_volume,csv,guardado
 2025-10-14 21:41:00,top_volume,xlsx,guardado
+2025-10-14 21:41:02,top_volume,parquet,guardado
