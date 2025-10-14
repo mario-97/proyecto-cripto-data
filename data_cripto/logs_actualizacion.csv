@@ -40079,3 +40079,5 @@ fecha_hora,archivo,formato,status
 2025-10-14 20:01:45,transfers,csv,guardado
 2025-10-14 20:01:48,transfers,xlsx,guardado
 2025-10-14 20:01:50,top_flow,csv,guardado
+2025-10-14 20:01:51,transfers,parquet,guardado
+2025-10-14 20:01:53,top_flow,xlsx,guardado
