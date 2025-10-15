@@ -43334,3 +43334,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 09:00:02,btc_cdd,csv,guardado
 2025-10-15 09:00:05,btc_cdd,xlsx,guardado
 2025-10-15 09:00:08,btc_cdd,parquet,guardado
+2025-10-15 09:00:31,top_holders,csv,guardado
