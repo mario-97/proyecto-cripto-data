@@ -42136,3 +42136,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 04:10:47,top_volume,parquet,guardado
 2025-10-15 04:12:25,top_holders,csv,guardado
 2025-10-15 04:12:29,top_holders,xlsx,guardado
+2025-10-15 04:12:32,top_holders,parquet,guardado
