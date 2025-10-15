@@ -41123,3 +41123,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 00:12:30,top_holders,csv,guardado
 2025-10-15 00:12:34,top_holders,xlsx,guardado
 2025-10-15 00:12:36,top_holders,parquet,guardado
+2025-10-15 00:13:41,top_flow,csv,guardado
