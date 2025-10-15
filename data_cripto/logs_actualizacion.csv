@@ -44701,3 +44701,6 @@ dado,,,
 2025-10-15 21:01:42,trending,xlsx,guardado
 2025-10-15 21:01:43,transfers,csv,guardado
 2025-10-15 21:01:45,trending,parquet,guardado
+2025-10-15 21:01:45,transfers,xlsx,guardado
+2025-10-15 21:01:47,transfers,parquet,error
+2025-10-15 21:01:48,top_volume,csv,guardado
