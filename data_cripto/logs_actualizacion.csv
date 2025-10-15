@@ -41668,3 +41668,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 02:21:31,top_holders,parquet,guardado
 2025-10-15 02:21:43,transfers,csv,guardado
 2025-10-15 02:21:46,transfers,xlsx,guardado
+2025-10-15 02:21:48,transfers,parquet,guardado
