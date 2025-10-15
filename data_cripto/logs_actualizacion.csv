@@ -41844,3 +41844,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 03:01:48,top_flow,parquet,guardado
 2025-10-15 03:01:49,transfers,parquet,guardado
 2025-10-15 03:01:51,trending,csv,guardado
+2025-10-15 03:01:53,trending,xlsx,guardado
