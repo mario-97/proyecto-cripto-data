@@ -41503,3 +41503,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 01:40:59,top_volume,parquet,guardado
 2025-10-15 01:41:43,transfers,csv,guardado
 2025-10-15 01:41:45,transfers,xlsx,guardado
+2025-10-15 01:41:48,transfers,parquet,guardado
