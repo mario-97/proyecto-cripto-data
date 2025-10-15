@@ -42334,3 +42334,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 04:58:40,top_volume,parquet,guardado
 2025-10-15 05:00:02,btc_nrpl_usd,csv,guardado
 2025-10-15 05:00:05,btc_nrpl_usd,xlsx,guardado
+2025-10-15 05:00:08,btc_nrpl_usd,parquet,guardado
