@@ -41578,3 +41578,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 01:58:49,top_volume,parquet,guardado
 2025-10-15 02:00:25,top_holders,csv,guardado
 2025-10-15 02:00:29,top_holders,xlsx,guardado
+2025-10-15 02:00:32,top_holders,parquet,guardado
