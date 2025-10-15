@@ -41927,3 +41927,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 03:21:42,transfers,csv,guardado
 2025-10-15 03:21:45,transfers,xlsx,guardado
 2025-10-15 03:21:47,transfers,parquet,guardado
+2025-10-15 03:22:41,top_flow,csv,error
