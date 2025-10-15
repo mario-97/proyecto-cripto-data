@@ -42845,3 +42845,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 07:00:21,btc_sopr_sth,csv,guardado
 2025-10-15 07:00:24,btc_sopr_sth,xlsx,guardado
 2025-10-15 07:00:26,btc_sopr_sth,parquet,error
+2025-10-15 07:01:42,transfers,csv,guardado
