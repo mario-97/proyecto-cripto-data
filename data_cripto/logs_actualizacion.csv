@@ -44203,3 +44203,6 @@ dado,,,
 2025-10-15 19:01:42,trending,csv,guardado
 2025-10-15 19:01:45,transfers,csv,guardado
 2025-10-15 19:01:47,trending,parquet,guardado
+2025-10-15 19:01:47,transfers,xlsx,guardado
+2025-10-15 19:01:50,top_volume,csv,guardado
+2025-10-15 19:01:50,transfers,parquet,error
