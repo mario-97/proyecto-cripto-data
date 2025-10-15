@@ -42949,3 +42949,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 07:25:54,top_volume,parquet,guardado
 2025-10-15 07:27:28,top_holders,csv,guardado
 2025-10-15 07:27:32,top_holders,xlsx,guardado
+2025-10-15 07:27:35,top_holders,parquet,guardado
