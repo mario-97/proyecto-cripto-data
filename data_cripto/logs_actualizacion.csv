@@ -42175,3 +42175,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 04:21:32,top_holders,parquet,guardado
 2025-10-15 04:21:41,transfers,csv,guardado
 2025-10-15 04:21:44,transfers,xlsx,guardado
+2025-10-15 04:21:46,transfers,parquet,guardado
