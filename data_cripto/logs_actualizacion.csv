@@ -41244,3 +41244,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 00:40:58,top_volume,xlsx,guardado
 2025-10-15 00:41:00,top_volume,parquet,guardado
 2025-10-15 00:41:42,transfers,csv,guardado
+2025-10-15 00:41:45,transfers,xlsx,guardado
