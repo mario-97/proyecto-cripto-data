@@ -43310,3 +43310,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 08:54:35,top_holders,csv,guardado
 2025-10-15 08:54:39,top_holders,xlsx,guardado
 2025-10-15 08:54:41,top_holders,parquet,guardado
+2025-10-15 08:55:40,top_flow,csv,guardado
