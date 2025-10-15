@@ -41929,3 +41929,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 03:21:47,transfers,parquet,guardado
 2025-10-15 03:22:41,top_flow,csv,error
 2025-10-15 03:22:44,top_flow,xlsx,guardado
+2025-10-15 03:22:46,top_flow,parquet,guardado
