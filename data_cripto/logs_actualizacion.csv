@@ -43459,4 +43459,6 @@ o,,,
 2025-10-15 16:01:49,trending,parquet,guardado
 2025-10-15 16:01:51,transfers,xlsx,guardado
 2025-10-15 16:01:51,top_volume,csv,guardado
-2025-10-15 16:01:53,transfers,parquet,guardado
+2025-10-15 16:01:53,top_volume,xlsx,error
+dado,,,
+2025-10-15 16:01:56,top_volume,parquet,guardado
