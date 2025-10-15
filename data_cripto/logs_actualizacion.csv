@@ -41750,3 +41750,4 @@ fecha_hora,archivo,formato,status
 2025-10-15 02:40:53,top_volume,csv,guardado
 2025-10-15 02:40:55,top_volume,xlsx,guardado
 2025-10-15 02:40:57,top_volume,parquet,guardado
+2025-10-15 02:41:42,transfers,csv,guardado
