@@ -45039,3 +45039,6 @@ dado,,,
 2025-10-16 02:01:40,trending,csv,guardado
 2025-10-16 02:01:42,trending,xlsx,guardado
 2025-10-16 02:01:44,transfers,csv,error
+2025-10-16 02:01:45,trending,parquet,guardado
+2025-10-16 02:01:47,transfers,xlsx,guardado
+2025-10-16 02:01:47,top_volume,csv,guardado
