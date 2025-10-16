@@ -28419,3 +28419,5 @@ dado,,,
 2025-10-16 19:01:45,top_flow,csv,guardado
 2025-10-16 19:01:46,transfers,csv,guardado
 2025-10-16 19:01:48,top_flow,xlsx,guardado
+2025-10-16 19:01:48,transfers,xlsx,error
+2025-10-16 19:01:51,top_flow,parquet,guardado
