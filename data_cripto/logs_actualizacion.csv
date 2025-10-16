@@ -30796,3 +30796,5 @@ dado,,,
 2025-10-16 16:01:42,top_flow,parquet,guardado
 2025-10-16 16:01:43,transfers,csv,guardado
 2025-10-16 16:01:45,trending,csv,guardado
+2025-10-16 16:01:45,transfers,xlsx,error
+2025-10-16 16:01:47,trending,xlsx,guardado
