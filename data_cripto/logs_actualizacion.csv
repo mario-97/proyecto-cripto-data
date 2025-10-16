@@ -45287,3 +45287,4 @@ dado,,,
 2025-10-16 03:00:17,btc_hashrate,parquet,guardado
 2025-10-16 03:00:21,btc_miner_reserves,csv,guardado
 2025-10-16 03:00:23,btc_miner_reserves,xlsx,guardado
+2025-10-16 03:00:26,btc_miner_reserves,parquet,guardado
