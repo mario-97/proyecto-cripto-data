@@ -30410,3 +30410,4 @@ dado,,,
 2025-10-17 03:00:20,btc_miner_reserves,csv,guardado
 2025-10-17 03:00:23,btc_miner_reserves,xlsx,guardado
 2025-10-17 03:00:25,btc_miner_reserves,parquet,guardado
+2025-10-17 03:00:27,top_holders,csv,error
