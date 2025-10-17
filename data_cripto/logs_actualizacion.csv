@@ -6,3 +6,4 @@ fecha_hora,archivo,formato,status
 2025-10-17 23:16:25,btc_etf_total,xlsx,guardado
 2025-10-17 23:16:27,btc_etf_total,parquet,guardado
 2025-10-17 23:16:33,btc_cdd,csv,guardado
+2025-10-17 23:16:36,btc_cdd,xlsx,guardado
