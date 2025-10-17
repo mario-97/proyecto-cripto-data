@@ -32433,3 +32433,5 @@ dado,,,
 2025-10-17 11:01:58,trending,csv,guardado
 2025-10-17 11:01:59,transfers,xlsx,guardado
 2025-10-17 11:02:01,trending,xlsx,guardado
+2025-10-17 11:02:01,transfers,parquet,guardado
+2025-10-17 11:02:03,trending,parquet,guardado
