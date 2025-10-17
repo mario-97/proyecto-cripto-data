@@ -32550,3 +32550,6 @@ dado,,,
 2025-10-17 11:28:50,top_volume,xlsx,guardado
 2025-10-17 11:28:52,top_volume,parquet,guardado
 2025-10-17 11:30:31,montecarlo_histograma,csv,guardado
+2025-10-17 11:30:32,top_holders,csv,guardado
+2025-10-17 11:30:34,montecarlo_histograma,xlsx,guardado
+2025-10-17 11:30:36,top_holders,xlsx,guardado
