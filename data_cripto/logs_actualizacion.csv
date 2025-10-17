@@ -30862,3 +30862,5 @@ dado,,,
 2025-10-17 12:00:34,top_holders,parquet,guardado
 2025-10-17 12:01:43,top_flow,csv,guardado
 2025-10-17 12:01:46,top_flow,xlsx,guardado
+2025-10-17 12:01:46,transfers,xlsx,error
+2025-10-17 12:01:48,top_flow,parquet,guardado
