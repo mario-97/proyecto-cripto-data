@@ -32594,3 +32594,5 @@ dado,,,
 2025-10-17 19:01:44,transfers,csv,guardado
 2025-10-17 19:01:46,trending,xlsx,guardado
 2025-10-17 19:01:48,transfers,xlsx,guardado
+2025-10-17 19:01:48,trending,parquet,guardado
+2025-10-17 19:01:50,transfers,parquet,guardado
