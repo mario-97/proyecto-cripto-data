@@ -5515,3 +5515,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 22:27:17,top_flow,parquet,guardado
 2025-10-18 22:27:19,trending,csv,guardado
 2025-10-18 22:27:20,trending,xlsx,guardado
+2025-10-18 22:27:22,trending,parquet,guardado
