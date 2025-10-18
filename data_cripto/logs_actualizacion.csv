@@ -1068,3 +1068,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 04:44:13,top_holders,xlsx,guardado
 2025-10-18 04:44:14,top_holders,parquet,guardado
 2025-10-18 04:45:10,top_flow,csv,guardado
+2025-10-18 04:45:12,top_flow,xlsx,guardado
