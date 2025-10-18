@@ -3179,3 +3179,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 13:03:26,top_volume,parquet,guardado
 2025-10-18 13:03:29,transfers,xlsx,guardado
 2025-10-18 13:03:31,transfers,parquet,guardado
+2025-10-18 13:05:12,top_holders,csv,guardado
