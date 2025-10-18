@@ -4922,3 +4922,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 20:03:30,transfers,xlsx,guardado
 2025-10-18 20:03:30,top_volume,parquet,guardado
 2025-10-18 20:03:31,transfers,parquet,error
+2025-10-18 20:05:11,top_holders,csv,guardado
