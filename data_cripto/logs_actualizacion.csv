@@ -5029,3 +5029,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 20:30:19,top_flow,parquet,guardado
 2025-10-18 20:30:21,trending,csv,guardado
 2025-10-18 20:30:23,trending,xlsx,guardado
+2025-10-18 20:30:25,trending,parquet,guardado
