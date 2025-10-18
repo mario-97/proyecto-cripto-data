@@ -5419,3 +5419,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 22:03:29,transfers,csv,guardado
 2025-10-18 22:03:29,top_volume,parquet,guardado
 2025-10-18 22:03:31,transfers,xlsx,guardado
+2025-10-18 22:03:33,transfers,parquet,guardado
