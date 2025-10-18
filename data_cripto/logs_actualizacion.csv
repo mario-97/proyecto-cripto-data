@@ -2152,3 +2152,5 @@ fecha_hora,archivo,formato,status
 2025-10-18 09:00:15,trending,xlsx,guardado
 2025-10-18 09:00:15,btc_cdd,xlsx,guardado
 2025-10-18 09:00:16,trending,parquet,guardado
+2025-10-18 09:00:17,btc_cdd,parquet,guardado
+2025-10-18 09:00:19,top_volume,csv,guardado
