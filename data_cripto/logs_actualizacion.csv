@@ -555,3 +555,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 02:42:35,top_volume,xlsx,guardado
 2025-10-18 02:42:37,top_volume,parquet,guardado
 2025-10-18 02:43:28,transfers,csv,guardado
+2025-10-18 02:43:30,transfers,xlsx,guardado
