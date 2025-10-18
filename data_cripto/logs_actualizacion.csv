@@ -2786,3 +2786,5 @@ fecha_hora,archivo,formato,status
 2025-10-18 11:30:39,montecarlo_lineas_simulacion,csv,guardado
 2025-10-18 11:30:39,top_volume,csv,guardado
 2025-10-18 11:30:41,montecarlo_lineas_simulacion,xlsx,guardado
+2025-10-18 11:30:41,top_volume,xlsx,error
+2025-10-18 11:30:42,top_volume,parquet,guardado
