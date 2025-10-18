@@ -631,3 +631,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 03:00:12,btc_hashrate,parquet,guardado
 2025-10-18 03:00:13,trending,csv,guardado
 2025-10-18 03:00:14,trending,xlsx,guardado
+2025-10-18 03:00:15,btc_miner_reserves,csv,error
