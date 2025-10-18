@@ -4917,3 +4917,7 @@ fecha_hora,archivo,formato,status
 2025-10-18 20:03:22,trending,xlsx,guardado
 2025-10-18 20:03:24,trending,parquet,guardado
 2025-10-18 20:03:27,top_volume,csv,guardado
+2025-10-18 20:03:27,transfers,csv,guardado
+2025-10-18 20:03:29,top_volume,xlsx,guardado
+2025-10-18 20:03:30,transfers,xlsx,guardado
+2025-10-18 20:03:30,top_volume,parquet,guardado
