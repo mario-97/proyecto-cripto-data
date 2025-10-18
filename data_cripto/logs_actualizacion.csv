@@ -5239,3 +5239,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 21:21:10,top_flow,parquet,guardado
 2025-10-18 21:21:13,trending,csv,guardado
 2025-10-18 21:21:15,trending,xlsx,guardado
+2025-10-18 21:21:16,trending,parquet,guardado
