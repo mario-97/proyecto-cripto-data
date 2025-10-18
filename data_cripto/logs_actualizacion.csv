@@ -2015,3 +2015,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 08:29:10,top_holders,csv,guardado
 2025-10-18 08:29:13,top_holders,xlsx,guardado
 2025-10-18 08:29:15,top_holders,parquet,guardado
+2025-10-18 08:30:17,top_flow,csv,guardado
