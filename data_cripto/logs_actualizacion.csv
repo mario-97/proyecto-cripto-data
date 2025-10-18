@@ -626,3 +626,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 03:00:08,top_flow,csv,guardado
 2025-10-18 03:00:09,btc_hashrate,csv,guardado
 2025-10-18 03:00:09,top_flow,xlsx,guardado
+2025-10-18 03:00:11,btc_hashrate,xlsx,guardado
