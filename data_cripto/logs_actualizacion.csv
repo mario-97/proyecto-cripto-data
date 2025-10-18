@@ -5512,3 +5512,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 22:26:16,top_holders,parquet,guardado
 2025-10-18 22:27:13,top_flow,csv,guardado
 2025-10-18 22:27:15,top_flow,xlsx,guardado
+2025-10-18 22:27:17,top_flow,parquet,guardado
