@@ -1238,3 +1238,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 05:24:03,top_flow,csv,guardado
 2025-10-18 05:24:05,top_flow,xlsx,guardado
 2025-10-18 05:24:06,top_flow,parquet,guardado
+2025-10-18 05:24:08,trending,csv,guardado
