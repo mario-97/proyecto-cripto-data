@@ -636,3 +636,5 @@ fecha_hora,archivo,formato,status
 2025-10-18 03:00:17,btc_miner_reserves,xlsx,guardado
 2025-10-18 03:00:18,top_volume,csv,guardado
 2025-10-18 03:00:19,btc_miner_reserves,parquet,guardado
+2025-10-18 03:00:19,top_volume,xlsx,error
+2025-10-18 03:00:20,top_volume,parquet,guardado
