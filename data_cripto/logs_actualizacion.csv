@@ -5830,3 +5830,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 23:42:20,top_volume,parquet,guardado
 2025-10-18 23:43:25,transfers,csv,guardado
 2025-10-18 23:43:28,transfers,xlsx,guardado
+2025-10-18 23:43:30,transfers,parquet,guardado
