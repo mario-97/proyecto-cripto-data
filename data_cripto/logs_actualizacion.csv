@@ -4210,3 +4210,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 17:12:17,trending,parquet,guardado
 2025-10-18 17:12:20,top_volume,csv,guardado
 2025-10-18 17:12:21,top_volume,xlsx,guardado
+2025-10-18 17:12:23,top_volume,parquet,guardado
