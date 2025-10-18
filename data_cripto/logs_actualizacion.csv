@@ -980,3 +980,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 04:23:28,transfers,csv,guardado
 2025-10-18 04:23:30,transfers,xlsx,guardado
 2025-10-18 04:23:32,transfers,parquet,guardado
+2025-10-18 04:24:12,top_flow,csv,guardado
