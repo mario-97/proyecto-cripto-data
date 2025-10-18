@@ -1744,3 +1744,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 07:23:39,transfers,parquet,guardado
 2025-10-18 07:24:11,top_flow,csv,guardado
 2025-10-18 07:24:13,top_flow,xlsx,guardado
+2025-10-18 07:24:15,top_flow,parquet,guardado
