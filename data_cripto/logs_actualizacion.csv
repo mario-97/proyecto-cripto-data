@@ -5020,3 +5020,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 20:27:18,trending,parquet,guardado
 2025-10-18 20:27:20,top_volume,csv,guardado
 2025-10-18 20:27:22,top_volume,xlsx,guardado
+2025-10-18 20:27:23,top_volume,parquet,guardado
