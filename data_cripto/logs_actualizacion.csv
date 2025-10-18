@@ -5120,3 +5120,4 @@ fecha_hora,archivo,formato,status
 2025-10-18 20:51:28,top_volume,csv,guardado
 2025-10-18 20:51:30,top_volume,xlsx,guardado
 2025-10-18 20:51:32,top_volume,parquet,guardado
+2025-10-18 20:53:10,top_holders,csv,guardado
