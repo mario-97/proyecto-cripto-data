@@ -1133,3 +1133,5 @@ fecha_hora,archivo,formato,status
 2025-10-18 05:00:09,btc_mvrvz_sth,csv,guardado
 2025-10-18 05:00:12,btc_mvrvz_sth,xlsx,guardado
 2025-10-18 05:00:13,btc_mvrvz_sth,parquet,guardado
+2025-10-18 05:00:14,top_flow,csv,guardado
+2025-10-18 05:00:15,top_flow,xlsx,guardado
