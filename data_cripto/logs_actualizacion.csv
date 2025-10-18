@@ -2148,3 +2148,5 @@ fecha_hora,archivo,formato,status
 2025-10-18 09:00:10,top_flow,xlsx,error
 2025-10-18 09:00:12,top_flow,parquet,guardado
 2025-10-18 09:00:13,btc_cdd,csv,guardado
+2025-10-18 09:00:14,trending,csv,guardado
+2025-10-18 09:00:15,trending,xlsx,guardado
