@@ -7177,3 +7177,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 05:02:16,top_holders,parquet,guardado
 2025-10-19 05:03:15,top_flow,csv,guardado
 2025-10-19 05:03:17,top_flow,xlsx,guardado
+2025-10-19 05:03:19,top_flow,parquet,guardado
