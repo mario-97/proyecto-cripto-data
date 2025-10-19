@@ -10449,3 +10449,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 18:03:19,trending,xlsx,guardado
 2025-10-19 18:03:21,trending,parquet,guardado
 2025-10-19 18:03:23,top_volume,csv,guardado
+2025-10-19 18:03:25,transfers,csv,guardado
