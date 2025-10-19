@@ -6656,3 +6656,5 @@ fecha_hora,archivo,formato,status
 2025-10-19 03:00:10,btc_hashrate,csv,guardado
 2025-10-19 03:00:12,btc_hashrate,xlsx,guardado
 2025-10-19 03:00:14,btc_hashrate,parquet,guardado
+2025-10-19 03:00:15,top_flow,csv,guardado
+2025-10-19 03:00:17,top_flow,xlsx,guardado
