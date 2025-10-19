@@ -8955,3 +8955,5 @@ fecha_hora,archivo,formato,status
 2025-10-19 12:03:19,trending,xlsx,guardado
 2025-10-19 12:03:20,trending,parquet,guardado
 2025-10-19 12:03:23,top_volume,csv,guardado
+2025-10-19 12:03:25,top_volume,xlsx,guardado
+2025-10-19 12:03:26,transfers,csv,guardado
