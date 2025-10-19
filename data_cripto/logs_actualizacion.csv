@@ -8822,3 +8822,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 11:30:45,montecarlo_estadistica_descriptiva,xlsx,error
 2025-10-19 11:30:45,top_volume,parquet,guardado
 2025-10-19 11:30:46,montecarlo_estadistica_descriptiva,parquet,error
+2025-10-19 11:32:11,top_holders,csv,guardado
