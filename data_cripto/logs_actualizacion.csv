@@ -6043,3 +6043,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 00:33:36,top_volume,parquet,guardado
 2025-10-19 00:35:12,top_holders,csv,guardado
 2025-10-19 00:35:15,top_holders,xlsx,guardado
+2025-10-19 00:35:18,top_holders,parquet,guardado
