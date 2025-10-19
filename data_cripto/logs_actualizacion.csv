@@ -7030,3 +7030,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 04:27:22,trending,parquet,guardado
 2025-10-19 04:27:24,top_volume,csv,guardado
 2025-10-19 04:27:26,top_volume,xlsx,guardado
+2025-10-19 04:27:28,top_volume,parquet,guardado
