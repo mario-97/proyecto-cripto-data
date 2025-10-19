@@ -6151,3 +6151,5 @@ fecha_hora,archivo,formato,status
 2025-10-19 01:00:14,top_flow,csv,error
 2025-10-19 01:00:15,btc_mvrvz,parquet,guardado
 2025-10-19 01:00:17,top_flow,xlsx,guardado
+2025-10-19 01:00:18,btc_nupl,csv,guardado
+2025-10-19 01:00:18,top_flow,parquet,error
