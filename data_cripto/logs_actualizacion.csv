@@ -7009,3 +7009,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 04:23:16,top_holders,parquet,guardado
 2025-10-19 04:23:27,transfers,csv,guardado
 2025-10-19 04:23:30,transfers,xlsx,guardado
+2025-10-19 04:23:32,transfers,parquet,guardado
