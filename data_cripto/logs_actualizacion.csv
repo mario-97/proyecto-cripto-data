@@ -10465,3 +10465,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 18:06:17,trending,parquet,guardado
 2025-10-19 18:06:20,top_volume,csv,guardado
 2025-10-19 18:06:22,top_volume,xlsx,guardado
+2025-10-19 18:06:24,top_volume,parquet,guardado
