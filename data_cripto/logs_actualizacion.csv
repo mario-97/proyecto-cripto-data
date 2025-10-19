@@ -10531,3 +10531,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 18:23:17,top_holders,parquet,guardado
 2025-10-19 18:23:29,transfers,csv,guardado
 2025-10-19 18:23:32,transfers,xlsx,guardado
+2025-10-19 18:23:34,transfers,parquet,guardado
