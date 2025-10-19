@@ -10783,3 +10783,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 19:23:32,transfers,parquet,guardado
 2025-10-19 19:24:22,top_flow,csv,guardado
 2025-10-19 19:24:24,top_flow,xlsx,guardado
+2025-10-19 19:24:26,top_flow,parquet,guardado
