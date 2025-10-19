@@ -7090,3 +7090,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 04:42:16,trending,parquet,guardado
 2025-10-19 04:42:19,top_volume,csv,guardado
 2025-10-19 04:42:20,top_volume,xlsx,guardado
+2025-10-19 04:42:22,top_volume,parquet,guardado
