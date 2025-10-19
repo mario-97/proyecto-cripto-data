@@ -11555,3 +11555,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 22:30:05,top_flow,csv,guardado
 2025-10-19 22:30:07,top_flow,xlsx,guardado
 2025-10-19 22:30:09,top_flow,parquet,guardado
+2025-10-19 22:30:12,trending,csv,guardado
