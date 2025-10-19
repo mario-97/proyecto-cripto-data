@@ -8279,3 +8279,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 09:23:30,transfers,csv,guardado
 2025-10-19 09:23:32,transfers,xlsx,guardado
 2025-10-19 09:23:34,transfers,parquet,guardado
+2025-10-19 09:24:15,top_flow,csv,guardado
