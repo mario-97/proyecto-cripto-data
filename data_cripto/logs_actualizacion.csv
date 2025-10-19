@@ -8812,3 +8812,5 @@ fecha_hora,archivo,formato,status
 2025-10-19 11:30:35,trending,csv,guardado
 2025-10-19 11:30:36,montecarlo_histograma,parquet,guardado
 2025-10-19 11:30:37,trending,xlsx,guardado
+2025-10-19 11:30:37,montecarlo_lineas_simulacion,csv,guardado
+2025-10-19 11:30:38,trending,parquet,guardado
