@@ -11528,3 +11528,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 22:23:26,transfers,csv,guardado
 2025-10-19 22:23:29,transfers,xlsx,guardado
 2025-10-19 22:23:31,transfers,parquet,guardado
+2025-10-19 22:24:12,top_flow,csv,guardado
