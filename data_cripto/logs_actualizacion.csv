@@ -10885,3 +10885,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 19:48:17,top_flow,parquet,guardado
 2025-10-19 19:48:19,trending,csv,guardado
 2025-10-19 19:48:21,trending,xlsx,guardado
+2025-10-19 19:48:23,trending,parquet,guardado
