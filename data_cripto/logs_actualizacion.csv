@@ -8104,3 +8104,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 08:42:29,top_volume,parquet,guardado
 2025-10-19 08:43:31,transfers,csv,guardado
 2025-10-19 08:43:34,transfers,xlsx,guardado
+2025-10-19 08:43:36,transfers,parquet,guardado
