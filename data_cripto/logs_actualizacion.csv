@@ -8431,3 +8431,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 10:00:29,top_flow,parquet,guardado
 2025-10-19 10:00:32,trending,csv,guardado
 2025-10-19 10:00:33,trending,xlsx,guardado
+2025-10-19 10:00:35,trending,parquet,guardado
