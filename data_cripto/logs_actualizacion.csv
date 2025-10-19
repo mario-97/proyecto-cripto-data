@@ -10429,3 +10429,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 17:57:25,top_volume,parquet,guardado
 2025-10-19 17:59:11,top_holders,csv,guardado
 2025-10-19 17:59:14,top_holders,xlsx,guardado
+2025-10-19 17:59:16,top_holders,parquet,guardado
