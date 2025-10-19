@@ -11188,3 +11188,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 21:00:21,top_volume,parquet,guardado
 2025-10-19 21:02:10,top_holders,csv,guardado
 2025-10-19 21:02:14,top_holders,xlsx,guardado
+2025-10-19 21:02:16,top_holders,parquet,guardado
