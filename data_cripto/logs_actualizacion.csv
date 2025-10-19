@@ -9778,3 +9778,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 15:21:18,trending,parquet,guardado
 2025-10-19 15:21:20,top_volume,csv,guardado
 2025-10-19 15:21:22,top_volume,xlsx,guardado
+2025-10-19 15:21:24,top_volume,parquet,guardado
