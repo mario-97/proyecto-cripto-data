@@ -6652,3 +6652,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 02:59:16,top_holders,parquet,guardado
 2025-10-19 03:00:02,btc_sopr,csv,guardado
 2025-10-19 03:00:04,btc_sopr,xlsx,guardado
+2025-10-19 03:00:06,btc_sopr,parquet,guardado
