@@ -8682,3 +8682,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 11:00:14,top_flow,parquet,guardado
 2025-10-19 11:00:15,btc_change_price,parquet,guardado
 2025-10-19 11:00:16,trending,csv,error
+2025-10-19 11:00:18,trending,xlsx,guardado
