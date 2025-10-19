@@ -8611,3 +8611,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 10:42:24,top_volume,parquet,guardado
 2025-10-19 10:43:28,transfers,csv,guardado
 2025-10-19 10:43:31,transfers,xlsx,guardado
+2025-10-19 10:43:33,transfers,parquet,guardado
