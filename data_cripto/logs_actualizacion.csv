@@ -10704,3 +10704,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 19:03:31,top_volume,parquet,guardado
 2025-10-19 19:03:31,transfers,parquet,error
 2025-10-19 19:05:11,top_holders,csv,guardado
+2025-10-19 19:05:14,top_holders,xlsx,guardado
