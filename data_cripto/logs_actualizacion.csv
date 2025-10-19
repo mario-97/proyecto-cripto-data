@@ -8174,3 +8174,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 09:00:07,btc_etf_total,csv,guardado
 2025-10-19 09:00:09,btc_etf_total,xlsx,guardado
 2025-10-19 09:00:11,btc_etf_total,parquet,guardado
+2025-10-19 09:00:13,top_flow,csv,guardado
