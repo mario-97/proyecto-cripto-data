@@ -8182,3 +8182,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 09:00:18,btc_cdd,parquet,error
 2025-10-19 09:00:18,trending,csv,guardado
 2025-10-19 09:00:20,trending,xlsx,guardado
+2025-10-19 09:00:22,trending,parquet,guardado
