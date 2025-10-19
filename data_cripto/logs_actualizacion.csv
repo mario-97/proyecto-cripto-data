@@ -8178,3 +8178,6 @@ fecha_hora,archivo,formato,status
 2025-10-19 09:00:15,top_flow,xlsx,error
 2025-10-19 09:00:15,btc_cdd,csv,guardado
 2025-10-19 09:00:16,top_flow,parquet,guardado
+2025-10-19 09:00:17,btc_cdd,xlsx,guardado
+2025-10-19 09:00:18,btc_cdd,parquet,error
+2025-10-19 09:00:18,trending,csv,guardado
