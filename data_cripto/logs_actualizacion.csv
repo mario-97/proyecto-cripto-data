@@ -11125,3 +11125,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 20:45:18,trending,parquet,guardado
 2025-10-19 20:45:21,top_volume,csv,guardado
 2025-10-19 20:45:23,top_volume,xlsx,guardado
+2025-10-19 20:45:25,top_volume,parquet,guardado
