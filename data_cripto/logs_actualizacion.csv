@@ -11489,3 +11489,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 22:14:12,top_holders,csv,guardado
 2025-10-19 22:14:16,top_holders,xlsx,guardado
 2025-10-19 22:14:18,top_holders,parquet,guardado
+2025-10-19 22:15:13,top_flow,csv,guardado
