@@ -8678,3 +8678,6 @@ fecha_hora,archivo,formato,status
 2025-10-19 11:00:03,btc_change_price,csv,guardado
 2025-10-19 11:00:09,top_flow,csv,guardado
 2025-10-19 11:00:12,top_flow,xlsx,guardado
+2025-10-19 11:00:12,btc_change_price,xlsx,guardado
+2025-10-19 11:00:14,top_flow,parquet,guardado
+2025-10-19 11:00:15,btc_change_price,parquet,guardado
