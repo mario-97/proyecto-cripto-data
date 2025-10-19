@@ -11629,3 +11629,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 22:47:18,top_holders,parquet,guardado
 2025-10-19 22:48:19,top_flow,csv,guardado
 2025-10-19 22:48:21,top_flow,xlsx,guardado
+2025-10-19 22:48:23,top_flow,parquet,guardado
