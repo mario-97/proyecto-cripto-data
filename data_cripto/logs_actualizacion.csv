@@ -7160,3 +7160,8 @@ fecha_hora,archivo,formato,status
 2025-10-19 05:00:02,btc_nrpl_usd,csv,guardado
 2025-10-19 05:00:05,btc_nrpl_usd,xlsx,guardado
 2025-10-19 05:00:06,btc_nrpl_usd,parquet,guardado
+2025-10-19 05:00:07,top_flow,csv,guardado
+2025-10-19 05:00:09,top_flow,xlsx,guardado
+2025-10-19 05:00:10,btc_mvrvz_sth,csv,guardado
+2025-10-19 05:00:11,top_flow,parquet,guardado
+2025-10-19 05:00:12,btc_mvrvz_sth,xlsx,guardado
