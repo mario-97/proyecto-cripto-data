@@ -9289,3 +9289,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 13:23:32,transfers,parquet,guardado
 2025-10-19 13:24:28,top_flow,csv,guardado
 2025-10-19 13:24:30,top_flow,xlsx,guardado
+2025-10-19 13:24:31,top_flow,parquet,guardado
