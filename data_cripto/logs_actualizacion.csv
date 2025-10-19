@@ -7675,3 +7675,4 @@ fecha_hora,archivo,formato,status
 2025-10-19 07:00:22,btc_sopr_sth,parquet,error
 2025-10-19 07:00:23,trending,csv,guardado
 2025-10-19 07:00:25,trending,xlsx,guardado
+2025-10-19 07:00:26,trending,parquet,guardado
