@@ -17136,3 +17136,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 20:45:27,top_flow,parquet,guardado
 2025-10-20 20:45:30,trending,csv,guardado
 2025-10-20 20:45:32,trending,xlsx,guardado
+2025-10-20 20:45:34,trending,parquet,guardado
