@@ -16131,3 +16131,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 16:43:02,top_volume,parquet,guardado
 2025-10-20 16:43:30,transfers,csv,guardado
 2025-10-20 16:43:33,transfers,xlsx,guardado
+2025-10-20 16:43:36,transfers,parquet,guardado
