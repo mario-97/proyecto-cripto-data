@@ -16161,3 +16161,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 16:50:19,top_holders,parquet,guardado
 2025-10-20 16:51:33,top_flow,csv,guardado
 2025-10-20 16:51:36,top_flow,xlsx,guardado
+2025-10-20 16:51:38,top_flow,parquet,guardado
