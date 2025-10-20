@@ -14388,3 +14388,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 09:42:37,top_volume,parquet,guardado
 2025-10-20 09:43:28,transfers,csv,guardado
 2025-10-20 09:43:32,transfers,xlsx,guardado
+2025-10-20 09:43:35,transfers,parquet,guardado
