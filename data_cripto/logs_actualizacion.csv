@@ -14849,3 +14849,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 11:30:47,top_volume,parquet,error
 2025-10-20 11:30:48,montecarlo_estadistica_descriptiva,parquet,error
 2025-10-20 11:32:12,top_holders,csv,guardado
+2025-10-20 11:32:16,top_holders,xlsx,guardado
