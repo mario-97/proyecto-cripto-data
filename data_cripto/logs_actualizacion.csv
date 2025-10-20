@@ -12490,3 +12490,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 02:12:18,trending,parquet,guardado
 2025-10-20 02:12:21,top_volume,csv,guardado
 2025-10-20 02:12:23,top_volume,xlsx,guardado
+2025-10-20 02:12:25,top_volume,parquet,guardado
