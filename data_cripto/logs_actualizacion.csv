@@ -14199,3 +14199,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 09:00:05,btc_etf_flow,parquet,guardado
 2025-10-20 09:00:08,btc_etf_total,csv,guardado
 2025-10-20 09:00:10,btc_etf_total,xlsx,guardado
+2025-10-20 09:00:13,btc_etf_total,parquet,guardado
+2025-10-20 09:00:14,top_flow,csv,guardado
