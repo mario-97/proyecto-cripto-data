@@ -16469,3 +16469,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 18:03:34,top_volume,xlsx,error
 2025-10-20 18:03:36,top_volume,parquet,guardado
 2025-10-20 18:05:11,top_holders,csv,guardado
+2025-10-20 18:05:14,top_holders,xlsx,guardado
