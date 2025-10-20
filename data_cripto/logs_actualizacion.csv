@@ -14846,3 +14846,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 11:30:45,montecarlo_estadistica_descriptiva,csv,guardado
 2025-10-20 11:30:45,top_volume,xlsx,error
 2025-10-20 11:30:47,montecarlo_estadistica_descriptiva,xlsx,error
+2025-10-20 11:30:47,top_volume,parquet,error
+2025-10-20 11:30:48,montecarlo_estadistica_descriptiva,parquet,error
