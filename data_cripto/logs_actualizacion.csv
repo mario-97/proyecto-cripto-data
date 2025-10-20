@@ -13702,3 +13702,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 07:00:18,top_flow,parquet,guardado
 2025-10-20 07:00:20,btc_sopr_sth,csv,guardado
 2025-10-20 07:00:21,trending,csv,guardado
+2025-10-20 07:00:22,btc_sopr_sth,xlsx,error
