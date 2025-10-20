@@ -12709,3 +12709,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 03:03:21,trending,parquet,guardado
 2025-10-20 03:03:24,top_volume,csv,guardado
 2025-10-20 03:03:27,top_volume,xlsx,guardado
+2025-10-20 03:03:29,transfers,csv,error
