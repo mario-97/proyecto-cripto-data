@@ -15560,3 +15560,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 14:23:14,top_holders,xlsx,guardado
 2025-10-20 14:23:17,top_holders,parquet,guardado
 2025-10-20 14:23:27,transfers,csv,guardado
+2025-10-20 14:23:31,transfers,xlsx,guardado
