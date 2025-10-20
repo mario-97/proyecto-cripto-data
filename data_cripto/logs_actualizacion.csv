@@ -13190,3 +13190,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 05:00:02,btc_nrpl_usd,csv,guardado
 2025-10-20 05:00:05,btc_nrpl_usd,xlsx,guardado
 2025-10-20 05:00:08,btc_nrpl_usd,parquet,guardado
+2025-10-20 05:00:11,btc_mvrvz_sth,csv,guardado
