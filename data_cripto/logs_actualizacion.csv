@@ -16208,3 +16208,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 17:02:15,top_holders,xlsx,guardado
 2025-10-20 17:02:17,top_holders,parquet,guardado
 2025-10-20 17:03:29,transfers,csv,guardado
+2025-10-20 17:03:32,transfers,xlsx,guardado
+2025-10-20 17:03:32,top_flow,csv,error
