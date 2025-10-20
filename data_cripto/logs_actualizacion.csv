@@ -15360,3 +15360,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 13:33:58,top_volume,parquet,guardado
 2025-10-20 13:35:19,top_holders,csv,guardado
 2025-10-20 13:35:24,top_holders,xlsx,guardado
+2025-10-20 13:35:27,top_holders,parquet,guardado
