@@ -16210,3 +16210,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 17:03:29,transfers,csv,guardado
 2025-10-20 17:03:32,transfers,xlsx,guardado
 2025-10-20 17:03:32,top_flow,csv,error
+2025-10-20 17:03:35,top_flow,xlsx,guardado
