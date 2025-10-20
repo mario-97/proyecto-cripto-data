@@ -15315,3 +15315,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 13:23:36,transfers,parquet,guardado
 2025-10-20 13:24:31,top_flow,csv,guardado
 2025-10-20 13:24:34,top_flow,xlsx,guardado
+2025-10-20 13:24:36,top_flow,parquet,guardado
