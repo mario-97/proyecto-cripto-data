@@ -16878,3 +16878,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 19:42:38,top_volume,parquet,guardado
 2025-10-20 19:43:27,transfers,csv,guardado
 2025-10-20 19:43:31,transfers,xlsx,guardado
+2025-10-20 19:43:33,transfers,parquet,guardado
