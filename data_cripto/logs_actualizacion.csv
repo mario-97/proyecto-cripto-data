@@ -17155,3 +17155,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 20:50:11,top_holders,csv,guardado
 2025-10-20 20:50:14,top_holders,xlsx,guardado
 2025-10-20 20:50:17,top_holders,parquet,guardado
+2025-10-20 20:51:15,top_flow,csv,guardado
