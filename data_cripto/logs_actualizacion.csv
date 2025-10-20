@@ -12203,3 +12203,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 01:03:22,top_volume,csv,guardado
 2025-10-20 01:03:24,top_volume,xlsx,guardado
 2025-10-20 01:03:26,top_volume,parquet,guardado
+2025-10-20 01:03:27,transfers,csv,error
