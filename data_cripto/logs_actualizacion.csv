@@ -17433,3 +17433,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 21:57:14,top_flow,parquet,guardado
 2025-10-20 21:57:16,trending,csv,guardado
 2025-10-20 21:57:18,trending,xlsx,guardado
+2025-10-20 21:57:20,trending,parquet,guardado
