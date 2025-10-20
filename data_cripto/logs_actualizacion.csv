@@ -12688,3 +12688,6 @@ fecha_hora,archivo,formato,status
 2025-10-20 03:00:13,btc_hashrate,xlsx,guardado
 2025-10-20 03:00:14,top_flow,xlsx,guardado
 2025-10-20 03:00:16,btc_hashrate,parquet,guardado
+2025-10-20 03:00:16,top_flow,parquet,error
+2025-10-20 03:00:18,trending,csv,guardado
+2025-10-20 03:00:19,btc_miner_reserves,csv,guardado
