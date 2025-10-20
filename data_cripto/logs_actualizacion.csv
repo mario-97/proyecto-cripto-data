@@ -14628,3 +14628,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 10:41:19,top_holders,parquet,guardado
 2025-10-20 10:42:19,top_flow,csv,guardado
 2025-10-20 10:42:22,top_flow,xlsx,guardado
+2025-10-20 10:42:24,top_flow,parquet,guardado
