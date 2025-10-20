@@ -15228,3 +15228,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 13:03:30,transfers,xlsx,error
 2025-10-20 13:03:32,top_flow,xlsx,guardado
 2025-10-20 13:03:32,transfers,parquet,error
+2025-10-20 13:03:34,top_flow,parquet,guardado
