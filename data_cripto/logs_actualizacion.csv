@@ -14842,3 +14842,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 11:30:40,trending,parquet,guardado
 2025-10-20 11:30:41,montecarlo_lineas_simulacion,xlsx,guardado
 2025-10-20 11:30:43,montecarlo_lineas_simulacion,parquet,guardado
+2025-10-20 11:30:43,top_volume,csv,guardado
+2025-10-20 11:30:45,montecarlo_estadistica_descriptiva,csv,guardado
