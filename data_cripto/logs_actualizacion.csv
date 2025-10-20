@@ -13192,3 +13192,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 05:00:08,btc_nrpl_usd,parquet,guardado
 2025-10-20 05:00:11,btc_mvrvz_sth,csv,guardado
 2025-10-20 05:00:13,top_flow,csv,guardado
+2025-10-20 05:00:14,btc_mvrvz_sth,xlsx,guardado
+2025-10-20 05:00:15,top_flow,xlsx,guardado
