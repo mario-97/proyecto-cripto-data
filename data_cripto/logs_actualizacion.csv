@@ -12208,3 +12208,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 01:03:32,transfers,parquet,guardado
 2025-10-20 01:05:17,top_holders,csv,guardado
 2025-10-20 01:05:20,top_holders,xlsx,guardado
+2025-10-20 01:05:23,top_holders,parquet,guardado
