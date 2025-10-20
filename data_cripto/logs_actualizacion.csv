@@ -12183,3 +12183,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 01:00:16,top_flow,parquet,guardado
 2025-10-20 01:00:16,btc_mvrvz,parquet,guardado
 2025-10-20 01:00:19,trending,csv,guardado
+2025-10-20 01:00:20,btc_nupl,csv,guardado
+2025-10-20 01:00:21,trending,xlsx,guardado
