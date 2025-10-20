@@ -12691,3 +12691,6 @@ fecha_hora,archivo,formato,status
 2025-10-20 03:00:16,top_flow,parquet,error
 2025-10-20 03:00:18,trending,csv,guardado
 2025-10-20 03:00:19,btc_miner_reserves,csv,guardado
+2025-10-20 03:00:20,trending,xlsx,guardado
+2025-10-20 03:00:22,btc_miner_reserves,xlsx,guardado
+2025-10-20 03:00:22,trending,parquet,error
