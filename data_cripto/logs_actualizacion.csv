@@ -12985,3 +12985,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 04:09:19,trending,parquet,guardado
 2025-10-20 04:09:22,top_volume,csv,guardado
 2025-10-20 04:09:24,top_volume,xlsx,guardado
+2025-10-20 04:09:26,top_volume,parquet,guardado
