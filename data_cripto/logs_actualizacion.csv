@@ -12683,3 +12683,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 03:00:02,btc_sopr,csv,guardado
 2025-10-20 03:00:04,btc_sopr,xlsx,guardado
 2025-10-20 03:00:07,btc_sopr,parquet,guardado
+2025-10-20 03:00:10,btc_hashrate,csv,guardado
