@@ -12790,3 +12790,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 03:23:17,top_holders,parquet,guardado
 2025-10-20 03:23:28,transfers,csv,guardado
 2025-10-20 03:23:31,transfers,xlsx,guardado
+2025-10-20 03:23:33,transfers,parquet,guardado
