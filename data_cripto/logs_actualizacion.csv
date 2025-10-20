@@ -15475,3 +15475,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 14:03:33,transfers,csv,guardado
 2025-10-20 14:03:36,transfers,xlsx,guardado
 2025-10-20 14:03:37,top_flow,csv,guardado
+2025-10-20 14:03:39,transfers,parquet,error
