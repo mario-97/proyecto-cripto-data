@@ -16287,3 +16287,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 17:21:29,top_flow,parquet,guardado
 2025-10-20 17:21:31,trending,csv,guardado
 2025-10-20 17:21:33,trending,xlsx,guardado
+2025-10-20 17:21:35,trending,parquet,guardado
