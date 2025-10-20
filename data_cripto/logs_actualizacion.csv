@@ -15945,3 +15945,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 15:54:41,top_volume,parquet,guardado
 2025-10-20 15:56:16,top_holders,csv,guardado
 2025-10-20 15:56:20,top_holders,xlsx,guardado
+2025-10-20 15:56:22,top_holders,parquet,guardado
