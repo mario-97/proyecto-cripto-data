@@ -17463,3 +17463,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 22:03:30,transfers,xlsx,guardado
 2025-10-20 22:03:31,top_volume,xlsx,guardado
 2025-10-20 22:03:32,transfers,parquet,guardado
+2025-10-20 22:03:33,top_volume,parquet,guardado
+2025-10-20 22:05:10,top_holders,csv,guardado
