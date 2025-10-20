@@ -12187,3 +12187,5 @@ fecha_hora,archivo,formato,status
 2025-10-20 01:00:21,trending,xlsx,guardado
 2025-10-20 01:00:22,btc_nupl,xlsx,guardado
 2025-10-20 01:00:23,trending,parquet,guardado
+2025-10-20 01:00:24,btc_nupl,parquet,guardado
+2025-10-20 01:00:26,top_volume,csv,guardado
