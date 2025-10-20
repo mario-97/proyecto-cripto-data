@@ -14704,3 +14704,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 11:00:03,btc_change_price,csv,guardado
 2025-10-20 11:00:13,btc_change_price,xlsx,guardado
 2025-10-20 11:00:15,top_flow,csv,error
+2025-10-20 11:00:16,btc_change_price,parquet,error
