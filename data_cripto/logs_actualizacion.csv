@@ -12433,3 +12433,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 01:59:16,top_holders,parquet,guardado
 2025-10-20 02:00:06,top_flow,csv,guardado
 2025-10-20 02:00:09,top_flow,xlsx,guardado
+2025-10-20 02:00:11,top_flow,parquet,guardado
