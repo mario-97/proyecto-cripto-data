@@ -13040,3 +13040,4 @@ fecha_hora,archivo,formato,status
 2025-10-20 04:23:29,transfers,csv,guardado
 2025-10-20 04:23:31,transfers,xlsx,guardado
 2025-10-20 04:23:34,transfers,parquet,guardado
+2025-10-20 04:24:13,top_flow,csv,guardado
