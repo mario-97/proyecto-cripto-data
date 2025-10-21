@@ -21099,3 +21099,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 12:30:19,top_flow,parquet,guardado
 2025-10-21 12:30:21,trending,csv,guardado
 2025-10-21 12:30:23,trending,xlsx,guardado
+2025-10-21 12:30:26,trending,parquet,guardado
