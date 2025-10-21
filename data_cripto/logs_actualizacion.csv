@@ -21233,4 +21233,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 13:03:32,transfers,xlsx,guardado
 2025-10-21 13:03:33,top_flow,csv,guardado
 2025-10-21 13:03:35,top_flow,xlsx,error
-ardado
+ardado,,,
+2025-10-21 13:03:37,top_flow,parquet,guardado
