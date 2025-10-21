@@ -18700,3 +18700,6 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:00:07,btc_sopr,parquet,guardado
 2025-10-21 03:00:08,top_flow,xlsx,error
 2025-10-21 03:00:09,top_flow,parquet,guardado
+2025-10-21 03:00:11,btc_hashrate,csv,error
+2025-10-21 03:00:12,trending,csv,guardado
+2025-10-21 03:00:13,btc_hashrate,xlsx,guardado
