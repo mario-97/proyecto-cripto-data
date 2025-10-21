@@ -18206,3 +18206,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 01:00:24,top_volume,parquet,guardado
 2025-10-21 01:00:25,btc_nupl,parquet,guardado
 2025-10-21 01:02:11,top_holders,csv,guardado
+2025-10-21 01:02:15,top_holders,xlsx,guardado
