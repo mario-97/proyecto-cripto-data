@@ -21235,3 +21235,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 13:03:35,top_flow,xlsx,error
 ardado,,,
 2025-10-21 13:03:37,top_flow,parquet,guardado
+2025-10-21 13:03:40,trending,csv,guardado
