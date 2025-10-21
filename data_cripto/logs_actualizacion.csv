@@ -20219,3 +20219,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 09:00:11,btc_etf_total,xlsx,guardado
 2025-10-21 09:00:13,btc_etf_total,parquet,guardado
 2025-10-21 09:00:17,btc_cdd,csv,guardado
+2025-10-21 09:00:20,btc_cdd,xlsx,guardado
