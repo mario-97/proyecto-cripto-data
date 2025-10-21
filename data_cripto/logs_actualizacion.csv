@@ -18198,3 +18198,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 01:00:14,trending,xlsx,guardado
 2025-10-21 01:00:15,btc_mvrvz,xlsx,guardado
 2025-10-21 01:00:17,trending,parquet,guardado
+2025-10-21 01:00:17,btc_mvrvz,parquet,error
+2025-10-21 01:00:20,top_volume,csv,guardado
