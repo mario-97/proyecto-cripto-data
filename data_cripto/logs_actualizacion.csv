@@ -20836,3 +20836,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 11:29:10,top_holders,csv,guardado
 2025-10-21 11:29:15,top_holders,xlsx,guardado
 2025-10-21 11:29:17,top_holders,parquet,guardado
+2025-10-21 11:30:30,montecarlo_histograma,csv,guardado
