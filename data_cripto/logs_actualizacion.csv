@@ -18729,3 +18729,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:03:30,transfers,parquet,guardado
 2025-10-21 03:05:10,top_holders,csv,guardado
 2025-10-21 03:05:15,top_holders,xlsx,guardado
+2025-10-21 03:05:17,top_holders,parquet,guardado
