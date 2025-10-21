@@ -18698,3 +18698,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:00:05,btc_sopr,xlsx,guardado
 2025-10-21 03:00:05,top_flow,csv,guardado
 2025-10-21 03:00:07,btc_sopr,parquet,guardado
+2025-10-21 03:00:08,top_flow,xlsx,error
+2025-10-21 03:00:09,top_flow,parquet,guardado
