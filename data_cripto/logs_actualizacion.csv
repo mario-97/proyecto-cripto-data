@@ -19719,3 +19719,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 07:00:27,trending,xlsx,guardado
 2025-10-21 07:00:29,btc_sopr_sth,xlsx,error
 2025-10-21 07:00:30,trending,parquet,guardado
+2025-10-21 07:00:31,btc_sopr_sth,parquet,error
