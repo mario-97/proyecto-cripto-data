@@ -20125,3 +20125,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 08:38:10,top_holders,csv,guardado
 2025-10-21 08:38:14,top_holders,xlsx,guardado
 2025-10-21 08:38:17,top_holders,parquet,guardado
+2025-10-21 08:39:13,top_flow,csv,guardado
