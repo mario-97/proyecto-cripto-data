@@ -22703,3 +22703,5 @@ ardado,,,
 2025-10-21 19:03:27,top_flow,parquet,guardado
 2025-10-21 19:03:29,trending,csv,guardado
 2025-10-21 19:03:31,transfers,csv,error
+2025-10-21 19:03:31,trending,xlsx,guardado
+2025-10-21 19:03:34,trending,parquet,guardado
