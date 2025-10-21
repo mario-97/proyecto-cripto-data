@@ -21561,3 +21561,5 @@ ardado,,,
 2025-10-21 21:03:27,trending,parquet,guardado
 2025-10-21 21:03:28,transfers,xlsx,guardado
 2025-10-21 21:03:30,top_volume,csv,guardado
+2025-10-21 21:03:30,transfers,parquet,error
+2025-10-21 21:03:33,top_volume,xlsx,guardado
