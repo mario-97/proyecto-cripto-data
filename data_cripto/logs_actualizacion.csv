@@ -20239,3 +20239,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 09:03:29,trending,csv,guardado
 2025-10-21 09:03:30,transfers,csv,guardado
 2025-10-21 09:03:31,trending,xlsx,guardado
+2025-10-21 09:03:33,transfers,xlsx,guardado
+2025-10-21 09:03:33,trending,parquet,error
