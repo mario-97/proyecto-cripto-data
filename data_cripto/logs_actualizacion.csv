@@ -18703,3 +18703,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:00:11,btc_hashrate,csv,error
 2025-10-21 03:00:12,trending,csv,guardado
 2025-10-21 03:00:13,btc_hashrate,xlsx,guardado
+2025-10-21 03:00:14,trending,xlsx,guardado
+2025-10-21 03:00:16,trending,parquet,error
