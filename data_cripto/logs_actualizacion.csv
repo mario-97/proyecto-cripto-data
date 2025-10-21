@@ -18840,3 +18840,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:30:26,top_volume,parquet,guardado
 2025-10-21 03:32:11,top_holders,csv,guardado
 2025-10-21 03:32:14,top_holders,xlsx,guardado
+2025-10-21 03:32:17,top_holders,parquet,guardado
