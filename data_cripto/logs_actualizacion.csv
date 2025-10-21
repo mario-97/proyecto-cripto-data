@@ -18705,3 +18705,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:00:13,btc_hashrate,xlsx,guardado
 2025-10-21 03:00:14,trending,xlsx,guardado
 2025-10-21 03:00:16,trending,parquet,error
+2025-10-21 03:00:16,btc_hashrate,parquet,guardado
+2025-10-21 03:00:19,top_volume,csv,guardado
