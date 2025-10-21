@@ -21722,3 +21722,5 @@ ardado,,,
 2025-10-21 15:03:34,trending,csv,guardado
 2025-10-21 15:03:34,transfers,xlsx,error
 2025-10-21 15:03:36,trending,xlsx,guardado
+2025-10-21 15:03:36,transfers,parquet,guardado
+2025-10-21 15:03:38,trending,parquet,guardado
