@@ -19711,3 +19711,5 @@ fecha_hora,archivo,formato,status
 2025-10-21 07:00:14,btc_sopr_lth,csv,guardado
 2025-10-21 07:00:15,top_flow,csv,error
 2025-10-21 07:00:17,top_flow,xlsx,guardado
+2025-10-21 07:00:18,btc_sopr_lth,xlsx,error
+2025-10-21 07:00:20,top_flow,parquet,guardado
