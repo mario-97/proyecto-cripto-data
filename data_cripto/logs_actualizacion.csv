@@ -18837,3 +18837,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 03:30:19,trending,parquet,guardado
 2025-10-21 03:30:22,top_volume,csv,guardado
 2025-10-21 03:30:24,top_volume,xlsx,guardado
+2025-10-21 03:30:26,top_volume,parquet,guardado
