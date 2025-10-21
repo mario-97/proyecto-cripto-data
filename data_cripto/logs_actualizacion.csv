@@ -19812,3 +19812,4 @@ fecha_hora,archivo,formato,status
 2025-10-21 07:21:26,top_volume,parquet,guardado
 2025-10-21 07:23:10,top_holders,csv,guardado
 2025-10-21 07:23:15,top_holders,xlsx,guardado
+2025-10-21 07:23:17,top_holders,parquet,guardado
