@@ -22142,3 +22142,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 03:42:35,top_volume,parquet,guardado
 2025-10-22 03:43:36,transfers,csv,guardado
 2025-10-22 03:43:39,transfers,xlsx,guardado
+2025-10-22 03:43:41,transfers,parquet,guardado
