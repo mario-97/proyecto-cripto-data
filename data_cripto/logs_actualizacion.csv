@@ -21443,3 +21443,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 00:59:17,top_holders,parquet,guardado
 2025-10-22 01:00:04,btc_price,csv,guardado
 2025-10-22 01:00:07,btc_price,xlsx,guardado
+2025-10-22 01:00:10,btc_price,parquet,guardado
