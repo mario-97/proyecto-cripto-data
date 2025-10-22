@@ -24116,3 +24116,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:30:47,trending,csv,guardado
 2025-10-22 11:30:48,montecarlo_estadistica_descriptiva,parquet,error
 2025-10-22 11:30:49,trending,xlsx,guardado
+2025-10-22 11:30:51,trending,parquet,guardado
