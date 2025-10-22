@@ -22370,3 +22370,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 04:38:40,top_holders,parquet,guardado
 2025-10-22 04:39:51,top_flow,csv,guardado
 2025-10-22 04:39:53,top_flow,xlsx,guardado
+2025-10-22 04:39:56,top_flow,parquet,guardado
