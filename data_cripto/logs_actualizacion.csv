@@ -22211,3 +22211,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 04:00:21,top_flow,parquet,guardado
 2025-10-22 04:00:24,trending,csv,guardado
 2025-10-22 04:00:26,trending,xlsx,guardado
+2025-10-22 04:00:28,trending,parquet,guardado
