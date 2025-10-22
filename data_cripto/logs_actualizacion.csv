@@ -24044,3 +24044,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:15:38,top_flow,parquet,guardado
 2025-10-22 11:15:40,trending,csv,guardado
 2025-10-22 11:15:42,trending,xlsx,guardado
+2025-10-22 11:15:45,trending,parquet,guardado
