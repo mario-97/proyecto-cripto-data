@@ -21457,3 +21457,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 01:00:29,btc_nupl,parquet,error
 2025-10-22 01:00:29,trending,parquet,guardado
 2025-10-22 01:00:32,top_volume,csv,guardado
+2025-10-22 01:00:35,top_volume,xlsx,guardado
