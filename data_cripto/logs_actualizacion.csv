@@ -24173,3 +24173,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:43:29,transfers,parquet,guardado
 2025-10-22 11:44:11,top_holders,csv,guardado
 2025-10-22 11:44:14,top_holders,xlsx,guardado
+2025-10-22 11:44:17,top_holders,parquet,guardado
