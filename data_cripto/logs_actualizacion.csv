@@ -26089,3 +26089,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 19:30:42,trending,parquet,guardado
 2025-10-22 19:30:45,top_volume,csv,guardado
 2025-10-22 19:30:48,top_volume,xlsx,guardado
+2025-10-22 19:30:50,top_volume,parquet,guardado
