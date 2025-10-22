@@ -23994,3 +23994,6 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:03:27,transfers,csv,guardado
 2025-10-22 11:03:29,trending,csv,error
 2025-10-22 11:03:30,transfers,xlsx,guardado
+2025-10-22 11:03:31,trending,xlsx,guardado
+2025-10-22 11:03:33,transfers,parquet,guardado
+2025-10-22 11:03:33,trending,parquet,error
