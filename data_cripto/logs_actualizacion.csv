@@ -22478,3 +22478,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 05:03:31,top_flow,csv,guardado
 2025-10-22 05:03:32,transfers,parquet,guardado
 2025-10-22 05:03:34,top_flow,xlsx,guardado
+2025-10-22 05:03:36,top_flow,parquet,guardado
