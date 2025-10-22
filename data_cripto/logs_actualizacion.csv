@@ -23153,3 +23153,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 07:42:38,top_volume,parquet,guardado
 2025-10-22 07:43:25,transfers,csv,guardado
 2025-10-22 07:43:28,transfers,xlsx,guardado
+2025-10-22 07:43:31,transfers,parquet,guardado
