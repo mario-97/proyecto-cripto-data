@@ -22848,3 +22848,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 06:32:13,top_holders,csv,guardado
 2025-10-22 06:32:17,top_holders,xlsx,guardado
 2025-10-22 06:32:20,top_holders,parquet,guardado
+2025-10-22 06:33:23,top_flow,csv,guardado
