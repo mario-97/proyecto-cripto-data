@@ -21957,3 +21957,5 @@ fecha_hora,archivo,formato,status
 2025-10-22 03:00:20,top_flow,csv,guardado
 ,error,,
 2025-10-22 03:00:23,top_flow,xlsx,guardado
+2025-10-22 03:00:23,btc_miner_reserves,xlsx,guardado
+2025-10-22 03:00:25,btc_miner_reserves,parquet,error
