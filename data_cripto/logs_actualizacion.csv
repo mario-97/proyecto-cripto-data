@@ -24170,3 +24170,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:42:37,top_volume,parquet,guardado
 2025-10-22 11:43:23,transfers,csv,guardado
 2025-10-22 11:43:26,transfers,xlsx,guardado
+2025-10-22 11:43:29,transfers,parquet,guardado
