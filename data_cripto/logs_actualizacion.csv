@@ -22673,3 +22673,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 05:48:40,top_volume,parquet,guardado
 2025-10-22 05:50:13,top_holders,csv,guardado
 2025-10-22 05:50:17,top_holders,xlsx,guardado
+2025-10-22 05:50:19,top_holders,parquet,guardado
