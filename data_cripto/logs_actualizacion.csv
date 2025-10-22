@@ -21961,3 +21961,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 03:00:25,btc_miner_reserves,parquet,error
 2025-10-22 03:00:25,top_flow,parquet,guardado
 2025-10-22 03:00:28,trending,csv,guardado
+2025-10-22 03:00:30,trending,xlsx,guardado
