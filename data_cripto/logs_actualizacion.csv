@@ -23480,3 +23480,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 09:00:46,top_flow,parquet,guardado
 2025-10-22 09:00:48,trending,csv,guardado
 2025-10-22 09:00:50,trending,xlsx,guardado
+2025-10-22 09:00:53,trending,parquet,guardado
