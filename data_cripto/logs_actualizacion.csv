@@ -25181,3 +25181,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 15:45:45,top_volume,parquet,guardado
 2025-10-22 15:47:15,top_holders,csv,guardado
 2025-10-22 15:47:19,top_holders,xlsx,guardado
+2025-10-22 15:47:22,top_holders,parquet,guardado
