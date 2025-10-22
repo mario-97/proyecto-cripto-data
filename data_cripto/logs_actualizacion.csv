@@ -21448,3 +21448,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 01:00:17,top_flow,csv,guardado
 2025-10-22 01:00:19,top_flow,xlsx,guardado
 2025-10-22 01:00:19,btc_mvrvz,xlsx,error
+2025-10-22 01:00:21,btc_mvrvz,parquet,guardado
