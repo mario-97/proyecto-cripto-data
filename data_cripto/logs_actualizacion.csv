@@ -26225,3 +26225,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 20:03:25,top_volume,csv,guardado
 2025-10-22 20:03:27,transfers,csv,guardado
 2025-10-22 20:03:28,top_volume,xlsx,guardado
+2025-10-22 20:03:29,transfers,xlsx,error
