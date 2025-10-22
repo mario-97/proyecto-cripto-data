@@ -22895,3 +22895,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 06:42:37,top_volume,parquet,guardado
 2025-10-22 06:43:27,transfers,csv,guardado
 2025-10-22 06:43:30,transfers,xlsx,guardado
+2025-10-22 06:43:32,transfers,parquet,guardado
