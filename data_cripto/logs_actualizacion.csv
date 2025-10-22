@@ -22221,3 +22221,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 04:03:24,transfers,csv,guardado
 2025-10-22 04:03:27,transfers,xlsx,guardado
 2025-10-22 04:03:30,transfers,parquet,guardado
+2025-10-22 04:03:32,top_flow,csv,guardado
