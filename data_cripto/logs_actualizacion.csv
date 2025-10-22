@@ -21955,4 +21955,5 @@ fecha_hora,archivo,formato,status
 2025-10-22 03:00:14,btc_hashrate,xlsx,guardado
 2025-10-22 03:00:16,btc_hashrate,parquet,guardado
 2025-10-22 03:00:20,top_flow,csv,guardado
-,error
+,error,,
+2025-10-22 03:00:23,top_flow,xlsx,guardado
