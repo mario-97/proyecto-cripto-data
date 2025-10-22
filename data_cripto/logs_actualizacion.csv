@@ -23738,3 +23738,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 10:02:17,top_holders,parquet,guardado
 2025-10-22 10:03:32,transfers,csv,guardado
 2025-10-22 10:03:35,transfers,xlsx,guardado
+2025-10-22 10:03:37,transfers,parquet,guardado
