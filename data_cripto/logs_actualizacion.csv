@@ -24168,3 +24168,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:42:32,top_volume,csv,guardado
 2025-10-22 11:42:34,top_volume,xlsx,guardado
 2025-10-22 11:42:37,top_volume,parquet,guardado
+2025-10-22 11:43:23,transfers,csv,guardado
