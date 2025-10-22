@@ -24035,3 +24035,4 @@ fecha_hora,archivo,formato,status
 2025-10-22 11:12:42,trending,parquet,guardado
 2025-10-22 11:12:45,top_volume,csv,guardado
 2025-10-22 11:12:47,top_volume,xlsx,guardado
+2025-10-22 11:12:49,top_volume,parquet,guardado
