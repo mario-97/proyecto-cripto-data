@@ -27450,3 +27450,5 @@ fecha_hora,archivo,formato,status
 2025-10-23 01:00:16,trending,csv,error
 2025-10-23 01:00:18,trending,xlsx,guardado
 2025-10-23 01:00:19,btc_nupl,csv,error
+2025-10-23 01:00:20,trending,parquet,guardado
+2025-10-23 01:00:22,btc_nupl,xlsx,guardado
