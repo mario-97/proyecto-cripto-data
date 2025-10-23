@@ -25102,3 +25102,5 @@ fecha_hora,archivo,formato,status
 2025-10-23 10:03:30,top_flow,xlsx,guardado
 2025-10-23 10:03:30,transfers,csv,error
 2025-10-23 10:03:33,transfers,xlsx,guardado
+2025-10-23 10:03:33,top_flow,parquet,error
+2025-10-23 10:03:35,transfers,parquet,guardado
