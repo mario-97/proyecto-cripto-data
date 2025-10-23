@@ -27075,3 +27075,4 @@ fecha_hora,archivo,formato,status
 2025-10-23 18:05:20,top_holders,csv,guardado
 2025-10-23 18:05:23,top_holders,xlsx,guardado
 2025-10-23 18:05:25,top_holders,parquet,guardado
+2025-10-23 18:06:22,top_flow,csv,guardado
