@@ -26394,3 +26394,4 @@ fecha_hora,archivo,formato,status
 2025-10-23 07:00:19,btc_sopr_sth,csv,guardado
 2025-10-23 07:00:19,trending,csv,guardado
 2025-10-23 07:00:21,btc_sopr_sth,xlsx,error
+2025-10-23 07:00:24,btc_sopr_sth,parquet,guardado
