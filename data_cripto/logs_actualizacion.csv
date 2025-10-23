@@ -28314,3 +28314,4 @@ fecha_hora,archivo,formato,status
 2025-10-23 23:03:30,transfers,xlsx,error
 2025-10-23 23:03:32,top_volume,parquet,guardado
 2025-10-23 23:03:34,transfers,parquet,guardado
+2025-10-23 23:05:10,top_holders,csv,guardado
