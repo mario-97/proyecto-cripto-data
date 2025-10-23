@@ -26439,3 +26439,4 @@ fecha_hora,archivo,formato,status
 2025-10-23 05:00:15,btc_mvrvz_sth,parquet,guardado
 2025-10-23 05:00:17,trending,xlsx,guardado
 2025-10-23 05:00:20,trending,parquet,guardado
+2025-10-23 05:00:22,top_volume,csv,guardado
