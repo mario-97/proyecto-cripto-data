@@ -27443,3 +27443,5 @@ fecha_hora,archivo,formato,status
 2025-10-23 01:00:07,btc_price,parquet,guardado
 2025-10-23 01:00:09,top_flow,csv,error
 2025-10-23 01:00:11,top_flow,xlsx,guardado
+2025-10-23 01:00:11,btc_mvrvz,csv,error
+2025-10-23 01:00:13,top_flow,parquet,guardado
