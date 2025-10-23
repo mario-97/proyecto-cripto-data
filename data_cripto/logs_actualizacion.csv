@@ -27447,3 +27447,5 @@ fecha_hora,archivo,formato,status
 2025-10-23 01:00:13,top_flow,parquet,guardado
 2025-10-23 01:00:14,btc_mvrvz,xlsx,guardado
 2025-10-23 01:00:16,btc_mvrvz,parquet,guardado
+2025-10-23 01:00:16,trending,csv,error
+2025-10-23 01:00:18,trending,xlsx,guardado
