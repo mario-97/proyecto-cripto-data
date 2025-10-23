@@ -27811,3 +27811,5 @@ fecha_hora,archivo,formato,status
 2025-10-23 21:03:28,transfers,csv,guardado
 2025-10-23 21:03:29,trending,xlsx,guardado
 2025-10-23 21:03:31,transfers,xlsx,guardado
+2025-10-23 21:03:31,trending,parquet,guardado
+2025-10-23 21:03:33,transfers,parquet,guardado
