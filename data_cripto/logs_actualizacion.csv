@@ -25465,3 +25465,4 @@ fecha_hora,archivo,formato,status
 2025-10-23 11:30:25,top_flow,xlsx,guardado
 2025-10-23 11:30:32,top_flow,parquet,guardado
 2025-10-23 11:30:34,montecarlo_histograma,csv,guardado
+2025-10-23 11:30:35,trending,csv,error
