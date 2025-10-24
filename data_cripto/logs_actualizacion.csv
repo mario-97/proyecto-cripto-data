@@ -28329,3 +28329,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 07:03:34,top_volume,xlsx,error
 2025-10-24 07:03:36,top_volume,parquet,guardado
 2025-10-24 07:05:11,top_holders,csv,guardado
+2025-10-24 07:05:15,top_holders,xlsx,guardado
