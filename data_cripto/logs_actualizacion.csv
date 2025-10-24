@@ -29312,3 +29312,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 03:00:23,btc_miner_reserves,parquet,error
 2025-10-24 03:00:23,top_volume,csv,guardado
 2025-10-24 03:00:25,top_volume,xlsx,guardado
+2025-10-24 03:00:27,top_volume,parquet,guardado
