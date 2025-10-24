@@ -28793,3 +28793,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 01:00:08,btc_price,parquet,guardado
 2025-10-24 01:00:11,btc_mvrvz,csv,guardado
 2025-10-24 01:00:14,btc_mvrvz,xlsx,guardado
+2025-10-24 01:00:16,btc_mvrvz,parquet,guardado
