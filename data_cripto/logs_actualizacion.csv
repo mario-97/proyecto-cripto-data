@@ -28307,3 +28307,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 07:00:16,top_flow,parquet,error
 2025-10-24 07:00:18,trending,csv,guardado
 2025-10-24 07:00:20,btc_sopr_sth,csv,guardado
+2025-10-24 07:00:20,trending,xlsx,guardado
+2025-10-24 07:00:22,trending,parquet,guardado
