@@ -29804,3 +29804,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 04:59:18,top_holders,parquet,guardado
 2025-10-24 05:00:02,btc_nrpl_usd,csv,guardado
 2025-10-24 05:00:05,btc_nrpl_usd,xlsx,guardado
+2025-10-24 05:00:08,btc_nrpl_usd,parquet,guardado
+2025-10-24 05:00:09,top_flow,csv,guardado
