@@ -29304,3 +29304,7 @@ fecha_hora,archivo,formato,status
 2025-10-24 03:00:13,top_flow,parquet,guardado
 2025-10-24 03:00:13,btc_hashrate,xlsx,error
 2025-10-24 03:00:15,btc_hashrate,parquet,guardado
+2025-10-24 03:00:15,trending,csv,error
+2025-10-24 03:00:17,trending,xlsx,guardado
+2025-10-24 03:00:19,btc_miner_reserves,csv,guardado
+2025-10-24 03:00:20,trending,parquet,guardado
