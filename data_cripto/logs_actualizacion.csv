@@ -29308,3 +29308,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 03:00:17,trending,xlsx,guardado
 2025-10-24 03:00:19,btc_miner_reserves,csv,guardado
 2025-10-24 03:00:20,trending,parquet,guardado
+2025-10-24 03:00:21,btc_miner_reserves,xlsx,guardado
+2025-10-24 03:00:23,btc_miner_reserves,parquet,error
