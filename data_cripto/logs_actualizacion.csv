@@ -29812,3 +29812,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 05:00:14,btc_mvrvz_sth,xlsx,error
 2025-10-24 05:00:16,btc_mvrvz_sth,parquet,guardado
 2025-10-24 05:00:16,trending,csv,error
+2025-10-24 05:00:18,trending,xlsx,guardado
