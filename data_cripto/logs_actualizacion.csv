@@ -28251,3 +28251,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 14:03:25,trending,parquet,guardado
 2025-10-24 14:03:28,transfers,csv,guardado
 2025-10-24 14:03:31,transfers,xlsx,guardado
+2025-10-24 14:03:32,top_volume,xlsx,error
+2025-10-24 14:03:34,transfers,parquet,error
