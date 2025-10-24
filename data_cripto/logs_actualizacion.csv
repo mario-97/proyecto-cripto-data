@@ -29670,3 +29670,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 12:23:16,top_holders,xlsx,guardado
 2025-10-24 12:23:19,top_holders,parquet,guardado
 2025-10-24 12:23:33,transfers,csv,guardado
+2025-10-24 12:23:36,transfers,xlsx,guardado
