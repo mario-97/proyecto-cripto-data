@@ -29300,3 +29300,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 03:00:06,btc_sopr,parquet,guardado
 2025-10-24 03:00:08,top_flow,csv,guardado
 2025-10-24 03:00:10,top_flow,xlsx,guardado
+2025-10-24 03:00:10,btc_hashrate,csv,error
+2025-10-24 03:00:13,top_flow,parquet,guardado
