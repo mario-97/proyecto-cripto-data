@@ -29665,3 +29665,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 12:21:58,trending,parquet,guardado
 2025-10-24 12:22:01,top_volume,csv,guardado
 2025-10-24 12:22:03,top_volume,xlsx,guardado
+2025-10-24 12:22:05,top_volume,parquet,guardado
