@@ -29685,3 +29685,6 @@ do,,,
 2025-10-24 20:02:17,top_holders,parquet,guardado
 2025-10-24 20:03:21,top_flow,csv,guardado
 2025-10-24 20:03:23,top_flow,xlsx,guardado
+2025-10-24 20:03:25,top_flow,parquet,guardado
+2025-10-24 20:03:27,transfers,csv,guardado
+2025-10-24 20:03:28,trending,csv,guardado
