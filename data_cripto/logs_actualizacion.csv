@@ -28323,3 +28323,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 07:03:25,trending,csv,guardado
 2025-10-24 07:03:27,trending,xlsx,guardado
 2025-10-24 07:03:29,transfers,csv,guardado
+2025-10-24 07:03:29,trending,parquet,guardado
+2025-10-24 07:03:31,transfers,xlsx,guardado
