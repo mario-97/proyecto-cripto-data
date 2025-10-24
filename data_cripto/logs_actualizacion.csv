@@ -28810,3 +28810,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 09:00:12,btc_etf_total,parquet,guardado
 2025-10-24 09:00:16,btc_cdd,csv,guardado
 2025-10-24 09:00:17,top_flow,csv,guardado
+2025-10-24 09:00:18,btc_cdd,xlsx,guardado
