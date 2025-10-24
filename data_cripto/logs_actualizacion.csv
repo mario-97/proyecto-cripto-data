@@ -29454,3 +29454,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 11:30:48,montecarlo_estadistica_descriptiva,csv,guardado
 2025-10-24 11:30:48,top_volume,xlsx,error
 2025-10-24 11:30:50,montecarlo_estadistica_descriptiva,xlsx,guardado
+2025-10-24 11:30:51,top_volume,parquet,error
+2025-10-24 11:30:52,montecarlo_estadistica_descriptiva,parquet,error
