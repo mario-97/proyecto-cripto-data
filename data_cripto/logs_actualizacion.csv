@@ -29440,3 +29440,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 11:29:17,top_holders,parquet,guardado
 2025-10-24 11:30:24,top_flow,csv,guardado
 2025-10-24 11:30:34,top_flow,xlsx,guardado
+2025-10-24 11:30:35,montecarlo_histograma,csv,error
