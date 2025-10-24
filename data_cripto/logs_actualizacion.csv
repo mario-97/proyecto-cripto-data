@@ -29806,3 +29806,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 05:00:05,btc_nrpl_usd,xlsx,guardado
 2025-10-24 05:00:08,btc_nrpl_usd,parquet,guardado
 2025-10-24 05:00:09,top_flow,csv,guardado
+2025-10-24 05:00:12,top_flow,xlsx,guardado
+2025-10-24 05:00:12,btc_mvrvz_sth,csv,error
