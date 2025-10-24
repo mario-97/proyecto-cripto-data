@@ -28750,3 +28750,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 16:03:26,transfers,csv,error
 2025-10-24 16:03:29,transfers,xlsx,guardado
 2025-10-24 16:03:32,transfers,parquet,guardado
+2025-10-24 16:05:14,top_holders,csv,guardado
