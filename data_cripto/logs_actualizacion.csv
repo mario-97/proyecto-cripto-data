@@ -28826,3 +28826,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 16:23:24,top_holders,xlsx,guardado
 2025-10-24 16:23:26,top_holders,parquet,guardado
 2025-10-24 16:23:35,transfers,csv,guardado
+2025-10-24 16:23:38,transfers,xlsx,guardado
