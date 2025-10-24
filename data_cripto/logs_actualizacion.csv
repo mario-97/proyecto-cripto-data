@@ -28789,3 +28789,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 00:59:16,top_holders,xlsx,guardado
 2025-10-24 00:59:18,top_holders,parquet,guardado
 2025-10-24 01:00:03,btc_price,csv,guardado
+2025-10-24 01:00:05,btc_price,xlsx,guardado
