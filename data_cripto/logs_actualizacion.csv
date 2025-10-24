@@ -29192,3 +29192,5 @@ fecha_hora,archivo,formato,status
 2025-10-24 18:03:28,trending,xlsx,error
 do,,,
 2025-10-24 18:03:31,trending,parquet,guardado
+2025-10-24 18:03:31,transfers,xlsx,guardado
+2025-10-24 18:03:33,transfers,parquet,guardado
