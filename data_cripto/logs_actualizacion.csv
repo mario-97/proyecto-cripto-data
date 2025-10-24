@@ -30242,3 +30242,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 06:42:28,top_volume,parquet,guardado
 2025-10-24 06:43:26,transfers,csv,guardado
 2025-10-24 06:43:29,transfers,xlsx,guardado
+2025-10-24 06:43:32,transfers,parquet,guardado
