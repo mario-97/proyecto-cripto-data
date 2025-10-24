@@ -29025,3 +29025,4 @@ fecha_hora,archivo,formato,status
 2025-10-24 17:23:21,top_holders,parquet,guardado
 2025-10-24 17:23:31,transfers,csv,guardado
 2025-10-24 17:23:33,transfers,xlsx,guardado
+2025-10-24 17:23:35,transfers,parquet,guardado
