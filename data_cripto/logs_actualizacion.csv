@@ -31432,3 +31432,5 @@ do,,,
 2025-10-25 03:00:12,top_flow,parquet,guardado
 2025-10-25 03:00:14,btc_hashrate,xlsx,guardado
 2025-10-25 03:00:15,trending,csv,error
+2025-10-25 03:00:16,btc_hashrate,parquet,guardado
+2025-10-25 03:00:17,trending,xlsx,guardado
