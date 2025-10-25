@@ -29704,3 +29704,5 @@ do,,,
 2025-10-25 07:00:18,btc_sopr_sth,csv,error
 2025-10-25 07:00:19,top_volume,csv,guardado
 2025-10-25 07:00:20,btc_sopr_sth,xlsx,error
+2025-10-25 07:00:21,top_volume,xlsx,guardado
+2025-10-25 07:00:23,btc_sopr_sth,parquet,guardado
