@@ -29697,3 +29697,5 @@ do,,,
 2025-10-25 07:00:09,top_flow,parquet,guardado
 2025-10-25 07:00:11,btc_sopr_lth,csv,guardado
 2025-10-25 07:00:12,trending,csv,error
+2025-10-25 07:00:13,btc_sopr_lth,xlsx,guardado
+2025-10-25 07:00:14,trending,xlsx,guardado
