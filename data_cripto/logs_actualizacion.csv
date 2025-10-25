@@ -30849,3 +30849,4 @@ rdado,,,
 2025-10-25 11:30:45,top_volume,parquet,guardado
 2025-10-25 11:30:45,montecarlo_estadistica_descriptiva,csv,error
 2025-10-25 11:30:47,montecarlo_estadistica_descriptiva,xlsx,guardado
+2025-10-25 11:30:49,montecarlo_estadistica_descriptiva,parquet,error
