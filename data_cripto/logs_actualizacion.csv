@@ -30927,3 +30927,6 @@ do,,,
 2025-10-25 01:00:13,trending,xlsx,guardado
 2025-10-25 01:00:14,btc_mvrvz,xlsx,guardado
 2025-10-25 01:00:15,trending,parquet,guardado
+2025-10-25 01:00:16,btc_mvrvz,parquet,guardado
+2025-10-25 01:00:18,top_volume,csv,guardado
+2025-10-25 01:00:19,btc_nupl,csv,guardado
