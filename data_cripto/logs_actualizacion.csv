@@ -26776,3 +26776,5 @@ ado,,,
 2025-10-26 05:00:04,top_flow,csv,guardado
 2025-10-26 05:00:04,btc_nrpl_usd,xlsx,error
 2025-10-26 05:00:06,btc_nrpl_usd,parquet,guardado
+2025-10-26 05:00:06,top_flow,xlsx,error
+2025-10-26 05:00:08,top_flow,parquet,guardado
