@@ -27787,3 +27787,5 @@ ado,,,
 2025-10-26 09:00:05,btc_etf_flow,parquet,guardado
 2025-10-26 09:00:06,top_flow,csv,guardado
 2025-10-26 09:00:08,btc_etf_total,csv,error
+2025-10-26 09:00:08,top_flow,xlsx,guardado
+2025-10-26 09:00:10,btc_etf_total,xlsx,guardado
