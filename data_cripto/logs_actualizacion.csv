@@ -27285,3 +27285,5 @@ ado,,,
 2025-10-26 07:00:12,top_flow,parquet,guardado
 2025-10-26 07:00:13,btc_sopr_lth,xlsx,guardado
 2025-10-26 07:00:14,trending,csv,error
+2025-10-26 07:00:15,btc_sopr_lth,parquet,guardado
+2025-10-26 07:00:16,trending,xlsx,guardado
