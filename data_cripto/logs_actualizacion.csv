@@ -28292,3 +28292,6 @@ ado,,,
 2025-10-26 11:00:04,btc_change_price,csv,guardado
 2025-10-26 11:00:09,top_flow,csv,guardado
 2025-10-26 11:00:13,top_flow,xlsx,guardado
+2025-10-26 11:00:13,btc_change_price,xlsx,guardado
+2025-10-26 11:00:15,top_flow,parquet,guardado
+2025-10-26 11:00:15,btc_change_price,parquet,guardado
