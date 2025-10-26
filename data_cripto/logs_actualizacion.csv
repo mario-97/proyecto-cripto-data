@@ -27607,3 +27607,4 @@ ado,,,
 2025-10-26 01:00:21,top_volume,parquet,error
 2025-10-26 01:00:23,btc_nupl,parquet,guardado
 2025-10-26 01:02:11,top_holders,csv,guardado
+2025-10-26 01:02:14,top_holders,xlsx,guardado
