@@ -27794,3 +27794,5 @@ ado,,,
 2025-10-26 09:00:13,trending,csv,guardado
 2025-10-26 09:00:14,trending,xlsx,guardado
 2025-10-26 09:00:15,btc_cdd,csv,guardado
+2025-10-26 09:00:16,trending,parquet,guardado
+2025-10-26 09:00:18,btc_cdd,xlsx,guardado
