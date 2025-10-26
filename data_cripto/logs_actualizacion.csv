@@ -26962,3 +26962,5 @@ ado,,,
 2025-10-26 11:30:34,montecarlo_histograma,xlsx,guardado
 2025-10-26 11:30:36,trending,xlsx,error
 2025-10-26 11:30:38,trending,parquet,guardado
+2025-10-26 11:30:38,montecarlo_lineas_simulacion,csv,error
+2025-10-26 11:30:40,montecarlo_lineas_simulacion,xlsx,guardado
