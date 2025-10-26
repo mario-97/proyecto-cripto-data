@@ -27590,3 +27590,5 @@ ado,,,
 2025-10-26 00:59:16,top_holders,parquet,guardado
 2025-10-26 01:00:02,btc_price,csv,guardado
 2025-10-26 01:00:04,top_flow,csv,guardado
+2025-10-26 01:00:05,btc_price,xlsx,guardado
+2025-10-26 01:00:06,top_flow,xlsx,guardado
