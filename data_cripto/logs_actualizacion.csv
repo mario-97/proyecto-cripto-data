@@ -27181,3 +27181,5 @@ ado,,,
 2025-10-27 03:00:16,btc_hashrate,parquet,guardado
 2025-10-27 03:00:18,trending,csv,guardado
 2025-10-27 03:00:19,trending,xlsx,guardado
+2025-10-27 03:00:20,btc_miner_reserves,csv,guardado
+2025-10-27 03:00:21,trending,parquet,guardado
