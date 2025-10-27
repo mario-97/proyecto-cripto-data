@@ -30219,3 +30219,8 @@ ado,,,
 2025-10-27 15:03:38,top_flow,xlsx,guardado
 2025-10-27 15:03:41,top_flow,parquet,guardado
 2025-10-27 15:03:42,transfers,csv,guardado
+2025-10-27 15:03:43,trending,csv,error
+2025-10-27 15:03:45,transfers,xlsx,guardado
+2025-10-27 15:03:46,trending,xlsx,guardado
+2025-10-27 15:03:47,transfers,parquet,guardado
+2025-10-27 15:03:48,trending,parquet,guardado
