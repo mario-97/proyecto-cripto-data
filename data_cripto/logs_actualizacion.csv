@@ -29341,3 +29341,5 @@ ado,,,
 2025-10-27 11:30:48,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-10-27 11:30:49,top_volume,xlsx,error
 2025-10-27 11:30:50,montecarlo_estadistica_descriptiva,parquet,error
+2025-10-27 11:30:51,top_volume,parquet,guardado
+2025-10-27 11:32:10,top_holders,csv,guardado
