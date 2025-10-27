@@ -29325,3 +29325,5 @@ ado,,,
 2025-10-27 11:29:15,top_holders,xlsx,guardado
 2025-10-27 11:29:18,top_holders,parquet,guardado
 2025-10-27 11:30:32,montecarlo_histograma,csv,guardado
+2025-10-27 11:30:33,top_flow,csv,guardado
+2025-10-27 11:30:34,montecarlo_histograma,xlsx,guardado
