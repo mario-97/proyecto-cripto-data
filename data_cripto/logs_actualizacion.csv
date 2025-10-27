@@ -30466,3 +30466,5 @@ ado,,,
 2025-10-27 16:02:20,top_holders,parquet,guardado
 2025-10-27 16:03:27,transfers,csv,guardado
 2025-10-27 16:03:30,transfers,xlsx,guardado
+2025-10-27 16:03:31,top_flow,csv,guardado
+2025-10-27 16:03:32,top_flow,xlsx,guardado
