@@ -29340,3 +29340,4 @@ ado,,,
 2025-10-27 11:30:47,top_volume,csv,guardado
 2025-10-27 11:30:48,montecarlo_estadistica_descriptiva,xlsx,guardado
 2025-10-27 11:30:49,top_volume,xlsx,error
+2025-10-27 11:30:50,montecarlo_estadistica_descriptiva,parquet,error
