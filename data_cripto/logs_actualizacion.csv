@@ -28194,3 +28194,6 @@ ado,,,
 2025-10-27 07:00:20,btc_sopr_sth,csv,error
 2025-10-27 07:00:20,trending,xlsx,guardado
 2025-10-27 07:00:23,trending,parquet,guardado
+2025-10-27 07:00:23,btc_sopr_sth,xlsx,guardado
+2025-10-27 07:00:25,btc_sopr_sth,parquet,guardado
+2025-10-27 07:00:25,top_volume,csv,error
