@@ -35495,3 +35495,5 @@ arquet,guardado,,
 2025-10-28 12:03:32,transfers,csv,guardado
 2025-10-28 12:03:33,trending,csv,error
 2025-10-28 12:03:35,trending,xlsx,guardado
+2025-10-28 12:03:35,transfers,xlsx,guardado
+2025-10-28 12:03:37,trending,parquet,guardado
