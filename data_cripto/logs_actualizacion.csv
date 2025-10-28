@@ -5831,8 +5831,8 @@ fecha_hora,archivo,formato,status
 2025-10-18 23:43:25,transfers,csv,guardado
 2025-10-18 23:43:28,transfers,xlsx,guardado
 2025-10-18 23:43:30,transfers,parquet,guarda
-2025-10-25 03:00:19,trending,parquet,error
-ado,,,
+2025-10-28 22:03:32,top_volume,parquet,guardado
+,
 2025-10-18 23:44:14,top_holders,xlsx,guardado
 2025-10-18 23:44:16,top_holders,parquet,guardado
 2025-10-18 23:45:10,top_flow,csv,guardado
@@ -34760,3 +34760,4 @@ ado,,,
 2025-10-28 22:03:25,trending,parquet,guardado
 2025-10-28 22:03:28,top_volume,csv,guardado
 2025-10-28 22:03:30,top_volume,xlsx,guardado
+2025-10-28 22:03:32,transfers,csv,error
