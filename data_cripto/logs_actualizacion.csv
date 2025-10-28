@@ -35356,3 +35356,5 @@ arquet,guardado,,
 2025-10-28 11:30:41,trending,xlsx,guardado
 2025-10-28 11:30:41,montecarlo_lineas_simulacion,xlsx,guardado
 2025-10-28 11:30:43,trending,parquet,guardado
+2025-10-28 11:30:43,montecarlo_lineas_simulacion,parquet,error
+2025-10-28 11:30:45,montecarlo_estadistica_descriptiva,csv,guardado
