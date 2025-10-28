@@ -35346,3 +35346,6 @@ ado,,,
 2025-10-28 11:29:16,top_holders,xlsx,guardado
 2025-10-28 11:29:20,top_holders,parquet,guardado
 2025-10-28 11:30:32,top_flow,csv,guardado
+2025-10-28 11:30:32,montecarlo_histograma,csv,error
+2025-10-28 11:30:34,top_flow,xlsx,guardado
+2025-10-28 11:30:34,montecarlo_histograma,xlsx,error
