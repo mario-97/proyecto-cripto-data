@@ -33204,3 +33204,5 @@ ado,,,
 2025-10-28 03:00:05,btc_sopr,xlsx,guardado
 2025-10-28 03:00:07,btc_sopr,parquet,guardado
 2025-10-28 03:00:10,top_flow,csv,guardado
+2025-10-28 03:00:11,btc_hashrate,csv,error
+2025-10-28 03:00:12,top_flow,xlsx,guardado
