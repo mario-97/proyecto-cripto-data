@@ -35349,3 +35349,5 @@ ado,,,
 2025-10-28 11:30:32,montecarlo_histograma,csv,error
 2025-10-28 11:30:34,top_flow,xlsx,guardado
 2025-10-28 11:30:34,montecarlo_histograma,xlsx,error
+2025-10-28 11:30:36,top_flow,parquet,error
+arquet,guardado
