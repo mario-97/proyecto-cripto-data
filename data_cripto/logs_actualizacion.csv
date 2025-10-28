@@ -35352,3 +35352,5 @@ ado,,,
 2025-10-28 11:30:36,top_flow,parquet,error
 arquet,guardado,,
 2025-10-28 11:30:39,trending,csv,guardado
+2025-10-28 11:30:39,montecarlo_lineas_simulacion,csv,error
+2025-10-28 11:30:41,trending,xlsx,guardado
