@@ -35998,3 +35998,4 @@ fecha_hora,archivo,formato,status
 2025-10-29 03:00:14,btc_hashrate,xlsx,guardado
 2025-10-29 03:00:16,top_flow,csv,guardado
 2025-10-29 03:00:16,btc_hashrate,parquet,error
+2025-10-29 03:00:19,top_flow,xlsx,guardado
