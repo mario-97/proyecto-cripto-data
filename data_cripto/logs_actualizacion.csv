@@ -35762,3 +35762,5 @@ fecha_hora,archivo,formato,status
 2025-10-29 02:03:27,trending,csv,guardado
 2025-10-29 02:03:29,trending,xlsx,guardado
 2025-10-29 02:03:31,transfers,csv,guardado
+2025-10-29 02:03:31,trending,parquet,error
+2025-10-29 02:03:34,top_volume,csv,error
