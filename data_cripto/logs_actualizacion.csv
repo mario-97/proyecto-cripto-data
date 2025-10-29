@@ -35993,3 +35993,4 @@ fecha_hora,archivo,formato,status
 2025-10-29 02:59:17,top_holders,parquet,guardado
 2025-10-29 03:00:02,btc_sopr,csv,guardado
 2025-10-29 03:00:05,btc_sopr,xlsx,guardado
+2025-10-29 03:00:07,btc_sopr,parquet,guardado
