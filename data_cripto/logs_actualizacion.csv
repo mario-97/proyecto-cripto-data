@@ -29171,8 +29171,9 @@ fecha_hora,archivo,formato,status
 2025-10-27 21:50:14,top_holders,xlsx,guardado
 2025-10-27 21:50:16,top_holders,parquet,guardado
 2025-10-27 21:51:06,top_flow,csv,guardado
-2025-10-27 21:51:08,top_flow,xlsx,guardado
-2025-10-27 21:51:11,top_flow,parquet,guardado
+2025-10-27 21:51:08,,,
+2025-10-29 09:00:22,trending,csv,error
+,top_flow,parquet,guardado
 2025-10-27 21:51:13,trending,csv,guardado
 2025-10-27 21:51:15,trending,xlsx,guardado
 2025-10-27 21:51:17,trending,parquet,guardado
@@ -35873,3 +35874,5 @@ xlsx,guardado,,
 2025-10-29 09:00:15,top_flow,csv,guardado
 2025-10-29 09:00:17,top_flow,xlsx,guardado
 2025-10-29 09:00:20,top_flow,parquet,guardado
+2025-10-29 09:00:20,btc_cdd,xlsx,guardado
+2025-10-29 09:00:22,btc_cdd,parquet,guardado
