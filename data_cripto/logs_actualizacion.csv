@@ -35720,3 +35720,5 @@ xlsx,guardado,,
 2025-10-29 16:03:37,transfers,xlsx,guardado
 2025-10-29 16:03:37,top_volume,csv,error
 2025-10-29 16:03:39,top_volume,xlsx,guardado
+2025-10-29 16:03:40,transfers,parquet,guardado
+2025-10-29 16:03:41,top_volume,parquet,guardado
