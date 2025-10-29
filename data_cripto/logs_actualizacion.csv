@@ -36004,3 +36004,5 @@ fecha_hora,archivo,formato,status
 2025-10-29 03:00:23,trending,csv,error
 xlsx,guardado,,
 2025-10-29 03:00:25,trending,xlsx,guardado
+2025-10-29 03:00:26,btc_miner_reserves,parquet,error
+2025-10-29 03:00:28,trending,parquet,guardado
