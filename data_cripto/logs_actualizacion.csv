@@ -35323,3 +35323,4 @@ fecha_hora,archivo,formato,status
 2025-10-29 00:18:27,top_volume,parquet,guardado
 2025-10-29 00:20:11,top_holders,csv,guardado
 2025-10-29 00:20:15,top_holders,xlsx,guardado
+2025-10-29 00:20:17,top_holders,parquet,guardado
