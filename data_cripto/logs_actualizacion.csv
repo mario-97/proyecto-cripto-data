@@ -35857,3 +35857,5 @@ xlsx,guardado,,
 2025-10-29 06:03:36,top_flow,parquet,guardado
 2025-10-29 06:03:37,transfers,xlsx,guardado
 2025-10-29 06:03:39,trending,csv,guardado
+2025-10-29 06:03:39,transfers,parquet,error
+2025-10-29 06:03:40,trending,xlsx,guardado
