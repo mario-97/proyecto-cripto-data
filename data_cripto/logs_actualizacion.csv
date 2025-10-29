@@ -35498,3 +35498,5 @@ fecha_hora,archivo,formato,status
 2025-10-29 01:00:17,trending,csv,error
 2025-10-29 01:00:19,trending,xlsx,guardado
 2025-10-29 01:00:20,btc_nupl,csv,guardado
+2025-10-29 01:00:21,trending,parquet,guardado
+2025-10-29 01:00:24,btc_nupl,xlsx,guardado
