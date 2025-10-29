@@ -35489,3 +35489,4 @@ fecha_hora,archivo,formato,status
 2025-10-29 01:00:02,btc_price,csv,guardado
 2025-10-29 01:00:05,btc_price,xlsx,guardado
 2025-10-29 01:00:07,btc_price,parquet,guardado
+2025-10-29 01:00:09,top_flow,csv,guardado
