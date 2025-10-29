@@ -35260,3 +35260,4 @@ fecha_hora,archivo,formato,status
 2025-10-29 00:03:34,top_volume,parquet,guardado
 2025-10-29 00:03:34,transfers,csv,guardado
 2025-10-29 00:03:37,transfers,xlsx,guardado
+2025-10-29 00:03:40,transfers,parquet,guardado
