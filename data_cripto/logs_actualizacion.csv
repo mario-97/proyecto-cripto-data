@@ -34543,3 +34543,5 @@ xlsx,guardado,,
 2025-10-30 11:30:34,montecarlo_histograma,xlsx,guardado
 2025-10-30 11:30:34,top_flow,xlsx,guardado
 2025-10-30 11:30:36,montecarlo_histograma,parquet,guardado
+2025-10-30 11:30:36,top_flow,parquet,error
+2025-10-30 11:30:39,montecarlo_lineas_simulacion,csv,guardado
