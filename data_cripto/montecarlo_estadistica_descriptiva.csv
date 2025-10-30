@@ -1,33 +1,33 @@
 estadistica,valor,token_symbol
-Precio inicial,114095.84,btc
-Precio promedio a 270 días,305264.97422837303,btc
-Mediana a 270 días,226081.468688824,btc
-Moda,89710.0,btc
-Desviación estándar,283590.77205766144,btc
-Rango (min - max),15197.28 - 6412735.65,btc
-Percentil 5 (escenario de riesgo),61458.266371742946,btc
-Percentil 95 (escenario alcista),803693.7069977613,btc
-Precio inicial,4117.59619140625,eth
-Precio promedio a 270 días,6822.988487592175,eth
-Mediana a 270 días,5215.687050012986,eth
-Moda,2780.0,eth
-Desviación estándar,5731.635308662991,eth
-Rango (min - max),285.43 - 101514.38,eth
-Percentil 5 (escenario de riesgo),1540.4810013919232,eth
-Percentil 95 (escenario alcista),17395.214097230823,eth
-Precio inicial,18.43292999267578,link
-Precio promedio a 270 días,46.89607518415457,link
-Mediana a 270 días,27.252906567472127,link
+Precio inicial,111028.17,btc
+Precio promedio a 270 días,296180.9058674633,btc
+Mediana a 270 días,218758.75019878763,btc
+Moda,72150.0,btc
+Desviación estándar,269190.99787211843,btc
+Rango (min - max),12935.51 - 4258847.79,btc
+Percentil 5 (escenario de riesgo),60910.202652569256,btc
+Percentil 95 (escenario alcista),791561.6009522305,btc
+Precio inicial,3893.03857421875,eth
+Precio promedio a 270 días,6472.9157856993315,eth
+Mediana a 270 días,4876.19887526307,eth
+Moda,3180.0,eth
+Desviación estándar,5638.926705436359,eth
+Rango (min - max),286.08 - 92149.14,eth
+Percentil 5 (escenario de riesgo),1458.4122704154904,eth
+Percentil 95 (escenario alcista),16574.562226921727,eth
+Precio inicial,17.788543701171875,link
+Precio promedio a 270 días,46.07542958771236,link
+Mediana a 270 días,26.772879720773105,link
 Moda,10.0,link
-Desviación estándar,62.78421464223218,link
-Rango (min - max),0.36 - 1174.41,link
-Percentil 5 (escenario de riesgo),4.881152460625398,link
-Percentil 95 (escenario alcista),152.67992960734813,link
-Precio inicial,234.3913116455078,aave
-Precio promedio a 270 días,-1.057870934057657e+66,aave
-Mediana a 270 días,1.9640794956824817e+21,aave
-Moda,-3.974901569328223e+70,aave
-Desviación estándar,4.928883937031592e+68,aave
-Rango (min - max),-39749015693282229326766111323213317027785733506363117472802717617356800.00 - 29144741732539687263518772392414754580333314066124187479213860431331328.00,aave
-Percentil 5 (escenario de riesgo),-6.680758340363346e+49,aave
-Percentil 95 (escenario alcista),2.0052282911079825e+50,aave
+Desviación estándar,62.41999809070904,link
+Rango (min - max),0.31 - 1309.52,link
+Percentil 5 (escenario de riesgo),4.648243844685713,link
+Percentil 95 (escenario alcista),149.18297223128235,link
+Precio inicial,224.5749969482422,aave
+Precio promedio a 270 días,-7.159395077440022e+63,aave
+Mediana a 270 días,-2.6561080509016067e+17,aave
+Moda,-9.368384735457677e+67,aave
+Desviación estándar,9.526622605781862e+65,aave
+Rango (min - max),-93683847354576771989859671004646443852048732236812548513988373118976.00 - 16822828335144048078863653180528979841561283526607408308603831975936.00,aave
+Percentil 5 (escenario de riesgo),-9.253346549839561e+49,aave
+Percentil 95 (escenario alcista),8.291674736177968e+49,aave
