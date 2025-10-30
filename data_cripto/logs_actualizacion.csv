@@ -34547,3 +34547,5 @@ xlsx,guardado,,
 2025-10-30 11:30:39,montecarlo_lineas_simulacion,csv,guardado
 2025-10-30 11:30:39,trending,csv,guardado
 2025-10-30 11:30:41,trending,xlsx,guardado
+2025-10-30 11:30:41,montecarlo_lineas_simulacion,xlsx,error
+2025-10-30 11:30:43,trending,parquet,guardado
