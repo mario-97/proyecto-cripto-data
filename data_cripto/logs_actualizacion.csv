@@ -35855,3 +35855,5 @@ xlsx,guardado,,
 2025-10-30 00:03:28,trending,csv,guardado
 2025-10-30 00:03:31,trending,xlsx,guardado
 2025-10-30 00:03:33,trending,parquet,guardado
+2025-10-30 00:03:33,transfers,csv,error
+2025-10-30 00:03:36,transfers,xlsx,guardado
