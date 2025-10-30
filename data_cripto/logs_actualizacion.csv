@@ -34539,3 +34539,5 @@ xlsx,guardado,,
 2025-10-30 11:29:19,top_holders,xlsx,guardado
 2025-10-30 11:29:22,top_holders,parquet,guardado
 2025-10-30 11:30:32,montecarlo_histograma,csv,guardado
+2025-10-30 11:30:32,top_flow,csv,error
+2025-10-30 11:30:34,montecarlo_histograma,xlsx,guardado
