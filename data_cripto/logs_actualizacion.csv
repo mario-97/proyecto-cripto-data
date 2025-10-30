@@ -34678,3 +34678,5 @@ xlsx,guardado,,
 2025-10-30 07:00:11,top_flow,csv,guardado
 2025-10-30 07:00:12,btc_sopr_lth,csv,guardado
 2025-10-30 07:00:13,top_flow,xlsx,guardado
+2025-10-30 07:00:14,btc_sopr_lth,xlsx,guardado
+2025-10-30 07:00:16,top_flow,parquet,guardado
