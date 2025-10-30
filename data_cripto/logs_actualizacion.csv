@@ -34769,3 +34769,5 @@ xlsx,guardado,,
 2025-10-30 03:00:13,top_flow,csv,guardado
 2025-10-30 03:00:14,btc_hashrate,xlsx,guardado
 2025-10-30 03:00:16,btc_hashrate,parquet,guardado
+2025-10-30 03:00:16,top_flow,xlsx,error
+2025-10-30 03:00:19,top_flow,parquet,guardado
