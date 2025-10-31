@@ -38036,3 +38036,5 @@ xlsx,guardado,,
 2025-10-31 02:03:30,top_volume,xlsx,guardado
 2025-10-31 02:03:31,transfers,xlsx,guardado
 2025-10-31 02:03:32,top_volume,parquet,guardado
+2025-10-31 02:03:33,transfers,parquet,guardado
+2025-10-31 02:05:11,top_holders,csv,guardado
