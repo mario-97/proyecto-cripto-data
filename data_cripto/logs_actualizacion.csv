@@ -40411,3 +40411,6 @@ xlsx,guardado,,
 2025-10-31 11:29:22,top_holders,xlsx,guardado
 2025-10-31 11:29:25,top_holders,parquet,guardado
 2025-10-31 11:30:22,top_flow,csv,guardado
+2025-10-31 11:30:31,top_flow,xlsx,guardado
+2025-10-31 11:30:32,montecarlo_histograma,csv,guardado
+2025-10-31 11:30:34,top_flow,parquet,guardado
