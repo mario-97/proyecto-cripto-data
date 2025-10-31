@@ -39783,3 +39783,5 @@ xlsx,guardado,,
 2025-10-31 09:00:14,top_flow,xlsx,guardado
 2025-10-31 09:00:14,btc_etf_total,parquet,error
 2025-10-31 09:00:17,top_flow,parquet,guardado
+2025-10-31 09:00:18,btc_cdd,csv,error
+2025-10-31 09:00:19,trending,csv,guardado
