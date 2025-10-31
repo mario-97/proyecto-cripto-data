@@ -39277,3 +39277,5 @@ xlsx,guardado,,
 2025-10-31 07:00:21,btc_sopr_sth,csv,error
 2025-10-31 07:00:22,top_flow,xlsx,guardado
 2025-10-31 07:00:23,top_flow,parquet,guardado
+2025-10-31 07:00:23,btc_sopr_sth,xlsx,error
+2025-10-31 07:00:26,btc_sopr_sth,parquet,guardado
