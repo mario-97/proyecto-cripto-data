@@ -40302,3 +40302,5 @@ xlsx,guardado,,
 2025-10-31 11:03:32,transfers,csv,guardado
 2025-10-31 11:03:33,trending,csv,error
 2025-10-31 11:03:36,trending,xlsx,guardado
+2025-10-31 11:03:36,transfers,xlsx,guardado
+2025-10-31 11:03:38,trending,parquet,guardado
