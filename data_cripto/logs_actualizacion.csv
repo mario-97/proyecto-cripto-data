@@ -40751,3 +40751,5 @@ o,,,
 2025-11-01 03:00:10,btc_sopr,parquet,guardado
 2025-11-01 03:00:15,btc_hashrate,csv,guardado
 2025-11-01 03:00:18,top_flow,xlsx,guardado
+2025-11-01 03:00:18,btc_hashrate,xlsx,error
+2025-11-01 03:00:20,top_flow,parquet,guardado
