@@ -41024,3 +41024,5 @@ o,,,
 2025-11-01 04:03:29,transfers,csv,guardado
 2025-11-01 04:03:30,top_volume,csv,guardado
 2025-11-01 04:03:32,transfers,xlsx,guardado
+2025-11-01 04:03:32,top_volume,xlsx,guardado
+2025-11-01 04:03:34,transfers,parquet,guardado
