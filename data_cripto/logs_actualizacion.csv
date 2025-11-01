@@ -41029,3 +41029,4 @@ o,,,
 2025-11-01 04:03:34,top_volume,parquet,error
 2025-11-01 04:05:11,top_holders,csv,guardado
 2025-11-01 04:05:15,top_holders,xlsx,guardado
+2025-11-01 04:05:17,top_holders,parquet,guardado
