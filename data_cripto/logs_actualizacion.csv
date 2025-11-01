@@ -40047,3 +40047,5 @@ o,,,
 2025-11-01 11:03:34,transfers,xlsx,guardado
 2025-11-01 11:03:34,trending,csv,error
 2025-11-01 11:03:36,trending,xlsx,guardado
+2025-11-01 11:03:37,transfers,parquet,error
+2025-11-01 11:03:39,trending,parquet,guardado
