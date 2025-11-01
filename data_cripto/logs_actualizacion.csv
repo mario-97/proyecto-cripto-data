@@ -39526,3 +39526,5 @@ o,,,
 2025-11-01 09:00:12,btc_etf_total,parquet,guardado
 2025-11-01 09:00:15,top_flow,csv,guardado
 2025-11-01 09:00:16,btc_cdd,csv,guardado
+2025-11-01 09:00:17,top_flow,xlsx,guardado
+2025-11-01 09:00:19,top_flow,parquet,guardado
