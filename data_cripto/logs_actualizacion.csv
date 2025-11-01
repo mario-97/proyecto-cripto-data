@@ -40154,3 +40154,9 @@ o,,,
 2025-11-01 11:29:12,top_holders,csv,guardado
 2025-11-01 11:29:16,top_holders,xlsx,guardado
 2025-11-01 11:29:19,top_holders,parquet,guardado
+2025-11-01 11:30:29,top_flow,csv,guardado
+2025-11-01 11:30:31,montecarlo_histograma,csv,guardado
+2025-11-01 11:30:32,top_flow,xlsx,guardado
+2025-11-01 11:30:33,montecarlo_histograma,xlsx,guardado
+2025-11-01 11:30:34,top_flow,parquet,guardado
+2025-11-01 11:30:35,montecarlo_histograma,parquet,guardado
