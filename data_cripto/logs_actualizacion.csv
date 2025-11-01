@@ -41271,3 +41271,7 @@ o,,,
 2025-11-01 05:02:14,top_holders,xlsx,guardado
 2025-11-01 05:02:17,top_holders,parquet,guardado
 2025-11-01 05:03:32,transfers,csv,guardado
+2025-11-01 05:03:34,top_flow,csv,guardado
+2025-11-01 05:03:36,transfers,xlsx,guardado
+2025-11-01 05:03:37,top_flow,xlsx,guardado
+2025-11-01 05:03:38,transfers,parquet,guardado
