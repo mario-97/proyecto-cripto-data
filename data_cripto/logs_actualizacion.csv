@@ -38345,3 +38345,5 @@ t,guardado,,
 2025-11-01 21:03:29,top_volume,xlsx,guardado
 2025-11-01 21:03:29,transfers,csv,error
 2025-11-01 21:03:31,top_volume,parquet,guardado
+2025-11-01 21:03:32,transfers,xlsx,guardado
+2025-11-01 21:03:34,transfers,parquet,guardado
