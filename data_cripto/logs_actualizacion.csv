@@ -40758,3 +40758,5 @@ o,,,
 2025-11-01 03:00:24,btc_miner_reserves,csv,error
 2025-11-01 03:00:25,trending,xlsx,guardado
 2025-11-01 03:00:26,trending,parquet,guardado
+2025-11-01 03:00:27,btc_miner_reserves,xlsx,guardado
+2025-11-01 03:00:29,top_volume,csv,guardado
