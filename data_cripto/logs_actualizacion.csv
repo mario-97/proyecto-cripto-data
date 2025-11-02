@@ -39821,3 +39821,5 @@ t,guardado,,
 2025-11-02 03:00:16,top_flow,csv,guardado
 2025-11-02 03:00:16,btc_hashrate,parquet,guardado
 2025-11-02 03:00:18,top_flow,xlsx,guardado
+2025-11-02 03:00:20,btc_miner_reserves,csv,guardado
+2025-11-02 03:00:22,top_flow,parquet,guardado
