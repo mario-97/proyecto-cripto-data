@@ -34615,3 +34615,5 @@ ado,,,
 2025-11-02 12:03:31,transfers,csv,guardado
 2025-11-02 12:03:32,top_flow,parquet,guardado
 2025-11-02 12:03:34,transfers,xlsx,guardado
+2025-11-02 12:03:34,trending,csv,error
+2025-11-02 12:03:36,trending,xlsx,guardado
