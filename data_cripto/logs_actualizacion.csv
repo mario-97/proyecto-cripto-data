@@ -37132,3 +37132,5 @@ ado,,,
 2025-11-02 09:00:10,btc_etf_total,xlsx,guardado
 2025-11-02 09:00:11,top_flow,xlsx,guardado
 2025-11-02 09:00:12,btc_etf_total,parquet,guardado
+2025-11-02 09:00:13,top_flow,parquet,guardado
+2025-11-02 09:00:15,trending,csv,guardado
