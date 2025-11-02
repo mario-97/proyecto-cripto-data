@@ -37633,3 +37633,5 @@ ado,,,
 2025-11-02 10:59:18,top_holders,parquet,guardado
 2025-11-02 11:00:03,btc_change_price,csv,guardado
 2025-11-02 11:00:12,btc_change_price,xlsx,guardado
+2025-11-02 11:00:14,top_flow,csv,error
+2025-11-02 11:00:15,btc_change_price,parquet,guardado
