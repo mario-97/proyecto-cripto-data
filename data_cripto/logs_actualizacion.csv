@@ -31067,3 +31067,5 @@ ado,,,
 2025-11-03 06:46:15,top_volume,csv,guardado
 2025-11-03 06:46:16,transfers,xlsx,guardado
 2025-11-03 06:46:17,top_volume,xlsx,guardado
+2025-11-03 06:46:18,transfers,parquet,guardado
+2025-11-03 06:46:19,top_volume,parquet,guardado
