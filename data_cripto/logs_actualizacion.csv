@@ -31791,3 +31791,5 @@ ado,,,
 2025-11-03 11:30:43,montecarlo_estadistica_descriptiva,csv,guardado
 2025-11-03 11:30:44,top_flow,parquet,guardado
 2025-11-03 11:30:45,montecarlo_estadistica_descriptiva,xlsx,guardado
+2025-11-03 11:30:46,trending,csv,guardado
+2025-11-03 11:30:47,montecarlo_estadistica_descriptiva,parquet,error
