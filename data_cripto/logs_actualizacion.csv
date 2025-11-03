@@ -31406,3 +31406,5 @@ ado,,,
 2025-11-03 09:00:18,top_flow,csv,guardado
 2025-11-03 09:00:20,btc_cdd,xlsx,error
 2025-11-03 09:00:20,top_flow,xlsx,guardado
+2025-11-03 09:00:23,btc_cdd,parquet,guardado
+2025-11-03 09:00:23,top_flow,parquet,error
