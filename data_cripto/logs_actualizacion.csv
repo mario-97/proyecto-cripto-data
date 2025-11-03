@@ -31119,3 +31119,6 @@ ado,,,
 2025-11-03 06:57:54,top_volume,parquet,guardado
 2025-11-03 07:00:02,btc_mvrvz_lth,csv,guardado
 2025-11-03 07:00:04,top_holders,csv,guardado
+2025-11-03 07:00:04,btc_mvrvz_lth,xlsx,guardado
+2025-11-03 07:00:07,btc_mvrvz_lth,parquet,guardado
+2025-11-03 07:00:08,top_holders,xlsx,guardado
