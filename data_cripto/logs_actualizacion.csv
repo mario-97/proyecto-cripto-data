@@ -35055,3 +35055,4 @@ ado,,,
 2025-11-04 01:03:33,top_volume,csv,error
 2025-11-04 01:03:35,top_volume,xlsx,guardado
 2025-11-04 01:03:35,transfers,parquet,error
+2025-11-04 01:03:37,top_volume,parquet,guardado
