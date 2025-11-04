@@ -36591,3 +36591,5 @@ t,guardado,,
 2025-11-04 11:30:35,montecarlo_histograma,parquet,guardado
 2025-11-04 11:30:36,trending,csv,guardado
 2025-11-04 11:30:37,montecarlo_lineas_simulacion,csv,guardado
+2025-11-04 11:30:37,trending,xlsx,error
+2025-11-04 11:30:40,trending,parquet,guardado
