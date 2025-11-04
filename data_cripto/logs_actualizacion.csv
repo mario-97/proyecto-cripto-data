@@ -36585,3 +36585,5 @@ t,guardado,,
 2025-11-04 11:29:18,top_holders,parquet,guardado
 2025-11-04 11:30:22,top_flow,csv,guardado
 2025-11-04 11:30:30,top_flow,xlsx,guardado
+2025-11-04 11:30:31,montecarlo_histograma,csv,guardado
+2025-11-04 11:30:33,top_flow,parquet,guardado
