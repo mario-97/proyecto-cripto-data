@@ -35538,3 +35538,5 @@ ado,,,
 2025-11-04 03:00:20,btc_miner_reserves,csv,error
 2025-11-04 03:00:21,top_flow,parquet,guardado
 2025-11-04 03:00:22,btc_miner_reserves,xlsx,guardado
+2025-11-04 03:00:23,trending,csv,guardado
+2025-11-04 03:00:24,btc_miner_reserves,parquet,guardado
