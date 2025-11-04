@@ -35452,3 +35452,5 @@ t,guardado,,
 2025-11-04 07:00:18,trending,csv,error
 2025-11-04 07:00:21,trending,xlsx,guardado
 2025-11-04 07:00:22,btc_sopr_sth,csv,error
+2025-11-04 07:00:23,trending,parquet,guardado
+2025-11-04 07:00:25,btc_sopr_sth,xlsx,guardado
