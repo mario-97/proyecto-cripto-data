@@ -35670,3 +35670,6 @@ t,guardado,,
 2025-11-05 16:02:14,top_holders,xlsx,guardado
 2025-11-05 16:02:16,top_holders,parquet,guardado
 2025-11-05 16:03:26,top_flow,csv,guardado
+2025-11-05 16:03:28,top_flow,xlsx,guardado
+2025-11-05 16:03:29,transfers,csv,guardado
+2025-11-05 16:03:31,top_flow,parquet,guardado
