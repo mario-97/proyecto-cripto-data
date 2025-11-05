@@ -34788,3 +34788,5 @@ t,guardado,,
 2025-11-05 12:24:43,transfers,csv,guardado
 2025-11-05 12:24:44,top_flow,csv,guardado
 2025-11-05 12:24:45,top_flow,xlsx,guardado
+2025-11-05 12:24:46,transfers,xlsx,guardado
+2025-11-05 12:24:48,transfers,parquet,error
