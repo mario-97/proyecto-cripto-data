@@ -35900,3 +35900,5 @@ t,guardado,,
 2025-11-05 03:03:21,trending,csv,guardado
 2025-11-05 03:03:23,trending,xlsx,guardado
 2025-11-05 03:03:26,transfers,csv,guardado
+2025-11-05 03:03:26,trending,parquet,error
+2025-11-05 03:03:29,transfers,xlsx,guardado
