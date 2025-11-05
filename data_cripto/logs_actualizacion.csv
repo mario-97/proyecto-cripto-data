@@ -36386,3 +36386,5 @@ t,guardado,,
 2025-11-05 05:00:10,top_flow,csv,guardado
 2025-11-05 05:00:11,btc_mvrvz_sth,csv,guardado
 2025-11-05 05:00:13,top_flow,xlsx,error
+2025-11-05 05:00:14,btc_mvrvz_sth,xlsx,guardado
+2025-11-05 05:00:15,top_flow,parquet,guardado
