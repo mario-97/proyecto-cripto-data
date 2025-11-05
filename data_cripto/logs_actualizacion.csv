@@ -33928,3 +33928,5 @@ t,guardado,,
 2025-11-05 09:00:14,top_flow,csv,guardado
 2025-11-05 09:00:16,top_flow,xlsx,guardado
 2025-11-05 09:00:17,btc_cdd,csv,guardado
+2025-11-05 09:00:18,top_flow,parquet,guardado
+2025-11-05 09:00:20,btc_cdd,xlsx,guardado
