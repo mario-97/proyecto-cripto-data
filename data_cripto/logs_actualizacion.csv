@@ -37201,3 +37201,5 @@ t,guardado,,
 2025-11-05 01:00:02,btc_price,csv,guardado
 2025-11-05 01:00:05,btc_price,xlsx,guardado
 2025-11-05 01:00:08,btc_price,parquet,guardado
+2025-11-05 01:00:09,top_flow,csv,guardado
+2025-11-05 01:00:11,top_flow,xlsx,guardado
