@@ -37681,3 +37681,5 @@ t,guardado,,
 2025-11-06 03:00:22,trending,xlsx,guardado
 2025-11-06 03:00:22,btc_miner_reserves,xlsx,guardado
 2025-11-06 03:00:24,trending,parquet,guardado
+2025-11-06 03:00:24,btc_miner_reserves,parquet,guardado
+2025-11-06 03:00:27,top_volume,csv,guardado
