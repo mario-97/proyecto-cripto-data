@@ -39186,3 +39186,5 @@ t,guardado,,
 2025-11-06 09:00:17,btc_cdd,csv,guardado
 2025-11-06 09:00:18,trending,xlsx,guardado
 2025-11-06 09:00:20,trending,parquet,guardado
+2025-11-06 09:00:20,btc_cdd,xlsx,error
+2025-11-06 09:00:23,btc_cdd,parquet,guardado
