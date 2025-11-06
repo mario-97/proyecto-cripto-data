@@ -38691,3 +38691,5 @@ t,guardado,,
 2025-11-06 07:00:18,btc_sopr_lth,parquet,guardado
 2025-11-06 07:00:18,trending,parquet,error
 2025-11-06 07:00:21,top_volume,csv,guardado
+2025-11-06 07:00:22,btc_sopr_sth,csv,guardado
+2025-11-06 07:00:24,top_volume,xlsx,guardado
