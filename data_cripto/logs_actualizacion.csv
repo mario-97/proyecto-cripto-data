@@ -37676,3 +37676,4 @@ t,guardado,,
 2025-11-06 03:00:15,top_flow,xlsx,guardado
 2025-11-06 03:00:15,btc_hashrate,parquet,error
 2025-11-06 03:00:17,top_flow,parquet,guardado
+2025-11-06 03:00:19,btc_miner_reserves,csv,guardado
