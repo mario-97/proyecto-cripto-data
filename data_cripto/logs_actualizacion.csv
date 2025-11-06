@@ -39179,3 +39179,5 @@ t,guardado,,
 2025-11-06 09:00:08,top_flow,csv,guardado
 2025-11-06 09:00:09,btc_etf_total,csv,guardado
 2025-11-06 09:00:11,top_flow,xlsx,guardado
+2025-11-06 09:00:11,btc_etf_total,xlsx,error
+2025-11-06 09:00:13,top_flow,parquet,guardado
