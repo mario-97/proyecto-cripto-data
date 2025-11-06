@@ -37672,3 +37672,5 @@ t,guardado,,
 2025-11-06 03:00:07,btc_sopr,parquet,guardado
 2025-11-06 03:00:10,btc_hashrate,csv,guardado
 2025-11-06 03:00:13,top_flow,csv,guardado
+2025-11-06 03:00:13,btc_hashrate,xlsx,guardado
+2025-11-06 03:00:15,top_flow,xlsx,guardado
