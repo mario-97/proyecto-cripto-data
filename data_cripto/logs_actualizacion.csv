@@ -38178,3 +38178,7 @@ t,guardado,,
 2025-11-06 05:00:05,btc_nrpl_usd,xlsx,guardado
 2025-11-06 05:00:08,btc_nrpl_usd,parquet,guardado
 2025-11-06 05:00:12,btc_mvrvz_sth,csv,guardado
+2025-11-06 05:00:15,btc_mvrvz_sth,xlsx,guardado
+2025-11-06 05:00:16,top_flow,csv,guardado
+2025-11-06 05:00:17,btc_mvrvz_sth,parquet,guardado
+2025-11-06 05:00:18,top_flow,xlsx,guardado
