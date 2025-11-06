@@ -37174,3 +37174,5 @@ t,guardado,,
 2025-11-06 01:00:20,btc_nupl,csv,error
 2025-11-06 01:00:21,trending,parquet,guardado
 2025-11-06 01:00:23,btc_nupl,xlsx,guardado
+2025-11-06 01:00:24,top_volume,csv,guardado
+2025-11-06 01:00:25,btc_nupl,parquet,guardado
