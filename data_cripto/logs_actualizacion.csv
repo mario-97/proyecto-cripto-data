@@ -38946,3 +38946,5 @@ t,guardado,,
 2025-11-06 08:03:27,transfers,csv,guardado
 2025-11-06 08:03:27,top_volume,xlsx,guardado
 2025-11-06 08:03:30,top_volume,parquet,guardado
+2025-11-06 08:03:30,transfers,xlsx,guardado
+2025-11-06 08:03:32,transfers,parquet,guardado
