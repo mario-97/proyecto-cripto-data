@@ -38450,3 +38450,5 @@ t,guardado,,
 2025-11-06 06:03:33,transfers,csv,guardado
 2025-11-06 06:03:34,top_volume,csv,guardado
 2025-11-06 06:03:36,top_volume,xlsx,guardado
+2025-11-06 06:03:37,transfers,xlsx,guardado
+2025-11-06 06:03:38,top_volume,parquet,guardado
