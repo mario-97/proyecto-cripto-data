@@ -38680,3 +38680,5 @@ t,guardado,,
 2025-11-06 06:59:17,top_holders,parquet,guardado
 2025-11-06 07:00:03,btc_mvrvz_lth,csv,guardado
 2025-11-06 07:00:05,top_flow,csv,guardado
+2025-11-06 07:00:06,btc_mvrvz_lth,xlsx,error
+2025-11-06 07:00:08,top_flow,xlsx,guardado
