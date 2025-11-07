@@ -703,3 +703,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 04:47:40,top_holders,parquet,guardado
 2025-11-07 04:48:11,transfers,csv,guardado
 2025-11-07 04:48:14,transfers,xlsx,guardado
+2025-11-07 04:48:16,transfers,parquet,guardado
