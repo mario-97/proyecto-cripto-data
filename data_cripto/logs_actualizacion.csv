@@ -2250,3 +2250,5 @@ fecha_hora,archivo,formato,status
 2025-11-07 11:29:41,top_holders,xlsx,guardado
 2025-11-07 11:29:43,top_holders,parquet,guardado
 2025-11-07 11:30:38,montecarlo_histograma,csv,guardado
+2025-11-07 11:30:39,top_flow,csv,guardado
+2025-11-07 11:30:40,montecarlo_histograma,xlsx,guardado
