@@ -919,3 +919,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 05:37:02,top_volume,parquet,guardado
 2025-11-07 05:38:39,top_holders,csv,guardado
 2025-11-07 05:38:43,top_holders,xlsx,guardado
+2025-11-07 05:38:45,top_holders,parquet,guardado
