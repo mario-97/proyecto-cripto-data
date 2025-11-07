@@ -448,3 +448,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 03:35:41,top_holders,parquet,guardado
 2025-11-07 03:36:31,top_flow,csv,guardado
 2025-11-07 03:36:33,top_flow,xlsx,guardado
+2025-11-07 03:36:35,top_flow,parquet,guardado
