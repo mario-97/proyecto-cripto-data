@@ -294,3 +294,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 03:00:11,btc_hashrate,xlsx,guardado
 2025-11-07 03:00:13,btc_hashrate,parquet,guardado
 2025-11-07 03:00:17,btc_miner_reserves,csv,guardado
+2025-11-07 03:00:20,btc_miner_reserves,xlsx,guardado
