@@ -1937,3 +1937,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 10:15:41,top_flow,csv,guardado
 2025-11-07 10:15:43,top_flow,xlsx,guardado
 2025-11-07 10:15:45,top_flow,parquet,guardado
+2025-11-07 10:15:47,trending,csv,guardado
