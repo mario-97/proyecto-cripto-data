@@ -743,3 +743,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 17:42:08,top_volume,csv,guardado
 2025-11-07 17:42:10,top_volume,xlsx,guardado
 2025-11-07 17:42:12,top_volume,parquet,guardado
+2025-11-07 17:43:13,transfers,csv,guardado
