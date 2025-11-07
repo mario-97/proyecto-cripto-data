@@ -42724,3 +42724,4 @@ t,guardado,,
 2025-11-07 01:00:20,btc_nupl,csv,guardado
 2025-11-07 01:00:21,trending,parquet,guardado
 2025-11-07 01:00:23,btc_nupl,xlsx,guardado
+2025-11-07 01:00:24,top_volume,csv,error
