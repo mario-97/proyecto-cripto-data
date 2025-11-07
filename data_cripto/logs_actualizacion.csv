@@ -2259,3 +2259,5 @@ fecha_hora,archivo,formato,status
 2025-11-07 11:30:45,trending,csv,guardado
 2025-11-07 11:30:46,montecarlo_lineas_simulacion,xlsx,guardado
 2025-11-07 11:30:47,trending,xlsx,guardado
+2025-11-07 11:30:48,montecarlo_lineas_simulacion,parquet,guardado
+2025-11-07 11:30:49,trending,parquet,guardado
