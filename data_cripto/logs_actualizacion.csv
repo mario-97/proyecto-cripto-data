@@ -753,3 +753,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 04:59:41,top_holders,xlsx,guardado
 2025-11-07 04:59:43,top_holders,parquet,guardado
 2025-11-07 05:00:02,btc_nrpl_usd,csv,guardado
+2025-11-07 05:00:04,btc_nrpl_usd,xlsx,guardado
