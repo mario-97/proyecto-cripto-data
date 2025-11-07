@@ -2848,3 +2848,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 13:51:37,top_flow,parquet,guardado
 2025-11-07 13:51:40,trending,csv,guardado
 2025-11-07 13:51:41,trending,xlsx,guardado
+2025-11-07 13:51:43,trending,parquet,guardado
