@@ -2263,3 +2263,5 @@ fecha_hora,archivo,formato,status
 2025-11-07 11:30:49,trending,parquet,guardado
 2025-11-07 11:30:49,montecarlo_estadistica_descriptiva,csv,error
 2025-11-07 11:30:51,montecarlo_estadistica_descriptiva,xlsx,guardado
+2025-11-07 11:30:52,top_volume,csv,error
+2025-11-07 11:30:52,montecarlo_estadistica_descriptiva,parquet,error
