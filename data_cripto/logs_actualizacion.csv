@@ -330,3 +330,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 03:06:46,top_volume,xlsx,guardado
 2025-11-07 03:06:48,top_volume,parquet,guardado
 2025-11-07 03:07:57,transfers,csv,guardado
+2025-11-07 03:08:00,transfers,xlsx,guardado
