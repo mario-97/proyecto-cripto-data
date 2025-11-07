@@ -287,3 +287,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 02:59:37,top_holders,csv,guardado
 2025-11-07 02:59:40,top_holders,xlsx,guardado
 2025-11-07 02:59:42,top_holders,parquet,guardado
+2025-11-07 03:00:02,btc_sopr,csv,guardado
