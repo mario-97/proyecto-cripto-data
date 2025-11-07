@@ -1748,3 +1748,4 @@ fecha_hora,archivo,formato,status
 2025-11-07 09:29:37,top_holders,csv,guardado
 2025-11-07 09:29:40,top_holders,xlsx,guardado
 2025-11-07 09:29:42,top_holders,parquet,guardado
+2025-11-07 09:30:36,top_flow,csv,guardado
