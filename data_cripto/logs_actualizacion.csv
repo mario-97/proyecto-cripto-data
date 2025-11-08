@@ -2470,3 +2470,4 @@ fecha_hora,archivo,formato,status
 2025-11-08 04:36:22,top_volume,parquet,guardado
 2025-11-08 04:38:08,top_holders,csv,guardado
 2025-11-08 04:38:17,top_holders,xlsx,guardado
+2025-11-08 04:38:19,top_holders,parquet,guardado
