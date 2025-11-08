@@ -1572,3 +1572,4 @@ fecha_hora,archivo,formato,status
 2025-11-08 01:00:20,trending,xlsx,guardado
 2025-11-08 01:00:22,trending,parquet,guardado
 2025-11-08 01:00:23,btc_nupl,csv,guardado
+2025-11-08 01:00:26,top_volume,csv,guardado
