@@ -2049,3 +2049,4 @@ fecha_hora,archivo,formato,status
 2025-11-08 02:57:22,top_volume,xlsx,guardado
 2025-11-08 02:57:24,top_volume,parquet,guardado
 2025-11-08 02:58:26,transfers,csv,guardado
+2025-11-08 02:58:30,transfers,xlsx,guardado
