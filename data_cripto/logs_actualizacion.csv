@@ -2066,3 +2066,5 @@ fecha_hora,archivo,formato,status
 2025-11-08 03:00:20,trending,xlsx,guardado
 2025-11-08 03:00:20,btc_hashrate,parquet,error
 2025-11-08 03:00:22,trending,parquet,guardado
+2025-11-08 03:00:24,top_volume,csv,guardado
+2025-11-08 03:00:24,btc_miner_reserves,csv,error
