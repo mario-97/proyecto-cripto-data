@@ -2060,3 +2060,5 @@ fecha_hora,archivo,formato,status
 2025-11-08 03:00:10,top_flow,csv,guardado
 2025-11-08 03:00:12,top_flow,xlsx,guardado
 2025-11-08 03:00:14,top_flow,parquet,guardado
+2025-11-08 03:00:14,btc_hashrate,csv,error
+2025-11-08 03:00:19,trending,csv,guardado
