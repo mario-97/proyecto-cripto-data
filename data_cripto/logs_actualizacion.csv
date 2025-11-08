@@ -1730,3 +1730,4 @@ fecha_hora,archivo,formato,status
 2025-11-08 01:38:29,transfers,csv,guardado
 2025-11-08 01:38:33,transfers,xlsx,guardado
 2025-11-08 01:38:35,transfers,parquet,guardado
+2025-11-08 01:39:07,top_flow,csv,guardado
