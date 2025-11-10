@@ -805,3 +805,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 15:22:46,top_volume,parquet,guardado
 2025-11-10 15:23:28,transfers,csv,guardado
 2025-11-10 15:23:32,transfers,xlsx,guardado
+2025-11-10 15:23:34,transfers,parquet,guardado
