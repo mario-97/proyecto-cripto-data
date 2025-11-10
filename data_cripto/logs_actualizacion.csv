@@ -1829,3 +1829,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 19:39:06,top_holders,csv,guardado
 2025-11-10 19:39:15,top_holders,xlsx,guardado
 2025-11-10 19:39:17,top_holders,parquet,guardado
+2025-11-10 19:40:12,top_flow,csv,guardado
