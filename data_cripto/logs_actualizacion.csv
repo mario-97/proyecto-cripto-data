@@ -1945,3 +1945,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 20:06:15,top_holders,parquet,guardado
 2025-11-10 20:07:12,top_flow,csv,guardado
 2025-11-10 20:07:14,top_flow,xlsx,guardado
+2025-11-10 20:07:15,top_flow,parquet,guardado
