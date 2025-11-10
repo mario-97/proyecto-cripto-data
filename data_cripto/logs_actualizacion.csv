@@ -1986,3 +1986,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 20:16:20,trending,xlsx,guardado
 2025-11-10 20:16:22,trending,parquet,guardado
 2025-11-10 20:16:25,top_volume,csv,guardado
+2025-11-10 20:16:26,top_volume,xlsx,guardado
