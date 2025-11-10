@@ -1515,3 +1515,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 18:22:20,top_volume,xlsx,guardado
 2025-11-10 18:22:22,top_volume,parquet,guardado
 2025-11-10 18:23:23,transfers,csv,guardado
+2025-11-10 18:23:27,transfers,xlsx,guardado
