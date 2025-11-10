@@ -775,3 +775,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 15:15:28,top_holders,parquet,guardado
 2025-11-10 15:16:29,trending,csv,guardado
 2025-11-10 15:16:30,trending,xlsx,guardado
+2025-11-10 15:16:32,trending,parquet,guardado
