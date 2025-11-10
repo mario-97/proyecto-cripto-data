@@ -1981,3 +1981,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 20:15:15,top_holders,parquet,guardado
 2025-11-10 20:16:12,top_flow,csv,guardado
 2025-11-10 20:16:14,top_flow,xlsx,guardado
+2025-11-10 20:16:16,top_flow,parquet,guardado
