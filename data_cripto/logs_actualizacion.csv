@@ -727,3 +727,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 15:03:38,transfers,parquet,guardado
 2025-11-10 15:04:12,top_flow,csv,guardado
 2025-11-10 15:04:14,top_flow,xlsx,guardado
+2025-11-10 15:04:16,top_flow,parquet,guardado
