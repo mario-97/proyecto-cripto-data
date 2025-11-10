@@ -1933,3 +1933,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 20:03:38,transfers,parquet,guardado
 2025-11-10 20:04:22,top_flow,csv,guardado
 2025-11-10 20:04:24,top_flow,xlsx,guardado
+2025-11-10 20:04:26,top_flow,parquet,guardado
