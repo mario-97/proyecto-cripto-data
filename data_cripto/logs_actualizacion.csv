@@ -773,3 +773,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 15:15:24,top_holders,csv,guardado
 2025-11-10 15:15:26,top_holders,xlsx,guardado
 2025-11-10 15:15:28,top_holders,parquet,guardado
+2025-11-10 15:16:29,trending,csv,guardado
