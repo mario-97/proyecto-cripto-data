@@ -888,3 +888,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 15:43:27,trending,csv,guardado
 2025-11-10 15:43:28,transfers,xlsx,error
 2025-11-10 15:43:29,trending,xlsx,guardado
+2025-11-10 15:43:30,transfers,parquet,guardado
