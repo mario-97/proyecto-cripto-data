@@ -2021,3 +2021,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 20:25:09,top_flow,csv,guardado
 2025-11-10 20:25:11,top_flow,xlsx,guardado
 2025-11-10 20:25:13,top_flow,parquet,guardado
+2025-11-10 20:25:15,trending,csv,guardado
