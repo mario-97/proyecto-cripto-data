@@ -1575,3 +1575,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 18:37:13,trending,xlsx,guardado
 2025-11-10 18:37:15,trending,parquet,guardado
 2025-11-10 18:37:17,top_volume,csv,guardado
+2025-11-10 18:37:19,top_volume,xlsx,guardado
