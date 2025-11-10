@@ -819,3 +819,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 15:25:39,top_volume,xlsx,guardado
 2025-11-10 15:25:41,top_volume,parquet,guardado
 2025-11-10 15:27:11,top_holders,csv,guardado
+2025-11-10 15:27:17,top_holders,xlsx,guardado
