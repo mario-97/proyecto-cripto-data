@@ -1939,3 +1939,4 @@ fecha_hora,archivo,formato,status
 2025-11-10 20:04:32,trending,parquet,guardado
 2025-11-10 20:04:34,top_volume,csv,guardado
 2025-11-10 20:04:36,top_volume,xlsx,guardado
+2025-11-10 20:04:39,top_volume,parquet,guardado
