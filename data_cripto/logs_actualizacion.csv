@@ -702,3 +702,4 @@ fecha_hora,archivo,formato,status
 2025-11-11 15:02:07,transfers,xlsx,guardado
 2025-11-11 15:02:08,transfers,parquet,guardado
 2025-11-11 15:02:51,top_flow,csv,guardado
+2025-11-11 15:02:54,top_flow,xlsx,guardado
