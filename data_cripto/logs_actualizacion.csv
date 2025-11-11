@@ -709,3 +709,4 @@ fecha_hora,archivo,formato,status
 2025-11-11 15:03:01,trending,parquet,guardado
 2025-11-11 15:03:04,top_volume,csv,guardado
 2025-11-11 15:03:06,top_volume,xlsx,guardado
+2025-11-11 15:03:07,top_volume,parquet,guardado
