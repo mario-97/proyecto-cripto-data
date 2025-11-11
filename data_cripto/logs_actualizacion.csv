@@ -215,3 +215,4 @@ fecha_hora,archivo,formato,status
 2025-11-11 12:58:55,top_flow,csv,guardado
 2025-11-11 12:58:57,top_flow,xlsx,guardado
 2025-11-11 12:58:59,top_flow,parquet,guardado
+2025-11-11 12:59:01,trending,csv,guardado
