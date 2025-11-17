@@ -398,3 +398,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 00:29:28,top_flow,csv,guardado
 2025-11-17 00:29:30,top_flow,xlsx,guardado
 2025-11-17 00:29:31,top_flow,parquet,guardado
+2025-11-17 00:29:33,trending,csv,guardado
