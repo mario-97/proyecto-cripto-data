@@ -800,3 +800,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 02:05:23,top_holders,csv,guardado
 2025-11-17 02:05:30,top_holders,xlsx,guardado
 2025-11-17 02:05:32,top_holders,parquet,guardado
+2025-11-17 02:06:19,top_flow,csv,guardado
