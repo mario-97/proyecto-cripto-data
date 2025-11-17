@@ -720,3 +720,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 01:45:28,trending,xlsx,guardado
 2025-11-17 01:45:30,trending,parquet,guardado
 2025-11-17 01:45:32,top_volume,csv,guardado
+2025-11-17 01:45:33,top_volume,xlsx,guardado
