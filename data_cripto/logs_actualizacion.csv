@@ -652,3 +652,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 16:48:59,top_flow,xlsx,error
 2025-11-17 16:49:02,top_flow,parquet,guardado
 2025-11-17 16:49:02,transfers,xlsx,guardado
+2025-11-17 16:49:04,trending,csv,error
