@@ -1035,3 +1035,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 03:00:21,btc_miner_reserves,xlsx,guardado
 2025-11-17 03:00:22,btc_miner_reserves,parquet,guardado
 2025-11-17 03:00:26,top_flow,csv,guardado
+2025-11-17 03:00:28,top_flow,xlsx,guardado
