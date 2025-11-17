@@ -700,3 +700,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 01:39:30,top_volume,parquet,guardado
 2025-11-17 01:41:23,top_holders,csv,guardado
 2025-11-17 01:41:30,top_holders,xlsx,guardado
+2025-11-17 01:41:32,top_holders,parquet,guardado
