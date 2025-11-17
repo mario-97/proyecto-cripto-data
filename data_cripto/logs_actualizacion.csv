@@ -1330,3 +1330,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 19:30:52,trending,parquet,guardado
 2025-11-17 19:30:54,top_volume,csv,guardado
 2025-11-17 19:30:56,top_volume,xlsx,guardado
+2025-11-17 19:30:58,top_volume,parquet,guardado
