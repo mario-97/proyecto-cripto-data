@@ -1519,3 +1519,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 20:16:02,top_volume,parquet,guardado
 2025-11-17 20:17:39,top_holders,csv,guardado
 2025-11-17 20:17:47,top_holders,xlsx,guardado
+2025-11-17 20:17:49,top_holders,parquet,guardado
