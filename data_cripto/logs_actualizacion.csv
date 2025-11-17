@@ -485,3 +485,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 16:08:45,top_holders,csv,guardado
 2025-11-17 16:08:53,top_holders,xlsx,guardado
 2025-11-17 16:08:55,top_holders,parquet,guardado
+2025-11-17 16:08:58,transfers,csv,guardado
