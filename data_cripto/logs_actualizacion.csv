@@ -1910,3 +1910,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 21:51:33,top_flow,csv,guardado
 2025-11-17 21:51:35,top_flow,xlsx,guardado
 2025-11-17 21:51:37,top_flow,parquet,guardado
+2025-11-17 21:51:39,trending,csv,guardado
