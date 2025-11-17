@@ -1000,3 +1000,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 02:51:42,top_volume,parquet,guardado
 2025-11-17 02:53:30,top_holders,csv,guardado
 2025-11-17 02:53:37,top_holders,xlsx,guardado
+2025-11-17 02:53:39,top_holders,parquet,guardado
