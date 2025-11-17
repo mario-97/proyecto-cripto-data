@@ -1818,3 +1818,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 21:29:00,transfers,xlsx,guardado
 2025-11-17 21:29:02,transfers,parquet,guardado
 2025-11-17 21:29:38,top_holders,csv,guardado
+2025-11-17 21:29:46,top_holders,xlsx,guardado
