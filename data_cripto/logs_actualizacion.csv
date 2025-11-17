@@ -1948,3 +1948,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 22:00:41,top_flow,parquet,guardado
 2025-11-17 22:00:43,trending,csv,guardado
 2025-11-17 22:00:45,trending,xlsx,guardado
+2025-11-17 22:00:46,trending,parquet,guardado
