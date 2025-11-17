@@ -795,3 +795,4 @@ fecha_hora,archivo,formato,status
 2025-11-17 02:03:27,trending,xlsx,guardado
 2025-11-17 02:03:29,trending,parquet,guardado
 2025-11-17 02:03:31,top_volume,csv,guardado
+2025-11-17 02:03:32,top_volume,xlsx,guardado
