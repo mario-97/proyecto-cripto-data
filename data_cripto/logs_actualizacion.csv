@@ -70,3 +70,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 01:07:20,top_volume,parquet,guardado
 2025-11-18 01:09:06,top_holders,csv,guardado
 2025-11-18 01:09:12,top_holders,xlsx,guardado
+2025-11-18 01:09:14,top_holders,parquet,guardado
