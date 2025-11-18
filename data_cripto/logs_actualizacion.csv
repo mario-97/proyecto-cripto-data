@@ -370,3 +370,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 14:23:13,trending,parquet,guardado
 2025-11-18 14:23:16,top_volume,csv,guardado
 2025-11-18 14:23:18,top_volume,xlsx,guardado
+2025-11-18 14:23:19,top_volume,parquet,guardado
