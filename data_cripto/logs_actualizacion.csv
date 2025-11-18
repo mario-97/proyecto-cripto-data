@@ -653,3 +653,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 18:09:04,trending,csv,guardado
 2025-11-18 18:09:06,trending,xlsx,guardado
 2025-11-18 18:09:07,trending,parquet,guardado
+2025-11-18 18:09:10,transfers,csv,guardado
