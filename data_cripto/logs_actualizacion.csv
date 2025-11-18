@@ -1410,3 +1410,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 21:11:02,top_holders,xlsx,guardado
 2025-11-18 21:11:04,top_holders,parquet,guardado
 2025-11-18 21:11:57,top_flow,csv,guardado
+2025-11-18 21:11:59,top_flow,xlsx,guardado
