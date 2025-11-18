@@ -903,3 +903,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 19:09:05,trending,xlsx,guardado
 2025-11-18 19:09:07,trending,parquet,guardado
 2025-11-18 19:09:09,top_volume,csv,guardado
+2025-11-18 19:09:11,transfers,csv,error
