@@ -855,3 +855,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 18:57:08,trending,xlsx,guardado
 2025-11-18 18:57:10,trending,parquet,guardado
 2025-11-18 18:57:12,top_volume,csv,guardado
+2025-11-18 18:57:14,top_volume,xlsx,guardado
