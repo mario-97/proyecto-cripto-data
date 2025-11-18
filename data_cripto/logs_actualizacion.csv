@@ -75,3 +75,4 @@ fecha_hora,archivo,formato,status
 2025-11-18 13:12:23,transfers,xlsx,guardado
 2025-11-18 13:12:25,transfers,parquet,guardado
 2025-11-18 13:13:04,top_holders,csv,guardado
+2025-11-18 13:13:10,top_holders,xlsx,guardado
