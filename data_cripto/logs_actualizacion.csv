@@ -139,3 +139,4 @@ fecha_hora,archivo,formato,status
 2025-11-19 17:59:12,top_holders,parquet,guardado
 2025-11-19 17:59:59,top_flow,csv,guardado
 2025-11-19 18:00:01,top_flow,xlsx,guardado
+2025-11-19 18:00:03,top_flow,parquet,guardado
