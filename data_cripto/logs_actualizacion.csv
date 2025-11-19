@@ -749,3 +749,4 @@ fecha_hora,archivo,formato,status
 2025-11-19 20:26:03,top_holders,csv,guardado
 2025-11-19 20:26:11,top_holders,xlsx,guardado
 2025-11-19 20:26:12,top_holders,parquet,guardado
+2025-11-19 20:26:54,top_flow,csv,guardado
