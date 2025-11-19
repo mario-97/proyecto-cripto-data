@@ -688,3 +688,4 @@ fecha_hora,archivo,formato,status
 2025-11-19 20:11:13,top_holders,parquet,guardado
 2025-11-19 20:12:02,top_flow,csv,guardado
 2025-11-19 20:12:04,top_flow,xlsx,guardado
+2025-11-19 20:12:06,top_flow,parquet,guardado
