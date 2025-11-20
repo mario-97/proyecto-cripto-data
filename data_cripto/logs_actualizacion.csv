@@ -1946,3 +1946,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 20:09:00,transfers,csv,guardado
 2025-11-20 20:09:04,transfers,xlsx,guardado
 2025-11-20 20:09:06,transfers,parquet,guardado
+2025-11-20 20:09:38,top_flow,csv,guardado
