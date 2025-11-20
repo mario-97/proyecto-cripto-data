@@ -160,3 +160,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 01:03:41,top_holders,parquet,guardado
 2025-11-20 01:04:20,top_flow,csv,error
 2025-11-20 01:04:22,top_flow,xlsx,guardado
+2025-11-20 01:04:23,top_flow,parquet,guardado
