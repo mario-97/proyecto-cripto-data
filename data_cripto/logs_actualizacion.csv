@@ -10,3 +10,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 00:42:13,btc_etf_flow,parquet,guardado
 2025-11-20 00:42:18,btc_etf_total,csv,guardado
 2025-11-20 00:42:22,btc_etf_total,xlsx,guardado
+2025-11-20 00:42:26,btc_etf_total,parquet,guardado
