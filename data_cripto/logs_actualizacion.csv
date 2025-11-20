@@ -2,3 +2,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 00:41:39,btc_nrpl_usd,csv,guardado
 2025-11-20 00:41:44,btc_nrpl_usd,xlsx,guardado
 2025-11-20 00:41:49,btc_nrpl_usd,parquet,guardado
+2025-11-20 00:41:55,btc_mvrvz_sth,csv,guardado
