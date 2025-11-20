@@ -1994,3 +1994,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 20:20:37,top_holders,csv,guardado
 2025-11-20 20:20:44,top_holders,xlsx,guardado
 2025-11-20 20:20:46,top_holders,parquet,guardado
+2025-11-20 20:21:43,top_flow,csv,guardado
