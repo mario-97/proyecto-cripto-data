@@ -823,3 +823,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 15:30:52,top_volume,parquet,guardado
 2025-11-20 15:32:38,top_holders,csv,guardado
 2025-11-20 15:32:45,top_holders,xlsx,guardado
+2025-11-20 15:32:48,top_holders,parquet,guardado
