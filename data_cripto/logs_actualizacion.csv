@@ -2168,3 +2168,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 21:02:37,top_holders,csv,guardado
 2025-11-20 21:02:45,top_holders,xlsx,guardado
 2025-11-20 21:02:48,top_holders,parquet,guardado
+2025-11-20 21:03:32,top_flow,csv,guardado
