@@ -1295,3 +1295,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 17:29:11,transfers,csv,guardado
 2025-11-20 17:29:16,transfers,xlsx,guardado
 2025-11-20 17:29:18,transfers,parquet,guardado
+2025-11-20 17:29:39,top_holders,csv,guardado
