@@ -1918,3 +1918,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 20:00:48,top_volume,parquet,guardado
 2025-11-20 20:02:37,top_holders,csv,guardado
 2025-11-20 20:02:43,top_holders,xlsx,guardado
+2025-11-20 20:02:45,top_holders,parquet,guardado
