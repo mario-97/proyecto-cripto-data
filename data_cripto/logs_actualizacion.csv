@@ -12,3 +12,5 @@ fecha_hora,archivo,formato,status
 2025-11-20 00:42:22,btc_etf_total,xlsx,guardado
 2025-11-20 00:42:26,btc_etf_total,parquet,guardado
 2025-11-20 00:42:29,top_holders,csv,guardado
+2025-11-20 00:42:29,btc_mvrvz_lth,csv,error
+2025-11-20 00:42:33,btc_mvrvz_lth,xlsx,guardado
