@@ -1970,3 +1970,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 20:14:37,top_holders,csv,guardado
 2025-11-20 20:14:46,top_holders,xlsx,guardado
 2025-11-20 20:14:48,top_holders,parquet,guardado
+2025-11-20 20:15:36,top_flow,csv,guardado
