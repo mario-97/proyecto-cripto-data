@@ -384,3 +384,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 01:57:38,top_holders,xlsx,guardado
 2025-11-20 01:57:39,top_holders,parquet,guardado
 2025-11-20 01:58:17,top_flow,csv,error
+2025-11-20 01:58:19,top_flow,xlsx,guardado
