@@ -6,3 +6,4 @@ fecha_hora,archivo,formato,status
 2025-11-20 00:41:59,btc_mvrvz_sth,xlsx,guardado
 2025-11-20 00:42:03,btc_mvrvz_sth,parquet,guardado
 2025-11-20 00:42:06,btc_etf_flow,csv,guardado
+2025-11-20 00:42:10,btc_etf_flow,xlsx,guardado
