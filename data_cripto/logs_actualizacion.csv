@@ -820,3 +820,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 16:10:43,top_volume,parquet,guardado
 2025-11-24 16:11:49,transfers,csv,guardado
 2025-11-24 16:11:53,transfers,xlsx,guardado
+2025-11-24 16:11:55,transfers,parquet,guardado
