@@ -660,3 +660,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 15:31:54,transfers,xlsx,guardado
 2025-11-24 15:31:56,transfers,parquet,guardado
 2025-11-24 15:33:33,top_holders,csv,guardado
+2025-11-24 15:33:40,top_holders,xlsx,guardado
