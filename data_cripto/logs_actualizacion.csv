@@ -524,3 +524,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 15:00:33,top_holders,csv,guardado
 2025-11-24 15:00:40,top_holders,xlsx,guardado
 2025-11-24 15:00:42,top_holders,parquet,guardado
+2025-11-24 15:01:28,top_flow,csv,guardado
