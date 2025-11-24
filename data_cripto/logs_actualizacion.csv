@@ -658,3 +658,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 15:31:48,top_volume,parquet,guardado
 2025-11-24 15:31:50,transfers,csv,guardado
 2025-11-24 15:31:54,transfers,xlsx,guardado
+2025-11-24 15:31:56,transfers,parquet,guardado
