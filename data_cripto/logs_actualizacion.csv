@@ -808,3 +808,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 16:08:01,top_volume,parquet,guardado
 2025-11-24 16:09:33,top_holders,csv,guardado
 2025-11-24 16:09:40,top_holders,xlsx,guardado
+2025-11-24 16:09:42,top_holders,parquet,guardado
