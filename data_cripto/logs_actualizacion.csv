@@ -822,3 +822,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 16:11:53,transfers,xlsx,guardado
 2025-11-24 16:11:55,transfers,parquet,guardado
 2025-11-24 16:12:33,top_holders,csv,guardado
+2025-11-24 16:12:41,top_holders,xlsx,guardado
