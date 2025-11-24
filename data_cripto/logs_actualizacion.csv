@@ -404,3 +404,4 @@ fecha_hora,archivo,formato,status
 2025-11-24 14:31:45,trending,csv,guardado
 2025-11-24 14:31:47,trending,xlsx,guardado
 2025-11-24 14:31:48,trending,parquet,guardado
+2025-11-24 14:31:49,transfers,csv,error
