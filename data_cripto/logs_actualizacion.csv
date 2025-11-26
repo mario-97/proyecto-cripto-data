@@ -911,3 +911,4 @@ fecha_hora,archivo,formato,status
 2025-11-26 21:38:07,top_holders,csv,guardado
 2025-11-26 21:38:13,top_holders,xlsx,guardado
 2025-11-26 21:38:16,top_holders,parquet,guardado
+2025-11-26 21:39:00,top_flow,csv,guardado
