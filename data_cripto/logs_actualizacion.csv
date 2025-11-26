@@ -587,3 +587,5 @@ fecha_hora,archivo,formato,status
 2025-11-26 03:00:12,btc_hashrate,csv,guardado
 2025-11-26 03:00:12,top_holders,csv,error
 2025-11-26 03:00:21,btc_hashrate,xlsx,guardado
+2025-11-26 03:00:22,top_holders,xlsx,guardado
+2025-11-26 03:00:24,btc_hashrate,parquet,guardado
