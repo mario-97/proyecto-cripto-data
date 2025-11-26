@@ -809,3 +809,4 @@ fecha_hora,archivo,formato,status
 2025-11-26 21:14:08,top_holders,csv,guardado
 2025-11-26 21:14:15,top_holders,xlsx,guardado
 2025-11-26 21:14:17,top_holders,parquet,guardado
+2025-11-26 21:14:57,top_flow,csv,guardado
