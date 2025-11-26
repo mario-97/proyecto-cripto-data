@@ -582,3 +582,4 @@ fecha_hora,archivo,formato,status
 2025-11-26 02:59:32,transfers,xlsx,guardado
 2025-11-26 02:59:34,transfers,parquet,guardado
 2025-11-26 03:00:02,btc_sopr,csv,guardado
+2025-11-26 03:00:06,btc_sopr,xlsx,guardado
