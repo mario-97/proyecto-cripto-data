@@ -26,3 +26,4 @@ fecha_hora,archivo,formato,status
 2025-11-26 18:05:07,top_holders,csv,guardado
 2025-11-26 18:05:15,top_holders,xlsx,guardado
 2025-11-26 18:05:17,top_holders,parquet,guardado
+2025-11-26 18:06:21,top_flow,csv,guardado
