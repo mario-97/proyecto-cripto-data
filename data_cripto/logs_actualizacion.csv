@@ -988,3 +988,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 16:55:40,transfers,parquet,guardado
 2025-11-27 16:56:06,top_flow,csv,guardado
 2025-11-27 16:56:09,top_flow,xlsx,guardado
+2025-11-27 16:56:11,top_flow,parquet,guardado
