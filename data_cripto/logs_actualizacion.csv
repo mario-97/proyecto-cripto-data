@@ -908,3 +908,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 16:35:32,top_volume,parquet,guardado
 2025-11-27 16:35:33,transfers,xlsx,error
 2025-11-27 16:35:35,transfers,parquet,guardado
+2025-11-27 16:37:15,top_holders,csv,guardado
