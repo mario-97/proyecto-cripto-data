@@ -2005,3 +2005,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 20:59:21,top_volume,parquet,guardado
 2025-11-27 21:01:14,top_holders,csv,guardado
 2025-11-27 21:01:21,top_holders,xlsx,guardado
+2025-11-27 21:01:23,top_holders,parquet,guardado
