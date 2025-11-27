@@ -3,3 +3,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 02:23:45,top_holders,xlsx,guardado
 2025-11-27 02:23:47,top_holders,parquet,guardado
 2025-11-27 02:24:28,top_flow,csv,guardado
+2025-11-27 02:24:30,top_flow,xlsx,guardado
