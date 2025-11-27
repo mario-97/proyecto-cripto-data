@@ -600,3 +600,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 15:22:21,top_holders,xlsx,guardado
 2025-11-27 15:22:22,top_holders,parquet,guardado
 2025-11-27 15:23:15,top_flow,csv,guardado
+2025-11-27 15:23:17,top_flow,xlsx,guardado
