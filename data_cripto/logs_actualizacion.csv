@@ -1956,3 +1956,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 20:49:23,top_holders,xlsx,guardado
 2025-11-27 20:49:25,top_holders,parquet,guardado
 2025-11-27 20:50:13,top_flow,csv,guardado
+2025-11-27 20:50:15,top_flow,xlsx,guardado
