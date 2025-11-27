@@ -1719,3 +1719,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 19:52:21,top_holders,xlsx,guardado
 2025-11-27 19:52:23,top_holders,parquet,guardado
 2025-11-27 19:53:09,top_flow,csv,guardado
+2025-11-27 19:53:11,top_flow,xlsx,guardado
