@@ -1429,3 +1429,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 18:41:15,trending,parquet,guardado
 2025-11-27 18:41:17,top_volume,csv,guardado
 2025-11-27 18:41:19,top_volume,xlsx,guardado
+2025-11-27 18:41:20,top_volume,parquet,guardado
