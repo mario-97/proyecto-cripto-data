@@ -750,3 +750,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 15:58:23,top_holders,xlsx,guardado
 2025-11-27 15:58:25,top_holders,parquet,guardado
 2025-11-27 15:59:08,top_flow,csv,guardado
+2025-11-27 15:59:10,top_flow,xlsx,guardado
