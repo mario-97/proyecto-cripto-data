@@ -2011,3 +2011,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 21:02:10,top_flow,parquet,guardado
 2025-11-27 21:02:12,trending,csv,guardado
 2025-11-27 21:02:13,trending,xlsx,guardado
+2025-11-27 21:02:15,trending,parquet,guardado
