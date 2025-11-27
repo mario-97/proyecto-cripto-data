@@ -233,3 +233,4 @@ fecha_hora,archivo,formato,status
 2025-11-27 13:53:22,top_volume,csv,guardado
 2025-11-27 13:53:24,top_volume,xlsx,guardado
 2025-11-27 13:53:25,top_volume,parquet,guardado
+2025-11-27 13:55:14,top_holders,csv,guardado
