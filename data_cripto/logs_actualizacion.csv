@@ -908,3 +908,4 @@ fecha_hora,archivo,formato,status
 2025-11-28 15:47:44,transfers,csv,guardado
 2025-11-28 15:47:47,transfers,xlsx,guardado
 2025-11-28 15:47:49,transfers,parquet,guardado
+2025-11-28 15:49:27,top_holders,csv,guardado
