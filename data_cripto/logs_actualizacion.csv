@@ -640,3 +640,4 @@ fecha_hora,archivo,formato,status
 2025-11-28 14:44:22,top_flow,parquet,guardado
 2025-11-28 14:44:24,trending,csv,guardado
 2025-11-28 14:44:25,trending,xlsx,guardado
+2025-11-28 14:44:27,trending,parquet,guardado
