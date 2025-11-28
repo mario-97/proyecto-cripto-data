@@ -1215,3 +1215,4 @@ fecha_hora,archivo,formato,status
 2025-11-28 17:02:26,trending,xlsx,guardado
 2025-11-28 17:02:28,trending,parquet,guardado
 2025-11-28 17:02:30,top_volume,csv,guardado
+2025-11-28 17:02:32,top_volume,xlsx,guardado
