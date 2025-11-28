@@ -329,3 +329,4 @@ fecha_hora,archivo,formato,status
 2025-11-28 02:54:44,top_flow,csv,guardado
 2025-11-28 02:54:46,top_flow,xlsx,guardado
 2025-11-28 02:54:48,top_flow,parquet,guardado
+2025-11-28 02:54:50,trending,csv,guardado
