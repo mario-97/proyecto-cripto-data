@@ -520,3 +520,4 @@ fecha_hora,archivo,formato,status
 2025-11-28 03:36:57,top_volume,parquet,guardado
 2025-11-28 03:38:50,top_holders,csv,guardado
 2025-11-28 03:38:56,top_holders,xlsx,guardado
+2025-11-28 03:38:58,top_holders,parquet,guardado
