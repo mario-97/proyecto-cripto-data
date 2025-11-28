@@ -420,3 +420,4 @@ fecha_hora,archivo,formato,status
 2025-11-28 13:50:34,trending,xlsx,guardado
 2025-11-28 13:50:36,trending,parquet,guardado
 2025-11-28 13:50:38,top_volume,csv,guardado
+2025-11-28 13:50:40,top_volume,xlsx,guardado
