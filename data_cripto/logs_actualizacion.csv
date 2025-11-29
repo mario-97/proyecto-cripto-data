@@ -493,3 +493,4 @@ fecha_hora,archivo,formato,status
 2025-11-29 15:20:42,top_flow,parquet,guardado
 2025-11-29 15:20:43,trending,csv,guardado
 2025-11-29 15:20:45,trending,xlsx,guardado
+2025-11-29 15:20:46,trending,parquet,guardado
