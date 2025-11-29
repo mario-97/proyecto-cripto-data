@@ -44,3 +44,4 @@ fecha_hora,archivo,formato,status
 2025-11-29 15:51:01,trending,csv,guardado
 2025-11-29 15:51:03,trending,xlsx,guardado
 2025-11-29 15:51:04,trending,parquet,guardado
+2025-11-29 15:51:07,top_volume,csv,guardado
