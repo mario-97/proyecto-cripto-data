@@ -420,3 +420,4 @@ fecha_hora,archivo,formato,status
 2025-11-29 13:26:37,btc_price,xlsx,guardado
 2025-11-29 13:26:40,btc_price,parquet,guardado
 2025-11-29 13:27:39,top_holders,csv,guardado
+2025-11-29 13:27:43,top_holders,xlsx,guardado
