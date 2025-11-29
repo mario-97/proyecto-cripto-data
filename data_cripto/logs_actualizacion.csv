@@ -25,3 +25,4 @@ fecha_hora,archivo,formato,status
 2025-11-29 13:26:41,top_volume,parquet,guardado
 2025-11-29 13:28:40,top_holders,csv,error
 2025-11-29 13:28:47,top_holders,xlsx,error
+2025-11-29 13:28:48,top_holders,parquet,guardado
