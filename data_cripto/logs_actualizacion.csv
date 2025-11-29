@@ -658,3 +658,4 @@ fecha_hora,archivo,formato,status
 2025-11-29 14:34:31,top_flow,parquet,guardado
 2025-11-29 14:34:35,trending,csv,guardado
 2025-11-29 14:34:37,trending,xlsx,guardado
+2025-11-29 14:34:40,trending,parquet,guardado
