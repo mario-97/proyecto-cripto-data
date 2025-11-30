@@ -411,3 +411,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 23:19:57,transfers,xlsx,guardado
 2025-11-30 23:19:58,transfers,parquet,error
 2025-11-30 23:21:38,top_holders,csv,guardado
+2025-11-30 23:21:45,top_holders,xlsx,guardado
