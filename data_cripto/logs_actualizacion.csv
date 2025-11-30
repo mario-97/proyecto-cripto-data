@@ -240,3 +240,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 20:19:43,transfers,xlsx,guardado
 2025-11-30 20:19:44,transfers,parquet,guardado
 2025-11-30 20:20:07,top_flow,csv,guardado
+2025-11-30 20:20:09,top_flow,xlsx,guardado
