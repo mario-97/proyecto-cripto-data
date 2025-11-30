@@ -126,3 +126,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 04:23:58,btc_nrpl_usd,xlsx,guardado
 2025-11-30 04:24:00,btc_nrpl_usd,parquet,guardado
 2025-11-30 04:24:19,btc_price,csv,guardado
+2025-11-30 04:24:22,btc_price,xlsx,guardado
