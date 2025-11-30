@@ -868,3 +868,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 19:59:07,btc_sopr,parquet,guardado
 2025-11-30 20:01:51,top_holders,csv,guardado
 2025-11-30 20:01:55,top_holders,xlsx,guardado
+2025-11-30 20:01:59,top_holders,parquet,guardado
