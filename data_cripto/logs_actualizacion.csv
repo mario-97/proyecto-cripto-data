@@ -865,3 +865,4 @@ fecha_hora,archivo,formato,status
 2025-11-29 15:22:37,top_volume,parquet,guardado
 2025-11-30 19:59:00,btc_sopr,csv,guardado
 2025-11-30 19:59:03,btc_sopr,xlsx,guardado
+2025-11-30 19:59:07,btc_sopr,parquet,guardado
