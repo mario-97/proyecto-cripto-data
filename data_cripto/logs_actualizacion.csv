@@ -60,3 +60,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 21:55:35,top_volume,xlsx,guardado
 2025-11-30 21:55:37,top_volume,parquet,error
 2025-11-30 21:57:37,top_holders,csv,guardado
+2025-11-30 21:57:43,top_holders,xlsx,guardado
