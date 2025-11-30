@@ -870,3 +870,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 20:01:55,top_holders,xlsx,guardado
 2025-11-30 20:01:59,top_holders,parquet,guardado
 2025-11-30 20:02:39,top_flow,csv,guardado
+2025-11-30 20:02:42,top_flow,xlsx,guardado
