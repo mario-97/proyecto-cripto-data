@@ -43,3 +43,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 21:52:26,top_flow,parquet,guardado
 2025-11-30 21:52:29,trending,csv,guardado
 2025-11-30 21:52:30,trending,xlsx,error
+2025-11-30 21:52:31,trending,parquet,guardado
