@@ -157,3 +157,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 19:59:32,trending,parquet,guardado
 2025-11-30 19:59:35,transfers,csv,guardado
 2025-11-30 19:59:35,top_volume,csv,guardado
+2025-11-30 19:59:38,top_volume,xlsx,guardado
