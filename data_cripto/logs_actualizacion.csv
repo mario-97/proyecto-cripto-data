@@ -1209,3 +1209,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 22:33:12,top_volume,xlsx,guardado
 2025-11-30 22:33:15,top_volume,parquet,guardado
 2025-11-30 22:34:55,top_holders,csv,guardado
+2025-11-30 22:35:00,top_holders,xlsx,guardado
