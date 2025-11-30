@@ -165,3 +165,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 04:32:37,top_volume,xlsx,guardado
 2025-11-30 04:32:38,top_volume,parquet,guardado
 2025-11-30 04:32:45,transfers,csv,guardado
+2025-11-30 04:32:49,transfers,xlsx,guardado
