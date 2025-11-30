@@ -1405,3 +1405,4 @@ fecha_hora,archivo,formato,status
 2025-11-30 23:30:06,trending,parquet,guardado
 2025-11-30 23:30:12,top_volume,csv,guardado
 2025-11-30 23:30:15,top_volume,xlsx,guardado
+2025-11-30 23:30:18,top_volume,parquet,guardado
