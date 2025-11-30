@@ -1,3 +1,4 @@
 fecha_hora,archivo,formato,status
 2025-11-30 01:00:04,btc_price,csv,guardado
 2025-11-30 01:00:09,btc_price,xlsx,guardado
+2025-11-30 01:00:11,btc_price,parquet,guardado
