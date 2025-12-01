@@ -703,3 +703,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 00:34:54,top_flow,parquet,guardado
 2025-12-01 00:34:57,trending,csv,guardado
 2025-12-01 00:34:58,trending,xlsx,error
+2025-12-01 00:34:59,trending,parquet,guardado
