@@ -818,3 +818,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 01:00:23,btc_nupl,csv,guardado
 2025-12-01 01:00:25,btc_nupl,xlsx,guardado
 2025-12-01 01:00:27,btc_nupl,parquet,guardado
+2025-12-01 01:00:37,top_holders,csv,guardado
