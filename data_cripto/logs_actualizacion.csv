@@ -868,3 +868,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 01:10:50,top_volume,parquet,guardado
 2025-12-01 01:12:37,top_holders,csv,guardado
 2025-12-01 01:12:44,top_holders,xlsx,guardado
+2025-12-01 01:12:45,top_holders,parquet,guardado
