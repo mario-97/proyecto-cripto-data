@@ -913,3 +913,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 01:22:35,top_flow,parquet,guardado
 2025-12-01 01:22:37,trending,csv,guardado
 2025-12-01 01:22:39,trending,xlsx,guardado
+2025-12-01 01:22:40,trending,parquet,guardado
