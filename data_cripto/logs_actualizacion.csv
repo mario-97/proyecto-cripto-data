@@ -1593,3 +1593,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 00:35:04,top_volume,xlsx,error
 2025-12-01 00:35:07,top_volume,parquet,guardado
 2025-12-01 00:36:21,top_holders,csv,guardado
+2025-12-01 00:36:26,top_holders,xlsx,guardado
