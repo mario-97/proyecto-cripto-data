@@ -1309,3 +1309,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 02:55:39,trending,parquet,guardado
 2025-12-01 02:55:41,top_volume,csv,guardado
 2025-12-01 02:55:43,top_volume,xlsx,guardado
+2025-12-01 02:55:44,top_volume,parquet,guardado
