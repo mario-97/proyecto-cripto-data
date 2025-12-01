@@ -1581,3 +1581,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 00:33:25,top_holders,xlsx,guardado
 2025-12-01 00:33:29,top_holders,parquet,guardado
 2025-12-01 00:34:14,logs_twitter_bot,csv,guardado
+2025-12-01 00:34:16,logs_twitter_bot,xlsx,guardado
