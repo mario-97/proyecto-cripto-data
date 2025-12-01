@@ -1585,3 +1585,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 00:34:19,logs_twitter_bot,parquet,guardado
 2025-12-01 00:34:39,top_flow,csv,guardado
 2025-12-01 00:34:42,top_flow,xlsx,guardado
+2025-12-01 00:34:45,top_flow,parquet,guardado
