@@ -708,3 +708,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 00:35:03,top_volume,xlsx,error
 2025-12-01 00:35:05,top_volume,parquet,guardado
 2025-12-01 00:36:39,top_holders,csv,guardado
+2025-12-01 00:36:45,top_holders,xlsx,guardado
