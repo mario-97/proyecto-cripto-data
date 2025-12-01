@@ -2038,3 +2038,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 02:28:42,top_flow,parquet,guardado
 2025-12-01 02:28:48,trending,csv,guardado
 2025-12-01 02:28:50,trending,xlsx,guardado
+2025-12-01 02:28:54,trending,parquet,guardado
