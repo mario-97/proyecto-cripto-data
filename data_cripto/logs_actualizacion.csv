@@ -598,3 +598,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 00:04:52,top_volume,parquet,guardado
 2025-12-01 00:06:38,top_holders,csv,guardado
 2025-12-01 00:06:46,top_holders,xlsx,guardado
+2025-12-01 00:06:48,top_holders,parquet,guardado
