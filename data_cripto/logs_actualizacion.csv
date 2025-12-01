@@ -2017,3 +2017,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 02:20:26,top_volume,parquet,guardado
 2025-12-01 02:22:11,top_holders,csv,guardado
 2025-12-01 02:22:16,top_holders,xlsx,guardado
+2025-12-01 02:22:20,top_holders,parquet,guardado
