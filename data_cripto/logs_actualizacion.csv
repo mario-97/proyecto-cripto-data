@@ -1978,3 +1978,5 @@ fecha_hora,archivo,formato,status
 2025-12-01 02:11:32,top_volume,parquet,guardado
 2025-12-01 02:13:07,logs_twitter_bot,csv,guardado
 2025-12-01 02:13:09,logs_twitter_bot,xlsx,guardado
+2025-12-01 02:13:10,top_holders,csv,guardado
+2025-12-01 02:13:13,logs_twitter_bot,parquet,guardado
