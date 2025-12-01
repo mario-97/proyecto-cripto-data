@@ -1048,3 +1048,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 01:55:35,top_flow,parquet,guardado
 2025-12-01 01:55:37,trending,csv,guardado
 2025-12-01 01:55:38,trending,xlsx,guardado
+2025-12-01 01:55:40,trending,parquet,guardado
