@@ -1981,3 +1981,4 @@ fecha_hora,archivo,formato,status
 2025-12-01 02:13:10,top_holders,csv,guardado
 2025-12-01 02:13:13,logs_twitter_bot,parquet,guardado
 2025-12-01 02:13:15,top_holders,xlsx,guardado
+2025-12-01 02:13:19,top_holders,parquet,guardado
