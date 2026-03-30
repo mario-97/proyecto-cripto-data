@@ -1,33 +1,33 @@
 estadistica,valor,token_symbol
 Precio inicial,101257.16,btc
-Precio promedio a 270 días,264895.0899223682,btc
-Mediana a 270 días,195419.0426252054,btc
-Moda,205790.0,btc
-Desviación estándar,240290.68799138744,btc
-Rango (min - max),12266.89 - 3245691.42,btc
-Percentil 5 (escenario de riesgo),53291.49796046772,btc
-Percentil 95 (escenario alcista),722038.2706785639,btc
+Precio promedio a 270 días,270042.99222315225,btc
+Mediana a 270 días,200543.87130357831,btc
+Moda,93340.0,btc
+Desviación estándar,242541.93631102747,btc
+Rango (min - max),5693.54 - 5122883.61,btc
+Percentil 5 (escenario de riesgo),55804.45879228471,btc
+Percentil 95 (escenario alcista),713733.8359992212,btc
 Precio inicial,3278.149169921875,eth
-Precio promedio a 270 días,5397.244534016268,eth
-Mediana a 270 días,4106.831843116734,eth
-Moda,1870.0,eth
-Desviación estándar,4650.845716404599,eth
-Rango (min - max),162.22 - 89765.52,eth
-Percentil 5 (escenario de riesgo),1244.7808321542886,eth
-Percentil 95 (escenario alcista),13862.426967470534,eth
+Precio promedio a 270 días,5319.325621616483,eth
+Mediana a 270 días,4063.7483542698246,eth
+Moda,1760.0,eth
+Desviación estándar,4439.316546900154,eth
+Rango (min - max),234.03 - 54914.18,eth
+Percentil 5 (escenario de riesgo),1206.1508536218125,eth
+Percentil 95 (escenario alcista),13748.064874936576,eth
 Precio inicial,14.730270385742188,link
-Precio promedio a 270 días,37.01012466325379,link
-Mediana a 270 días,21.257433567753445,link
+Precio promedio a 270 días,35.79888403457077,link
+Mediana a 270 días,21.001315403942755,link
 Moda,10.0,link
-Desviación estándar,53.45585099476454,link
-Rango (min - max),0.36 - 2085.63,link
-Percentil 5 (escenario de riesgo),3.884688942506262,link
-Percentil 95 (escenario alcista),119.60004872308879,link
+Desviación estándar,50.54785011964768,link
+Rango (min - max),0.48 - 1087.87,link
+Percentil 5 (escenario de riesgo),3.6417802055532555,link
+Percentil 95 (escenario alcista),115.16830347346117,link
 Precio inicial,197.25534057617188,aave
-Precio promedio a 270 días,6.064788081498626e+62,aave
-Mediana a 270 días,-833249275975265.2,aave
-Moda,-1.166232486207181e+67,aave
-Desviación estándar,1.7435688118661895e+65,aave
-Rango (min - max),-11662324862071810437754712274472224714324110332722214922559588139008.00 - 12374597082525386990105752510719902463063735496177728615938078539776.00,aave
-Percentil 5 (escenario de riesgo),-7.79550166779982e+49,aave
-Percentil 95 (escenario alcista),1.2994451187735557e+50,aave
+Precio promedio a 270 días,3.29062168056999e+67,aave
+Mediana a 270 días,8.641771953440037e+20,aave
+Moda,-1.2539302883483952e+64,aave
+Desviación estándar,3.287028803871715e+69,aave
+Rango (min - max),-12539302883483952322352125397981747929116172725182355548619669504.00 - 328719172107940679827640419631476501825827860482693591774398484764950528.00,aave
+Percentil 5 (escenario de riesgo),-7.555491009525916e+49,aave
+Percentil 95 (escenario alcista),8.548346917843058e+49,aave
